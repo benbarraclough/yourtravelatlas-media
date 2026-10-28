@@ -173,6 +173,21 @@ def main():
     if not files:
         print("No post JSON found; no media generated.")
         return
+    # Prevent reusing photographs between issues, not only inside one carousel.
+    all_paths = sorted(INPUT.glob("*.json"))
+    used_images = {}
+    used_issues = {}
+    for path in all_paths:
+        post = json.loads(path.read_text(encoding="utf-8"))
+        number = post.get("issue")
+        if number in used_issues:
+            raise ValueError(f"Issue {number} duplicated by {path} and {used_issues[number]}")
+        used_issues[number] = path
+        for slide in post.get("slides", []):
+            src = slide.get("image_url", "").split("?")[0]
+            if src in used_images:
+                raise ValueError(f"Photo reused between issues: {path} and {used_images[src]}")
+            used_images[src] = path
     for path in files:
         build(path)
 
