@@ -1,0 +1,93 @@
+{
+  "issue": 2,
+  "slug": "002-namibia",
+  "status": "rendered-not-published",
+  "caption": "Namibia isn't a one-landscape kind of journey. 🌍\n\nThink sculpted dunes, abandoned-looking tree silhouettes, giant granite formations, desert meeting the Atlantic, flamingos along coastal wetlands and the possibility of seeing elephants in the wild.\n\nThis is a country for a slow, carefully planned road trip — not a quick checklist. Give the long distances the time they deserve and allow separate days for Sossusvlei, the coast, Spitzkoppe and Etosha.\n\nFor Deadvlei, check the latest 4×4 or shuttle rules before your visit; they've changed. In national parks, stay on permitted routes, keep a safe distance from wildlife and follow ranger guidance.\n\nWhich part would you make the centre of your trip? Save this for a future Namibia adventure. 🗺️\n\nPhotography: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #Sossusvlei #Spitzkoppe #Etosha #AdventureTravel",
+  "fact_sources": [
+    "https://www.meft.gov.na/frequently-asked-questions/what-are-the-entry-permit-requirements-for-the-various-parks-in-namibia-/136/",
+    "https://visitnamibia.com.na/2022/03/western-coastal-region/",
+    "https://www.sossusvlei.org/attractions/sossusvlei/",
+    "https://www.etoshanationalpark.org/park-info/rules-and-regulations",
+    "https://www.namibian.com.na/ngurare-rejects-sossusvlei-access-limits/"
+  ],
+  "slides": [
+    {
+      "subject": "Spitzkoppe arch framing rocky desert mountains",
+      "source_page": "https://unsplash.com/photos/rock-arch-framing-desert-mountains-under-a-blue-sky-tlstiEIJxLY",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "alt": "Rock arch framing rugged granite desert mountains under clear blue sky at Spitzkoppe.",
+      "file": "01.jpg",
+      "source_sha256": "6d733853431999c9f10ccbe58abe97b0866403b81e94d1cdd05b716fad24745d",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Sossusvlei orange sand dunes",
+      "source_page": "https://unsplash.com/photos/a-group-of-sand-dunes-with-a-blue-sky-in-the-background-0s9oD70F-l4",
+      "photographer": "Andrew Svk",
+      "license": "Unsplash License",
+      "alt": "Towering orange sand dunes contrasting with a clear blue sky in Sossusvlei.",
+      "file": "02.jpg",
+      "source_sha256": "e85fab334af0b897368635f7264c16b99f2b4b293ec15b72842a58eea7719217",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Deadvlei clay pan and ancient-looking dead trees",
+      "source_page": "https://unsplash.com/photos/dry-desert-landscape-with-dead-trees-and-sand-dunes-jjhgZoMXB-w",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "alt": "Sculptural dead tree silhouettes on the pale clay pan at Deadvlei, Namibia.",
+      "file": "03.jpg",
+      "source_sha256": "6d9b52fa411ad03d9af22217a567bd2186d1a687f1c7d9dd60e1d2c7aee82ed5",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Swakopmund dunes meeting distant Atlantic water",
+      "source_page": "https://unsplash.com/photos/a-large-expanse-of-sand-dunes-with-a-body-of-water-in-the-distance-4Dh8UIH6C9s",
+      "photographer": "David Lartey",
+      "license": "Unsplash License",
+      "alt": "Dunes stretching toward water near Swakopmund on Namibia's Atlantic coast.",
+      "file": "04.jpg",
+      "source_sha256": "7524ea32ae22d8123eefd399a6b44d61d10311c0e780f8a557d8bf8c2a506940",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Elephant on dry terrain in Etosha National Park",
+      "source_page": "https://unsplash.com/photos/an-elephant-walks-through-a-dusty-dry-landscape-ioQi7Zj02OE",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "alt": "Elephant walking through a dry landscape in Etosha National Park.",
+      "file": "05.jpg",
+      "source_sha256": "3cc8b644d9f0c4c82de1ac22259ab94d5cb83a632ce2962a7a698894b42b38d8",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Three lesser flamingos standing in water at Walvis Bay",
+      "source_page": "https://unsplash.com/photos/three-pink-flamingos-standing-on-body-of-water-Scva2YaBP8s",
+      "photographer": "Patrick Duvanel",
+      "license": "Unsplash License",
+      "alt": "Three pink flamingos wading in shallow water at Walvis Bay, Namibia.",
+      "file": "06.jpg",
+      "source_sha256": "8eb3050fb68558b20eb93b82993cddaf792b5b8b4fbc71f82c0ded11c32e1e65",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ]
+}
