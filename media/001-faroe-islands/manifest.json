@@ -1,0 +1,80 @@
+{
+  "issue": 1,
+  "slug": "001-faroe-islands",
+  "status": "rendered-not-published",
+  "caption": "Some places make you want to slow the whole trip down. The Faroe Islands are one of them. 🌿\n\nImagine winding roads between green cliffs, tiny turf-roofed villages, Atlantic weather rolling in and views you have to walk a little to earn.\n\nThese five places each offer a different side of the islands: the dramatic headlands of Kalsoy, the quiet valley at Saksun, the colourful village of Gjógv, Tjørnuvík's sweeping bay and the remarkable cliffs around Trælanípa.\n\nBuild in spare time for weather and ferries. Some popular hikes have access fees or restrictions, and farmland and village paths aren't public shortcuts — always check official local guidance before setting out.\n\nWhich stop would you explore first? Save these ideas for a slower island adventure. 🗺️\n\nPhotography: Marc Zimmer, Polina Kuzovkova, Annie Spratt, Himmel S & Sebastian Boring / Unsplash.\n\n#YourTravelAtlas #FaroeIslands #SlowTravel #Kalsoy #Saksun #Gjogv #AtlanticAdventure",
+  "fact_sources": [
+    "https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees",
+    "https://visitfaroeislands.com/en/whatson/places/place/kallurin0",
+    "https://visitfaroeislands.com/en/whatson/places/place/tralanipan1",
+    "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/saksun-tjornuvik",
+    "https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0"
+  ],
+  "slides": [
+    {
+      "subject": "Kallur lighthouse and Kalsoy headland",
+      "source_page": "https://unsplash.com/photos/green-mountain-surrounded-by-ocean-under-cloudy-sky-during-daytime-w6ax4z6x_Rs",
+      "photographer": "Marc Zimmer",
+      "license": "Unsplash License",
+      "alt": "Steep green coastal cliffs around Kallur Lighthouse on Kalsoy, Faroe Islands.",
+      "file": "01.jpg",
+      "source_sha256": "c49430f16e71ac22049e1496ed4c12c960775f2f441393e52abac6facbfa1d59",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Saksun turf-roofed houses and lagoon",
+      "source_page": "https://unsplash.com/photos/white-and-brown-house-near-body-of-water-and-mountain-during-daytime-lzrDNWOfLBk",
+      "photographer": "Polina Kuzovkova",
+      "license": "Unsplash License",
+      "alt": "Turf-roofed houses in the green, misty Saksun valley near its lagoon.",
+      "file": "02.jpg",
+      "source_sha256": "7d7d39cd6d75351212fed09c95f7179c2239ae43355cb087f416c6c5e8b11f6c",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Gjógv village from above",
+      "source_page": "https://unsplash.com/photos/top-view-photography-of-village-UH0-PfiCIaE",
+      "photographer": "Annie Spratt",
+      "license": "Unsplash License",
+      "alt": "Aerial view of clustered village houses and valley at Gjógv, Eysturoy.",
+      "file": "03.jpg",
+      "source_sha256": "4bfaccd82c87e2973a6c0a7cfba0af37ac01fa217b930ef0222f3c48684cba0b",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Tjørnuvík coastal bay and mountain village",
+      "source_page": "https://unsplash.com/photos/a-coastal-village-nestled-at-the-foot-of-a-mountain-jGvCuZcdbsA",
+      "photographer": "Himmel S",
+      "license": "Unsplash License",
+      "alt": "Aerial landscape of Tjørnuvík village and its bay below enormous green mountains.",
+      "file": "04.jpg",
+      "source_sha256": "00050572f994f34ec5a62e52a6afa8dee5ee9774ff0c8eda3578dd65b1aea9c4",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Trælanípa cliff viewpoint by Sørvágsvatn",
+      "source_page": "https://unsplash.com/photos/aerial-photographyof-cliff-near-body-of-water-IAy26gokUII",
+      "photographer": "Sebastian Boring",
+      "license": "Unsplash License",
+      "alt": "Jagged cliffs on the Atlantic coast near Trælanípa and Lake Sørvágsvatn.",
+      "file": "05.jpg",
+      "source_sha256": "78e30a5d79bb26eb79965e8233978d01c02e21b726bd1887479095cf4d24c686",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ]
+}
