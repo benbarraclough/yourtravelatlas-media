@@ -1,10 +1,10 @@
 {
   "issue": 1,
   "slug": "001-faroe-islands",
-  "category": "NORTH ATLANTIC  /  WILD ISLANDS",
-  "headline": "THE FAROE ISLANDS BEYOND THE ROAD",
-  "dek": "Five places for a wild Atlantic escape",
-  "caption": "Some places make you want to slow the whole trip down. The Faroe Islands are one of them. 🌿\n\nImagine winding roads between green cliffs, tiny turf-roofed villages, Atlantic weather rolling in and views you have to walk a little to earn.\n\nThese five places each offer a different side of the islands: the dramatic headlands of Kalsoy, the quiet valley at Saksun, the colourful village of Gjógv, Tjørnuvík's sweeping bay and the remarkable cliffs around Trælanípa.\n\nBuild in spare time for weather and ferries. Some popular hikes have access fees or restrictions, and farmland and village paths aren't public shortcuts — always check official local guidance before setting out.\n\nWhich stop would you explore first? Save these ideas for a slower island adventure. 🗺️\n\nPhotography: Marc Zimmer, Polina Kuzovkova, Annie Spratt, Himmel S & Sebastian Boring / Unsplash.\n\n#YourTravelAtlas #FaroeIslands #SlowTravel #Kalsoy #Saksun #Gjogv #AtlanticAdventure",
+  "category": "FAROE ISLANDS  /  NORTH ATLANTIC",
+  "headline": "FIVE PLACES FOR A WILD ATLANTIC ESCAPE",
+  "dek": "Remote villages, sea cliffs and island days",
+  "caption": "The Faroe Islands are for the journeys you don't rush. 🌿\n\nImagine tiny villages dwarfed by enormous green cliffs, winding roads with ocean views, and stops where the weather changes the whole scene in minutes.\n\nSwipe through five very different places: the headland at Kallur, Saksun's tidal lagoon, colourful Gjógv, the horseshoe bay at Tjørnuvík and the towering cliffs at Trælanípa.\n\nThese are spread across more than one island, so think of them as inspiration for a longer trip rather than one day's route. Leave room for ferries, changing weather and unplanned detours; check local hiking arrangements as you plan.\n\nSave this for a North Atlantic escape. 🗺️\n\nPhotography: Marc Zimmer, Polina Kuzovkova, Annie Spratt, Himmel S & Sebastian Boring / Unsplash.\n\n#YourTravelAtlas #FaroeIslands #NorthAtlantic #SlowTravel #Kalsoy #Saksun #TravelIdeas",
   "fact_sources": [
     "https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees",
     "https://visitfaroeislands.com/en/whatson/places/place/kallurin0",
@@ -12,7 +12,7 @@
     "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/saksun-tjornuvik",
     "https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0"
   ],
-  "editorial_note": "Regional discovery post; places are on multiple islands. Not described as a single walking trail or day route. Free license and location verified against original Unsplash source pages 2026-10-28.",
+  "editorial_note": "Regional discovery post; places are on multiple islands. Not described as a single walking trail or day route. Free license and location verified against original Unsplash source pages 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics.",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1517751243320-0cc45ec82da7?auto=format&fit=crop&w=2000&q=88",
@@ -23,7 +23,7 @@
       "alt": "Steep green coastal cliffs around Kallur Lighthouse on Kalsoy, Faroe Islands.",
       "kicker": "ICONIC CLIFF VIEWS",
       "heading": "KALLUR LIGHTHOUSE",
-      "tip": "Kalsoy is a ferry trip away; check local trail access.",
+      "tip": "See the lighthouse on Kalsoy's dramatic green headland.",
       "focus_y": 0.48
     },
     {
@@ -35,7 +35,7 @@
       "alt": "Turf-roofed houses in the green, misty Saksun valley near its lagoon.",
       "kicker": "SLOW VILLAGE STOPS",
       "heading": "SAKSUN",
-      "tip": "A quiet valley worth exploring respectfully on foot.",
+      "tip": "Discover turf-roofed houses beside a tidal lagoon.",
       "focus_y": 0.52
     },
     {
@@ -47,7 +47,7 @@
       "alt": "Aerial view of clustered village houses and valley at Gjógv, Eysturoy.",
       "kicker": "COASTAL VILLAGE LIFE",
       "heading": "GJÓGV",
-      "tip": "Stay longer than a photo stop and discover its setting.",
+      "tip": "Explore a colourful village above its natural harbour.",
       "focus_y": 0.5
     },
     {
@@ -59,7 +59,7 @@
       "alt": "Aerial landscape of Tjørnuvík village and its bay below enormous green mountains.",
       "kicker": "THE REMOTE COAST",
       "heading": "TJØRNUVÍK",
-      "tip": "A bay, steep hillsides and a different pace of life.",
+      "tip": "Watch Atlantic waves curl into a mountain-framed bay.",
       "focus_y": 0.5
     },
     {
@@ -71,7 +71,7 @@
       "alt": "Jagged cliffs on the Atlantic coast near Trælanípa and Lake Sørvágsvatn.",
       "kicker": "THE CLIFF WALK",
       "heading": "TRÆLANÍPA",
-      "tip": "Check paid access rules and keep back from cliff edges.",
+      "tip": "Hike to cliffs where a lake seems to hover above the sea.",
       "focus_y": 0.5
     }
   ]
