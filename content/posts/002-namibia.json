@@ -4,15 +4,19 @@
   "category": "NAMIBIA  /  WILD ROAD TRIPS",
   "headline": "SIX VERY DIFFERENT REASONS TO EXPLORE",
   "dek": "Dunes, wildlife and the Atlantic coast",
-  "caption": "What would a road trip across Namibia actually look like? 🌍\n\nOne day you're dwarfed by the granite formations at Spitzkoppe. Another you're walking between enormous red dunes, then standing on the surreal white clay pan of Deadvlei. On the Atlantic coast, the desert meets the ocean — and further inland, Etosha offers a very different kind of adventure.\n\nThese six scenes aren't one short route: Namibia's distances are substantial. Think of them as the ingredients for a longer journey, and build in time for the places you most want to experience.\n\nIf wildlife, otherworldly landscapes and wide-open roads are your thing, save Namibia to your travel ideas. 🗺️\n\nPhotography: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #Sossusvlei #Spitzkoppe #Etosha #TravelInspiration",
+  "caption": "Namibia is the sort of road trip you start plotting in a group chat. 🌍\n\nPicture a day among Spitzkoppe's granite arches, an early-morning dune climb around Sossusvlei, and the surreal walk across Deadvlei's pale clay pan.\n\nThen switch up the adventure entirely: try sandboarding near Swakopmund, take a self-drive safari through Etosha's waterhole country, and join a guided kayaking trip on the Walvis Bay coast.\n\nSix very different experiences — and they're spread across big distances, so build a longer itinerary rather than rushing between them. Wildlife sightings depend on the conditions and luck; park rules and road access should be checked before travelling.\n\nWhich two would you put first on your road trip? Send it to your travel crew. 🗺️\n\nPhotos: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #Deadvlei #Sossusvlei #Etosha #AdventureTravel",
   "fact_sources": [
     "https://www.meft.gov.na/frequently-asked-questions/what-are-the-entry-permit-requirements-for-the-various-parks-in-namibia-/136/",
     "https://visitnamibia.com.na/2022/03/western-coastal-region/",
     "https://www.sossusvlei.org/attractions/sossusvlei/",
     "https://www.etoshanationalpark.org/park-info/rules-and-regulations",
-    "https://www.namibian.com.na/ngurare-rejects-sossusvlei-access-limits/"
+    "https://www.namibian.com.na/ngurare-rejects-sossusvlei-access-limits/",
+    "https://visitnamibia.com.na/2015/02/10-extreme-ways-to-experience-namibia/",
+    "https://www.sossusvlei.org/attractions/deadvlei/",
+    "https://visitnamibia.com.na/sand-boarding/",
+    "https://visitnamibia.com.na/kayaking/"
   ],
-  "editorial_note": "Regional inspiration for a multi-day/multi-region road trip, not a geographically ordered itinerary. Wildlife sightings never guaranteed. Each image source tagged its stated location and was free to use under Unsplash license 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics.",
+  "editorial_note": "Regional inspiration for a multi-day/multi-region road trip, not a geographically ordered itinerary. Wildlife sightings never guaranteed. Each image source tagged its stated location and was free to use under Unsplash license 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics. 2026-10-28 v3: concrete, sourced traveler activities; group-shareable itinerary options; reject empty sightseeing statements.",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1772289935544-e5e6cf99adc9?auto=format&fit=crop&w=2000&q=88",
@@ -24,7 +28,8 @@
       "kicker": "ROCK & OPEN SKY",
       "heading": "SPITZKOPPE",
       "tip": "Walk beneath granite arches and rocky desert peaks.",
-      "focus_y": 0.45
+      "focus_y": 0.45,
+      "activity_source": "https://visitnamibia.com.na/2015/02/10-extreme-ways-to-experience-namibia/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1639402479478-f5e7881c0ccc?auto=format&fit=crop&w=2000&q=88",
@@ -35,8 +40,9 @@
       "alt": "Towering orange sand dunes contrasting with a clear blue sky in Sossusvlei.",
       "kicker": "THE GREAT DUNES",
       "heading": "SOSSUSVLEI",
-      "tip": "Explore immense rust-red dunes shaped by the wind.",
-      "focus_y": 0.5
+      "tip": "Climb a giant red dune in the early morning light.",
+      "focus_y": 0.5,
+      "activity_source": "https://www.sossusvlei.org/attractions/sossusvlei/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1772289093656-7cd1a82b951f?auto=format&fit=crop&w=2000&q=88",
@@ -47,8 +53,9 @@
       "alt": "Sculptural dead tree silhouettes on the pale clay pan at Deadvlei, Namibia.",
       "kicker": "AN UNREAL LANDSCAPE",
       "heading": "DEADVLEI",
-      "tip": "Cross a pale clay pan dotted with skeletal trees.",
-      "focus_y": 0.5
+      "tip": "Walk across the sandy approach to a pan of dark, skeletal trees.",
+      "focus_y": 0.5,
+      "activity_source": "https://www.sossusvlei.org/attractions/deadvlei/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1693673607660-734c6ca3cd5a?auto=format&fit=crop&w=2000&q=88",
@@ -59,8 +66,9 @@
       "alt": "Dunes stretching toward water near Swakopmund on Namibia's Atlantic coast.",
       "kicker": "DESERT MEETS OCEAN",
       "heading": "SWAKOPMUND",
-      "tip": "See vast desert dunes stretch towards the Atlantic.",
-      "focus_y": 0.5
+      "tip": "Try a guided sandboarding session on the dunes by the Atlantic.",
+      "focus_y": 0.5,
+      "activity_source": "https://visitnamibia.com.na/sand-boarding/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1772290776285-8f346ac0153f?auto=format&fit=crop&w=2000&q=88",
@@ -71,8 +79,9 @@
       "alt": "Elephant walking through a dry landscape in Etosha National Park.",
       "kicker": "WILDLIFE ENCOUNTERS",
       "heading": "ETOSHA",
-      "tip": "Look for elephants and wildlife around Etosha's waterholes.",
-      "focus_y": 0.5
+      "tip": "Plan a self-drive safari between Etosha's wildlife waterholes.",
+      "focus_y": 0.5,
+      "activity_source": "https://www.etoshanationalpark.org/park-info/rules-and-regulations"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1572847951653-37313aea5231?auto=format&fit=crop&w=2000&q=88",
@@ -83,8 +92,11 @@
       "alt": "Three pink flamingos wading in shallow water at Walvis Bay, Namibia.",
       "kicker": "A COASTAL CONTRAST",
       "heading": "WALVIS BAY",
-      "tip": "Watch flamingos wade through coastal lagoons.",
-      "focus_y": 0.5
+      "tip": "Take a guided kayak trip along the lagoon and look for flamingos.",
+      "focus_y": 0.5,
+      "activity_source": "https://visitnamibia.com.na/kayaking/"
     }
-  ]
+  ],
+  "editorial_intent": "A genuinely varied, longer Namibia road trip concept linking granite landscape, dune hikes, Deadvlei, coastal sandboarding, Etosha safari and a kayaking day in Walvis Bay.",
+  "share_reason": "An adventure-loving group could share this to build a longer drive combining desert sports, wildlife, ocean and dramatic scenery."
 }

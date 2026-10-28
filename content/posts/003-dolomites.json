@@ -4,14 +4,20 @@
   "category": "THE ITALIAN DOLOMITES  /  MOUNTAIN ESCAPES",
   "headline": "SIX SCENES WORTH THE JOURNEY",
   "dek": "Lakes, villages, alpine roads and hiking",
-  "caption": "A trip to the Dolomites can be so much more than one famous viewpoint. 🇮🇹\n\nImagine mornings beside turquoise lakes, drives beneath huge limestone peaks, quiet alpine villages and hiking trails that open up into enormous mountain views.\n\nThis collection crosses several parts of the Italian Dolomites, from Val Gardena and Val di Funes to Lake Braies and Tre Cime. To actually enjoy it, choose one or two bases and give the different areas proper time instead of trying to see everything in a day.\n\nSome mountain lifts, parking and access arrangements are seasonal, so build your route around the dates you're travelling.\n\nSave these six scenes for your future mountain escape. 🗺️\n\nPhotography: Finge Holden, Andrei R. Popescu, Alan Jiang, Pascal Debrunner & Luka Verč / Unsplash.\n\n#YourTravelAtlas #Dolomites #ItalyTravel #ValGardena #TreCime #MountainEscape #TravelIdeas",
+  "caption": "A mountain escape with friends where every day feels different. ⛰️\n\nStart with a walk around turquoise Lago di Braies (or a rowing boat in season). Take a scenic drive across Passo Gardena. Wander the meadows and village paths around Val di Funes, then choose a proper hiking day: cable car from Ortisei and the Seceda ridge, or the classic circular route around Tre Cime.\n\nFor a quieter outing near Val Gardena, there's a signed trail from Selva through Plans de Frea towards a small chapel on the pass.\n\nThese stops are across different valleys; don't treat this as a one-day itinerary. Pick one or two bases and give the hikes their own days. Check lifts, trail conditions and seasonal lake/road access before booking.\n\nWho would be in your Dolomites group chat? Save this for your next hiking escape. 🗺️\n\nPhotos: Finge Holden, Andrei R. Popescu, Alan Jiang, Pascal Debrunner & Luka Verč / Unsplash.\n\n#YourTravelAtlas #Dolomites #ItalyHiking #ValGardena #Seceda #TreCime #TravelIdeas",
   "fact_sources": [
     "https://www.suedtirol.info/en/en/experiences-and-events/nature/lakes-and-natural-pools/pragser-wildsee-lake",
     "https://www.valgardena.it/en/bus-schedule/",
     "https://www.drei-zinnen.bz/en/ticket",
-    "https://auronzo.info/en/how-to-get-to-the-tre-cime-di-lavaredo/"
+    "https://auronzo.info/en/how-to-get-to-the-tre-cime-di-lavaredo/",
+    "https://www.prags.bz/en",
+    "https://www.valgardena.it/en/summer-holidays-dolomites/mobility-val-gardena/dolomites-passes/",
+    "https://www.valgardena.it/en/outdoor/base/outdoor/from-resciesa-to-malga-zannes-along-the-adolf-munkel-trail/811459512/",
+    "https://www.valgardena.it/en/summer-holidays-dolomites/trekking/seceda/the-way-to-the-seceda/",
+    "https://www.dreizinnen.com/en/activity/summer-walk-around-the-drei-zinnen-tre-cime-three-peaks-_569",
+    "https://www.valgardena.it/en/outdoor/base/outdoor/excursion-selva-passo-gardena/64883707/"
   ],
-  "editorial_note": "Regional inspiration, not a promised one-day driving route. Images explicitly licensed and location-tagged on their original Unsplash pages as of 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics.",
+  "editorial_note": "Regional inspiration, not a promised one-day driving route. Images explicitly licensed and location-tagged on their original Unsplash pages as of 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics. 2026-10-28 v3: concrete, sourced traveler activities; group-shareable itinerary options; reject empty sightseeing statements.",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1692085450034-3e7b05de83ed?auto=format&fit=crop&w=2000&q=88",
@@ -23,7 +29,8 @@
       "heading": "Lago di Braies",
       "kicker": "A LAKE WORTH A DETOUR",
       "tip": "Explore a turquoise lake framed by huge rocky peaks.",
-      "focus_y": 0.5
+      "focus_y": 0.5,
+      "activity_source": "https://www.prags.bz/en"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1730283207724-12fb6efc4890?auto=format&fit=crop&w=2000&q=88",
@@ -34,8 +41,9 @@
       "alt": "View of dramatic mountains from a car on Passo Gardena, South Tyrol.",
       "heading": "PASSO GARDENA",
       "kicker": "THE SCENIC DRIVE",
-      "tip": "Follow a winding alpine pass beneath limestone towers.",
-      "focus_y": 0.5
+      "tip": "Drive the mountain pass from Val Gardena towards Alta Badia.",
+      "focus_y": 0.5,
+      "activity_source": "https://www.valgardena.it/en/summer-holidays-dolomites/mobility-val-gardena/dolomites-passes/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1768836470664-1c10c144f105?auto=format&fit=crop&w=2000&q=88",
@@ -46,8 +54,9 @@
       "alt": "Traditional village buildings and church below dramatic peaks in Val di Funes.",
       "heading": "VAL DI FUNES",
       "kicker": "THE VILLAGE DAY",
-      "tip": "Wander through meadows and villages beneath jagged peaks.",
-      "focus_y": 0.52
+      "tip": "Wander the village paths before hiking beneath the Odle peaks.",
+      "focus_y": 0.52,
+      "activity_source": "https://www.valgardena.it/en/outdoor/base/outdoor/from-resciesa-to-malga-zannes-along-the-adolf-munkel-trail/811459512/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1695821449523-6929f4e61b6f?auto=format&fit=crop&w=2000&q=88",
@@ -58,8 +67,9 @@
       "alt": "Hiker looking across the sweeping Seceda ridgeline in the Dolomites.",
       "heading": "SECEDA",
       "kicker": "THE BIG HIKE",
-      "tip": "Walk a high ridgeline with sweeping mountain views.",
-      "focus_y": 0.48
+      "tip": "Ride up from Ortisei, then hike the spectacular Seceda ridgeline.",
+      "focus_y": 0.48,
+      "activity_source": "https://www.valgardena.it/en/summer-holidays-dolomites/trekking/seceda/the-way-to-the-seceda/"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1761027436967-63584b301a77?auto=format&fit=crop&w=2000&q=88",
@@ -70,8 +80,9 @@
       "alt": "Green hiking trail winding toward sharp limestone peaks at Tre Cime di Lavaredo.",
       "heading": "TRE CIME",
       "kicker": "THE ADVENTURE DAY",
-      "tip": "Take a trail towards towering limestone spires.",
-      "focus_y": 0.55
+      "tip": "Follow the circular trail around Tre Cime and its mountain huts.",
+      "focus_y": 0.55,
+      "activity_source": "https://www.dreizinnen.com/en/activity/summer-walk-around-the-drei-zinnen-tre-cime-three-peaks-_569"
     },
     {
       "image_url": "https://images.unsplash.com/photo-1730299135463-ff4b5d2c2622?auto=format&fit=crop&w=2000&q=88",
@@ -82,8 +93,11 @@
       "alt": "Small mountain chapel set among green alpine slopes at Passo Gardena.",
       "heading": "THE SMALL STOPS",
       "kicker": "DON'T RUSH HOME",
-      "tip": "Discover tiny mountain chapels beneath dramatic rock walls.",
-      "focus_y": 0.55
+      "tip": "Hike up from Selva through Plans de Frea to the alpine chapel.",
+      "focus_y": 0.55,
+      "activity_source": "https://www.valgardena.it/en/outdoor/base/outdoor/excursion-selva-passo-gardena/64883707/"
     }
-  ]
+  ],
+  "editorial_intent": "A shareable mountain break built from different day experiences: lakeside loop, scenic pass, village/valley walk, Seceda ridgeline, Tre Cime circuit, chapel hike.",
+  "share_reason": "A hiking/road-trip pair or small group could pick one or two bases and divide the mountain experiences into distinct days."
 }
