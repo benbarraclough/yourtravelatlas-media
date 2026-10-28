@@ -1,0 +1,92 @@
+{
+  "issue": 3,
+  "slug": "003-dolomites",
+  "status": "rendered-not-published",
+  "caption": "The Dolomites are made for taking your time. 🇮🇹\n\nThink turquoise lakes, winding mountain passes, quiet valley villages and those huge rocky ridgelines you recognise instantly.\n\nRather than ticking off every viewpoint in one day, make it a proper escape: spend time around Val Gardena for Seceda and the passes, then give the eastern Dolomites their own days for Lake Braies and Tre Cime.\n\nA car offers flexibility, but buses and lifts serve many popular areas. Some summer access and parking arrangements need booking, so check the current official information before you travel.\n\nWhich experience would you build a trip around? Save this for your future Italy itinerary. 🗺️\n\nPhotography: Finge Holden, Andrei R. Popescu, Alan Jiang, Pascal Debrunner & Luka Verč / Unsplash.\n\n#YourTravelAtlas #Dolomites #ItalyTravel #MountainEscape #ValGardena #TreCime #TravelInspiration",
+  "fact_sources": [
+    "https://www.suedtirol.info/en/en/experiences-and-events/nature/lakes-and-natural-pools/pragser-wildsee-lake",
+    "https://www.valgardena.it/en/bus-schedule/",
+    "https://www.drei-zinnen.bz/en/ticket",
+    "https://auronzo.info/en/how-to-get-to-the-tre-cime-di-lavaredo/"
+  ],
+  "slides": [
+    {
+      "subject": "Lago di Braies – vivid turquoise alpine lake",
+      "source_page": "https://unsplash.com/photos/a-lake-surrounded-by-mountains-and-trees-NwJ-bJk4VRE",
+      "photographer": "Finge Holden",
+      "license": "Unsplash License",
+      "alt": "High view of turquoise Lago di Braies below pale Dolomite cliffs.",
+      "file": "01.jpg",
+      "source_sha256": "ce4bbdd0e4ae7079281827ab332aa978d175dc1a7a6148d765712ba2eaa1cdd7",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Passo Gardena seen from a vehicle",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-mountain-range-from-inside-a-car-826hw9OkA3k",
+      "photographer": "Andrei R. Popescu",
+      "license": "Unsplash License",
+      "alt": "View of dramatic mountains from a car on Passo Gardena, South Tyrol.",
+      "file": "02.jpg",
+      "source_sha256": "cbcd4a4a8dd732f93d0ec165bcf266f2ce97d3ae7a8cbf8450484e8ca1a97723",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Val di Funes mountain village and church",
+      "source_page": "https://unsplash.com/photos/a-picturesque-village-nestled-below-jagged-mountain-peaks-1xEWjGT8A5s",
+      "photographer": "Alan Jiang",
+      "license": "Unsplash License",
+      "alt": "Traditional village buildings and church below dramatic peaks in Val di Funes.",
+      "file": "03.jpg",
+      "source_sha256": "10792cfba75876556b4f88f90cd13d970d804fd47ed90e70ca60abc5cfbdb5a8",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Seceda ridgeline with a hiker",
+      "source_page": "https://unsplash.com/photos/a-person-standing-on-top-of-a-mountain-NoXTFZbhyBY",
+      "photographer": "Pascal Debrunner",
+      "license": "Unsplash License",
+      "alt": "Hiker looking across the sweeping Seceda ridgeline in the Dolomites.",
+      "file": "04.jpg",
+      "source_sha256": "f6d4899fef2e4fda0ff6f8b86e7643af8459656ad6ff2967ce6bfaa9e7e1dc20",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Tre Cime approach hiking path and jagged peaks",
+      "source_page": "https://unsplash.com/photos/a-winding-mountain-path-leads-to-jagged-peaks-XSer9s3A3B4",
+      "photographer": "Luka Verč",
+      "license": "Unsplash License",
+      "alt": "Green hiking trail winding toward sharp limestone peaks at Tre Cime di Lavaredo.",
+      "file": "05.jpg",
+      "source_sha256": "84a3f556edc42d92f2cb69bf46ad3ecf7fc42adebc9ff034a4a16c27bd1037d4",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Alpine chapel at Passo Gardena",
+      "source_page": "https://unsplash.com/photos/a-small-church-in-the-middle-of-a-mountain-range-3_IueMOZOaI",
+      "photographer": "Andrei R. Popescu",
+      "license": "Unsplash License",
+      "alt": "Small mountain chapel set among green alpine slopes at Passo Gardena.",
+      "file": "06.jpg",
+      "source_sha256": "0a50f94df61ac9d9be672fc74a631ad4a5a85015115bef07fc5f668142050340",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ]
+}
