@@ -171,7 +171,7 @@ def build(path):
             raise ValueError(f"Slide {i+1} has no purposeful on-image text")
         # Supporting-slide space is for the experience, not logistics/safety notices.
         if i > 0 and re.search(
-            r"\\b(check (?:local|current|seasonal|paid|trail|access|road|rules)|keep your distance|keep back|stay in your vehicle|access restrictions?|permits?|safety warnings?)\\b",
+            r"\b(check (?:local|current|seasonal|paid|trail|access|road|rules)|keep your distance|keep back|stay in your vehicle|access restrictions?|permits?|safety warnings?)\b",
             item["tip"], flags=re.IGNORECASE,
         ):
             raise ValueError(f"Slide {i+1}: move safety or access warnings to caption: {item['tip']}")
