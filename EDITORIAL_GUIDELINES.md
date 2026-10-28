@@ -103,6 +103,13 @@ Consider Instagram Reels when there is verified, properly licensed and accuratel
 - Validate the entire rendered output visually: especially cover headline hierarchy, text legibility, spelling, photography, crop, on-screen relevance, no warning captions. Correct and regenerate if it falls short.
 - Prefer not publishing to publishing inaccurate, inappropriate, repetitive or low-quality material.
 
+## Metricool Free plan — hard publishing budget
+- Metricool Free permits **at most 20 actually published posts per calendar month** for this connected brand. A carousel counts as one post and a Reel counts as one post. Published content in the same month counts across connected networks, so do not cross-post through Metricool without deducting the additional network publication(s). Drafts do not count before publication, but they must be tracked to avoid double-booking.
+- Enforce a more conservative **internal cap of 16 total posts per calendar month**, across all types (feed/carousel/Reels/Stories) and networks: count **already published + pending automatically scheduled + any planned new posts**, and include manual posts visible in the account or planner. This preserves four slots of buffer under the provider's 20-post limit.
+- **Reels replace carousel slots; never add extra posts to the current cadence.** For a two-week trial, use five carousels and one Reel, subject to the same budget.
+- Before every creation/update and after every scheduler run, query Metricool's planned posts for the **entire target month** and inspect published posts/counter or available analytics. If monthly published count cannot be verified, use the strict 16-slot allocation and avoid scheduling when any uncertainty risks exceeding the allowance. Never rely on Metricool rejecting excess posts at publication time.
+- Never upgrade, pay, buy credits, or increase publication volume beyond the free entitlement. Platform limits may change; review official Metricool Free plan guidance if the connection reports discrepancies.
+
 ## Technical process and zero-extra-cost constraint
 1. Inspect the connected Metricool account/queued posts and the GitHub repo content archive. Review the recent portfolio for diversity of travel energy, geography, accessibility and experience type, and consult reference publications for lessons on original ideas, shareability and usefulness.
 2. Select a differentiated premise, define travel effort and an easy/approachable alternative when applicable, a friend-worthy share hook and plausible experiences, research facts, sources, photos and traveller questions before choosing design. Reject underwhelming concepts before production even when factually safe.
