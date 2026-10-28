@@ -1,6 +1,6 @@
 # Your Travel Atlas — Media Pipeline
 
-**Editorial source of truth:** [Your Travel Atlas — Editorial Playbook v2](EDITORIAL_GUIDELINES.md). Read it before creating or changing issues.
+**Editorial source of truth:** [Your Travel Atlas — Editorial Playbook (latest)](EDITORIAL_GUIDELINES.md). Read it before creating or changing issues.
 
 A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www.instagram.com/yourtravelatlas/).
 
