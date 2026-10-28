@@ -2,13 +2,15 @@
   "issue": 1,
   "slug": "001-faroe-islands",
   "status": "rendered-not-published",
-  "caption": "The Faroe Islands are for the journeys you don't rush. 🌿\n\nImagine tiny villages dwarfed by enormous green cliffs, winding roads with ocean views, and stops where the weather changes the whole scene in minutes.\n\nSwipe through five very different places: the headland at Kallur, Saksun's tidal lagoon, colourful Gjógv, the horseshoe bay at Tjørnuvík and the towering cliffs at Trælanípa.\n\nThese are spread across more than one island, so think of them as inspiration for a longer trip rather than one day's route. Leave room for ferries, changing weather and unplanned detours; check local hiking arrangements as you plan.\n\nSave this for a North Atlantic escape. 🗺️\n\nPhotography: Marc Zimmer, Polina Kuzovkova, Annie Spratt, Himmel S & Sebastian Boring / Unsplash.\n\n#YourTravelAtlas #FaroeIslands #NorthAtlantic #SlowTravel #Kalsoy #Saksun #TravelIdeas",
+  "caption": "A trip to the Faroe Islands is more than a collection of viewpoints. It's the kind of adventure you plan with friends who don't mind getting a bit windswept. 🌊\n\n⛴ Ferry over to Kalsoy, then take the hike from Trøllanes towards Kallur lighthouse.\n🥾 Follow the old village path between Saksun and Tjørnuvík, looking down over the lagoon.\n🏡 Walk the historic trail from Funningur to Gjógv before finding its natural sea gorge.\n🏄 Make time for Tjørnuvík's beach and Atlantic surf.\n🌿 Take the Trælanípa cliff walk for that extraordinary lake-above-the-ocean view.\n\nThese are separate outings on different islands, not a one-day route. Check ferry schedules, weather and any hiking fees or guided-access arrangements before planning.\n\nSend this to the friend you'd take along, or save it for a wild Atlantic escape. 🗺️\n\nPhotos: Marc Zimmer, Polina Kuzovkova, Annie Spratt, Himmel S & Sebastian Boring / Unsplash.\n\n#YourTravelAtlas #FaroeIslands #Kallur #Tjornuvik #Gjogv #SlowTravel #IslandAdventure",
   "fact_sources": [
     "https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees",
     "https://visitfaroeislands.com/en/whatson/places/place/kallurin0",
     "https://visitfaroeislands.com/en/whatson/places/place/tralanipan1",
     "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/saksun-tjornuvik",
-    "https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0"
+    "https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0",
+    "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/funningur-gjogv",
+    "https://visitfaroeislands.com/en/whatson/places/place/tjornuvik0"
   ],
   "slides": [
     {
@@ -18,7 +20,7 @@
       "license": "Unsplash License",
       "alt": "Steep green coastal cliffs around Kallur Lighthouse on Kalsoy, Faroe Islands.",
       "file": "01.jpg",
-      "source_sha256": "f2815a7dd3126c34f77b2371aa128dfb31a9ed14548ce113abd5e7e7d84226d3",
+      "source_sha256": "c49430f16e71ac22049e1496ed4c12c960775f2f441393e52abac6facbfa1d59",
       "size": [
         1080,
         1350
