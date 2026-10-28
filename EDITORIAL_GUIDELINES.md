@@ -1,4 +1,4 @@
-# Your Travel Atlas — Editorial Playbook v2
+# Your Travel Atlas — Editorial Playbook v3
 
 Owner's instructions consolidated 28 October 2026. This document is the editorial source of truth for the @yourtravelatlas automated publication. Existing code checks are guardrails, not a substitute for editorial judgment.
 
@@ -14,6 +14,33 @@ Before browsing pictures or writing a caption, define:
 - **Original angle:** How is this noticeably different from posts already published or scheduled?
 Post formats, pace, number of images, amount of explanatory text, location mix, cover wording and caption treatment should follow the premise — NOT a rigid "six reasons" template.
 
+## The imagination-to-itinerary test — NEW HARD GATE
+
+The reader should not merely think “nice view”. They should be able to say to a friend: **“We could actually do this: here's the adventure.”** The publication exists to spark real plans and shared experiences.
+
+For every concept, write a short unpublished editorial decision before asset sourcing:
+- **Intent:** a specific trip idea, activity, city experience, journey or carefully chosen wider collection
+- **Reader scenario:** who could do it together, how it might fit a weekend, day, longer trip or open-ended wishlist (never invent timings)
+- **Share hook:** a genuine reason to send it to a friend, e.g., “this is our next road trip / hiking day / group trip”
+- **At least three distinct concrete experiences** that can be pictured and reasonably planned, and for each, a research-backed reference
+- **Originality:** what it adds to the grid that previous issues have not
+- **Final editorial verdict:** publish only when it is compelling and useful, not because assets are available. REJECT a premise or a photo set that feels generic, repetitive, incoherent or low on genuine inspiration. Rework from scratch or choose an entirely different premise; don't spend effort polishing a weak concept.
+
+**Every supporting slide needs an experience:** a particular action, route, excursion, local ritual or itinerary-building idea, not an instruction to merely “see”, “watch”, “discover” or “explore” the depicted landmark. Action verbs are fine when attached to a real, evocative, specific plan, e.g. “Ferry to Kalsoy, then walk from Trøllanes to the lighthouse”; “Take the cable car from Ortisei, then hike the Seceda ridge”; “Book a guided kayak trip on the Walvis Bay lagoon.” Avoid invented tours, travel times, operators, seasonality, route continuity or promises of sightings. Research the exact feasibility of suggestions before publishing. A page can be more general when its creative premise warrants it, but should still convey real experiences, not empty commands.
+
+A post may be gorgeous and technically valid yet still **not good enough**. That is a reason to reject it. Neither deadline nor scheduled cadence overrides this editorial gate. Never require user approval for each post, but pause/skip if it cannot meet the standards.
+
+## Editorial reference desk and competitive learning
+Research analogous editorial accounts and sources periodically, and before planning materially new formats. Learn a principle, not copy an individual post or someone else's photograph without rights:
+- **hospitality.guide** — discovery-led subjects, photogenic themed collections; improve on this by pairing them with real traveller-useful, location-specific activities.
+- **Accidentally Wes Anderson** ([official](https://accidentallywesanderson.com/faqs/)) — recognisable curatorial visual signature + unusual real places; adapt consistent taste, not their signature look or photographer assets.
+- **LOST iN** ([about](https://lostin.com/pages/about)) — local-character city and neighbourhood immersion, culture and design; useful model for city deep dives rather than obvious attractions.
+- **Along Dusty Roads** ([about](https://www.alongdustyroads.com/about-us), [road trips](https://www.alongdustyroads.com/the-road-trip-guides)) — actionable, honest slow-travel and itinerary detail; extract the *trip design* approach without borrowing copy or implying firsthand travel.
+- **Atlas Obscura** ([about](https://www.atlasobscura.com/about.html)) — genuine curiosity and unusual experiences; verify practical access and traveller appeal rather than relying on novelty alone.
+- **@travelanddestinations / @beautifuldestinations** — strong photography and global discovery; never be an anonymous repost feed, and distinguish Your Travel Atlas through deeper experiences.
+
+When reviewing a comparable account, answer: What is its post's promise? Why would someone share it with a friend? What specific info helps transform interest into an adventure? What can we do more intelligently and originally? Do not invent views, engagement statistics or social performance without reliable data.
+
 ## Cover — visual hierarchy (non-negotiable)
 1. Top: **YOUR TRAVEL ATLAS** masthead.
 2. Small: **ISSUE 001** (increment globally) plus compact slide count (01/06).
@@ -27,9 +54,9 @@ All post and slide text should use correct destination names, readable type, app
 
 ## Supporting slides
 - Usually 5–8 total high-quality slides (minimum 5, Instagram maximum 10 in this pipeline). Each photo must be independently compelling and add a different place, perspective, activity or atmosphere. Choose deliberate variety, not a batch of lookalike photos.
-- Each slide should explain a distinct part of the travel idea, ideally with **place/experience name** and a short, concrete, evocative **what it is / what you can see or do** description.
+- Each slide should explain a distinct part of the travel idea, ideally with **place/experience name** and a short, concrete, vivid, **specific experience a traveller could actually plan**, backed by research; show a plausible adventure, journey or activity, not just a generic description.
 - Examples: "Walk across a white clay pan dotted with dark, skeletal trees" rather than "Check 4×4 access"; "Explore the coast where the desert meets the Atlantic" rather than "See how quickly the landscape changes"; "Hike above the valley to a dramatic limestone ridge" rather than "Plan a day for this hike."
-- **No health-and-safety instructions, access restrictions, generic filler or scolding in the small on-image description.** Relevant material access/safety requirements belong in the researched caption or a separate practical planning note when genuinely significant.
+- **No health-and-safety instructions, access restrictions, generic filler, empty 'see this / watch that' commands or scolding in the small on-image description.** Relevant material access/safety requirements belong in the researched caption or a separate practical planning note when genuinely significant.
 - Information should paint a travel experience, not mainly list facts such as elevation, dates or foreign language place names unless unusually relevant. Do not imply wildlife is guaranteed.
 - Vary slide structure intelligently when the premise calls for maps, timelines, itinerary stops, practical planning panels or city/neighbourhood details; these must be accurate and aesthetically consistent.
 - Never use promotional images, logos, watermarks or near-duplicate scenes.
@@ -56,9 +83,9 @@ Consider Instagram Reels when there is verified, properly licensed and accuratel
 - Prefer not publishing to publishing inaccurate, inappropriate, repetitive or low-quality material.
 
 ## Technical process and zero-extra-cost constraint
-1. Inspect the connected Metricool account/queued posts and the GitHub repo content archive.
-2. Select a differentiated premise and research facts, sources, photos and traveller questions before choosing design.
-3. Storyboard every planned slide and write exact on-screen title, place label and useful descriptive copy.
+1. Inspect the connected Metricool account/queued posts and the GitHub repo content archive. Review current reference publications for lessons on original ideas, shareability and travel usefulness.
+2. Select a differentiated premise, define a friend-worthy share hook and plausible experiences, research facts, sources, photos and traveller questions before choosing design. Reject underwhelming concepts before production even when factually safe.
+3. Storyboard every planned slide and write exact on-screen title, place label and a concrete, research-supported adventure/activity idea. Reconsider the entire post when the story is not inspiring, differentiated and shareable.
 4. Prepare the issue JSON in \`content/posts/\` following existing examples, using unique issue number and distinct 5–10 high-resolution licensed photos.
 5. GitHub Actions renders actual JPEGs through \`scripts/render.py\` into \`media/<slug>/\` and writes \`manifest.json\`. Diagnose failures; never publish from a manifest alone.
 6. Inspect all actual images, check that facts and licences remain credible, then publish through existing Metricool draft UUID or create next slot. Use final public raw GitHub image URLs; media-alt-text matches images, \`draft: false\`, \`autoPublish: true\`.
