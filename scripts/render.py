@@ -138,7 +138,7 @@ def draw_slide(source, post, item, index, count):
     else:
         d.text((72, 990), item["kicker"].upper(), font=font(25), fill=muted)
         y = text_block(d, item["heading"].upper(), (68, 1040), font(62, SERIF), 935, spacing=6, max_lines=2)
-        text_block(d, item["tip"], (72, y + 10), font(27, REGULAR), 915, spacing=5, max_lines=2)
+        text_block(d, item["tip"], (72, y + 10), font(34, REGULAR), 915, spacing=8, max_lines=2)
 
     d.line((72, 1276, 1008, 1276), fill=(245, 242, 233, 170), width=2)
     d.text((72, 1293), "WANDER FURTHER   /   @YOURTRAVELATLAS", font=font(17), fill=cream)
@@ -147,7 +147,7 @@ def draw_slide(source, post, item, index, count):
 
 def build(path):
     post = json.loads(path.read_text(encoding="utf-8"))
-    required = ("issue", "slug", "headline", "dek", "category", "caption", "slides", "fact_sources")
+    required = ("issue", "slug", "headline", "dek", "category", "caption", "slides", "fact_sources", "editorial_intent", "share_reason")
     for key in required:
         if not post.get(key):
             raise ValueError(f"Missing {key} in {path}")
@@ -157,6 +157,10 @@ def build(path):
         raise ValueError("Each carousel must contain 5–10 intentional slides")
     if len(post["fact_sources"]) < 2:
         raise ValueError("Fact-check provenance needs at least two credible source URLs")
+    if len(post["editorial_intent"].strip()) < 45 or len(post["share_reason"].strip()) < 45:
+        raise ValueError("An issue needs a specific editorial intent and reason friends would share it")
+    if any(not url.startswith("https://") for url in post["fact_sources"]):
+        raise ValueError("Fact sources must have inspectable HTTPS URLs")
     urls = [x["image_url"].split("?")[0] for x in post["slides"]]
     subjects = [x["subject"].strip().casefold() for x in post["slides"]]
     if len(set(urls)) != len(urls) or len(set(subjects)) != len(subjects):
@@ -169,6 +173,8 @@ def build(path):
     for i, item in enumerate(post["slides"]):
         if i > 0 and not all(item.get(k) for k in ("kicker", "heading", "tip")):
             raise ValueError(f"Slide {i+1} has no purposeful on-image text")
+        if not item.get("activity_source", "").startswith("https://") or item["activity_source"] not in post["fact_sources"]:
+            raise ValueError(f"Slide {i+1} lacks a traceable, verified activity source")
         # Supporting-slide space is for the experience, not logistics/safety notices.
         if i > 0 and re.search(
             r"\b(check (?:local|current|seasonal|paid|trail|access|road|rules)|keep your distance|keep back|stay in your vehicle|access restrictions?|permits?|safety warnings?)\b",
@@ -182,12 +188,13 @@ def build(path):
         slide = draw_slide(photo, post, item, i, len(post["slides"]))
         filename = f"{i+1:02d}.jpg"
         slide.save(out / filename, "JPEG", quality=91, optimize=True, subsampling=0)
-        evidence.append({k: item[k] for k in ("subject", "source_page", "photographer", "license", "alt")})
+        evidence.append({k: item[k] for k in ("subject", "source_page", "photographer", "license", "alt", "activity_source")})
         evidence[-1].update({"file": filename, "source_sha256": sha, "size": list(SIZE)})
         print(f"  {filename} - {item['subject']}", flush=True)
     manifest = {
         "issue": post["issue"], "slug": post["slug"], "status": "rendered-not-published",
         "caption": post["caption"], "fact_sources": post["fact_sources"],
+        "editorial_intent": post["editorial_intent"], "share_reason": post["share_reason"],
         "slides": evidence,
     }
     (out / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
