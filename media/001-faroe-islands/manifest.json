@@ -12,6 +12,8 @@
     "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/funningur-gjogv",
     "https://visitfaroeislands.com/en/whatson/places/place/tjornuvik0"
   ],
+  "editorial_intent": "A five-scene multi-island wild Atlantic escape with ferry, village walks, surfing coastline and a guided coastal hike; not a one-day route.",
+  "share_reason": "A group of friends can send this to plan a hiking-and-coast trip with a ferry day, village paths and a surf stop.",
   "slides": [
     {
       "subject": "Kallur lighthouse and Kalsoy headland",
@@ -19,8 +21,9 @@
       "photographer": "Marc Zimmer",
       "license": "Unsplash License",
       "alt": "Steep green coastal cliffs around Kallur Lighthouse on Kalsoy, Faroe Islands.",
+      "activity_source": "https://visitfaroeislands.com/en/whatson/places/place/kallurin0",
       "file": "01.jpg",
-      "source_sha256": "c49430f16e71ac22049e1496ed4c12c960775f2f441393e52abac6facbfa1d59",
+      "source_sha256": "f2815a7dd3126c34f77b2371aa128dfb31a9ed14548ce113abd5e7e7d84226d3",
       "size": [
         1080,
         1350
@@ -32,6 +35,7 @@
       "photographer": "Polina Kuzovkova",
       "license": "Unsplash License",
       "alt": "Turf-roofed houses in the green, misty Saksun valley near its lagoon.",
+      "activity_source": "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/saksun-tjornuvik",
       "file": "02.jpg",
       "source_sha256": "7d7d39cd6d75351212fed09c95f7179c2239ae43355cb087f416c6c5e8b11f6c",
       "size": [
@@ -45,6 +49,7 @@
       "photographer": "Annie Spratt",
       "license": "Unsplash License",
       "alt": "Aerial view of clustered village houses and valley at Gjógv, Eysturoy.",
+      "activity_source": "https://visitfaroeislands.com/en/whatson/hiking/hikeplain/funningur-gjogv",
       "file": "03.jpg",
       "source_sha256": "4bfaccd82c87e2973a6c0a7cfba0af37ac01fa217b930ef0222f3c48684cba0b",
       "size": [
@@ -58,6 +63,7 @@
       "photographer": "Himmel S",
       "license": "Unsplash License",
       "alt": "Aerial landscape of Tjørnuvík village and its bay below enormous green mountains.",
+      "activity_source": "https://visitfaroeislands.com/en/whatson/places/place/tjornuvik0",
       "file": "04.jpg",
       "source_sha256": "00050572f994f34ec5a62e52a6afa8dee5ee9774ff0c8eda3578dd65b1aea9c4",
       "size": [
@@ -71,6 +77,7 @@
       "photographer": "Sebastian Boring",
       "license": "Unsplash License",
       "alt": "Jagged cliffs on the Atlantic coast near Trælanípa and Lake Sørvágsvatn.",
+      "activity_source": "https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees",
       "file": "05.jpg",
       "source_sha256": "78e30a5d79bb26eb79965e8233978d01c02e21b726bd1887479095cf4d24c686",
       "size": [
