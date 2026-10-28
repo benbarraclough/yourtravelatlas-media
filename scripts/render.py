@@ -105,15 +105,36 @@ def draw_slide(source, post, item, index, count):
     muted = (215, 218, 211, 255)
     d.text((72, 62), "YOUR TRAVEL ATLAS", font=font(30), fill=cream)
     d.line((72, 117, 1008, 117), fill=cream, width=2)
-    d.text((72, 145), f"FIELD NOTES   /   ISSUE {post['issue']:03d}", font=font(23, REGULAR), fill=cream)
+    d.text((72, 145), f"ISSUE {post['issue']:03d}", font=font(23, REGULAR), fill=cream)
     d.text((905, 145), f"{index+1:02d}/{count:02d}", font=font(22), fill=cream)
 
     if index == 0:
-        d.text((72, 810), post["category"].upper(), font=font(28), fill=muted)
-        text_y = text_block(d, post["headline"].upper(), (68, 870), font(75, SERIF), 945, spacing=7, max_lines=3)
-        if text_y > 1165:
-            raise ValueError("Cover headline doesn't fit")
-        d.text((72, text_y + 3), post["dek"], font=font(29, REGULAR), fill=cream)
+        # Hero hierarchy: small location, BIG inspirational promise, small supporting line.
+        # Anchor the bottom of the hook to the same visual baseline for short and long titles.
+        headline = post["headline"].upper()
+        for size in (78, 74, 70, 66, 62, 58):
+            face = font(size, SERIF)
+            try:
+                title_lines = lines_to_fit(d, headline, face, 945, max_lines=3)
+                break
+            except ValueError:
+                continue
+        else:
+            raise ValueError(f"Cover headline too long for a beautiful layout: {headline}")
+        ascent, descent = face.getmetrics()
+        line_height = ascent + descent + 8
+        title_y = 1172 - (len(title_lines) * line_height)
+        category_y = title_y - 55
+        if category_y < 725:
+            raise ValueError("Cover typography collides with the hero image")
+        d.text((72, category_y), post["category"].upper(), font=font(28), fill=muted)
+        title_end = text_block(d, headline, (68, title_y), face, 945, spacing=8, max_lines=3)
+        if title_end > 1173:
+            raise ValueError("Cover headline exceeds its allocated space")
+        dek = lines_to_fit(d, post["dek"], font(27, REGULAR), 935, max_lines=2)
+        if len(dek) > 1:
+            raise ValueError("Cover supporting line should be concise and one line")
+        d.text((72, 1189), dek[0], font=font(27, REGULAR), fill=cream)
     else:
         d.text((72, 990), item["kicker"].upper(), font=font(25), fill=muted)
         y = text_block(d, item["heading"].upper(), (68, 1040), font(62, SERIF), 935, spacing=6, max_lines=2)
@@ -148,6 +169,12 @@ def build(path):
     for i, item in enumerate(post["slides"]):
         if i > 0 and not all(item.get(k) for k in ("kicker", "heading", "tip")):
             raise ValueError(f"Slide {i+1} has no purposeful on-image text")
+        # Supporting-slide space is for the experience, not logistics/safety notices.
+        if i > 0 and re.search(
+            r"\\b(check (?:local|current|seasonal|paid|trail|access|road|rules)|keep your distance|keep back|stay in your vehicle|access restrictions?|permits?|safety warnings?)\\b",
+            item["tip"], flags=re.IGNORECASE,
+        ):
+            raise ValueError(f"Slide {i+1}: move safety or access warnings to caption: {item['tip']}")
         photo, sha = acquire_photo(item)
         if sha in hashes:
             raise ValueError("Source photo reused in carousel")
