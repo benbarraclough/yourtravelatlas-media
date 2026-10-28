@@ -124,10 +124,27 @@ def draw_slide(source, post, item, index, count):
         ascent, descent = face.getmetrics()
         line_height = ascent + descent + 8
         title_y = 1172 - (len(title_lines) * line_height)
-        category_y = title_y - 55
-        if category_y < 725:
+        # Location must be immediately legible in the mobile feed: an explicit
+        # large destination line above a smaller trip-type / regional label.
+        category_y = title_y - 110
+        if category_y < 685:
             raise ValueError("Cover typography collides with the hero image")
-        d.text((72, category_y), post["category"].upper(), font=font(28), fill=muted)
+        location, _, genre = post["category"].partition("/")
+        location = location.strip().upper()
+        genre = genre.strip().upper()
+        location_face = None
+        for dest_size in (46, 43, 40, 37, 34, 31):
+            candidate = font(dest_size)
+            if d.textbbox((0, 0), location, font=candidate)[2] <= 935:
+                location_face = candidate
+                break
+        if location_face is None:
+            raise ValueError(f"Destination label is too long: {location}")
+        d.text((72, category_y), location, font=location_face, fill=cream)
+        if genre:
+            if d.textbbox((0, 0), genre, font=font(25, REGULAR))[2] > 935:
+                raise ValueError(f"Trip-type label is too long: {genre}")
+            d.text((72, category_y + 54), genre, font=font(25, REGULAR), fill=muted)
         title_end = text_block(d, headline, (68, title_y), face, 945, spacing=8, max_lines=3)
         if title_end > 1173:
             raise ValueError("Cover headline exceeds its allocated space")

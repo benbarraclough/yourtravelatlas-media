@@ -1,9 +1,30 @@
-# Your Travel Atlas — Editorial Playbook v3
+# Your Travel Atlas — Editorial Playbook v4
 
 Owner's instructions consolidated 28 October 2026. This document is the editorial source of truth for the @yourtravelatlas automated publication. Existing code checks are guardrails, not a substitute for editorial judgment.
 
 ## Mission and voice
 A premium-feeling, curious, original Instagram travel magazine that sparks the desire to explore. Not a sales page, affiliate funnel, destination encyclopedia, AI-photo dump, generic listicle farm or safety leaflet. Showcase places, experiences, routes and ways of travelling, whether adventurous, relaxed, urban, cultural or remote. Speak to the reader as a curious traveller, not like a tourism brochure. "WANDER FURTHER" is the consistent tagline.
+
+## Accessibility and energy balance — HARD EDITORIAL REQUIREMENT
+The publication must welcome travellers who want *easy, sociable, achievable trips*, not just physically demanding destinations. Think a weekend in a beautiful town, a gentle coastal escape, cities and neighbourhoods, good food, beaches, comfortable holidays, art, culture, easy train trips, scenic drives, spontaneous breaks and unusual low-effort discoveries as well as hardcore adventures.
+
+Target a flexible long-run mix: approximately **40% easy exploration, 35% journeys and approachable experiences, 25% demanding adventure**. This is a portfolio balance, NOT a rigid per-post classifier or a license to force ideas into a formula. Some destinations suit a mix of easy days and more demanding options; show that range. Do not assume everyone wants to hike a mountain, surf an expert wave, spend a fortnight driving remote roads or pay for expensive excursions.
+
+**Immediate corrective action:** issues 001–003 are predominantly active, outdoors-heavy regional collections. In the *next three fresh issues*, at least **two** must foreground low-friction, attainable travel (city/culture, seaside, relaxed food/design, rail or easy getaway), and **at most one** should centre a strenuous adventure. Avoid three consecutive geographically distant or expedition-style concepts. Preserve the brand and premium visual style. Suggestions should spark ideas the account owner might want to pursue too, not require heroics or deep pockets.
+
+For every future issue, record **effort level** (`relaxed` / `moderate` / `adventurous`) plus an **accessibility angle** in the JSON. Explain how an ordinary traveller could enjoy it with a friend, without presenting accessible places as boring. Do not fabricate budgets or public transport access.
+
+## Music and audio policy
+- **Static image carousels:** PUBLISH WITHOUT MUSIC. Metricool/Instagram's official API cannot auto-attach music to image carousels. Never switch to manual posting just to add sound, since no routine admin is the user's goal.
+- **Future authentic video Reels:** Select ambient, warm, atmospheric, understated instrumental or location-appropriate natural sounds only, consistent with the place and pace. Prefer real ambient sound when it adds meaning. No obnoxious or irrelevant viral songs, aggressive drops, comedy noises, forced pop soundtracks, or unlicensed re-uploaded "original" music.
+- Only use properly cleared tracks for the Instagram account and exact usage, preferably Meta Sound Collection or demonstrably owned original sound. Never infer that "trending" means licensed.
+- Metricool can add Reel audio when the connection uses Facebook Login and supported authorised audio; if unverified or unsuitable, use natural original audio or silence. No automated Reel is allowed until the rights, audio, rendered 9:16 video and auto-publish pipeline are demonstrably tested.
+- Do not ask the owner to vet ordinary music choices; skip audio when confidence is not high.
+
+## Continuous improvement without brand drift
+Make modest, evidence-backed, **backward-compatible improvements** to content research, verified imagery, accessible travel variety, on-screen copy, SEO/search keywords, alt text, metadata, usability, formatting, no-repeat tracking, quality gates and shareability whenever a clear opportunity appears. Assess free GitHub, Metricool and other safe no-cost capabilities, but never assume a new integration is required or connect/install services without the user's authorisation. Avoid subscription costs and paid APIs.
+Maintain the core masthead, numbered issue, WANDER FURTHER tagline, high-quality licensed photography, friendly editorial storytelling and free unattended workflow. Do not silently change fundamental account strategy, graphic identity, publishing frequency, account privileges or commercial policy.
+Before modifying the production pipeline, test the new behaviour and inspect rendered media, then confirm the Metricool schedule still works. Log meaningful changes in the repo's editorial guidance or README and use account analytics when there is enough data, avoiding conclusions from tiny samples. Improvements are *not* a mandate to constantly experiment at the expense of consistency.
 
 ## Every story begins with an idea
 Before browsing pictures or writing a caption, define:
@@ -44,7 +65,7 @@ When reviewing a comparable account, answer: What is its post's promise? Why wou
 ## Cover — visual hierarchy (non-negotiable)
 1. Top: **YOUR TRAVEL ATLAS** masthead.
 2. Small: **ISSUE 001** (increment globally) plus compact slide count (01/06).
-3. Small contextual label: location/region/country and the genre of travel. It must be immediately clear where the post is about.
+3. **The destination/region in its own prominent, legible bold line**, materially larger than the secondary travel-type label (e.g., NAMIBIA above WILD ROAD TRIPS). It must be instantly obvious where the post is about even when the biggest headline is an abstract travel hook.
 4. **Largest typographic element**: the most compelling, concrete promise/hook. E.g., "SIX VERY DIFFERENT REASONS TO EXPLORE" big and "NAMIBIA / ROAD TRIPS" small. Do not bury the hook in a subtitle. The headline need not be a number or list.
 5. Optional short, inviting supporting line that does not duplicate the headline.
 6. Bottom: **WANDER FURTHER / @YOURTRAVELATLAS**.
@@ -83,8 +104,8 @@ Consider Instagram Reels when there is verified, properly licensed and accuratel
 - Prefer not publishing to publishing inaccurate, inappropriate, repetitive or low-quality material.
 
 ## Technical process and zero-extra-cost constraint
-1. Inspect the connected Metricool account/queued posts and the GitHub repo content archive. Review current reference publications for lessons on original ideas, shareability and travel usefulness.
-2. Select a differentiated premise, define a friend-worthy share hook and plausible experiences, research facts, sources, photos and traveller questions before choosing design. Reject underwhelming concepts before production even when factually safe.
+1. Inspect the connected Metricool account/queued posts and the GitHub repo content archive. Review the recent portfolio for diversity of travel energy, geography, accessibility and experience type, and consult reference publications for lessons on original ideas, shareability and usefulness.
+2. Select a differentiated premise, define travel effort and an easy/approachable alternative when applicable, a friend-worthy share hook and plausible experiences, research facts, sources, photos and traveller questions before choosing design. Reject underwhelming concepts before production even when factually safe.
 3. Storyboard every planned slide and write exact on-screen title, place label and a concrete, research-supported adventure/activity idea. Reconsider the entire post when the story is not inspiring, differentiated and shareable.
 4. Prepare the issue JSON in \`content/posts/\` following existing examples, using unique issue number and distinct 5–10 high-resolution licensed photos.
 5. GitHub Actions renders actual JPEGs through \`scripts/render.py\` into \`media/<slug>/\` and writes \`manifest.json\`. Diagnose failures; never publish from a manifest alone.

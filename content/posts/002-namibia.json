@@ -4,7 +4,7 @@
   "category": "NAMIBIA  /  WILD ROAD TRIPS",
   "headline": "SIX VERY DIFFERENT REASONS TO EXPLORE",
   "dek": "Dunes, wildlife and the Atlantic coast",
-  "caption": "Namibia is the sort of road trip you start plotting in a group chat. 🌍\n\nPicture a day among Spitzkoppe's granite arches, an early-morning dune climb around Sossusvlei, and the surreal walk across Deadvlei's pale clay pan.\n\nThen switch up the adventure entirely: try sandboarding near Swakopmund, take a self-drive safari through Etosha's waterhole country, and join a guided kayaking trip on the Walvis Bay coast.\n\nSix very different experiences — and they're spread across big distances, so build a longer itinerary rather than rushing between them. Wildlife sightings depend on the conditions and luck; park rules and road access should be checked before travelling.\n\nWhich two would you put first on your road trip? Send it to your travel crew. 🗺️\n\nPhotos: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #Deadvlei #Sossusvlei #Etosha #AdventureTravel",
+  "caption": "Namibia can be a serious adventure, but your trip doesn't have to be non-stop adrenaline. 🌍\n\nThink sunrise over the dunes of Sossusvlei, the surreal clay pan at Deadvlei, extraordinary granite landscapes around Spitzkoppe and wildlife spotting in Etosha. Build a longer road trip around the experiences that appeal to you.\n\nAround Swakopmund and Walvis Bay, there's another side to the coast: relaxed lagoon outings, flamingos, kayaking and a chance to try sandboarding. Surf fans will know nearby Skeleton Bay for its incredible, rare left-hand barrels — it's an expert-only wave, not an easy holiday surf. Beginner and intermediate surf lessons are available around Swakopmund instead.\n\nThese destinations are spread far apart, so choose a few highlights and leave room for slower days. Which part would your travel friends pick first?\n\nSave this for a future Namibia trip, or share it with someone who'd love a desert-to-coast adventure. 🗺️\n\nPhotos: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #WalvisBay #SkeletonBay #Sossusvlei #TravelInspiration",
   "fact_sources": [
     "https://www.meft.gov.na/frequently-asked-questions/what-are-the-entry-permit-requirements-for-the-various-parks-in-namibia-/136/",
     "https://visitnamibia.com.na/2022/03/western-coastal-region/",
@@ -14,9 +14,13 @@
     "https://visitnamibia.com.na/2015/02/10-extreme-ways-to-experience-namibia/",
     "https://www.sossusvlei.org/attractions/deadvlei/",
     "https://visitnamibia.com.na/sand-boarding/",
-    "https://visitnamibia.com.na/kayaking/"
+    "https://visitnamibia.com.na/kayaking/",
+    "https://www.surfline.com/surf-report/skeleton-bay/59b03873a36896001c177bc1/spot-guide",
+    "https://saltyjackal.com/surf-school/",
+    "https://www.walvisbaycc.org.na/wp-content/uploads/2024/12/WALVIS-BAY-HOLIDAY-GUIDE-2024-1.pdf",
+    "https://visitnamibia.com.na/windsurfing-kite-surfing/"
   ],
-  "editorial_note": "Regional inspiration for a multi-day/multi-region road trip, not a geographically ordered itinerary. Wildlife sightings never guaranteed. Each image source tagged its stated location and was free to use under Unsplash license 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics. 2026-10-28 v3: concrete, sourced traveler activities; group-shareable itinerary options; reject empty sightseeing statements.",
+  "editorial_note": "Regional inspiration for a multi-day/multi-region road trip, not a geographically ordered itinerary. Wildlife sightings never guaranteed. Each image source tagged its stated location and was free to use under Unsplash license 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics. 2026-10-28 v3: concrete, sourced traveler activities; group-shareable itinerary options; reject empty sightseeing statements. Walvis Bay addendum: rare expert-only wave at nearby Skeleton Bay; Swakopmund has surf instruction for other levels, backed by Surfline and a local surf school, without suggesting Skeleton Bay is an ordinary casual surf activity.",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1772289935544-e5e6cf99adc9?auto=format&fit=crop&w=2000&q=88",
@@ -98,5 +102,7 @@
     }
   ],
   "editorial_intent": "A genuinely varied, longer Namibia road trip concept linking granite landscape, dune hikes, Deadvlei, coastal sandboarding, Etosha safari and a kayaking day in Walvis Bay.",
-  "share_reason": "An adventure-loving group could share this to build a longer drive combining desert sports, wildlife, ocean and dramatic scenery."
+  "share_reason": "An adventure-loving group could share this to build a longer drive combining desert sports, wildlife, ocean and dramatic scenery.",
+  "effort_level": "moderate",
+  "accessibility_angle": "People can combine low-effort coastal visits, lagoon cruises and wildlife watching with optional more adventurous sandboarding or hiking; highlight that surfing at nearby Skeleton Bay is only for experts, while Swakopmund has accessible surf instruction."
 }
