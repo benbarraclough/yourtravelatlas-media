@@ -1,10 +1,10 @@
 {
   "issue": 2,
   "slug": "002-namibia",
-  "category": "SOUTHERN AFRICA  /  WILD ROAD TRIPS",
-  "headline": "NAMIBIA IS MORE THAN A DESERT",
-  "dek": "Six very different reasons to explore",
-  "caption": "Namibia isn't a one-landscape kind of journey. 🌍\n\nThink sculpted dunes, abandoned-looking tree silhouettes, giant granite formations, desert meeting the Atlantic, flamingos along coastal wetlands and the possibility of seeing elephants in the wild.\n\nThis is a country for a slow, carefully planned road trip — not a quick checklist. Give the long distances the time they deserve and allow separate days for Sossusvlei, the coast, Spitzkoppe and Etosha.\n\nFor Deadvlei, check the latest 4×4 or shuttle rules before your visit; they've changed. In national parks, stay on permitted routes, keep a safe distance from wildlife and follow ranger guidance.\n\nWhich part would you make the centre of your trip? Save this for a future Namibia adventure. 🗺️\n\nPhotography: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #Sossusvlei #Spitzkoppe #Etosha #AdventureTravel",
+  "category": "NAMIBIA  /  WILD ROAD TRIPS",
+  "headline": "SIX VERY DIFFERENT REASONS TO EXPLORE",
+  "dek": "Dunes, wildlife and the Atlantic coast",
+  "caption": "What would a road trip across Namibia actually look like? 🌍\n\nOne day you're dwarfed by the granite formations at Spitzkoppe. Another you're walking between enormous red dunes, then standing on the surreal white clay pan of Deadvlei. On the Atlantic coast, the desert meets the ocean — and further inland, Etosha offers a very different kind of adventure.\n\nThese six scenes aren't one short route: Namibia's distances are substantial. Think of them as the ingredients for a longer journey, and build in time for the places you most want to experience.\n\nIf wildlife, otherworldly landscapes and wide-open roads are your thing, save Namibia to your travel ideas. 🗺️\n\nPhotography: NIR HIMI, Andrew Svk, David Lartey & Patrick Duvanel / Unsplash.\n\n#YourTravelAtlas #Namibia #NamibiaRoadTrip #Sossusvlei #Spitzkoppe #Etosha #TravelInspiration",
   "fact_sources": [
     "https://www.meft.gov.na/frequently-asked-questions/what-are-the-entry-permit-requirements-for-the-various-parks-in-namibia-/136/",
     "https://visitnamibia.com.na/2022/03/western-coastal-region/",
@@ -12,7 +12,7 @@
     "https://www.etoshanationalpark.org/park-info/rules-and-regulations",
     "https://www.namibian.com.na/ngurare-rejects-sossusvlei-access-limits/"
   ],
-  "editorial_note": "Regional inspiration for a multi-day/multi-region road trip, not a geographically ordered itinerary. Wildlife sightings never guaranteed. Each image source tagged its stated location and was free to use under Unsplash license 2026-10-28.",
+  "editorial_note": "Regional inspiration for a multi-day/multi-region road trip, not a geographically ordered itinerary. Wildlife sightings never guaranteed. Each image source tagged its stated location and was free to use under Unsplash license 2026-10-28. Editorial revision 2026-10-28: cover hook promoted; descriptive, aspirational slide text replaces safety/logistics.",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1772289935544-e5e6cf99adc9?auto=format&fit=crop&w=2000&q=88",
@@ -23,7 +23,7 @@
       "alt": "Rock arch framing rugged granite desert mountains under clear blue sky at Spitzkoppe.",
       "kicker": "ROCK & OPEN SKY",
       "heading": "SPITZKOPPE",
-      "tip": "Give the desert scenery the time it deserves.",
+      "tip": "Walk beneath granite arches and rocky desert peaks.",
       "focus_y": 0.45
     },
     {
@@ -35,7 +35,7 @@
       "alt": "Towering orange sand dunes contrasting with a clear blue sky in Sossusvlei.",
       "kicker": "THE GREAT DUNES",
       "heading": "SOSSUSVLEI",
-      "tip": "Early light can transform these enormous sandscapes.",
+      "tip": "Explore immense rust-red dunes shaped by the wind.",
       "focus_y": 0.5
     },
     {
@@ -47,7 +47,7 @@
       "alt": "Sculptural dead tree silhouettes on the pale clay pan at Deadvlei, Namibia.",
       "kicker": "AN UNREAL LANDSCAPE",
       "heading": "DEADVLEI",
-      "tip": "Check current 4×4 and shuttle access before visiting.",
+      "tip": "Cross a pale clay pan dotted with skeletal trees.",
       "focus_y": 0.5
     },
     {
@@ -59,7 +59,7 @@
       "alt": "Dunes stretching toward water near Swakopmund on Namibia's Atlantic coast.",
       "kicker": "DESERT MEETS OCEAN",
       "heading": "SWAKOPMUND",
-      "tip": "See how quickly the landscape changes near the coast.",
+      "tip": "See vast desert dunes stretch towards the Atlantic.",
       "focus_y": 0.5
     },
     {
@@ -71,7 +71,7 @@
       "alt": "Elephant walking through a dry landscape in Etosha National Park.",
       "kicker": "WILDLIFE ENCOUNTERS",
       "heading": "ETOSHA",
-      "tip": "Wildlife isn't guaranteed; keep your distance and stay in your vehicle.",
+      "tip": "Look for elephants and wildlife around Etosha's waterholes.",
       "focus_y": 0.5
     },
     {
@@ -83,7 +83,7 @@
       "alt": "Three pink flamingos wading in shallow water at Walvis Bay, Namibia.",
       "kicker": "A COASTAL CONTRAST",
       "heading": "WALVIS BAY",
-      "tip": "Look for birdlife around the lagoon and wetlands.",
+      "tip": "Watch flamingos wade through coastal lagoons.",
       "focus_y": 0.5
     }
   ]
