@@ -78,7 +78,7 @@ def acquire_photo(item):
         raise ValueError("Image URL must use HTTPS from a supported photo host")
     if not item.get("source_page", "").startswith("https://"):
         raise ValueError("Missing inspectable original photo page")
-    if item.get("license") not in ("Unsplash License", "Pexels License", "CC BY 2.0", "CC BY 4.0", "CC BY-SA 4.0"):
+    if item.get("license") not in ("Unsplash License", "Pexels License", "CC BY 2.0", "CC BY 4.0", "CC BY-SA 4.0", "CC0 1.0"):
         raise ValueError("Unverified or unsupported image licence")
     if not item.get("photographer") or not item.get("alt") or not item.get("subject"):
         raise ValueError("Missing photographer, description, or independently labelled subject")

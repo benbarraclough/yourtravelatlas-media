@@ -38,7 +38,7 @@
       "lesson": "Distinguish practical itinerary details from pure inspiration; this post is not an itinerary."
     }
   ],
-  "research_scope": "This run read indexed full-text original Unsplash photograph pages, official JNTO, Miyazaki, Hida and Biei tourism information returned by web search. Did not access full Instagram carousels, TikTok, books or paywalled visual references; no performance claims.",
+  "research_scope": "This run read indexed full-text original Unsplash photograph pages, official JNTO, Miyazaki, Hida and Biei tourism information returned by web search. Did not access full Instagram carousels, TikTok, books or paywalled visual references; no performance claims. Original public Wikimedia Commons API imageinfo and rendered preview images were additionally inspected; Unsplash HTML access from Actions was denied with 403 and not bypassed.",
   "claim_ledger": [
     {
       "slide": 1,
@@ -98,7 +98,7 @@
         "Kamikochi location of scenic closing photograph"
       ],
       "sources": [
-        "https://www.japan.travel/en/spot/1374/"
+        "https://commons.wikimedia.org/wiki/File:Kamikochi_-_Kamikochi6538.jpg"
       ],
       "limitations": "Closing photograph only; no claimed itinerary stop."
     }
@@ -124,12 +124,12 @@
     },
     {
       "slide": 3,
-      "url": "https://unsplash.com/photos/a-small-village-in-the-mountains-with-snow-on-the-ground-Pi6Qu__PZBU",
-      "photographer": "Adam Jang",
-      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
-      "location": "Snow-covered gassho-zukuri houses in Shirakawa-go, Gifu.",
-      "visual_status": "Original page text inspected; final crop/full-size review pending",
-      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+      "url": "https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg",
+      "photographer": "Qian2007",
+      "declared_license": "CC BY-SA 4.0; original Commons file page, licence link and attribution verified in Commons imageinfo",
+      "location": "Snowy steep-roofed gassho-zukuri farmhouse in Shirakawa-go, Gifu, Japan.",
+      "visual_status": "Original preview inspected; full rendered crop pending",
+      "rights_status": "Adapted image must be CC BY-SA 4.0, credit author/source/license and indicate crop/text."
     },
     {
       "slide": 4,
@@ -151,17 +151,22 @@
     },
     {
       "slide": 6,
-      "url": "https://unsplash.com/photos/mountain-range-with-a-river-and-autumn-trees-Jemdkeh1WXs",
-      "photographer": "Nizar F",
-      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
-      "location": "Autumn mountain and river landscape at Kamikochi, Nagano, Japan.",
-      "visual_status": "Original page text inspected; final crop/full-size review pending",
-      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+      "url": "https://commons.wikimedia.org/wiki/File:Kamikochi_-_Kamikochi6538.jpg",
+      "photographer": "lumoplank",
+      "declared_license": "CC0 1.0; original Commons file metadata inspected",
+      "location": "Kappa Bridge and the Hotaka mountain range in autumn at Kamikochi, Nagano.",
+      "visual_status": "Original preview inspected; full rendered crop pending",
+      "rights_status": "Public domain dedication CC0; attribution still given editorially."
     }
   ],
   "rejected_material": [
     "Unverified social media post visuals and inaccessible competitor middle slides are not treated as inspected.",
     "No festival shoehorned into a nonseasonal, geographic wishlist.",
-    "No promises of bathing macaques, blue colour, accessible boats, or a single short itinerary."
-  ]
+    "No promises of bathing macaques, blue colour, accessible boats, or a single short itinerary.",
+    "First rendered Shirakawa-go image was mostly snowless, dark and weak; replaced with a genuine snow-roof Commons photograph.",
+    "First rendered Kamikochi CTA was a generic dark hillside; replaced with public-domain Kappa Bridge and alpine scenery.",
+    "Commons Tottori winter-dune photos were rejected because snowy conditions made the place look less like the intended coastal-dune discovery; kept the correctly located original photo.",
+    "Original Unsplash candidate-page audit returned HTTP 403 from GitHub Actions. No access controls bypassed; Commons public API provided legally reusable alternatives."
+  ],
+  "revision_date": "2026-10-29"
 }
