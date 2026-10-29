@@ -25,7 +25,7 @@
     "verified_id": 410023846
   },
   "internal_verdict": "pass_for_owner_review",
-  "brief_sha256": "f59f6335ec33fa21ff166ee382d9fdd5f0f164e549ee44a66a1d9aff67544987",
+  "brief_sha256": "0198c28db51d051251d0eda523a02a7843a2936197206f3f5edab60bfa477f93",
   "image_sha256": {
     "media/002-porto-slow-weekend/01.jpg": "cebf6ef1a3900b5568ecb859e9e398dfb2381158019424f555a12450bda027a2",
     "media/002-porto-slow-weekend/02.jpg": "fe30adc967c27b64a8d58d06722f1bd4cf41e902543235aae533eb80a97086e1",
@@ -42,37 +42,37 @@
     {
       "slide": 1,
       "verdict": "pass_for_owner_review",
-      "reason": "This image establishes place and promise; later slides explain the actual trip.",
+      "reason": "Introduces the riverside city before four different experiences.",
       "overlay_words": null
     },
     {
       "slide": 2,
       "verdict": "pass_for_owner_review",
-      "reason": "Food and everyday city life add a different experience to the architecture and coast.",
+      "reason": "Adds local food and everyday life rather than another monument or skyline.",
       "overlay_words": 24
     },
     {
       "slide": 3,
       "verdict": "pass_for_owner_review",
-      "reason": "The only interior cultural stop, connecting the city-centre morning to the river.",
+      "reason": "Adds an exceptional interior and cultural detail between outdoor scenes.",
       "overlay_words": 26
     },
     {
       "slide": 4,
       "verdict": "pass_for_owner_review",
-      "reason": "Adds a different bank, time of day and sociable garden pause rather than another viewpoint.",
+      "reason": "Adds the Gaia-side perspective and a specific evening experience.",
       "overlay_words": 25
     },
     {
       "slide": 5,
       "verdict": "pass_for_owner_review",
-      "reason": "Shows the sea-air destination of the only transport-linked outing. The later sunset CTA is a different photograph serving a brand-closing role, not an additional repeated editorial stop.",
+      "reason": "Adds coast and dramatic waves, unlike the market, interior and river skyline.",
       "overlay_words": 24
     },
     {
       "slide": 6,
       "verdict": "pass_for_owner_review",
-      "reason": "The sole closing card provides a recognisable conversion moment after the editorial content.",
+      "reason": "One uncluttered closing card ends the story; it is not an extra itinerary stop.",
       "overlay_words": null
     }
   ],
@@ -93,5 +93,8 @@
     "Owner has not approved the v6 style or exact edition. Do not schedule.",
     "Recurring months are indicative, exact programmes and closures can change.",
     "Porto/Riviera retain relaxed European subjects for this authorised remake; future ideas must diversify."
-  ]
+  ],
+  "media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee",
+  "render_code_revision": "a8da5c07b7eafb688ae442e00764b38cdc7d2067",
+  "workflow_run": 40876371908
 }

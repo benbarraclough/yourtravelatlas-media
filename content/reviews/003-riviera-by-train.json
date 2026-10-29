@@ -26,7 +26,7 @@
     "verified_id": 410023855
   },
   "internal_verdict": "pass_for_owner_review",
-  "brief_sha256": "b3619473f6b23c14e566af0db8210b72ec835d446de850b91ab8404ab98929d0",
+  "brief_sha256": "5aa82b045fcb52a0303a1ad069168ec5034bd82f6f274fa0b85cceaec2bdcd10",
   "image_sha256": {
     "media/003-riviera-by-train/01.jpg": "9fc4f0cbb48ebfb9c40c3305641cb4e59f60638e0a34290915c5d210dbd1dabe",
     "media/003-riviera-by-train/02.jpg": "dc681379150cb274b220d6652571b4a7c399d1b5569f58c312a6c5ac9b7b97eb",
@@ -44,43 +44,43 @@
     {
       "slide": 1,
       "verdict": "pass_for_owner_review",
-      "reason": "Establishes an event-led rail guide, different from Porto's two-day city-break structure.",
+      "reason": "Provides the colourful coastal hero before specific towns and seasonal spectacles.",
       "overlay_words": null
     },
     {
       "slide": 2,
       "verdict": "pass_for_owner_review",
-      "reason": "A rail-and-date planning page supplies structure before the two event features.",
+      "reason": "Adds an open coastal sweep to contrast narrow lanes and town ramparts.",
       "overlay_words": 20
     },
     {
       "slide": 3,
       "verdict": "pass_for_owner_review",
-      "reason": "An intimate art stop supplies a quieter, optional eastern outing between major events.",
+      "reason": "Offers intimate street-level colour and an art discovery distinct from the coast panorama.",
       "overlay_words": 20
     },
     {
       "slide": 4,
       "verdict": "pass_for_owner_review",
-      "reason": "Adds a westbound art day, distinct from eastbound festivals and harbour exploration.",
+      "reason": "Adds a westbound art outing and fortified coastal town.",
       "overlay_words": 22
     },
     {
       "slide": 5,
       "verdict": "pass_for_owner_review",
-      "reason": "Adds floral spectacle and a booking decision instead of another coastal scene.",
+      "reason": "Adds a striking human-made spectacle and a seasonal reason to return.",
       "overlay_words": 20
     },
     {
       "slide": 6,
       "verdict": "pass_for_owner_review",
-      "reason": "Supplies the strongest time-specific bucket-list idea and a second distinct event.",
+      "reason": "Adds a very different festival spectacle, not another seafront or duplicate Nice event.",
       "overlay_words": 22
     },
     {
       "slide": 7,
       "verdict": "pass_for_owner_review",
-      "reason": "One conversion slide supplies a recognisable finish without replacing an editorial stop.",
+      "reason": "One scenic follow card concludes the coastal discovery without adding filler.",
       "overlay_words": null
     }
   ],
@@ -101,5 +101,8 @@
     "Owner has not approved the v6 style or exact edition. Do not schedule.",
     "Recurring months are indicative, exact programmes and closures can change.",
     "Porto/Riviera retain relaxed European subjects for this authorised remake; future ideas must diversify."
-  ]
+  ],
+  "media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee",
+  "render_code_revision": "a8da5c07b7eafb688ae442e00764b38cdc7d2067",
+  "workflow_run": 40876371908
 }
