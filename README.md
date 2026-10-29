@@ -50,7 +50,7 @@ Reels are independent from numbered carousels and initially replace a carousel s
 
 The existing no-cost production path uses `content/reels/NNN-slug.json`, `scripts/render_reel.py` and `.github/workflows/reels.yml` to render actual 1080 × 1920 moving footage into `media/reels/<slug>/reel.mp4`, cover, storyboard and source manifest. It can create an original upbeat soundtrack without using copyrighted music or paid APIs. It now **skips any brief containing `"editorial_status": "rejected"`**.
 
-The first two tests — **Lisbon Reel 001** and **Cinque Terre by Train Reel 002** — were creatively rejected despite successful technical renders. Lisbon is preserved in Metricool as a **draft with automatic publishing disabled** (UUID `5053010952195819165`); Cinque Terre was never scheduled. Neither should be published without a new concept, new source footage and renewed visual/audio review.
+The first two tests — **Lisbon Reel 001** and **Cinque Terre by Train Reel 002** — were creatively rejected despite successful technical renders. Lisbon was rejected and archived; its former Metricool draft UUID `5053010952195819165` was subsequently **repurposed for the approved Istanbul Reel**. Cinque Terre was never scheduled. Neither should be published without a new concept, new source footage and renewed visual/audio review.
 
 **Mandatory Reel quality gate:** Find the travel story first; do not list locations merely because clips exist. Five or more distinct, high-quality, authentic, fully licensed moving shots must independently inspire a real trip friends would want to share. Prominent destination and small masthead at top; inspiring short serif description lower down; **no "Wander Further" line, issue number or clip counter on Reels**. Sound should be bright, positive and fitting, never dreary. For a professionally recorded song, verify exact source, track licence, professional Instagram use and no paid requirement before adding it. Review actual rendered frames, cropping and the sound before a Reel is scheduled.
 
@@ -59,10 +59,18 @@ After editorial approval, schedule as `instagramData.type=REEL`, with verified f
 
 ## Music licensing test result (29 October 2026)
 
-Mixkit's free music licence allows Instagram video posts, but a direct automated download for "Just Keep Walking" by Michael Ramir C. was **blocked with HTTP 403**. No track has been approved for unattended downloading or added to a scheduled Reel. The Lisbon and Cinque Terre Reel pilots remain **rejected**; Lisbon is an unpublished Metricool draft and must not be revived just because a new soundtrack is found.
+Mixkit's free music licence allows Instagram video posts, but a direct automated download for "Just Keep Walking" by Michael Ramir C. was **blocked with HTTP 403**. The specific Mixkit track was not approved for unattended downloading. The Lisbon and Cinque Terre pilots remain **rejected**; the former Lisbon draft slot was repurposed for the separately owner-approved Istanbul Reel with properly credited Kevin MacLeod music. Do not revive either pilot.
 
 Before the next Reel: select a professionally recorded, joyful, genuinely suitable track; independently verify its licence and actual automated delivery; assess the complete footage, sound and narrative; publish only if the finished result inspires a trip. Never force a Reel into the schedule. Regular carousels are unaffected.
 
 ## Current queue correction — 29 October 2026
 
 The owner-requested Porto and Riviera replacements use the existing issue 002/003 Metricool slots. Old Namibia/Dolomites media are retained only as historical outputs and must never be rescheduled automatically. Current brief filenames match their new destinations. The approved Istanbul Reel remains scheduled for 5 November at 09:00 Europe/London; older pilot/audio notes above are historical and the latest Editorial Playbook decision takes precedence.
+
+
+## Issue 004 — reviewed and scheduled (29 October 2026)
+
+- **Japan beyond the big cities:** six-slide, five-place v6 discovery carousel; exact caption and six 1080×1350 photographs visually inspected at full size and in the contact sheet. The first weak Shirakawa-go and Kamikochi photos were rejected and replaced with properly credited Commons imagery (CC BY-SA 4.0 and CC0). The original image source host rate-limited, so the authorised 1920px Commons API thumbnail files were used; no access controls bypassed.
+- **Metricool:** Monday 9 November 2026 at 19:00 Europe/London, UUID `-1638283085571405156`, ID `410217951`, Instagram `POST`, six images and six alt texts, `PENDING`, `draft=false`, `autoPublish=true`. Exact reviewed media revision `4d7681ca2b1d2cb1be80437c5867acffab0771a6` pinned in the importer; full editorial/source/photo/hashes in `content/reviews/004-japan-beyond-the-cities.json`.
+- **Budget:** four November Instagram posts pending across all formats (Porto, Riviera, Istanbul Reel, Japan); 4/16 internal ceiling. The already published Faroe Islands issue001 remains frozen. No new Reel or duplicate slot added.
+- **Tested improvement:** `scripts/build_review.py` now produces SHA-256 image/brief/caption manifests and dynamic editorial preview statuses, avoiding obsolete 'owner approval required' text. The public Commons API candidate audit provided an alternative to inaccessible original photo pages without paid services.

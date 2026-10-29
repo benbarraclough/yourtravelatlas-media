@@ -248,10 +248,29 @@
     "Wikimedia original media host returned HTTP 429; official Commons API-provided 1920px derivative files were successfully rendered without bypassing access restrictions."
   ],
   "scheduling": {
-    "status": "approved_not_yet_scheduled",
-    "target_local": "2026-11-09T19:00:00",
+    "status": "PENDING",
+    "metricool_id": 410217951,
+    "metricool_uuid": "-1638283085571405156",
+    "date_time": "2026-11-09T19:00:00",
     "timezone": "Europe/London",
-    "month_budget_before": "3 pending Instagram posts; published analytics may lag",
-    "monthly_internal_cap": 16
+    "type": "POST",
+    "autoPublish": true,
+    "draft": false,
+    "media_count": 6,
+    "alt_count": 6,
+    "caption_exact": true,
+    "media_urls": [
+      "https://static.metricool.com/planner/202610/7717708-file-5868328672131205429.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-8281935160663300728.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-15194865959936952435.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-11517345474306391049.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-3721746917407289020.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-16151798616102069497.jpeg"
+    ],
+    "pinned_media_revision": "4d7681ca2b1d2cb1be80437c5867acffab0771a6",
+    "monthly_total_after": 4,
+    "monthly_internal_cap": 16,
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-1638283085571405156",
+    "verification": "Re-fetched entire November Metricool queue on 29 October; verified exact caption, six media, six matching alt descriptions, Europe/London date/time, PENDING, draft=false, autoPublish=true and no duplicate."
   }
 }
