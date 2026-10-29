@@ -120,11 +120,16 @@
   ],
   "benchmark_review": "Actual signed-in hospitality.guide examples and observation limits recorded in EDITORIAL_BENCHMARKS.md; principles adapted without copying assets or text.",
   "scheduling": {
-    "status": "approved_for_existing_slot_replacement",
+    "status": "verified_pending",
     "uuid": "-4032844728941590495",
     "date": "2026-11-04T12:00:00",
     "timezone": "Europe/London",
     "required_media_count": 8,
-    "media_url_policy": "Pin URLs to render_commit; never silently substitute main after review."
+    "media_url_policy": "Pin URLs to render_commit; never silently substitute main after review.",
+    "metricool_id": 409965138,
+    "autoPublish": true,
+    "draft": false,
+    "verified_on": "2026-10-29",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-4032844728941590495"
   }
 }
