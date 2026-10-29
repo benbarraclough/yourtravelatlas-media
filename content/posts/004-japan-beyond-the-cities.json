@@ -11,7 +11,7 @@
   "reader_scenario": "A curious traveller building a future Japan wishlist; the scenes are spread from Kyushu to Hokkaido and must not be presented as a single short route.",
   "format": "five-place-discovery-collection",
   "editorial_version": 6,
-  "editorial_status": "ready_for_visual_review",
+  "editorial_status": "approved_internal",
   "reviewed_sources_on": "2026-10-29",
   "slide_count_rationale": "Six total pages: one Takachiho hero counted as item one, four different supporting locations, and one distinct scenic Kamikochi follow card. Five places are actually delivered, not padded.",
   "caption": "Japan has sand dunes by the sea, a village built for deep snow and wild monkeys that choose to soak in hot springs. These five places deserve a spot on your wishlist. 🇯🇵\n\n📍 Takachiho Gorge, Miyazaki — cover\nA waterfall drops between volcanic cliffs in Kyushu. See Manai Falls from the gorge path or, when conditions allow, from a rental rowing boat. Reserve ahead and check the latest boat and trail notices.\n\n📍 Tottori Sand Dunes — slide 2\nClimb the wind-shaped dunes for views of the Sea of Japan. They're coastal dunes, not a desert; buses run from Tottori Station.\n\n📍 Shirakawa-go, Gifu — slide 3\nA lived-in UNESCO village of gassho-zukuri farmhouses with steep thatched roofs built for heavy snow. Visit by bus from Takayama; winter scenes are seasonal.\n\n📍 Jigokudani Snow Monkey Park, Nagano — slide 4\nWild Japanese macaques sometimes bathe in the hot spring, especially in winter (roughly December–March). The approach includes a forest walk of around 25–40 minutes. Sightings and bathing aren't guaranteed; never touch or feed the monkeys.\n\n📍 Shirogane Blue Pond, Biei, Hokkaido — slide 5\nMinerals and light make this pond appear strikingly blue, but its colour changes with weather and season. Reach it by local bus or car from Biei; the blue water isn't guaranteed.\n\nThese are separate discoveries across Japan, not a five-stop route or a one-week itinerary. The cover shows a green-season gorge; Shirakawa-go and the monkeys show winter, while the pond and closing landscape show autumn.\n\nWhich one would you go out of your way for?\n\nPhotos: Daniel Newman, Shino Nakamura, Chloe Evans & Georgios Kaleadis / Unsplash. Shirakawa-go: Qian2007 / Wikimedia Commons, CC BY-SA 4.0 (cropped, text added): https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg · https://creativecommons.org/licenses/by-sa/4.0 . Kamikochi: lumoplank / Wikimedia Commons, CC0.\n\n#YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido",
@@ -177,7 +177,9 @@
     ],
     "chosen_hook": "The second opening line for the caption, anchored in three specific surprising experiences; the cover uses the first clear numbered promise.",
     "save_value": "Five exact named locations and distinct experience types, official access directions and honest seasonal constraints, without inventing a multi-day route.",
-    "verdict": "Second render pending actual full-size and mobile review after replacing weak Shirakawa and CTA images."
+    "verdict": "PASS: two distinct accurate hook options, chosen concrete caption opening, 1972 characters including CC attribution, five slide-matched pins, seasonal and access caveats, clear not-an-itinerary distinction."
   },
-  "evergreen_policy": "No edition-specific events or claims. Winter imagery labelled through caption; JNTO winter monkey bathing guidance is seasonal, not a guarantee."
+  "evergreen_policy": "No edition-specific events or claims. Winter imagery labelled through caption; JNTO winter monkey bathing guidance is seasonal, not a guarantee.",
+  "editorial_verdict": "PASS: v6 discovery-first; all six actual full-size JPEGs and mobile contact sheet inspected after two weak photo replacements; no routine owner approval required under 29 Oct calibration.",
+  "final_visual_review_on": "2026-10-29"
 }
