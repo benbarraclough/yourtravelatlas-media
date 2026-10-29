@@ -78,7 +78,7 @@ def acquire_photo(item):
         raise ValueError("Image URL must use HTTPS from a supported photo host")
     if not item.get("source_page", "").startswith("https://"):
         raise ValueError("Missing inspectable original photo page")
-    if item.get("license") not in ("Unsplash License", "Pexels License", "CC BY 4.0", "CC BY-SA 4.0"):
+    if item.get("license") not in ("Unsplash License", "Pexels License", "CC BY 2.0", "CC BY 4.0", "CC BY-SA 4.0"):
         raise ValueError("Unverified or unsupported image licence")
     if not item.get("photographer") or not item.get("alt") or not item.get("subject"):
         raise ValueError("Missing photographer, description, or independently labelled subject")
@@ -96,7 +96,123 @@ def acquire_photo(item):
     return original.convert("RGB"), hashlib.sha256(blob).hexdigest()
 
 
+def editorial_text(draw, message, xy, face, width, fill, max_lines=5, gap=8):
+    """Measured editorial text; never shrink body text to squeeze in weak copy."""
+    x, y = xy
+    rows = lines_to_fit(draw, message, face, width, max_lines)
+    a, b = face.getmetrics()
+    for row in rows:
+        draw.text((x, y), row, font=face, fill=fill)
+        y += a + b + gap
+    return y
+
+
+def draw_editorial(source, post, item, index, count):
+    cream, ink, accent = (248, 244, 233), (22, 43, 43), (149, 85, 53)
+    layout = item.get("layout", "story")
+    photo_height = 430 if layout == "itinerary" else 780
+    focus = (float(item.get("focus_x", .5)), float(item.get("focus_y", .5)))
+    if layout == "cta":
+        canvas = gradient_overlay(ImageOps.fit(source, SIZE, centering=focus)).convert("RGB")
+        d = ImageDraw.Draw(canvas)
+        d.text((72, 62), "YOUR TRAVEL ATLAS", font=font(30), fill=cream)
+        d.line((72, 117, 1008, 117), fill=cream, width=2)
+        d.text((72, 145), f"ISSUE {post['issue']:03d}  /  {index+1:02d}/{count:02d}", font=font(22, REGULAR), fill=cream)
+        d.text((72, 825), "KEEP YOUR CURIOSITY CLOSE", font=font(24), fill=cream)
+        y = editorial_text(d, "FILL YOUR FEED WITH WONDER.", (68, 885), font(78, SERIF), 936, cream, 3)
+        y = editorial_text(d, "Follow @yourtravelatlas for beautiful places and the details that turn them into real plans.", (72, y + 25), font(30, REGULAR), 920, cream, 3)
+        if y > 1252:
+            raise ValueError("Closing-card text overlaps footer")
+    else:
+        canvas = Image.new("RGB", SIZE, cream)
+        pic = ImageOps.fit(source, (1080, photo_height), method=Image.Resampling.LANCZOS, centering=focus)
+        canvas.paste(pic, (0, 0))
+        shade = Image.new("RGBA", SIZE, (0, 0, 0, 0))
+        sd = ImageDraw.Draw(shade)
+        for y in range(260):
+            sd.line((0, y, 1080, y), fill=(8, 24, 24, round(145 * (1-y/260))))
+        canvas = Image.alpha_composite(canvas.convert("RGBA"), shade).convert("RGB")
+        d = ImageDraw.Draw(canvas)
+        d.text((72, 62), "YOUR TRAVEL ATLAS", font=font(30), fill=cream)
+        d.line((72, 117, 1008, 117), fill=cream, width=2)
+        d.text((72, 145), f"ISSUE {post['issue']:03d}", font=font(22, REGULAR), fill=cream)
+        d.text((905, 145), f"{index+1:02d}/{count:02d}", font=font(22), fill=cream)
+        if item.get("date_label"):
+            label = item["date_label"].upper()
+            f = font(26)
+            w = d.textbbox((0, 0), label, font=f)[2]
+            if w > 904:
+                raise ValueError("Event date label is too long")
+            d.rectangle((72, 210, 104+w, 264), fill=cream)
+            d.text((88, 219), label, font=f, fill=ink)
+        if item.get("photo_note"):
+            note = item["photo_note"]
+            nf = font(19, REGULAR)
+            if d.textbbox((0,0), note, font=nf)[2] > 936:
+                raise ValueError("Historical/context photo note is too long")
+            d.rectangle((0, photo_height-49, 1080, photo_height), fill=ink)
+            d.text((72, photo_height-36), note, font=nf, fill=cream)
+        y = photo_height + 24
+        d.text((72, y), item["kicker"].upper(), font=font(23), fill=accent)
+        y += 42
+        title = item["heading"].upper()
+        for size in (54, 50, 46, 42):
+            face = font(size, SERIF)
+            if d.textbbox((0, 0), title, font=face)[2] <= 936:
+                break
+        else:
+            raise ValueError("Editorial heading must fit on one readable line")
+        y = editorial_text(d, title, (68, y), face, 936, ink, 1) + 15
+        if layout == "itinerary":
+            for stop in item["stops"]:
+                d.line((72, y, 1008, y), fill=(196, 191, 177), width=1)
+                y += 18
+                y = editorial_text(d, stop["label"].upper(), (72, y), font(23), 936, accent, 1) + 7
+                y = editorial_text(d, stop["text"], (72, y), font(29, REGULAR), 936, ink, 3) + 19
+        else:
+            y = editorial_text(d, item["body"], (72, y), font(30, REGULAR), 936, ink, 5)
+        if item.get("detail"):
+            y += 17
+            y = editorial_text(d, item["detail"], (72, y), font(24), 936, accent, 2, 5)
+        limit = 1225 if item.get("credit_line") else 1250
+        if y > limit:
+            raise ValueError(f"Editorial slide {index+1} overlaps credit/footer: {y} > {limit}")
+        if item.get("credit_line"):
+            editorial_text(d, item["credit_line"], (72, 1238), font(17, REGULAR), 936, ink, 1)
+    d.line((72, 1276, 1008, 1276), fill=cream if layout == "cta" else ink, width=2)
+    d.text((72, 1293), "WANDER FURTHER   /   @YOURTRAVELATLAS", font=font(17), fill=cream if layout == "cta" else ink)
+    return canvas
+
+
+def validate_editorial(post):
+    if post.get("editorial_version", 0) < 5:
+        if post.get("issue") == 1:
+            return  # Preserve the already published, frozen launch issue.
+        raise ValueError("New/unpublished carousels require editorial_version >= 5")
+    if not post.get("format") or not post.get("slide_count_rationale"):
+        raise ValueError("Missing format-specific treatment or slide-count decision")
+    if len(post["caption"]) > 2200:
+        raise ValueError("Instagram caption exceeds 2200 characters")
+    if post["slides"][-1].get("layout") != "cta" or sum(s.get("layout") == "cta" for s in post["slides"]) != 1:
+        raise ValueError("Exactly one standard closing card must finish the carousel")
+    for i, slide in enumerate(post["slides"]):
+        for field in ("reader_value", "image_context", "specific_detail", "distinct_contribution"):
+            if len(slide.get("review", {}).get(field, "").strip()) < 35:
+                raise ValueError(f"Slide {i+1} lacks substantive {field} review")
+        refs = slide.get("fact_checks", [])
+        if not refs or any(ref not in post["fact_sources"] for ref in refs):
+            raise ValueError(f"Slide {i+1} has no valid claim-source ledger")
+        if 0 < i < len(post["slides"])-1 and slide.get("layout") != "itinerary" and not slide.get("body"):
+            raise ValueError("Supporting slides require valuable on-image detail")
+        if slide.get("layout") == "event" and (not slide.get("event_status") or not slide.get("date_label")):
+            raise ValueError("Events require dates and confirmed/recurring status")
+        if slide["license"].startswith("CC ") and not all(slide.get(k) for k in ("license_url", "credit_line", "changes")):
+            raise ValueError("Creative Commons images require attribution, licence and changes")
+
+
 def draw_slide(source, post, item, index, count):
+    if post.get("editorial_version", 0) >= 5 and index > 0:
+        return draw_editorial(source, post, item, index, count)
     crop_y = min(1.0, max(0.0, float(item.get("focus_y", 0.5))))
     img = ImageOps.fit(source, SIZE, method=Image.Resampling.LANCZOS, centering=(0.5, crop_y))
     canvas = gradient_overlay(img)
@@ -164,6 +280,7 @@ def draw_slide(source, post, item, index, count):
 
 def build(path):
     post = json.loads(path.read_text(encoding="utf-8"))
+    validate_editorial(post)
     required = ("issue", "slug", "headline", "dek", "category", "caption", "slides", "fact_sources", "editorial_intent", "share_reason")
     for key in required:
         if not post.get(key):
@@ -188,14 +305,14 @@ def build(path):
     print(f"Rendering {post['slug']}: {len(post['slides'])} slides", flush=True)
     hashes = set()
     for i, item in enumerate(post["slides"]):
-        if i > 0 and not all(item.get(k) for k in ("kicker", "heading", "tip")):
+        if i > 0 and post.get("editorial_version", 0) < 5 and not all(item.get(k) for k in ("kicker", "heading", "tip")):
             raise ValueError(f"Slide {i+1} has no purposeful on-image text")
         if not item.get("activity_source", "").startswith("https://") or item["activity_source"] not in post["fact_sources"]:
             raise ValueError(f"Slide {i+1} lacks a traceable, verified activity source")
         # Supporting-slide space is for the experience, not logistics/safety notices.
         if i > 0 and re.search(
             r"\b(check (?:local|current|seasonal|paid|trail|access|road|rules)|keep your distance|keep back|stay in your vehicle|access restrictions?|permits?|safety warnings?)\b",
-            item["tip"], flags=re.IGNORECASE,
+            item.get("tip", ""), flags=re.IGNORECASE,
         ):
             raise ValueError(f"Slide {i+1}: move safety or access warnings to caption: {item['tip']}")
         photo, sha = acquire_photo(item)
@@ -207,6 +324,9 @@ def build(path):
         slide.save(out / filename, "JPEG", quality=91, optimize=True, subsampling=0)
         evidence.append({k: item[k] for k in ("subject", "source_page", "photographer", "license", "alt", "activity_source")})
         evidence[-1].update({"file": filename, "source_sha256": sha, "size": list(SIZE)})
+        for key in ("layout", "body", "detail", "date_label", "event_status", "photo_note", "license_url", "credit_line", "changes", "review", "fact_checks"):
+            if key in item:
+                evidence[-1][key] = item[key]
         print(f"  {filename} - {item['subject']}", flush=True)
     manifest = {
         "issue": post["issue"], "slug": post["slug"], "status": "rendered-not-published",

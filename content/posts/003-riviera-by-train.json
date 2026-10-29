@@ -1,13 +1,13 @@
 {
   "issue": 3,
   "slug": "003-riviera-by-train",
-  "category": "FRENCH RIVIERA / COAST BY TRAIN",
-  "headline": "ONE BASE. NO CAR. MORE COAST.",
-  "dek": "Nice, Antibes, Villefranche-sur-Mer and Menton",
+  "category": "FRENCH RIVIERA / FEBRUARY 2027 BY TRAIN",
+  "headline": "TWO FESTIVALS. ONE COAST.",
+  "dek": "Carnival in Nice. Citrus floats in Menton.",
   "effort_level": "relaxed",
-  "accessibility_angle": "Stay in Nice and select separate TER day trips; choose waterfronts and cafés over steep old-town steps. Station-to-town walking remains necessary; no claim of step-free access.",
-  "editorial_intent": "A French Riviera escape based in Nice, using coastal trains for separate day trips to Antibes, Villefranche-sur-Mer and Menton, with long lunches, old-town walks and time beside the sea.",
-  "share_reason": "Friends can choose one hotel base and a different seaside outing each day, enjoying the Riviera without hiring a car or packing up between towns.",
+  "accessibility_angle": "One Nice base and separate TER outings; allow for festival crowds and station-to-centre walking. No step-free or quiet-retreat claim.",
+  "editorial_intent": "An event-led February 2027 Riviera rail break: stay in Nice, anchor dates around Carnival and Menton's Lemon Festival, then choose food, art and harbour outings between events.",
+  "share_reason": "Save the overlapping festival window, know which events to book first, understand east/west train directions, and choose specific food and art stops.",
   "reader_scenario": "A pair or small group uses Nice as a base for several days, selecting one town per outing rather than rushing through all four in a day.",
   "editorial_verdict": "Accepted: a concrete car-free coastal holiday with verified rail links and a mix of city seafront, ramparts, village lanes and sheltered bay. Summer imagery is explicitly planning inspiration, not a November weather promise.",
   "fact_sources": [
@@ -17,9 +17,16 @@
     "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
     "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/get-to-villefranche-sur-mer/",
     "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
-    "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/"
+    "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
+    "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+    "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
+    "https://www.explorenicecotedazur.com/en/culture/cours-saleya/",
+    "https://chez-theresa.fr/",
+    "https://www.explorenicecotedazur.com/explorer/art-de-vivre/gastronomie-et-terroir/recettes-de-cuisine-nicoise/la-socca/",
+    "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum",
+    "https://www.explorenicecotedazur.com/en/culture/la-chapelle-saint-pierre-cocteau/"
   ],
-  "caption": "You can have a Riviera holiday without spending it behind the wheel. Pick a base in Nice, unpack once and let the coastal trains open up the rest. 🚆\n\nKeep a day for Nice itself: a slow walk along the Promenade des Anglais, an old-town lunch and nowhere urgent to be.\n\nThen choose one seaside town per outing:\n• Antibes, west of Nice: wander the old town, stop at a café and loop back along the ramparts.\n• Villefranche-sur-Mer, east: take the old village lanes down to the harbour, then leave room for Marinières beach.\n• Menton, farther east: stroll Les Sablettes below the colourful old town, with the Saint-Michel steps an optional detour.\n\nTER services link these towns with Nice. Antibes is in the opposite direction from Villefranche and Menton, so this is a set of separate day trips—not a four-stop day. Check your travel dates and last return trains before setting out; stations still involve a walk to the places pictured.\n\nThese photographs are warm-weather inspiration. Beach and swimming days depend on the season and conditions; the waterfront walks and town outings can be the trip in their own right.\n\nSave this for the group chat that wants a little more coast and a little less organising.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #CoteDAzur #RivieraByTrain #NiceFrance #Antibes #VillefrancheSurMer #Menton",
+  "caption": "The French Riviera's best reason for a February trip might be a parade made of lemons. 🍋\n\nIn 2027, Nice Carnival runs 9–28 February and Menton's Fête du Citron runs 13–28 February. Your shared festival window: 13–28 February. One Nice base, two spectacles, coastal trains between them.\n\nBook the event first. Menton's programme lists Golden Fruit Parades on 14, 21 and 28 February, night parades on 18 and 25 February, and citrus displays in the Biovès gardens throughout the festival. Nice's flower battles and carnival floats are the other draw; confirm individual performance dates and tickets with the organisers.\n\nBetween events: buy hot socca at Cours Saleya in Nice; pair Antibes' Picasso Museum and sculpture terrace with its sea walls; or take Villefranche's old lanes down to Cocteau's painted Saint-Pierre chapel by the harbour.\n\nAntibes lies WEST of Nice. Villefranche and Menton lie EAST. Pick one outing per day, leaving room to return for an evening event. Check last TER trains, museum opening days and closures before fixing the plan. February is for festivals, food and sea air; sunny coastal photos are location views, not a swimming forecast.\n\nSave this before the group chat books another summer-only Riviera trip.\n\nUnsplash: Luna Wang, Nick Page, Anatoli Nicolae, Chelsea Essig & Leonardo Caetano. Commons: XDurang (Nice float, 2017) & Mike is Michi (market, 2026), CC BY-SA 4.0; cropped + text, adapted slides under same licence: https://creativecommons.org/licenses/by-sa/4.0/ Sources: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/media/003-riviera-by-train/manifest.json\n\n#YourTravelAtlas #FrenchRiviera #NiceCarnival #FeteDuCitron #Menton #TrainTravel",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1758972574387-42373e89a092?auto=format&fit=crop&w=2000&q=88",
@@ -30,9 +37,19 @@
       "alt": "Colourful old-town buildings above Menton's Mediterranean waterfront.",
       "heading": "MENTON",
       "kicker": "THE RIVIERA BY RAIL",
-      "tip": "Stroll Les Sablettes below the colourful old town.",
       "activity_source": "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
-      "focus_y": 0.5
+      "focus_y": 0.5,
+      "layout": "cover",
+      "fact_checks": [
+        "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+        "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique"
+      ],
+      "review": {
+        "reader_value": "Gives a seasonal reason to choose the Riviera: two specific February festivals.",
+        "image_context": "Menton's authentic waterfront establishes the region, without claiming a festival is pictured.",
+        "specific_detail": "Nice Carnival and Menton's citrus floats are both named and verified.",
+        "distinct_contribution": "Establishes an event-led rail guide, different from Porto's two-day city-break structure."
+      }
     },
     {
       "image_url": "https://images.unsplash.com/photo-1723214375570-a86809b0f210?auto=format&fit=crop&w=2000&q=88",
@@ -41,11 +58,125 @@
       "license": "Unsplash License",
       "subject": "Film photograph of Nice's curving seafront and busy pebble beaches.",
       "alt": "Film photograph of Nice's curving seafront and busy pebble beaches.",
-      "heading": "MAKE NICE YOUR BASE",
-      "kicker": "UNPACK ONCE",
-      "tip": "Walk the Promenade des Anglais, then linger over an old-town lunch.",
+      "heading": "FOLLOW THE COAST",
+      "kicker": "THE PLAN / ONE NICE BASE",
       "activity_source": "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
-      "focus_y": 0.5
+      "focus_y": 0.5,
+      "layout": "itinerary",
+      "stops": [
+        {
+          "label": "WHEN / 13–28 FEBRUARY 2027",
+          "text": "The overlap: Nice Carnival (9–28 Feb) and Menton's Lemon Festival (13–28 Feb)."
+        },
+        {
+          "label": "EAST / FROM NICE",
+          "text": "TER to Villefranche-sur-Mer or Menton. Choose a harbour outing or a festival day."
+        },
+        {
+          "label": "WEST / FROM NICE",
+          "text": "TER to Antibes for the Picasso Museum and sea walls. A separate outing, not an eastbound stop."
+        }
+      ],
+      "detail": "Book event tickets first; build the day trips around them.",
+      "photo_note": "NICE LOCATION VIEW • NOT A FEBRUARY WEATHER PROMISE",
+      "fact_checks": [
+        "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
+        "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/get-to-villefranche-sur-mer/",
+        "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+        "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique"
+      ],
+      "review": {
+        "reader_value": "Explains the shared date window and prevents the wrong east/west rail plan.",
+        "image_context": "Nice's seafront is labelled a location view rather than a February weather promise.",
+        "specific_detail": "Provides the exact overlap and names eastbound and westbound outing choices.",
+        "distinct_contribution": "A rail-and-date planning page supplies structure before the two event features."
+      }
+    },
+    {
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Char_de_la_bataille_des_fleurs_du_Carnaval_de_Nice.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Char_de_la_bataille_des_fleurs_du_Carnaval_de_Nice.jpg",
+      "photographer": "XDurang",
+      "license": "CC BY-SA 4.0",
+      "subject": "A flower-covered float at Nice Carnival's Battle of Flowers on 11 February 2017.",
+      "alt": "A flower-covered float at Nice Carnival's Battle of Flowers on 11 February 2017.",
+      "activity_source": "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+      "focus_y": 0.5,
+      "layout": "event",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "XDurang / CC BY-SA 4.0 • crop + text; adapted slide same licence",
+      "changes": "Cropped, resized and editorial text added; adapted slide CC BY-SA 4.0.",
+      "kicker": "NICE / CARNIVAL + FLOWER BATTLES",
+      "heading": "GO FOR THE SPECTACLE",
+      "date_label": "9–28 FEBRUARY 2027",
+      "event_status": "Confirmed 2027 span; organiser to confirm individual performance dates and ticket availability.",
+      "body": "Build an evening or afternoon around Nice Carnival's decorated floats, street shows or flower battles. Choose the performance you want to see before deciding which day to leave Nice for another town.",
+      "detail": "Dates confirmed; check individual show dates and tickets.",
+      "photo_note": "ARCHIVE PHOTO: NICE FLOWER BATTLE, 2017",
+      "fact_checks": [
+        "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/"
+      ],
+      "review": {
+        "reader_value": "Helps readers select a Carnival performance before arranging their day trips.",
+        "image_context": "A real 2017 flower-battle float is identified by the source and labelled archive.",
+        "specific_detail": "Confirmed 2027 festival dates are separated from individual show dates still to check.",
+        "distinct_contribution": "Adds floral spectacle and a booking decision instead of another coastal scene."
+      }
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1646304674396-65919644fe95?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-float-U19CSKBZQz8",
+      "photographer": "Anatoli Nicolae",
+      "license": "Unsplash License",
+      "subject": "Crowds beside a citrus-fruit sculpture at Menton's Lemon Festival, published March 2022.",
+      "alt": "Crowds beside a citrus-fruit sculpture at Menton's Lemon Festival, published March 2022.",
+      "activity_source": "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
+      "focus_y": 0.5,
+      "layout": "event",
+      "kicker": "MENTON / FÊTE DU CITRON",
+      "heading": "A PARADE OF CITRUS",
+      "date_label": "13–28 FEBRUARY 2027",
+      "event_status": "Confirmed 2027 festival and parade dates from official programme.",
+      "body": "Go for the Golden Fruit Parades on 14, 21 or 28 February, then visit the citrus displays in the Biovès gardens. Want an evening version? Night parades are listed for 18 and 25 February.",
+      "detail": "Pick a parade date before fixing your rail day.",
+      "photo_note": "PAST EDITION • CITRUS CREATIONS CHANGE EACH YEAR",
+      "fact_checks": [
+        "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique"
+      ],
+      "review": {
+        "reader_value": "Gives exact official parade dates that can determine when to visit.",
+        "image_context": "An authentic Menton citrus-festival photo is labelled a past edition, not 2027 artwork.",
+        "specific_detail": "Specifies day and night parade dates plus Biovès garden displays.",
+        "distinct_contribution": "Supplies the strongest time-specific bucket-list idea and a second distinct event."
+      }
+    },
+    {
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Cours_Saleya_market_fruit_stalls_Nice_2026.JPG",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cours_Saleya_market_fruit_stalls_Nice_2026.JPG",
+      "photographer": "Mike is Michi",
+      "license": "CC BY-SA 4.0",
+      "subject": "Fruit stalls and striped awnings at Nice's Cours Saleya market in March 2026.",
+      "alt": "Fruit stalls and striped awnings at Nice's Cours Saleya market in March 2026.",
+      "activity_source": "https://www.explorenicecotedazur.com/en/culture/cours-saleya/",
+      "focus_y": 0.5,
+      "layout": "story",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Mike is Michi / CC BY-SA 4.0 • crop + text; adapted slide same licence",
+      "changes": "Cropped, resized and editorial text added; adapted slide CC BY-SA 4.0.",
+      "kicker": "NICE / COURS SALEYA",
+      "heading": "FOLLOW THE HOT SOCCA",
+      "body": "Browse the morning market, then buy socca: a thin, hot chickpea pancake with crisp edges. Chez Thérésa's market stand serves it Tuesday–Sunday; eat it fresh before wandering back towards the sea.",
+      "detail": "Monday brings antiques instead of the flower market.",
+      "fact_checks": [
+        "https://www.explorenicecotedazur.com/en/culture/cours-saleya/",
+        "https://chez-theresa.fr/",
+        "https://www.explorenicecotedazur.com/explorer/art-de-vivre/gastronomie-et-terroir/recettes-de-cuisine-nicoise/la-socca/"
+      ],
+      "review": {
+        "reader_value": "Explains what socca is, where to try it and when the market changes.",
+        "image_context": "The actual Cours Saleya stalls illustrate the market approach, not a misleading food close-up.",
+        "specific_detail": "Names a verified market stand, Tuesday–Sunday service and Monday antiques.",
+        "distinct_contribution": "Adds a food ritual and practical morning stop between the ticketed festivals."
+      }
     },
     {
       "image_url": "https://images.unsplash.com/photo-1758972575415-8ce05079bd1e?auto=format&fit=crop&w=2000&q=88",
@@ -54,11 +185,23 @@
       "license": "Unsplash License",
       "subject": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
       "alt": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
-      "heading": "A DAY IN ANTIBES",
-      "kicker": "TAKE THE TRAIN WEST",
-      "tip": "Thread the old-town lanes, then loop back beside the sea walls.",
+      "heading": "ART ABOVE THE WATER",
+      "kicker": "WESTBOUND DAY / ANTIBES",
       "activity_source": "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
-      "focus_y": 0.5
+      "focus_y": 0.5,
+      "layout": "story",
+      "body": "Go inside Château Grimaldi for the Picasso Museum, then step onto its sea-facing sculpture terrace. Follow with the old-town lanes and ramparts: an art day with the Mediterranean still in view.",
+      "detail": "The museum closes on Mondays; check current hours.",
+      "fact_checks": [
+        "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
+        "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum"
+      ],
+      "review": {
+        "reader_value": "Builds a specific museum-and-terrace outing on a non-festival day.",
+        "image_context": "Château Grimaldi and Antibes sea walls are visible; no interior artworks are implied to be shown.",
+        "specific_detail": "Names the Picasso Museum, sculpture terrace and verified Monday closure.",
+        "distinct_contribution": "Adds a westbound art day, distinct from eastbound festivals and harbour exploration."
+      }
     },
     {
       "image_url": "https://images.unsplash.com/photo-1674676617293-afd671787b35?auto=format&fit=crop&w=2000&q=88",
@@ -67,11 +210,23 @@
       "license": "Unsplash License",
       "subject": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
       "alt": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
-      "heading": "PASTEL LANES",
-      "kicker": "VILLEFRANCHE-SUR-MER",
-      "tip": "Follow the old village lanes down to a harbour-side café.",
+      "heading": "A HARBOUR WITH A SECRET",
+      "kicker": "EASTBOUND DAY / VILLEFRANCHE-SUR-MER",
       "activity_source": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
-      "focus_y": 0.5
+      "focus_y": 0.5,
+      "layout": "story",
+      "body": "Take the old lanes down towards Quai Courbet, then visit Saint-Pierre chapel for Jean Cocteau's painted interior. Finish with a harbour-side table: the little art stop gives this outing more than a pretty view.",
+      "detail": "Verify the chapel's opening days and seasonal closures.",
+      "fact_checks": [
+        "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
+        "https://www.explorenicecotedazur.com/en/culture/la-chapelle-saint-pierre-cocteau/"
+      ],
+      "review": {
+        "reader_value": "Provides a concrete small discovery to seek out beyond a pretty harbour.",
+        "image_context": "The old lanes show the approach; text explicitly says to continue to the chapel, not that it is pictured.",
+        "specific_detail": "Names Saint-Pierre chapel, Jean Cocteau and Quai Courbet from official sources.",
+        "distinct_contribution": "An intimate art stop supplies a quieter, optional eastern outing between major events."
+      }
     },
     {
       "image_url": "https://images.unsplash.com/photo-1647378508861-e0b433468ef8?auto=format&fit=crop&w=2000&q=88",
@@ -80,11 +235,30 @@
       "license": "Unsplash License",
       "subject": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
       "alt": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
-      "heading": "STAY FOR THE BAY",
-      "kicker": "STAY IN VILLEFRANCHE",
-      "tip": "After the village lanes, unwind beside Marinières beach.",
+      "heading": "FILL YOUR FEED WITH WONDER.",
+      "kicker": "YOUR TRAVEL ATLAS",
       "activity_source": "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
-      "focus_y": 0.5
+      "focus_y": 0.5,
+      "layout": "cta",
+      "fact_checks": [
+        "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/"
+      ],
+      "review": {
+        "reader_value": "Invites following for beautiful places backed by details for real plans.",
+        "image_context": "The authentic Villefranche waterfront closes the coastal story without a swimming forecast.",
+        "specific_detail": "Uses the standard brand promise and the correct account handle.",
+        "distinct_contribution": "One conversion slide supplies a recognisable finish without replacing an editorial stop."
+      }
     }
-  ]
+  ],
+  "editorial_version": 5,
+  "format": "seasonal-festival-rail-guide",
+  "slide_count_rationale": "Eight: cover, rail/date planning card, two distinctive festival scenes, Nice food market, Antibes art outing, Villefranche harbour-and-art outing, standard follow card. No filler beach slide.",
+  "editorial_status": "ready_for_visual_review",
+  "reviewed_sources_on": "2026-10-29",
+  "caption_review": {
+    "hook": "Grounded curiosity gap with specific local ritual or time-specific festival.",
+    "save_value": "Adds sequence, dates, closures and transport decisions beyond repeating slide copy.",
+    "verdict": "Final visual review and platform caption limits must pass before scheduling."
+  }
 }

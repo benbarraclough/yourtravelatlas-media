@@ -1,6 +1,24 @@
-# Your Travel Atlas — Editorial Playbook v4
+# Your Travel Atlas — Editorial Playbook v5
 
-Owner's instructions consolidated 28 October 2026. This document is the editorial source of truth for the @yourtravelatlas automated publication. Existing code checks are guardrails, not a substitute for editorial judgment.
+Owner's instructions consolidated 28–29 October 2026. This document is the editorial source of truth for the @yourtravelatlas automated publication. Existing code checks are guardrails, not a substitute for editorial judgment.
+
+## Publication standard — mandatory v5 process
+
+Read [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md) on every creation run, before choosing concepts, and follow its research → storyboard → challenge → render → visual review → schedule checklist. Read [EDITORIAL_BENCHMARKS.md](EDITORIAL_BENCHMARKS.md) when developing formats; refresh competitive evidence periodically and document any access limitations.
+
+**Beautiful pictures with interchangeable one-line suggestions fail.** Every editorial slide must tell the reader how to enjoy a specific experience, what not to miss, why it is special and the useful detail that makes it a real plan. A named street, trail start, train direction, dish, local ritual, event date or distinctive thing to seek out usually supplies the substance. Do not dump facts merely to fill the page. The reader must be able to imagine doing it and know something valuable they did not know before.
+
+**Recognisable design, different editorial treatments:** a seven-day railway itinerary needs ordered days/stops, plausible connections, bases and meaningful pacing; a Mexico City neighbourhood guide needs specific streets, food, cultural stops and a coherent way to spend time there; extraordinary swimming locations need exact named spots, distinctive water experiences, seasonal/access facts and a reason each deserves the bucket list. They must not look or read like the same list with different place names. Preserve the masthead, destination hierarchy, issue numbering, cream/ink palette, typography family and WANDER FURTHER while choosing story, event, route, comparison or planning layouts to serve the idea. These examples are treatment guidance, not preapproved or researched future posts.
+
+**Slide count follows value:** usually 6–10 total in the current pipeline, including a standard final card, but no fixed default of five, eight, or ten. Keep at least five genuine editorial pages before the CTA. Add a page only if it offers a new experience, essential plan, context or exceptional visual moment. Cut any image that duplicates another's role. Record `slide_count_rationale`; never add weak scenes just to use the maximum.
+
+**Seasonal reasons to go:** research local festivals, celebrations, natural phenomena and special events when developing every concept. Include them when they materially improve the trip idea; do not force a festival into every post. For events, record the exact edition/year, official source, checked date, confirmed/recurring/unannounced status, dates, location and the specific experience to choose. Do not copy a past programme into a future edition or promise future times/lineups. Label archive event photos with their edition/year; distinguish sunny location images from the actual season being recommended. Recheck time-sensitive claims before scheduling, and again if travel/event dates or the post's publication date change.
+
+**Standard last image for every new carousel:** one genuine, beautiful, properly licensed photograph supporting the story; fixed headline **FILL YOUR FEED WITH WONDER.** and fixed copy **Follow @yourtravelatlas for beautiful places and the details that turn them into real plans.** Keep this single closing card visually consistent across the series. Do not claim people will never see the account again or invent algorithmic urgency. The CTA is additional to the editorial pages, not a substitute for value. Reels retain their own approved format and do not inherit this carousel card automatically.
+
+**Stricter review:** each slide stores a substantive `review` explaining `reader_value`, `image_context`, `specific_detail`, and `distinct_contribution`, plus a `fact_checks` source ledger. A separate final review records pass/revise/reject, weak material cut, the caption hook/save value, actual rendered images inspected, image/word fit and archive labels checked, and exact media revision. Technical rendering success and completed fields NEVER constitute creative approval. If anything is generic, weak, misleading or unverifiable, revise or reject before scheduling. See the reject rules and review-record requirements in EDITORIAL_REVIEW.md.
+
+All new or unpublished carousels require `editorial_version >= 5`. The renderer rejects missing source/review fields, missing/duplicate/misplaced closing cards, oversized captions and text that overlaps the footer. Only already published launch issue 001 retains the legacy layout. These checks prevent omissions; the editorial agent must still inspect every image and challenge every claim.
 
 ## Mission and voice
 A premium-feeling, curious, original Instagram travel magazine that sparks the desire to explore. Not a sales page, affiliate funnel, destination encyclopedia, AI-photo dump, generic listicle farm or safety leaflet. Showcase places, experiences, routes and ways of travelling, whether adventurous, relaxed, urban, cultural or remote. Speak to the reader as a curious traveller, not like a tourism brochure. "WANDER FURTHER" is the consistent tagline.
@@ -10,7 +28,7 @@ The publication must welcome travellers who want *easy, sociable, achievable tri
 
 Target a flexible long-run mix: approximately **40% easy exploration, 35% journeys and approachable experiences, 25% demanding adventure**. This is a portfolio balance, NOT a rigid per-post classifier or a license to force ideas into a formula. Some destinations suit a mix of easy days and more demanding options; show that range. Do not assume everyone wants to hike a mountain, surf an expert wave, spend a fortnight driving remote roads or pay for expensive excursions.
 
-**Immediate corrective action:** issues 001–003 are predominantly active, outdoors-heavy regional collections. In the *next three fresh issues*, at least **two** must foreground low-friction, attainable travel (city/culture, seaside, relaxed food/design, rail or easy getaway), and **at most one** should centre a strenuous adventure. Avoid three consecutive geographically distant or expedition-style concepts. Preserve the brand and premium visual style. Suggestions should spark ideas the account owner might want to pursue too, not require heroics or deep pockets.
+**Initial corrective action completed:** unpublished issues 002 and 003 were replaced with attainable city/culture and coastal-rail ideas. Continue the long-run energy mix rather than repeatedly producing European city breaks. Avoid three consecutive expedition-style concepts. Suggestions should spark ideas the account owner might want to pursue too, not require heroics or deep pockets.
 
 For every future issue, record **effort level** (`relaxed` / `moderate` / `adventurous`) plus an **accessibility angle** in the JSON. Explain how an ordinary traveller could enjoy it with a friend, without presenting accessible places as boring. Do not fabricate budgets or public transport access.
 
@@ -74,15 +92,17 @@ When reviewing a comparable account, answer: What is its post's promise? Why wou
 All post and slide text should use correct destination names, readable type, appropriate line breaks and thoughtful spacing.
 
 ## Supporting slides
-- Usually 5–8 total high-quality slides (minimum 5, Instagram maximum 10 in this pipeline). Each photo must be independently compelling and add a different place, perspective, activity or atmosphere. Choose deliberate variety, not a batch of lookalike photos.
+- Choose the number of pages from the story, with at least five editorial pages plus the final standard CTA and a maximum of ten total in this pipeline. Each photo must be independently compelling and add a different place, perspective, activity or essential planning context. Choose deliberate variety, not a batch of lookalike photos.
 - Each slide should explain a distinct part of the travel idea, ideally with **place/experience name** and a short, concrete, vivid, **specific experience a traveller could actually plan**, backed by research; show a plausible adventure, journey or activity, not just a generic description.
 - Examples: "Walk across a white clay pan dotted with dark, skeletal trees" rather than "Check 4×4 access"; "Explore the coast where the desert meets the Atlantic" rather than "See how quickly the landscape changes"; "Hike above the valley to a dramatic limestone ridge" rather than "Plan a day for this hike."
-- **No health-and-safety instructions, access restrictions, generic filler, empty 'see this / watch that' commands or scolding in the small on-image description.** Relevant material access/safety requirements belong in the researched caption or a separate practical planning note when genuinely significant.
+- Keep the main copy experiential and specific. No scolding, generic safety lists, filler or empty 'see this / watch that' commands. A short, clearly separated planning line MAY carry a material closure, event date, booking decision or route distinction when it makes the slide usable; fuller logistics/access information belongs in the caption or a planning page. Do not hide facts that change the proposed experience.
 - Information should paint a travel experience, not mainly list facts such as elevation, dates or foreign language place names unless unusually relevant. Do not imply wildlife is guaranteed.
 - Vary slide structure intelligently when the premise calls for maps, timelines, itinerary stops, practical planning panels or city/neighbourhood details; these must be accurate and aesthetically consistent.
 - Never use promotional images, logos, watermarks or near-duplicate scenes.
 
 ## Caption
+- The first two lines must earn attention through a concrete, researched curiosity, an unexpectedly useful trip idea or a specific promise—not generic travel enthusiasm, clickbait or false scarcity. Write at least two hook candidates during review and choose the strongest accurate one.
+- The caption must be gripping AND worth saving: named essentials, a plausible sequence or choices, timing, a meaningful local detail and the practical distinction that prevents a wasted trip. Put the highest-value information before credits/hashtags. Stay within 2,200 characters including credits and hashtags; do not truncate or omit required licences to fit.
 - Open with a reason to care, a sensory detail, useful idea or intriguing observation.
 - Give a meaningful overview: what someone might do, what a realistic trip feels like, whether to base in one place or move around, any substantive considerations such as timing, transport or travel effort.
 - No unnecessary history, Wikipedia excerpts, mountain elevations, local-language trivia, inflated claims or generic travel fluff.
