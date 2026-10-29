@@ -23,7 +23,11 @@
     "draft": true,
     "autoPublish": false,
     "uuid": "-4032844728941590495",
-    "verified_id": 410023855
+    "verified_id": 410036397,
+    "media_count": 7,
+    "media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee",
+    "verification": "Re-fetched: exact new v6 caption and imported media present, draft=true, autoPublish=false at both post and Instagram level. Intended dates retained; no publishing until owner approves.",
+    "Istanbul": "Original owner-approved Reel fields compared to pre-change snapshot; unchanged."
   },
   "internal_verdict": "pass_for_owner_review",
   "brief_sha256": "5aa82b045fcb52a0303a1ad069168ec5034bd82f6f274fa0b85cceaec2bdcd10",
