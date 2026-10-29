@@ -39,3 +39,16 @@ Sources, photographer names and fact-check references are stored in each JSON br
 The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Metricool queue and this repository's content history, research and create next issue briefs via the GitHub connector, confirm that the Actions run succeeded, review the rendered media, then schedule eligible posts through the Metricool connector. If output has not yet rendered, leave the draft unpublished until verified in a later run.
 
 This README and generated media are public. Do not add passwords, private data or credentials.
+
+## Reels (licensed moving video)
+
+The video workflow uses only no-cost GitHub Actions, FFmpeg and real free licensed footage:
+
+1. Research an original, experience-led **video** concept; verify actual footage pages, licence, credited creators and traveller claims.
+2. Create `content/reels/NNN-slug.json` using the Lisbon pilot `content/reels/004-lisbon-weekend.json` as a reference.
+3. [Render licensed travel Reels](.github/workflows/reels.yml) automatically uses `scripts/render_reel.py` to create `media/reels/<slug>/reel.mp4`, a portrait `cover.jpg`, a complete `storyboard.jpg` of actual frames, and a detailed provenance manifest.
+4. Inspect storyboard and verify H.264 MP4, 1080×1920 portrait, actual moving footage, readable overlay labels, editing quality and silent audio policy before scheduling.
+5. Schedule through Metricool as Instagram `REEL` with the final public video URL, optional custom cover URL, `autoPublish: true`, `draft: false`, `showReelOnFeed: true`. Re-fetch planner and verify `PENDING` without claiming live publication.
+6. A Reel takes an existing publication slot; **never exceed 16 total monthly posts** across all formats under our safety budget.
+
+**Pilot:** Issue 004, *A Lisbon Weekend Without Rushing*, four distinct Pexels clips and an authentic 14-second 1080×1920 video, scheduled for Thursday 5 November 2026 at 09:00 Europe/London. Metricool planner UUID: `5053010952195819165`. This confirms the production and scheduling handoff; publication needs separate verification when due. Default audio is silence until a genuinely approved and suitably licensed soundtrack pipeline exists.
