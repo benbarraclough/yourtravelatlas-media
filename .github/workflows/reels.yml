@@ -1,0 +1,60 @@
+name: Render licensed travel Reels
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "content/reels/**"
+      - "scripts/render_reel.py"
+      - ".github/workflows/reels.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: travel-carousel-render
+  cancel-in-progress: false
+
+jobs:
+  reel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install free dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg fonts-dejavu-core
+          python -m pip install -r requirements.txt
+      - name: Render against the latest source and commit verified footage
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git checkout -B main origin/main
+            python scripts/render_reel.py
+            git add media/reels/
+            if git diff --cached --quiet; then
+              echo "Reels already up-to-date"
+              exit 0
+            fi
+            git commit -m "Render licensed travel Reel assets [skip ci]"
+            if git push origin HEAD:main; then
+              echo "Reel assets committed."
+              exit 0
+            fi
+            echo "Repository changed; retrying from latest main."
+          done
+          echo "Failed to commit after retries" >&2
+          exit 1
