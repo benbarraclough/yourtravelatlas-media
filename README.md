@@ -2,7 +2,7 @@
 
 **Editorial source of truth:** [Your Travel Atlas — Editorial Playbook (latest)](EDITORIAL_GUIDELINES.md). Read it before creating or changing issues.
 
-**Mandatory production procedure:** [Editorial creation and review](EDITORIAL_REVIEW.md), with [competitive reference evidence](EDITORIAL_BENCHMARKS.md). New carousels require editorial_version 6: image-led clear hooks, discreet @yourtravelatlas/issue branding, no WANDER FURTHER, supporting overlays at most 30 words, caption location pins and relevant critical details. Varied intentions and 5–10 intentional pages; no compulsory itinerary panels. Per-slide source/value reviews and actual image inspection remain required. Porto/Riviera first v6 remakes require owner approval before scheduling and remain drafts meanwhile; future editions use the calibrated internal review. Published issue001 and the approved Istanbul Reel stay unchanged. Run both renderer test suites before production changes.
+**Mandatory production procedure:** [Editorial creation and review](EDITORIAL_REVIEW.md), with [competitive reference evidence](EDITORIAL_BENCHMARKS.md). New carousels require editorial_version 6: image-led clear hooks, discreet @yourtravelatlas/issue branding, no WANDER FURTHER, supporting overlays at most 30 words, caption location pins and relevant critical details. Varied intentions and 5–10 intentional pages; no compulsory itinerary panels. Per-slide source/value reviews and actual image inspection remain required. Porto/Riviera v6 remakes were owner-approved and scheduled on 29 October 2026; their temporary review hold is released. Future editions use the calibrated internal review. Published issue001 and the approved Istanbul Reel stay unchanged. Run both renderer test suites before production changes.
 
 A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www.instagram.com/yourtravelatlas/).
 
@@ -21,8 +21,8 @@ A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www
 ## Launch issues
 
 - **001** Faroe Islands: five different places for an Atlantic exploration story.
-- **002** Porto: a slow city weekend with Ribeira, São Bento, Gaia and Foz. Six-slide v6 remake; draft awaiting owner approval, intended 2 November 2026 at 19:00 Europe/London.
-- **003** French Riviera by train: one Nice base with separate coastal outings. Seven-slide v6 remake; draft awaiting owner approval, intended 4 November 2026 at 12:00 Europe/London.
+- **002** Porto: a slow city weekend with Ribeira, São Bento, Gaia and Foz. Six-slide v6 remake; owner-approved and scheduled 2 November 2026 at 19:00 Europe/London.
+- **003** French Riviera by train: one Nice base with separate coastal outings. Seven-slide v6 remake; owner-approved and scheduled 4 November 2026 at 12:00 Europe/London.
 
 Sources, photographer names and fact-check references are stored in each JSON brief; generated `manifest.json` files provide the image provenance and output list.
 
@@ -38,7 +38,7 @@ Sources, photographer names and fact-check references are stored in each JSON br
 
 ## Automated task
 
-The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Metricool queue and this repository's content history, respect the initial Porto/Riviera owner-review hold, research and create eligible next issue briefs via the GitHub connector, confirm that the Actions run succeeded, review the rendered media, then schedule eligible posts through the Metricool connector. If output has not yet rendered, leave the draft unpublished until verified in a later run.
+The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Metricool queue and this repository's content history, research and create eligible next issue briefs via the GitHub connector, confirm that the Actions run succeeded, review the rendered media, then schedule eligible posts through the Metricool connector. If output has not yet rendered, leave the draft unpublished until verified in a later run.
 
 This README and generated media are public. Do not add passwords, private data or credentials.
 

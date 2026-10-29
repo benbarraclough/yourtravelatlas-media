@@ -2,9 +2,25 @@
   "issue": 3,
   "slug": "003-riviera-by-train",
   "editorial_version": 6,
-  "verdict": "awaiting_owner_approval",
+  "verdict": "approved",
   "owner_approval_required": true,
-  "owner_approval": null,
+  "owner_approval": {
+    "approved": true,
+    "date": "2026-10-29",
+    "instruction": "yeh go ahead with those, schedule them and then we can look at reels again",
+    "media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee",
+    "approved_brief_sha256": "5aa82b045fcb52a0303a1ad069168ec5034bd82f6f274fa0b85cceaec2bdcd10",
+    "approved_caption_sha256": "e63b3e4e4ac583a237bc54019009bcdf63db561046238e3ef558805c179d1da7",
+    "image_sha256": {
+      "media/003-riviera-by-train/01.jpg": "9fc4f0cbb48ebfb9c40c3305641cb4e59f60638e0a34290915c5d210dbd1dabe",
+      "media/003-riviera-by-train/02.jpg": "dc681379150cb274b220d6652571b4a7c399d1b5569f58c312a6c5ac9b7b97eb",
+      "media/003-riviera-by-train/03.jpg": "dcd6585cf7efabe033c5653ef6269ad7cd158f616b21f38394551f05969efc2c",
+      "media/003-riviera-by-train/04.jpg": "c599ed18b1b7d880e73fabe73bd7709b520d9a4a9921bbf98e595e7b2631921a",
+      "media/003-riviera-by-train/05.jpg": "8a6d7548bbd9244914ce80dd67285c67b83d4ce4a8857655bfe8d806628f6000",
+      "media/003-riviera-by-train/06.jpg": "d10ee0aa064163f1d09130194b3c3ba68e56d232e3a2ce0fafcf3f6a45d60a6e",
+      "media/003-riviera-by-train/07.jpg": "8e8d9a678134d1401ee2917b1a99edd1018c2bee26e1e6a31aeaf6cc22c8587a"
+    }
+  },
   "review_date": "2026-10-29",
   "supersedes": "history/003-riviera-by-train-v5.json",
   "reason": "Owner requested a simpler image-led remake and approval of these first two before scheduling. Earlier v5 approval no longer applies.",
@@ -20,14 +36,8 @@
   ],
   "layout_review": "Every full-size image and contact sheet inspected. Full photographic frame, legible restrained overlay, small account/issue, no Wander Further or brochure panels. Changed Nice and Carnival pages re-inspected.",
   "schedule_hold": {
-    "draft": true,
-    "autoPublish": false,
-    "uuid": "-4032844728941590495",
-    "verified_id": 410036397,
-    "media_count": 7,
-    "media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee",
-    "verification": "Re-fetched: exact new v6 caption and imported media present, draft=true, autoPublish=false at both post and Instagram level. Intended dates retained; no publishing until owner approves.",
-    "Istanbul": "Original owner-approved Reel fields compared to pre-change snapshot; unchanged."
+    "released": true,
+    "reason": "Explicit owner approval on 29 October 2026"
   },
   "internal_verdict": "pass_for_owner_review",
   "brief_sha256": "5aa82b045fcb52a0303a1ad069168ec5034bd82f6f274fa0b85cceaec2bdcd10",
@@ -102,11 +112,35 @@
     "verdict": "Awaiting owner approval of this exact new edition."
   },
   "remaining_limitations": [
-    "Owner has not approved the v6 style or exact edition. Do not schedule.",
     "Recurring months are indicative, exact programmes and closures can change.",
     "Porto/Riviera retain relaxed European subjects for this authorised remake; future ideas must diversify."
   ],
   "media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee",
   "render_code_revision": "a8da5c07b7eafb688ae442e00764b38cdc7d2067",
-  "workflow_run": 40876371908
+  "workflow_run": 40876371908,
+  "scheduling": {
+    "verified": true,
+    "id": 410062260,
+    "uuid": "-4032844728941590495",
+    "publicationDate": {
+      "dateTime": "2026-11-04T12:00:00",
+      "timezone": "Europe/London"
+    },
+    "draft": false,
+    "autoPublish": true,
+    "status": "PENDING",
+    "media_count": 7,
+    "media": [
+      "https://static.metricool.com/planner/202610/7717708-file-18326005797050501726.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-13115416788348734494.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-16465469578180021355.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-15136600362560694283.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-10085433201199562804.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-11312947820693860221.jpeg",
+      "https://static.metricool.com/planner/202610/7717708-file-12475900179881692869.jpeg"
+    ],
+    "caption": "The French Riviera is more than a summer road trip. Take the coastal trains—and in February, add a carnival and a parade made of citrus. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 6\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 2\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 3\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 4\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 5\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
+    "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-4032844728941590495",
+    "reviewed_media_revision": "b91145cab17a26148de75f767779c9e1e0aea5ee"
+  }
 }

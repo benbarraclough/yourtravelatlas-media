@@ -20,7 +20,7 @@ Owner calibration, 29 October 2026: v5 became too much like a weekend brochure. 
 
 **Closing card:** one scenic, licensed image, not repeated within the post. “Fill your feed with wonder.” / “Follow @yourtravelatlas for beautiful places and the details that turn them into real plans.” Keep it recognisable and uncluttered. No false algorithmic urgency. Reels retain their separate format.
 
-**Approval:** source checks, per-slide value/context/detail/contribution reviews, actual full-size and mobile image inspection, caption review and a review record remain mandatory. Judge curiosity, visual appeal, clarity, specific substance and fit to the post's intention—not whether every slide contains a complete trip plan. Owner approval is required for these first v6 Porto and Riviera remakes. They remain drafts with autoPublish=false until Ben approves the exact previews/captions; earlier v5 approvals are superseded. Record that approval against the exact image and caption revision. Subsequent posts can proceed autonomously through the calibrated internal editorial gates unless Ben changes this policy. Automation must respect the temporary owner-review hold and not silently schedule these two or issue004 while initial style calibration is pending.
+**Approval:** source checks, per-slide value/context/detail/contribution reviews, actual full-size and mobile image inspection, caption review and a review record remain mandatory. Judge curiosity, visual appeal, clarity, specific substance and fit to the post's intention—not whether every slide contains a complete trip plan. Ben approved the exact first v6 Porto and Riviera previews/captions on 29 October 2026 and explicitly requested scheduling. Their temporary owner-review hold is released; the approved revisions and verified schedules are in content/reviews/. Subsequent posts proceed autonomously through the calibrated internal editorial gates unless Ben changes this policy.
 
 New/unpublished briefs require editorial_version>=6. A successful render or completed metadata cannot grant editorial approval. Test omission/word-count/layout checks and inspect every final actual image.
 
@@ -119,13 +119,13 @@ Consider Instagram Reels when there is verified, properly licensed and accuratel
 8. Measure saves/shares/follows/reach and Reels watch time once available. Test Monday evenings, Wednesday noon, Thursday mornings as starting UK slots, optimise later based on real account metrics. Maximum 20 posts/month on free plan.
 9. Maintain existing recurring ChatGPT automation; fail closed if a required free tool, reliable licence, accuracy check or rendering step is unavailable. Zero additional spending beyond the existing ChatGPT subscription.
 
-## Current carousel issues — v6 calibration pending
+## Current carousel issues — v6 approved and scheduled
 
 - Issue001 Faroe Islands: already published; frozen legacy design.
-- Issue002 Porto: “How to spend a weekend in Porto”, six pages; awaiting owner approval. Existing Metricool UUID -1686861758455201569 held as draft with autoPublish=false; intended slot 2 November 2026 19:00 Europe/London, subject to timely approval.
-- Issue003 Riviera: “The French Riviera by train”, seven pages; awaiting owner approval. Existing Metricool UUID -4032844728941590495 held as draft with autoPublish=false; intended slot 4 November 2026 12:00 Europe/London, subject to timely approval.
+- Issue002 Porto: “How to spend a weekend in Porto”, six pages; owner-approved and scheduled 2 November 2026 19:00 Europe/London. Metricool UUID -1686861758455201569, ID 410062252, PENDING, draft=false, autoPublish=true.
+- Issue003 Riviera: “The French Riviera by train”, seven pages; owner-approved and scheduled 4 November 2026 12:00 Europe/London. Metricool UUID -4032844728941590495, ID 410062260, PENDING, draft=false, autoPublish=true.
 - Istanbul Reel UUID 5053010952195819165 remains owner-approved and scheduled 5 November 2026 09:00 Europe/London; unchanged.
 
-The former v5 Porto/Riviera render approval at 4740b75 is superseded and must not be used to publish them. Old Namibia/Dolomites media is historical and must not be revived. Review records preserve prior evidence as history. New carousel issue004 is next, but do not schedule new style editions until the initial v6 owner calibration is complete.
+The former v5 Porto/Riviera render approval at 4740b75 is superseded and must not be used to publish them. Old Namibia/Dolomites media is historical and must not be revived. Review records preserve prior evidence as history. New carousel issue004 is next. Initial v6 owner calibration is complete; subsequent editions use the calibrated internal review. Approved media is pinned to b91145cab17a26148de75f767779c9e1e0aea5ee. Exactly three November slots verified including Istanbul; no volume added.
 
 Actual hospitality.guide Instagram comparison is documented in EDITORIAL_BENCHMARKS.md. Learn simplicity, photographic variety and the distinct promise of each format. Never assume permanent browser authentication or invent a social-media review.
