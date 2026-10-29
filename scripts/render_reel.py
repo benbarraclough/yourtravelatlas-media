@@ -27,7 +27,7 @@ FONT_BOLD="/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 FONT_SERIF="/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
 S=requests.Session()
 S.headers.update({"User-Agent":"Mozilla/5.0 (YourTravelAtlas editorial media renderer)"})
-MAX_MB=110
+MAX_MB=240
 
 def run(*cmd):
     p=subprocess.run([str(x) for x in cmd],capture_output=True,text=True)
@@ -67,7 +67,7 @@ def download(clip,tmp):
         for chunk in result.iter_content(128*1024):
             if not chunk:continue
             count+=len(chunk)
-            if count>MAX_MB*1024*1024:raise ValueError("Video source exceeds 110MB")
+            if count>MAX_MB*1024*1024:raise ValueError("Video source exceeds 240MB")
             f.write(chunk)
     if count<40_000:raise ValueError("Video source too small")
     data=probe(tmp)
