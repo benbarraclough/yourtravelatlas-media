@@ -9,24 +9,24 @@
   "reader_scenario": "Friends planning a long weekend: spend time on historic streets, markets, cafés and the public ferries across the Bosphorus at a comfortable pace; not a rigid one-day route.",
   "share_reason": "Send this to the friend you'd take on a spontaneous long weekend: a ferry between continents, atmospheric city streets and coffee stops rather than a checklist of monuments.",
   "originality": "First city-in-motion/urban culture Reel focused on ordinary joyful travel moments and a memorable ferry crossing, distinct from adventure-heavy numbered carousels and the rejected Lisbon/Cinque Terre pilots.",
-  "audio_policy": "wikimedia_cc_by_4",
+  "audio_policy": "incompetech_cc_by_4",
   "editorial_status": "candidate_not_approved",
-  "editorial_review": "Requires verified successful render, complete storyboard/crop visual inspection and listening check of the actual CC BY 4.0 soundtrack before any Metricool automatic publication.",
+  "editorial_review": "Requires verified successful render, complete storyboard/crop visual inspection and listening check of the actual CC BY 4.0 soundtrack before any Metricool automatic publication. 29 Oct 2026: Wikimedia's music server returned 429 to Actions. Changed music source to the original composer's official Incompetech download, to be freshly tested; never bypass Wikimedia rate limiting.",
   "music": {
-    "title": "Chillhouse",
-    "artist": "Frank Schroeter",
-    "source_page": "https://commons.wikimedia.org/wiki/File:Chillhouse_by_Frank_Schroeter.ogg",
-    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chillhouse_by_Frank_Schroeter.ogg",
+    "title": "Protofunk",
+    "artist": "Kevin MacLeod",
+    "source_page": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103",
+    "download_url": "https://static.incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3",
     "license": "CC BY 4.0",
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "credits": "Chillhouse by Frank Schroeter (CC BY 4.0); edited/excerpted and synchronised to video."
+    "credits": "Protofunk by Kevin MacLeod (incompetech.com), CC BY 4.0; excerpt edited and synchronised to video. Guitar performed by Dan Ritter."
   },
   "fact_sources": [
     "https://tga.gov.tr/en/press-room/press-releases/live-an-unforgettable-48-hours-in-istanbul",
     "https://istanbul.travel/en/istiklal",
     "https://sehirhatlari.istanbul/en/seferler"
   ],
-  "caption": "One long weekend. Two continents. A city full of reasons to stay out a little longer. 🇹🇷\n\nIn Istanbul, even getting from one neighbourhood to another can become part of the adventure. Follow the red tram along İstiklal Avenue, linger by the market stalls and make time for a proper Turkish coffee. Then take a public ferry across the Bosphorus, order tea by the window and watch the city unfold from the water.\n\nDon't try to tick off every monument. Leave space for wandering, neighbourhood cafés and an evening beside the strait. Check current ferry routes before you set off.\n\nWho would you take for a long weekend between Europe and Asia? 🌊\n\nFootage: Kenan Turguç, Khaoula ATTAR, Sururi Ballıdağ Director, Esra Afşar, Sıla Deniz Göktaş & Harun Şahin / Pexels.\nMusic: “Chillhouse” — Frank Schroeter, CC BY 4.0 (excerpted and edited). https://commons.wikimedia.org/wiki/File:Chillhouse_by_Frank_Schroeter.ogg\n\n#YourTravelAtlas #Istanbul #IstanbulTravel #Bosphorus #CityBreak #TurkeyTravel #WeekendEscape",
+  "caption": "One long weekend. Two continents. A city full of reasons to stay out a little longer. 🇹🇷\n\nIn Istanbul, even getting from one neighbourhood to another can become part of the adventure. Follow the red tram along İstiklal Avenue, linger by the market stalls and make time for a proper Turkish coffee. Then take a public ferry across the Bosphorus, order tea by the window and watch the city unfold from the water.\n\nDon't try to tick off every monument. Leave space for wandering, neighbourhood cafés and an evening beside the strait. Check current ferry routes before you set off.\n\nWho would you take for a long weekend between Europe and Asia? 🌊\n\nFootage: Kenan Turguç, Khaoula ATTAR, Sururi Ballıdağ Director, Esra Afşar, Sıla Deniz Göktaş & Harun Şahin / Pexels.\nMusic: “Protofunk” — Kevin MacLeod (incompetech.com), CC BY 4.0 (excerpted and edited). https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103\n\n#YourTravelAtlas #Istanbul #IstanbulTravel #Bosphorus #CityBreak #TurkeyTravel #WeekendEscape",
   "clips": [
     {
       "page_url": "https://www.pexels.com/video/aerial-view-of-istanbul-featuring-suleymaniye-mosque-34883236/",
