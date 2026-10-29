@@ -44,6 +44,8 @@ This README and generated media are public. Do not add passwords, private data o
 
 ## Reels — editorial quality before production
 
+Read [Footage sources and feasibility checks](FOOTAGE_SOURCES.md) before every new Reel. The 29 October audit tested sample downloads from Pixabay, Coverr and Mixkit and identified additional specialist archives; it did not approve whole catalogues or expand the production downloader. Only build a Reel when enough coherent, properly licensed, visually strong real footage survives portrait/motion/audio review.
+
 Reels are independent from numbered carousels and initially replace a carousel slot approximately once a fortnight, within the 16-publication internal monthly budget.
 
 The existing no-cost production path uses `content/reels/NNN-slug.json`, `scripts/render_reel.py` and `.github/workflows/reels.yml` to render actual 1080 × 1920 moving footage into `media/reels/<slug>/reel.mp4`, cover, storyboard and source manifest. It can create an original upbeat soundtrack without using copyrighted music or paid APIs. It now **skips any brief containing `"editorial_status": "rejected"`**.
