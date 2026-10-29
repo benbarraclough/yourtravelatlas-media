@@ -59,3 +59,30 @@ Save this for a car-free coast escape.
 Photos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.
 
 #YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton
+
+## 5 places in Japan beyond the big cities
+
+Japan has sand dunes by the sea, a village built for deep snow and wild monkeys that choose to soak in hot springs. These five places deserve a spot on your wishlist. 🇯🇵
+
+📍 Takachiho Gorge, Miyazaki — cover
+A waterfall drops between volcanic cliffs in Kyushu. See Manai Falls from the gorge path or, when conditions allow, from a rental rowing boat. Reserve ahead and check the latest boat and trail notices.
+
+📍 Tottori Sand Dunes — slide 2
+Climb the wind-shaped dunes for views of the Sea of Japan. They're coastal dunes, not a desert; buses run from Tottori Station.
+
+📍 Shirakawa-go, Gifu — slide 3
+A lived-in UNESCO village of gassho-zukuri farmhouses with steep thatched roofs built for heavy snow. Visit by bus from Takayama; winter scenes are seasonal.
+
+📍 Jigokudani Snow Monkey Park, Nagano — slide 4
+Wild Japanese macaques sometimes bathe in the hot spring, especially in winter (roughly December–March). The approach includes a forest walk of around 25–40 minutes. Sightings and bathing aren't guaranteed; never touch or feed the monkeys.
+
+📍 Shirogane Blue Pond, Biei, Hokkaido — slide 5
+Minerals and light make this pond appear strikingly blue, but its colour changes with weather and season. Reach it by local bus or car from Biei; the blue water isn't guaranteed.
+
+These are separate discoveries across Japan, not a five-stop route or a one-week itinerary. The cover and pond photos show green-season conditions; Shirakawa-go and the monkeys show winter.
+
+Which one would you go out of your way for?
+
+Photos: Daniel Newman, Shino Nakamura, Adam Jang, Chloe Evans, Georgios Kaleadis & Nizar F / Unsplash.
+
+#YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido
