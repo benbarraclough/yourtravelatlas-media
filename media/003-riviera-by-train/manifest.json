@@ -1,0 +1,89 @@
+{
+  "issue": 3,
+  "slug": "003-riviera-by-train",
+  "status": "rendered-not-published",
+  "caption": "You can have a Riviera holiday without spending it behind the wheel. Pick a base in Nice, unpack once and let the coastal trains open up the rest. 🚆\n\nKeep a day for Nice itself: a slow walk along the Promenade des Anglais, an old-town lunch and nowhere urgent to be.\n\nThen choose one seaside town per outing:\n• Antibes, west of Nice: wander the old town, stop at a café and loop back along the ramparts.\n• Villefranche-sur-Mer, east: take the old village lanes down to the harbour, then leave room for Marinières beach.\n• Menton, farther east: stroll Les Sablettes below the colourful old town, with the Saint-Michel steps an optional detour.\n\nTER services link these towns with Nice. Antibes is in the opposite direction from Villefranche and Menton, so this is a set of separate day trips—not a four-stop day. Check your travel dates and last return trains before setting out; stations still involve a walk to the places pictured.\n\nThese photographs are warm-weather inspiration. Beach and swimming days depend on the season and conditions; the waterfront walks and town outings can be the trip in their own right.\n\nSave this for the group chat that wants a little more coast and a little less organising.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #CoteDAzur #RivieraByTrain #NiceFrance #Antibes #VillefrancheSurMer #Menton",
+  "fact_sources": [
+    "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
+    "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
+    "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
+    "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
+    "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/get-to-villefranche-sur-mer/",
+    "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
+    "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/"
+  ],
+  "editorial_intent": "A French Riviera escape based in Nice, using coastal trains for separate day trips to Antibes, Villefranche-sur-Mer and Menton, with long lunches, old-town walks and time beside the sea.",
+  "share_reason": "Friends can choose one hotel base and a different seaside outing each day, enjoying the Riviera without hiring a car or packing up between towns.",
+  "slides": [
+    {
+      "subject": "Colourful old-town buildings above Menton's Mediterranean waterfront.",
+      "source_page": "https://unsplash.com/photos/colorful-buildings-line-a-beach-with-palm-trees-2R_dJAMF5Yg",
+      "photographer": "Luna Wang",
+      "license": "Unsplash License",
+      "alt": "Colourful old-town buildings above Menton's Mediterranean waterfront.",
+      "activity_source": "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
+      "file": "01.jpg",
+      "source_sha256": "9694cdafd195db368887f347b33630a98c427d8e1d8eaa6bd4bfd400f5015ba5",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Film photograph of Nice's curving seafront and busy pebble beaches.",
+      "source_page": "https://unsplash.com/photos/a-beach-with-a-lot-of-people-on-it-M2u_fRfluME",
+      "photographer": "Nick Page",
+      "license": "Unsplash License",
+      "alt": "Film photograph of Nice's curving seafront and busy pebble beaches.",
+      "activity_source": "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
+      "file": "02.jpg",
+      "source_sha256": "91461e348e0f7ee0a8913452e2d0b60248bbe15ea5b3e99ab49ba4d9537594fd",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
+      "source_page": "https://unsplash.com/photos/coastal-town-with-ancient-walls-overlooking-the-sea-oZcroCg_JFw",
+      "photographer": "Luna Wang",
+      "license": "Unsplash License",
+      "alt": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
+      "activity_source": "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
+      "file": "03.jpg",
+      "source_sha256": "a435c51b53cb57dde2d037a52ef50a6f16ff19a9099abd9761c8f6db7b4cb819",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
+      "source_page": "https://unsplash.com/photos/a-narrow-street-with-a-few-buildings-on-both-sides-e801Lh5Htls",
+      "photographer": "Chelsea Essig",
+      "license": "Unsplash License",
+      "alt": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
+      "activity_source": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
+      "file": "04.jpg",
+      "source_sha256": "c9171b413a8ced03d68eec1673b70980c9ac1be78fcd49aad3d134b16daa6df3",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
+      "source_page": "https://unsplash.com/photos/a-body-of-water-filled-with-lots-of-boats-Wu8N7z9OWTQ",
+      "photographer": "Leonardo Caetano",
+      "license": "Unsplash License",
+      "alt": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
+      "activity_source": "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
+      "file": "05.jpg",
+      "source_sha256": "b3c7ce549b707c2fb4e57e25d78091e1059d98bab71d36275bcf9e2a1aab7325",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ]
+}

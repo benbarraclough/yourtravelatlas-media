@@ -1,0 +1,86 @@
+{
+  "issue": 2,
+  "slug": "002-porto-slow-weekend",
+  "status": "rendered-not-published",
+  "caption": "Porto is a good place to leave gaps in the itinerary. A table by the Douro, a tiled station hall, an evening across the bridge—and an Atlantic afternoon if you feel like it. 🇵🇹\n\nMake the historic centre your starting point. Pair São Bento's azulejo-lined entrance hall with the lanes down to Ribeira, then leave time for a riverside meal instead of another attraction. Cross the upper deck of Luís I Bridge towards Gaia for the evening views; the metro also connects São Bento and Jardim do Morro.\n\nFor a change of pace, give Foz its own outing. Take public transport west, then stroll the seafront where the Douro meets the Atlantic. This is a menu for a slow weekend, not a timed walking route.\n\nA relaxed trip still involves Porto's hills and cobbles: choose your base and transport around the walking you enjoy. No car needed for this version of the weekend.\n\nFor the friend who always says, “Let's just book a little city break.”\n\nPhotos: Jacek Urbanski, Vitalii Kyktov, Maxime Galliot & Rui Alves / Unsplash.\n\n#YourTravelAtlas #Porto #PortoWeekend #PortugalTravel #CityBreak #SlowTravel",
+  "fact_sources": [
+    "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
+    "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
+    "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
+    "https://backoffice.visitporto.travel/en-GB/foz"
+  ],
+  "editorial_intent": "A sociable Porto weekend with room for riverside coffee, São Bento's tile hall, an evening crossing to Gaia and a separate outing to the Atlantic at Foz, rather than a landmark checklist.",
+  "share_reason": "Send this to the friend who wants a beautiful city break with unhurried meals, culture and a little sea air, without hiring a car or moving hotels.",
+  "slides": [
+    {
+      "subject": "Traditional boats on the Douro below Porto's colourful Ribeira waterfront.",
+      "source_page": "https://unsplash.com/photos/boats-sit-on-water-in-front-of-a-city-7rPA1-E1X9A",
+      "photographer": "Jacek Urbanski",
+      "license": "Unsplash License",
+      "alt": "Traditional boats on the Douro below Porto's colourful Ribeira waterfront.",
+      "activity_source": "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
+      "file": "01.jpg",
+      "source_sha256": "48ed1c11d2247df69e60bf53ba5f5c205e3e8eaa1bc3ef79d0621ef323752d4d",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Café terraces and colourful façades on a quiet, damp Ribeira square in Porto.",
+      "source_page": "https://unsplash.com/photos/empty-square-with-outdoor-cafe-seating-and-buildings-1dL_jchYAlg",
+      "photographer": "Vitalii Kyktov",
+      "license": "Unsplash License",
+      "alt": "Café terraces and colourful façades on a quiet, damp Ribeira square in Porto.",
+      "activity_source": "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
+      "file": "02.jpg",
+      "source_sha256": "477f72da25e9b10c5cabed000c9a4cd8211ef450bad65721619faa862a5fc443",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
+      "source_page": "https://unsplash.com/photos/a-blue-and-white-tile-mural-depicts-a-lively-scene-ciZmTEBCfZo",
+      "photographer": "Jacek Urbanski",
+      "license": "Unsplash License",
+      "alt": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
+      "activity_source": "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
+      "file": "03.jpg",
+      "source_sha256": "b46ff8f3965d4b0daa4c25ba3a85f224233eaedb77dd1dae4f4356207fcb1706",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
+      "source_page": "https://unsplash.com/photos/city-skyline-and-bridge-at-sunset-with-orange-clouds-ONxCimFDCNY",
+      "photographer": "Maxime Galliot",
+      "license": "Unsplash License",
+      "alt": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
+      "activity_source": "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
+      "file": "04.jpg",
+      "source_sha256": "11f1d3a93516ddfc62833e6818ae2a5b88755229329f8a258dc25e64665c0341",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    {
+      "subject": "A beachgoer silhouetted by the Atlantic and lighthouses at Foz do Douro.",
+      "source_page": "https://unsplash.com/photos/a-person-standing-on-a-beach-JNRMADXS7aA",
+      "photographer": "Rui Alves",
+      "license": "Unsplash License",
+      "alt": "A beachgoer silhouetted by the Atlantic and lighthouses at Foz do Douro.",
+      "activity_source": "https://backoffice.visitporto.travel/en-GB/foz",
+      "file": "05.jpg",
+      "source_sha256": "fa944894e707714bb452b0d65867c7b2acda5517f87b129bb4dd71873367e133",
+      "size": [
+        1080,
+        1350
+      ]
+    }
+  ]
+}
