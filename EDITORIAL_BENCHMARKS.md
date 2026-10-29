@@ -36,3 +36,9 @@ These indexes may rewrite descriptions or add metadata: do not attribute their e
 | No clear end/follow proposition | One consistent photographic closing card with an honest value promise |
 
 Future review: whenever primary Instagram access is available, inspect the actual full posts and update these limitations. Until then, do not claim a full competitor visual audit or that our output outperforms theirs.
+
+## Browser follow-up in the same review
+
+The public profile https://www.instagram.com/hospitality.guide/ loaded in the research browser after declining optional cookies and dismissing a sign-up prompt. Its actual grid showed covers including a month-by-month travel theme and an Andalusia collection, supporting the observation of clear thematic framing. Opening the recent 27 October carousel https://www.instagram.com/hospitality.guide/p/DfAqtkXkbEA/ produced 'See this post — Sign up or log in'. Full slides and caption remain uninspected.
+
+The owner asked how to enable full Instagram viewing. A secure browser sign-in request was attempted, but automatic approval review rejected it because explicit account-login authorisation had not been given. Do not retry authentication or use a workaround without that authorisation. Browser-session login is separate from the owner's normal local Chrome session. No Instagram-reading integration was found in the available plugin search (Metricool covers the connected brand, not this complete visual competitor review).
