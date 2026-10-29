@@ -1,76 +1,42 @@
-# Your Travel Atlas — Media Pipeline
+# Your Travel Atlas — media and editorial workflow
 
-**Editorial source of truth:** [Your Travel Atlas — Editorial Playbook (latest)](EDITORIAL_GUIDELINES.md). Read it before creating or changing issues.
+**Start here:** [Three-format creation process and flowcharts](CONTENT_PROCESS.md).
 
-**Mandatory production procedure:** [Editorial creation and review](EDITORIAL_REVIEW.md), with [competitive reference evidence](EDITORIAL_BENCHMARKS.md). New carousels require editorial_version 6: image-led clear hooks, discreet @yourtravelatlas/issue branding, no WANDER FURTHER, supporting overlays at most 30 words, caption location pins and relevant critical details. Varied intentions and 5–10 intentional pages; no compulsory itinerary panels. Per-slide source/value reviews and actual image inspection remain required. Porto/Riviera v6 remakes were owner-approved and scheduled on 29 October 2026; their temporary review hold is released. Future editions use the calibrated internal review. Published issue001 and the approved Istanbul Reel stay unchanged. Run both renderer test suites before production changes.
+Read [Editorial Guidelines v7](EDITORIAL_GUIDELINES.md), [mandatory approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md) on every production run. The three formats coexist: formal **Travel Discovery Collection** destination guides, attention-grabbing **Discovery carousels**, and informative authentic-video **Travel Reels**. Only the Collection has public issue numbering on new editions.
 
-A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www.instagram.com/yourtravelatlas/).
+£0 additional cost. GitHub Actions renders assets; ChatGPT researches/reviews and Metricool schedules. This public repository contains no Instagram credentials and does not publish directly. The recurring task reads current policy rather than relying on chat memory.
 
-**GitHub Actions renders artwork. ChatGPT + Metricool handles editorial research and publishing.** This repository does **not** store Instagram credentials or publish directly.
+## Production paths and capability boundary
 
-## How it works
+- Photo briefs: content/posts/NNN-slug.json; scripts/render.py; .github/workflows/render.yml; 1080×1350 JPEGs and provenance manifests in media/<slug>/.
+- Reel briefs: content/reels/NNN-slug.json; scripts/render_reel.py; .github/workflows/reels.yml; 1080×1920 H.264/AAC MP4, cover, storyboard, caption and provenance manifest in media/reels/<slug>/.
+- Research and exact-edition approval records: content/research/ and content/reviews/. Pin reviewed media commits before importing to Metricool.
+- Current photo renderer implements the v6 discovery treatment and the frozen legacy Faroe design, not all v7 routing/public numbering. Before new v7 production, implement and test explicit collection/discovery handling and inspect actual outputs. Do not disguise a new guide as published issue 001 to bypass validation. See CONTENT_PROCESS.md for the complete handoff.
+- Current photo pipeline supports 5–10 total pages. Numerical promises must fit honestly; expand/test the pipeline and verify delivery constraints before larger formats. Do not omit promised items.
+- Current Reel renderer's four-shot experimental exception is not editorial permission. V7 requires at least five distinct purposeful real shots. Additional footage hosts/licences and music tracks require individual verification and tested support.
+- Renderer tests: python scripts/test_editorial_renderer.py and python -m unittest discover -s tests. Tests do not replace inspection of all actual images, complete video playback or listening to the mastered track.
 
-1. Research a travel story with a specific editorial purpose. Check every factual claim against primary tourism, park or transport sources. Choose **5–10** different, independently compelling photographs from verified, free-to-reuse licence pages. Never use Unsplash+ images. Maintain correct creator attribution and image-specific alternative text.
-2. Add a JSON brief to `content/posts/NNN-topic.json`. Each slide declares its `image_url` (supported hosts: Unsplash, Pexels and Wikimedia), original `source_page`, `photographer`, `license`, `subject`, and on-slide copy. The issue number must be unique.
-3. The free GitHub Actions [Render travel carousels](.github/workflows/render.yml) workflow automatically creates 1080×1350 JPEG slides, using Pillow and open-source system fonts, under `media/<slug>/`. It rejects too-small, missing or duplicate photos, missing attribution, unknown licensing, duplicate issue numbers, missing caption, missing source list and absent overlay copy.
-4. **Inspect the actual rendered slides** before scheduling, including visual distinctiveness, accuracy, cropping, readability, absence of promotions, and source provenance. The renderer cannot prove that a declared licence is genuine; editorial research must establish that from the original source.
-5. Schedule or update the existing draft with Metricool using publicly accessible URLs such as:
-   `https://raw.githubusercontent.com/benbarraclough/yourtravelatlas-media/<reviewed-commit>/media/002-porto-slow-weekend/01.jpg`
-   Include all slide URLs, image alt text, caption and `autoPublish: true`, and use `draft: false` only after the finished carousel passes every check.
+## Current editions — status reference as of 29 October 2026
 
-## Launch issues
+Always re-fetch Metricool and current review records before acting; this table is not a live queue.
 
-- **001** Faroe Islands: five different places for an Atlantic exploration story.
-- **002** Porto: a slow city weekend with Ribeira, São Bento, Gaia and Foz. Six-slide v6 remake; owner-approved and scheduled 2 November 2026 at 19:00 Europe/London.
-- **003** French Riviera by train: one Nice base with separate coastal outings. Seven-slide v6 remake; owner-approved and scheduled 4 November 2026 at 12:00 Europe/London.
+| Edition | State | UK schedule / handling |
+| --- | --- | --- |
+| Faroe Islands, internal carousel 001 | Published; frozen formal design reference | Collection 001 reference; do not alter/re-render to adopt new branding. |
+| Porto, internal carousel 002 | Owner-approved v6 discovery | 2 November 19:00; UUID -1686861758455201569. |
+| French Riviera, internal carousel 003 | Owner-approved v6 discovery | 4 November 12:00; UUID -4032844728941590495. |
+| Japan beyond the big cities, internal carousel 004 | Internally approved v6 discovery | 9 November 19:00; UUID -1638283085571405156. |
+| Istanbul, internal Reel 003 | Previously owner-approved and scheduled; replacement requested | 5 November 09:00; UUID 5053010952195819165. Keep until a replacement passes review and receives owner approval. |
+| Seljalandsfoss, internal Reel 004 | Owner feedback: requires improvement; NOT approved | Four-shot16-second preview is not the future standard. Rework for richer substance and at least five strong clips; no scheduling approval inferred. |
 
-Sources, photographer names and fact-check references are stored in each JSON brief; generated `manifest.json` files provide the image provenance and output list.
+All schedule times use Europe/London. Existing approved artwork, including legacy public numbers, is preserved until intentionally revised and re-reviewed. New Discovery carousels have no public issue number. Internal IDs remain unique and stable; public Collection numbers are a separate sequence. Derive the next internal ID from current history, not a hardcoded instruction.
 
-## Editorial standards
+Lisbon Reel 001 and Cinque Terre Reel 002 are rejected historical pilots. The former Lisbon Metricool UUID now contains Istanbul; never revive Lisbon from an old status note. Namibia/Dolomites and superseded Porto/Riviera variants are historical. Do not reschedule or delete history indiscriminately.
 
-- Every post must be a genuine travel idea, not a photodump; vary formats and geography.
-- Cover text is one clear hook plus discreet @yourtravelatlas and issue. Supporting slides contain concise, specific descriptions with an absolute 30-word total overlay maximum. No WANDER FURTHER or large masthead.
-- Images must be real, location-accurate, visually different, high resolution and appropriately licensed. The photo host and file existing do **not** validate the licence.
-- Captions focus on memorable experiences and practical travel advice, not unhelpful trivia; they are checked, searchable and free of promotions.
-- Do not reuse photos or issue numbers. Check existing published content as well as this repository for repeated editorial concepts.
-- Avoid paid API services, paid add-ons and unapproved third-party promotions. The GitHub Actions workflow uses only standard public-repository runner minutes and free Python libraries.
-- If anything fails, keep the associated Metricool entry as a **draft**. Never publish a faulty or incomplete image set.
+## Scheduling discipline
 
-## Automated task
+Retain the existing cadence and16-publication monthly internal ceiling across formats/networks. A Reel replaces a carousel slot. Check the entire month and available published/manual counts. Use exact reviewed media, full caption/credits/alt text and the appropriate POST/REEL type. Re-fetch to verify imports, count/order, caption, date/timezone, PENDING, draft=false and autoPublish=true. Never claim publication from scheduling success.
 
-The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Metricool queue and this repository's content history, research and create eligible next issue briefs via the GitHub connector, confirm that the Actions run succeeded, review the rendered media, then schedule eligible posts through the Metricool connector. If output has not yet rendered, leave the draft unpublished until verified in a later run.
+Routine content proceeds through calibrated internal review. Owner review requests remain binding, including the current Istanbul replacement. If required evidence or media/playback/audio checks are unavailable, leave the new edition unapproved. Do not degrade quality, buy tools or force a post to fill a slot.
 
-This README and generated media are public. Do not add passwords, private data or credentials.
-
-## Reels — editorial quality before production
-
-Read [Footage sources and feasibility checks](FOOTAGE_SOURCES.md) before every new Reel. The 29 October audit tested sample downloads from Pixabay, Coverr and Mixkit and identified additional specialist archives; it did not approve whole catalogues or expand the production downloader. Only build a Reel when enough coherent, properly licensed, visually strong real footage survives portrait/motion/audio review.
-
-Reels are independent from numbered carousels and initially replace a carousel slot approximately once a fortnight, within the 16-publication internal monthly budget.
-
-The existing no-cost production path uses `content/reels/NNN-slug.json`, `scripts/render_reel.py` and `.github/workflows/reels.yml` to render actual 1080 × 1920 moving footage into `media/reels/<slug>/reel.mp4`, cover, storyboard and source manifest. It can create an original upbeat soundtrack without using copyrighted music or paid APIs. It now **skips any brief containing `"editorial_status": "rejected"`**.
-
-The first two tests — **Lisbon Reel 001** and **Cinque Terre by Train Reel 002** — were creatively rejected despite successful technical renders. Lisbon was rejected and archived; its former Metricool draft UUID `5053010952195819165` was subsequently **repurposed for the approved Istanbul Reel**. Cinque Terre was never scheduled. Neither should be published without a new concept, new source footage and renewed visual/audio review.
-
-**Mandatory Reel quality gate:** Find the travel story first; do not list locations merely because clips exist. Five or more distinct, high-quality, authentic, fully licensed moving shots must independently inspire a real trip friends would want to share. Prominent destination and small masthead at top; inspiring short serif description lower down; **no "Wander Further" line, issue number or clip counter on Reels**. Sound should be bright, positive and fitting, never dreary. For a professionally recorded song, verify exact source, track licence, professional Instagram use and no paid requirement before adding it. Review actual rendered frames, cropping and the sound before a Reel is scheduled.
-
-After editorial approval, schedule as `instagramData.type=REEL`, with verified full MP4, optional thumbnail, `autoPublish=true`, `draft=false`, and confirm via Metricool. It is preferable to leave a slot empty than publish an uninspiring Reel.
-
-
-## Music licensing test result (29 October 2026)
-
-Mixkit's free music licence allows Instagram video posts, but a direct automated download for "Just Keep Walking" by Michael Ramir C. was **blocked with HTTP 403**. The specific Mixkit track was not approved for unattended downloading. The Lisbon and Cinque Terre pilots remain **rejected**; the former Lisbon draft slot was repurposed for the separately owner-approved Istanbul Reel with properly credited Kevin MacLeod music. Do not revive either pilot.
-
-Before the next Reel: select a professionally recorded, joyful, genuinely suitable track; independently verify its licence and actual automated delivery; assess the complete footage, sound and narrative; publish only if the finished result inspires a trip. Never force a Reel into the schedule. Regular carousels are unaffected.
-
-## Current queue correction — 29 October 2026
-
-The owner-requested Porto and Riviera replacements use the existing issue 002/003 Metricool slots. Old Namibia/Dolomites media are retained only as historical outputs and must never be rescheduled automatically. Current brief filenames match their new destinations. The approved Istanbul Reel remains scheduled for 5 November at 09:00 Europe/London; older pilot/audio notes above are historical and the latest Editorial Playbook decision takes precedence.
-
-
-## Issue 004 — reviewed and scheduled (29 October 2026)
-
-- **Japan beyond the big cities:** six-slide, five-place v6 discovery carousel; exact caption and six 1080×1350 photographs visually inspected at full size and in the contact sheet. The first weak Shirakawa-go and Kamikochi photos were rejected and replaced with properly credited Commons imagery (CC BY-SA 4.0 and CC0). The original image source host rate-limited, so the authorised 1920px Commons API thumbnail files were used; no access controls bypassed.
-- **Metricool:** Monday 9 November 2026 at 19:00 Europe/London, UUID `-1638283085571405156`, ID `410217951`, Instagram `POST`, six images and six alt texts, `PENDING`, `draft=false`, `autoPublish=true`. Exact reviewed media revision `4d7681ca2b1d2cb1be80437c5867acffab0771a6` pinned in the importer; full editorial/source/photo/hashes in `content/reviews/004-japan-beyond-the-cities.json`.
-- **Budget:** four November Instagram posts pending across all formats (Porto, Riviera, Istanbul Reel, Japan); 4/16 internal ceiling. The already published Faroe Islands issue001 remains frozen. No new Reel or duplicate slot added.
-- **Tested improvement:** `scripts/build_review.py` now produces SHA-256 image/brief/caption manifests and dynamic editorial preview statuses, avoiding obsolete 'owner approval required' text. The public Commons API candidate audit provided an alternative to inaccessible original photo pages without paid services.
+Final cleanup remains conditional on owner satisfaction with the finished schedule. Preserve all live/queued media dependencies, source/licence evidence and necessary recovery history.

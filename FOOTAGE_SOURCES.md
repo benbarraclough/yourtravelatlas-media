@@ -1,5 +1,7 @@
 # Travel Reel footage sourcebook
 
+Current editorial workflow: [CONTENT_PROCESS.md](CONTENT_PROCESS.md) and [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). At least five strong distinct shots remain mandatory; the four-shot Iceland preview is a revision candidate. Existing provider audit results below are dated evidence, not blanket approval. The prior “do not change Istanbul” statements mean preserve it until the owner-requested replacement is complete and approved.
+
 Checked 29 October 2026. Owner instruction: prioritise genuine moving footage and broaden the source pool so stories are not limited to whatever one stock library happens to contain. If there is not enough good, coherent video, do not make the Reel. This audit did not commission or schedule a new Reel or alter approved content.
 
 ## Source shortlist

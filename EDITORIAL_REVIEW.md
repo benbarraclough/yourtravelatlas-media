@@ -1,73 +1,96 @@
-# Mandatory discovery-first creation and review workflow — v6
+# Mandatory editorial approval — v7
 
-Owner calibration: 29 October 2026. Read with EDITORIAL_GUIDELINES.md and EDITORIAL_BENCHMARKS.md on every run. v6 replaces the brochure-heavy v5 standard; metadata completion cannot prove editorial quality.
+Applies to Collection guides, Discovery carousels and Reels. Read [CONTENT_PROCESS.md](CONTENT_PROCESS.md) for each format's job and flow, plus [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md). All gates are mandatory. A technical pass cannot compensate for an editorial failure.
 
-## 1. Discover before commissioning
+## Verdicts and evidence
 
-Check current archive and the whole target month in Metricool. Search for genuinely interesting places, experiences, routes, animals, facts and seasonal discoveries across accessible social posts, travel publications, blogs, destination websites and books. Hospitality.guide is the main reference for simplicity and photographic storytelling. Use varied sources over time; do not pretend to inspect inaccessible videos, posts or books. Record exact links, what was actually inspected, the principle learned and access limitations. Do not copy text, assets, curated sequences or branding.
+- **PASS:** the criterion is satisfied by specific recorded evidence from this exact edition.
+- **REVISE:** name the actual failure and correction; repeat affected checks after the change. All downstream visual/caption checks affected by a changed fact or asset must be repeated.
+- **REJECT:** the premise, footage or imagery cannot meet the standard without forcing weak material. Record why, abandon that candidate and choose another. Do not re-label rejected work as approved on a later run.
+- **BLOCKED / AWAITING OWNER:** a required source, delivery, playback/listening check or explicitly required owner approval is unavailable. State the gap; do not manufacture a pass.
 
-Develop at least three distinct candidate ideas privately. Compare hook clarity, photographic potential, curiosity, concrete substance, why a friend would share it, and difference from recent posts. Choose the strongest idea before selecting assets. A weekend guide is one valid intention, not a required template. Broad lists can work alongside focused stories. Rotate geography, effort and intention without forcing a fixed content calendar. Avoid repeated European city/coast guides after these two remakes.
+Use reasons, not an average score that lets poor accuracy be offset by a pretty cover. Empty praise such as “high quality” or “adds value” does not count as evidence. Take a separate critical pass after creating the asset. Challenge the weakest page/shot and the weakest factual/creative assumption. Do not call this independent multi-person review unless it actually was.
 
-Record reader promise, scope, format, original angle, share reason, and effort/accessibility where relevant. A wishlist collection or destination fact need not become a complete itinerary. A rail guide must be geographically honest, but does not need an on-image timetable. Never inflate the hook beyond what the post actually delivers.
+## Gate 1 — commission a worthwhile idea
 
-## 2. Research what people want to know
+Check the recent archive, current queue and monthly budget. Compare at least three genuinely different candidate concepts. Record why this one wins, its reader promise, content_type, scope, share/save reason and difference from recent posts. Confirm the title is clear without the caption and worth engaging with. Verify the selection criteria behind “best”, rankings or numerical hooks. Broad collections are allowed; invented authority is not.
 
-Use primary tourism bodies, operators, parks, museums, organisers and original evidence to verify travel claims. Discovery sources are leads, not substitutes for verification. Explain exactly what a photographed subject is and what makes it special. Tailor useful detail to intention: distance for a drive, season for aurora, animal identity/habitat, exact village, route stops, distinctive park character, film scene/location, event dates or relevant closures. Do not invent guaranteed sightings, prices, hours, travel times, access or weather.
+**Stop:** a generic theme, no distinctive substance, near-duplicate recent content, a hook with no visual payoff, or a concept chosen only because free assets are easy to find.
 
-Research events or seasons when helpful; do not force festivals into every post. Default to evergreen month/season guidance instead of a particular year’s dates. Say that exact dates/programmes vary; do not imply a whole month is festival day. Keep edition-specific checks in the private research ledger. Use year-specific public copy only for a deliberately timely concept, not routine destination inspiration. Distinguish confirmed editions from recurring dates and unknown future programmes. Label archive imagery. Do not imply summer location photos depict February conditions. Preserve source URLs, checked dates and claim-to-source ledger for slides AND caption. If sources conflict, omit disputed precision and document the choice.
+## Gate 2 — facts, subjects and rights
 
-## 3. Storyboard for easy swiping
+Maintain a claim-to-source ledger for BOTH screen copy and caption: claim, primary URL, checked date, evidence, uncertainty and resolution. Verify exact place, activity, species or event. For trip guidance, check route logic, season, material access/booking requirements and important closures. For numerical facts, specify scope/units. When sources conflict, remove disputed precision or explain the uncertainty.
 
-Cover: exceptional authentic image + one clear gripping title. Very small @yourtravelatlas and issue only. No large masthead, deck, extra destination stack, WANDER FURTHER or slide counter competing with the hook.
+Verify every original asset page, author, licence, attribution/derivative conditions, actual location and authenticity. Inspect actual pixels/footage, not just tags. Distinguish visual identification from creator-provided location and GPS; photographer home location is not filming-location evidence. Record actual dimensions, usable crop and, for video, chosen interval. Generic scenery may not stand in for a named place. Explicitly label archive/context when needed. Social accounts and videos are inspiration unless reuse rights are proven.
 
-Supporting slides: exact subject/place name plus a concise, specific description. Absolute maximum 30 editorial words TOTAL including title, event dates and archive/context labels. Usually less; never stretch copy to hit 30. One interesting fact or experience may be enough. Explain what it actually is; generic adjectives and “wander and café” filler fail. Put necessary identification/context on the image when omission would mislead. Put fuller planning detail in the caption. Do not force every page to answer a multi-step itinerary questionnaire.
+**Stop:** unsupported material claims, misidentified imagery, missing reuse permission, unverifiable exact location, misleading season/continuity, or important context omitted from the post.
 
-Photography remains dominant. No default cream brochure panels. Vary pacing and structure according to intention, not just for cosmetic variation. A route, animals collection and facts carousel must have different editorial jobs even when the discreet visual identity is shared.
+## Gate 3 — every page and shot earns its place
 
-5–10 total pages currently supported, including exactly one scenic follow card. No fixed default or minimum five editorial pages. Add only genuinely distinct value. Match numerical hooks honestly: a top-ten post must deliver ten items, not eight plus cover/CTA. Expand/test the pipeline if a worthwhile larger format needs it, checking current platform limits first. Cut filler and weak imagery.
+For each asset record: what it shows; what the reader learns or feels; its specific detail/context; its distinct contribution; why it belongs at this point; and the evidence source. The hook and closing card can serve visual/curiosity/brand purposes; supporting content must provide substantive value overall. Do not make up itinerary details to complete review fields.
 
-## 4. Verify actual photographs and rights
+- **Collection:** named action/experience and payoff; outings connect plausibly or are clearly separate. A reader can picture a worthwhile trip.
+- **Discovery:** every item belongs under the premise and contributes a distinctive fact or experience. The promised count is fulfilled. No repeated generic descriptions.
+- **Reel:** at least five distinct strong moving shots; visual hook, context, progression and payoff. The video itself provides meaningful information. A title, scenery and CTA alone fail. Multiple crops/trims of one shot do not count as distinct shots.
 
-Inspect each original photo page: exact location/subject/activity, photographer, licence, reuse conditions, resolution and crop. No Unsplash+, watermarks, logos, promotional frames, competitor photo reuse or realistic AI scenery passed off as travel photography. A street leading towards a chapel is not a chapel photo; identify the pictured street/town accurately. Archive event images must be genuine and visibly labelled. Reuse of a previous version's source checks is allowed only for the unchanged exact source/subject, with the new crop/wording reviewed again.
+Ask: would removing this asset lose something worthwhile? Would a stronger asset or more precise sentence improve it? Reject weak photography/footage rather than rescuing it with more words. Do not pad to a count or length. If the Reel cannot meet the five-shot rule, change the concept.
 
-Store substantive review.reader_value, image_context, specific_detail and distinct_contribution plus fact_checks per page. Reviews can justify visual/curiosity value rather than inventing itinerary value. For CC media retain licence URL, changes, readable attribution and any share-alike obligations. Validate sources in fact_sources. A JPEG download and licence string alone are not verification.
+## Gate 4 — copy and caption
 
-## 5. Challenge the concept and each page
+Compare at least two honest cover/caption-hook options. Select the strongest clear one. Check spelling, names, promise/count, natural searchable language and no fabricated firsthand authority.
 
-Give PASS / REVISE / REJECT and real reasons:
+Supporting carousel pages: at most30 editorial words including heading/context/date/archive labels. Correct subject identification and necessary context must be visible. Full practical descriptions belong in the caption. Reels: check both the amount of text and the time to read it; one useful idea at a time, no paragraph dump.
 
-- Is the title instantly understood and genuinely worth swiping?
-- Does the photograph itself earn its space and inspire travel?
-- Does the text accurately identify the subject and add specific substance?
-- Can it be read easily on a phone without studying a brochure?
-- Does each page contribute a different place, fact, experience or reveal?
-- Does the post fulfil its own intention and promised count?
-- Are critical dates, access/season distinctions and factual context available?
-- Is there an honest reason to save/send it beyond “nice photos”?
-- Is it sufficiently different from recent issues?
+Caption must add meaningful, specific value beyond repeating overlays. Include 📍 matched places and the critical details appropriate to the premise: route distance/direction, seasons, distinctive experiences, species, film context or material access information. Ensure the viewer can understand the useful information without opening an external guide. Include correct credits/licence links within the 2,200-character current production ceiling. Check the final encoded text, not an earlier draft.
 
-Reject weak photos instead of rescuing them with long copy. Reject generic claims, needless panels, misleading seasonal promises and unsupported “best” rankings. Subjective selections should be presented as editorial choices, not objective measured rankings. Skip publication if quality cannot be achieved.
+**Stop:** vague superlatives, unsupported clickbait, a dense wall of text, a caption full of caveats with little inspiration, or missing critical facts. Essential cautions should be concise and proportionate, not omitted to make the post more attractive.
 
-## 6. Write a useful caption
+## Gate 5 — exact rendered edition
 
-Draft two accurate hooks and choose the stronger. Provide 📍 exact locations matched clearly to slide numbers (including the cover when it depicts a useful spot). A caption pin is a text location marker, not an interactive geotag or map.
+Confirm the pipeline supports the selected format and numbering. Run checks appropriate to renderer changes; the two existing carousel suites remain required for production renderer edits. Preserve published/approved assets. Never claim a future renderer feature is operational before testing it.
 
-Give short informative descriptions and the critical facts readers want for this intention: route direction, meaningful distance, dates, season, where to find an experience, material booking/closure detail, or named animal/film context. The carousel and caption must stand on their own; do not hide essential information in an external link. Do not repeat every slide verbatim or turn every caption into an exhaustive itinerary. Useful material comes before credits/hashtags. Limit 2,200 characters with all credits/licence links included. No fake secrets, algorithmic urgency, inflated superlatives or fabricated first-hand experience.
+Inspect EVERY actual final image at full size and in a phone-sized presentation: photographic impact, subject visibility, intentional crop, contrast, text hierarchy, legibility, line breaks, margins, credits and seasonal labels. A contact sheet is useful but insufficient by itself. Check the follow card and item count.
 
-## 7. Render and inspect the exact edition
+For Reels, watch the complete moving export and listen to its mastered audio. Examine the opening seconds, every transition, readable overlay duration, motion/crop continuity, pacing, emotional fit, volume, abrupt cuts and ending. Review a muted view to check that the idea remains understandable. Still frames, metadata, codec validation and audio waveform checks do not substitute for watching/listening. If those capabilities are unavailable, record BLOCKED and use owner playback review when explicitly requested/authorised; do not routinely outsource ordinary work as a workaround.
 
-New/unpublished briefs require editorial_version>=6. Use full photographic frames, readable typography and small account/issue branding. Exactly one scenic final card: “Fill your feed with wonder.” / “Follow @yourtravelatlas for beautiful places and the details that turn them into real plans.” No repeated image within the post; Reels retain their independent approved treatment.
+**Stop:** any visible bad crop, weak/irrelevant shot, unreadable text, inaccurate overlay, awkward pacing, inappropriate/unheard music or missing actual review.
 
-Run both renderer test suites. Inspect EVERY actual full-size output and mobile/contact-sheet view: photo impact, subject/crop, word count, readable copy, title hierarchy, spelling, archive labels, credits and margins. Re-render and re-inspect changed pages. Shared renderer changes must preserve the published issue001 path. Technical success is not creative approval.
+## Gate 6 — editorial challenge and approval
 
-Record in content/reviews/NNN-slug.json: verdict, exact brief/caption/image hashes and media commit, inspected paths and per-slide reasons, source checks, cuts, hook options, save/share rationale, layout/rights/date checks and limitations. An approved v5 record cannot approve a v6 remake.
+Re-read the promise and assess the FINISHED post:
 
-## 8. Respect the owner calibration gate, then schedule
+1. Does it inspire travel through this specific subject?
+2. Does it fulfil its own format's job and every promised item?
+3. Is the information specific, useful and trustworthy?
+4. Does every page/shot justify its place?
+5. Is it easy to read/watch on a phone?
+6. Is there a credible reason to save/send it beyond attractive scenery?
+7. Is it fresh within the account's recent portfolio?
+8. Are all source, rights, fact, copy, render and, for Reels, motion/audio checks complete?
 
-**Calibration completed 29 October 2026:** Ben approved both exact v6 Porto/Riviera previews and captions and explicitly requested scheduling. The temporary owner-review hold is released. Approval records retain exact approved brief, caption and image hashes and pinned media revision. Future posts use the calibrated internal editorial review without routine owner confirmation. Do not reinstate an obsolete approval hold from historical briefs or review previews. Material changes to an explicitly owner-approved scheduled edition still require renewed review; preserve the approved content when enabling publication.
+Every answer needs evidence. Any unresolved failure means REVISE, REJECT or BLOCKED, never “mostly passes”. Identify the weakest element explicitly and resolve it. The self-review must not simply restate the brief.
 
-After applicable approval, recheck the entire month: published + pending + manual across formats/networks, internal cap16 / Metricool Free20. Recheck time-sensitive facts. Reuse the existing UUIDs for replacements and import pinned reviewed media, full caption and matching alt text. Confirm exact count/order, date/timezone, caption, PENDING, draft=false and autoPublish=true. If intended slot passed during review, choose a new future slot; never backdate. Record final IDs/UUIDs and revision. Never claim actual publication without platform confirmation. Istanbul Reel remains unchanged.
+Routine editions may receive internal editorial approval after all gates pass, preserving the established unattended workflow. Owner approval applies when explicitly requested, including the current Istanbul replacement. Present the exact final video/images AND caption when asking for approval. Do not infer approval from silence, “not bad”, a framework decision or approval of an earlier revision. Material changes invalidate the affected approval evidence.
 
-## 9. Learn without making everything uniform
+## Gate 7 — scheduling and verification
 
-Periodically refresh real comparator evidence, record actual inspection scope and distinguish inference from observation. Use saves/shares/follows when enough evidence exists; do not infer performance from a tiny sample. Improve concept selection, concise specificity and photographic taste, not word count. Persist owner calibration changes in guidance, renderer checks and automation prompt so standards survive beyond this chat.
+Immediately before mutation, fetch the whole target month's planned content and available published/manual counts. Enforce the 16-publication internal ceiling across formats/networks and current account constraints. Recheck volatile practical claims. Reuse the existing UUID for replacements. Import pinned reviewed media with the full caption, rights attribution and matching alt text; keep the exact approved version.
+
+After mutation, re-fetch and compare media count/order, final text, type POST/REEL, date/timezone, PENDING, draft=false, autoPublish=true and no duplicate. Verify that the media imported successfully. Record new IDs when updates change them. A passed scheduled time requires a future slot, never backdating. Do not claim published until the platform confirms it.
+
+## Required review record
+
+Store the review beside the edition under content/reviews/, including:
+
+- policy version and content_type; internal ID and public Collection issue if applicable;
+- candidate slate, selected promise/angle, comparator URLs and exact inspection scope;
+- claim/source and asset/rights evidence, with checked dates;
+- per-page/shot contributions, weak candidates rejected and changes made;
+- chosen title/caption hook and alternatives; caption and full brief hashes;
+- exact media commit, output hashes, inspected paths and full-size/mobile evidence;
+- for Reels: intervals, motion/playback and actual listening review evidence or explicit limitation;
+- each gate's verdict and reason, unresolved issues, reviewer type and approval status;
+- owner approval evidence when applicable, tied to the exact edition;
+- final schedule/import verification and later publication confirmation separately.
+
+Never write a fictional reviewer, listening session, performance result or source check. Preserve old review history as superseded; it cannot approve a newer edition. Cleanup follows owner satisfaction with the final schedule and preserves live dependencies, provenance and recovery evidence.

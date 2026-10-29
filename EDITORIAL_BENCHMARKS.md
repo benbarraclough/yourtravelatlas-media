@@ -1,3 +1,11 @@
+# Reference evidence — applicability under v7
+
+The historical observations below remain useful evidence of what was actually inspected. Current production policy is [CONTENT_PROCESS.md](CONTENT_PROCESS.md), not the older interpretations in this file. The formal Faroe identity applies to the Travel Discovery Collection; hospitality.guide's simple hooks and image-led presentation apply chiefly to Discovery carousels. Informative Reels use the separate v7 story and five-shot gates. All older “no brochures” statements concern the then account-wide treatment and do not prohibit the newly reinstated Collection format.
+
+For the actual Beautiful Destinations and hospitality.guide Reel inspection scope and observed counts, see [Reel004 review](content/reviews/reel-004-behind-the-waterfall.md). Grid covers, sampled frames and captions are distinguished from full playback; no causal performance claim is supported. This process consolidation did not conduct a new competitor audit or newly inspect TikTok/books.
+
+---
+
 # Editorial benchmarks — v6 calibration, 29 October 2026
 
 ## Current interpretation (supersedes earlier v5 production recommendations)
