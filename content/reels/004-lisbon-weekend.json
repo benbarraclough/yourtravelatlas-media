@@ -1,0 +1,63 @@
+{
+  "issue": 4,
+  "slug": "004-lisbon-weekend",
+  "destination": "Lisbon, Portugal",
+  "hook": "A Lisbon weekend without rushing",
+  "effort_level": "relaxed",
+  "editorial_intent": "A relaxed, sociable short break in Lisbon: start with hillside views, take a yellow tram into old neighbourhood streets, drift through Praça do Comércio and finish beside the Tagus.",
+  "share_reason": "Send it to a friend as a doable European city weekend with a tram ride, a scenic wander, a square full of atmosphere and a relaxed riverside finish, not a strenuous expedition.",
+  "audio_policy": "silent",
+  "caption": "A city break that doesn't need a complicated itinerary. 🇵🇹\n\nLisbon is made for wandering slowly: start with rooftops and viewpoints around Alfama, ride one of the city's historic yellow trams, stroll through Praça do Comércio and finish with some time beside the Tagus at Ribeira das Naus.\n\nIt's a good place to plan a long weekend around neighbourhoods rather than rushing from one sight to the next. Expect hills and cobbles in the older districts, and use the trams to make the climbs easier.\n\nSend this to the friend you'd bring for a few days away. 🌞\n\nFootage: Vincent Rivaud, Jose Cruz, Policarpo Brito & Dany B. / Pexels.\n\n#YourTravelAtlas #Lisbon #VisitLisbon #PortugalTravel #CityBreak #WeekendEscape #TravelIdeas",
+  "fact_sources": [
+    "https://www.visitlisboa.com/en/places/no-28-tram",
+    "https://www.visitlisboa.com/en/places/praca-do-comercio-terreiro-do-paco",
+    "https://www.visitlisboa.com/en/places/ribeira-das-naus",
+    "https://www.visitlisboa.com/pt-pt/locais/alfama"
+  ],
+  "clips": [
+    {
+      "page_url": "https://www.pexels.com/video/picturesque-view-of-lisbon-with-red-rooftops-28962464/",
+      "download_url": "https://www.pexels.com/download/video/28962464/",
+      "license": "Pexels License",
+      "photographer": "Vincent Rivaud",
+      "description": "Lisbon's red-tiled rooftops from a scenic viewpoint",
+      "overlay": "A WEEKEND WITHOUT RUSHING",
+      "seconds": 3.5,
+      "start": 0,
+      "activity_source": "https://www.visitlisboa.com/pt-pt/locais/alfama"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/yellow-tram-in-lisbon-cityscape-33171550/",
+      "download_url": "https://www.pexels.com/download/video/33171550/",
+      "license": "Pexels License",
+      "photographer": "Jose Cruz",
+      "description": "Lisbon yellow tram passing through its city streets",
+      "overlay": "TAKE A TRAM INTO OLD LISBON",
+      "seconds": 3.5,
+      "start": 0,
+      "activity_source": "https://www.visitlisboa.com/en/places/no-28-tram"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/people-walking-through-iconic-lisbon-arch-35318439/",
+      "download_url": "https://www.pexels.com/download/video/35318439/",
+      "license": "Pexels License",
+      "photographer": "Policarpo Brito",
+      "description": "People enjoying the Rua Augusta arch and Praça do Comércio",
+      "overlay": "WANDER THE CITY'S GRAND SQUARE",
+      "seconds": 3.5,
+      "start": 0,
+      "activity_source": "https://www.visitlisboa.com/en/places/praca-do-comercio-terreiro-do-paco"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/silhouettes-of-watercrafts-on-the-tagus-river-in-lisbon-portugal-14864065/",
+      "download_url": "https://www.pexels.com/download/video/14864065/",
+      "license": "Pexels License",
+      "photographer": "Dany B.",
+      "description": "Watercraft silhouetted against the light on Lisbon's Tagus waterfront",
+      "overlay": "END THE DAY BY THE RIVER",
+      "seconds": 3.5,
+      "start": 0,
+      "activity_source": "https://www.visitlisboa.com/en/places/ribeira-das-naus"
+    }
+  ]
+}
