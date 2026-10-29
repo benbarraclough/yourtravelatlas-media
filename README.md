@@ -51,3 +51,10 @@ The first two tests — **Lisbon Reel 001** and **Cinque Terre by Train Reel 002
 **Mandatory Reel quality gate:** Find the travel story first; do not list locations merely because clips exist. Five or more distinct, high-quality, authentic, fully licensed moving shots must independently inspire a real trip friends would want to share. Prominent destination and small masthead at top; inspiring short serif description lower down; **no "Wander Further" line, issue number or clip counter on Reels**. Sound should be bright, positive and fitting, never dreary. For a professionally recorded song, verify exact source, track licence, professional Instagram use and no paid requirement before adding it. Review actual rendered frames, cropping and the sound before a Reel is scheduled.
 
 After editorial approval, schedule as `instagramData.type=REEL`, with verified full MP4, optional thumbnail, `autoPublish=true`, `draft=false`, and confirm via Metricool. It is preferable to leave a slot empty than publish an uninspiring Reel.
+
+
+## Music licensing test result (29 October 2026)
+
+Mixkit's free music licence allows Instagram video posts, but a direct automated download for "Just Keep Walking" by Michael Ramir C. was **blocked with HTTP 403**. No track has been approved for unattended downloading or added to a scheduled Reel. The Lisbon and Cinque Terre Reel pilots remain **rejected**; Lisbon is an unpublished Metricool draft and must not be revived just because a new soundtrack is found.
+
+Before the next Reel: select a professionally recorded, joyful, genuinely suitable track; independently verify its licence and actual automated delivery; assess the complete footage, sound and narrative; publish only if the finished result inspires a trip. Never force a Reel into the schedule. Regular carousels are unaffected.
