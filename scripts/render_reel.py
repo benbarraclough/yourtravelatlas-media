@@ -169,10 +169,12 @@ def main(postfile):
         if not brief.get(key):raise ValueError(f"Missing {key}")
     if not re.fullmatch(r"[0-9]{3}-[a-z0-9-]+",brief["slug"]):raise ValueError("Bad slug")
     clips=brief["clips"]
-    if len(clips)<5 or len(clips)>8:raise ValueError("Reels require 5-8 distinct moving shots")
+    discovery=brief.get("treatment")=="discovery_v1"
+    minimum=4 if discovery and brief.get("shot_count_exception") else 5
+    if len(clips)<minimum or len(clips)>8:raise ValueError("Reels require 5-8 shots, or 4 with a documented discovery exception")
     if len(set(x["page_url"] for x in clips))!=len(clips):raise ValueError("Duplicate footage")
     for clip in clips:
-        for k in ("page_url","photographer","license","description","overlay","download_url","activity_source"):
+        for k in ("page_url","photographer","license","description","download_url","activity_source"):
             if not clip.get(k):raise ValueError(f"Missing source field {k}")
         if clip["license"] not in ("Pexels License","CC BY 4.0","CC BY-SA 4.0"):
             raise ValueError("Unsupported/unverified video license")
@@ -180,6 +182,9 @@ def main(postfile):
             raise ValueError("No independent activity/fact source")
         if "pexels.com/video/" not in clip["page_url"] and "commons.wikimedia.org/" not in clip["page_url"]:
             raise ValueError("Video page URL must point at inspectable source")
+        if not isinstance(clip.get("overlay"),str) or (not discovery and not clip["overlay"]):
+            raise ValueError("Overlay must be text; blank only in discovery treatment")
+        if not 0<=float(clip.get("crop_x",0.5))<=1:raise ValueError("Invalid crop anchor")
         if len(clip["overlay"])>68:raise ValueError("Text too long for 9:16 Reel overlay")
     if brief.get("audio_policy") != "incompetech_cc_by_4":
         raise ValueError("Reel soundtrack must be independently cleared CC BY 4.0 music")
@@ -212,13 +217,23 @@ def main(postfile):
             # 9:16 full bleed, intentional text only in safe bands.
             filters=[
                 "scale=1080:1920:force_original_aspect_ratio=increase",
-                "crop=1080:1920",
+                f"crop=1080:1920:x=(iw-ow)*{float(clip.get('crop_x',0.5))}:y=(ih-oh)/2",
                 "setsar=1",
                 "format=yuv420p",
-                textfilter(brand,28,153,font=FONT_REG),
-                textfilter(destination,74,229,font=FONT_SERIF),
-                textfilter(txt,57,1405,font=FONT_SERIF),
             ]
+            if discovery:
+                brand=text_file(temp,f"brand{i}","@yourtravelatlas")
+                filters.append(textfilter(brand,27,170,font=FONT_REG))
+                if clip["overlay"]:
+                    filters.extend([
+                        textfilter(txt,57,1405,font=FONT_SERIF),
+                    ])
+            else:
+                filters.extend([
+                    textfilter(brand,28,153,font=FONT_REG),
+                    textfilter(destination,74,229,font=FONT_SERIF),
+                    textfilter(txt,57,1405,font=FONT_SERIF),
+                ])
             # End of layout; no clip counts, no carousel issue numbers.
             piece=temp/f"piece{i:02d}.mp4"
             run("ffmpeg","-hide_banner","-loglevel","error","-y",
@@ -232,7 +247,8 @@ def main(postfile):
                 "page_url":clip["page_url"],"photographer":clip["photographer"],
                 "license":clip["license"],"description":clip["description"],
                 "activity_source":clip["activity_source"],"overlay":clip["overlay"],
-                "clip_seconds":round(seconds,2),**meta,
+                "clip_seconds":round(seconds,2),"start":float(clip.get("start",0)),
+                "crop_x":float(clip.get("crop_x",0.5)),"location_evidence":clip.get("location_evidence"),**meta,
             })
             print(f"  {i+1}/{len(clips)} {clip['description']} ({seconds:.2f}s)",flush=True)
         concat=temp/"files.txt"
@@ -278,6 +294,8 @@ def main(postfile):
         manifest={
             "reel_number":brief["reel_number"],"slug":brief["slug"],"destination":brief["destination"],
             "hook":brief["hook"],"status":"rendered-not-published",
+            "treatment":brief.get("treatment","legacy"),
+            "shot_count_exception":brief.get("shot_count_exception"),
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
             "caption":brief["caption"],"fact_sources":brief["fact_sources"],
             "audio_policy":"incompetech_cc_by_4",
@@ -289,6 +307,7 @@ def main(postfile):
             "clips":evidence
         }
         (output/"manifest.json").write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
+        (output/"caption.txt").write_text(brief["caption"]+"\n",encoding="utf-8")
         # Generate an opening cover and a multi-frame review contact sheet.
         thumbnails=[]
         middle=0.0
@@ -315,6 +334,9 @@ if __name__=="__main__":
         print("No Reel briefs found; no videos rendered")
     for p in files:
         brief=json.loads(p.read_text(encoding="utf-8"))
+        if brief.get("editorial_status")=="approved_scheduled":
+            print(f"PRESERVE APPROVED SCHEDULED REEL: {p.name}",flush=True)
+            continue
         if brief.get("editorial_status")=="rejected":
             print(f"SKIP EDITORIALLY REJECTED REEL: {p.name}",flush=True)
             continue

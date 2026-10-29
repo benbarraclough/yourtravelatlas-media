@@ -1,0 +1,80 @@
+{
+  "reel_number": 4,
+  "slug": "004-behind-the-waterfall",
+  "destination": "Seljalandsfoss, Iceland",
+  "hook": "You can walk behind this waterfall",
+  "treatment": "discovery_v1",
+  "editorial_status": "owner_review_required",
+  "editorial_intent": "One remarkable real experience: see the waterfall from behind immediately, identify it, pull out to establish the landform, then show the walking path and invite a save. Four different visual functions, no itinerary or repeated scenic filler.",
+  "share_reason": "Send it to the person you would take to Iceland: the walk-behind perspective gives a concrete reason to visit.",
+  "audio_policy": "incompetech_cc_by_4",
+  "music": {
+    "title": "Protofunk",
+    "artist": "Kevin MacLeod",
+    "source_page": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103",
+    "download_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "credits": "Protofunk by Kevin MacLeod (incompetech.com), CC BY 4.0; excerpt edited and synchronised to video. Guitar performed by Dan Ritter."
+  },
+  "fact_sources": [
+    "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
+    "https://www.south.is/en/travel-info/newsblog/explore-the-waterfalls-of-the-south-coast-of-iceland"
+  ],
+  "caption": "Most waterfalls ask you to stand in front of them. This one lets you see the world through the water. 🇮🇸\n\n📍 Seljalandsfoss, South Iceland\nA 60-metre waterfall just off the Ring Road, with a footpath that passes behind the falling water. When the path is open, follow it into the rock recess and look back out across the landscape through the spray—that’s the view to come for.\n\nBring a waterproof jacket and shoes with grip: the path gets wet. Plan the walk-behind experience for warmer conditions and check local notices before visiting. Ice and falling ice can close the path, especially in winter; respect every closure. The waterfall itself can still be viewed from the front.\n\nThese clips show different visits and conditions, not one continuous walk.\n\nSave this for your Iceland wishlist—and send it to your future road-trip partner.\n\nFollow @yourtravelatlas for beautiful places worth making plans for.\n\nFootage: Artem Yellow, Jarod Barton, Caio Cezar & Muhammad Junaid / Pexels.\nMusic: “Protofunk” — Kevin MacLeod (incompetech.com), CC BY 4.0 (excerpted and edited). https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103\n\n#YourTravelAtlas #IcelandTravel #Seljalandsfoss #SouthIceland #Waterfall",
+  "clips": [
+    {
+      "page_url": "https://www.pexels.com/video/majestic-waterfall-behind-rocky-archway-32344066/",
+      "download_url": "https://videos.pexels.com/video-files/32344066/13798650_1080_1920_30fps.mp4",
+      "license": "Pexels License",
+      "photographer": "Artem Yellow",
+      "description": "Immediate behind-the-water reveal; native vertical pan from overhang towards the falling water.",
+      "overlay": "You can walk behind this waterfall",
+      "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
+      "seconds": 4,
+      "start": 1.5,
+      "crop_x": 0.5,
+      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof."
+    },
+    {
+      "page_url": "https://www.pexels.com/video/stunning-aerial-view-of-dramatic-waterfall-34476955/",
+      "download_url": "https://videos.pexels.com/video-files/34476955/14609359_3840_2160_30fps.mp4",
+      "license": "Pexels License",
+      "photographer": "Caio Cezar",
+      "description": "Aerial establishes the cliff, single-drop waterfall, bowl and path; distinct scale and geography.",
+      "overlay": "",
+      "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
+      "seconds": 3.2,
+      "start": 3,
+      "crop_x": 0.5,
+      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof."
+    },
+    {
+      "page_url": "https://www.pexels.com/video/view-of-the-waterfalls-4941732/",
+      "download_url": "https://videos.pexels.com/video-files/4941732/4941732-hd_1920_1080_24fps.mp4",
+      "license": "Pexels License",
+      "photographer": "Jarod Barton",
+      "description": "Front view with rainbow establishes the named waterfall and its neighbouring thin side stream.",
+      "overlay": "Seljalandsfoss, Iceland",
+      "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
+      "seconds": 2.8,
+      "start": 2,
+      "crop_x": 0.55,
+      "location_evidence": "Creator description explicitly identifies Seljalandsfoss."
+    },
+    {
+      "page_url": "https://www.pexels.com/video/exploration-behind-majestic-waterfall-adventure-40368785/",
+      "download_url": "https://videos.pexels.com/video-files/40368785/17248782_1080_1920_30fps.mp4",
+      "license": "Pexels License",
+      "photographer": "Muhammad Junaid",
+      "description": "People on the wet rock path provide human scale, then the camera turns towards the falling water and open plain.",
+      "overlay": "Save for Iceland. Follow @yourtravelatlas",
+      "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
+      "seconds": 6,
+      "start": 0,
+      "crop_x": 0.5,
+      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof."
+    }
+  ],
+  "shot_count_exception": "Four distinct views complete this single-experience discovery: behind-water hook, aerial geography, named front view, and people on the walk-behind path. Reject the soft 720p close-up and unconfirmed golden-light clip instead of padding to five."
+}
