@@ -1,6 +1,6 @@
 [
   {
-    "query": "Shirakawa-go snow",
+    "query": "selected file pages",
     "title": "File:Shirakawa 2024.jpg",
     "page_url": "https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg",
     "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shirakawa_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
@@ -12,6 +12,21 @@
     "width": 3264,
     "height": 2448,
     "preview_file": "review/candidates/004-japan-beyond-the-cities/commons-01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "query": "selected file pages",
+    "title": "File:Kamikochi - Kamikochi6538.jpg",
+    "page_url": "https://commons.wikimedia.org/wiki/File:Kamikochi_-_Kamikochi6538.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kamikochi_-_Kamikochi6538.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "render_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Kamikochi_-_Kamikochi6538.jpg/1920px-Kamikochi_-_Kamikochi6538.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "author": "lumoplank",
+    "description": "Kappa Bridge over the Azusa River at Kamikochi, with the Hotaka mountain range visible behind autumn larches.",
+    "width": 5421,
+    "height": 3614,
+    "preview_file": "review/candidates/004-japan-beyond-the-cities/commons-02.jpg",
     "status": "downloaded"
   }
 ]
