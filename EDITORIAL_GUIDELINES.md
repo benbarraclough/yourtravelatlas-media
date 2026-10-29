@@ -156,12 +156,12 @@ Consider Instagram Reels when there is verified, properly licensed and accuratel
 
 ## Current carousel issues (updated 29 October 2026)
 - Issue 001: **FIVE PLACES FOR A WILD ATLANTIC ESCAPE** [large] / **FAROE ISLANDS** [small]
-- Issue 002: **A WEEKEND WITHOUT THE RUSH** [large] / **PORTO** [prominent destination]. Fresh replacement, five slides; `content/posts/002-porto-slow-weekend.json`.
-- Issue 003: **ONE BASE. NO CAR. MORE COAST.** [large] / **FRENCH RIVIERA** [prominent destination]. Fresh replacement, five slides; `content/posts/003-riviera-by-train.json`.
+- Issue 002: **TAKE THE LONG WAY TO THE SEA** / **PORTO**. Seven reviewed slides including a two-day planning page and standard follow card; `content/posts/002-porto-slow-weekend.json`.
+- Issue 003: **TWO FESTIVALS. ONE COAST.** / **FRENCH RIVIERA**. Eight reviewed slides for a February 2027 rail/festival break, including standard follow card; `content/posts/003-riviera-by-train.json`.
 This is an example hierarchy, **not** a repeating formula required for new stories.
 
 
-## Owner-requested replacement record — 29 October 2026
+## Initial replacement record — 29 October 2026 (historical; superseded by final v5 record below)
 
 The owner confirmed issue 001 published successfully and requested removing the old issues 002 (Namibia) and 003 (Dolomites), creating fresh stories using the final experience-led process discussed in “Create Travel Instagram Automation”, and leaving the approved Istanbul Reel unchanged. The old queued carousels were first disabled as drafts, then their existing Metricool UUIDs were replaced in full with freshly researched, licensed, rendered and visually reviewed five-slide carousels. These are replacement editions of UNPUBLISHED numbers, not additional publications.
 
@@ -171,3 +171,12 @@ The owner confirmed issue 001 published successfully and requested removing the 
 - Istanbul Reel UUID `5053010952195819165`, ID `409593701`, remains untouched for Thursday 5 November 2026, 09:00 Europe/London. Three total November slots verified; no increase in volume.
 - The two relaxed replacements fulfil the earlier immediate request for at least two attainable travel concepts. Continue the portfolio mix; avoid repeatedly choosing European city/coast subjects just because these two were accepted.
 - Old `media/002-namibia/` and `media/003-dolomites/` outputs are obsolete historical assets. DO NOT schedule them or infer they are current issues. Their former briefs survive in Git history, while current briefs have destination-accurate filenames. Do not recreate removed content automatically.
+
+
+## Final v5 approval and actual Instagram comparison — 29 October 2026
+
+The owner rejected the initial five-slide replacements as insufficiently detailed. Current editions are now Porto (7 slides, detailed city-to-coast plan and São João return idea) and French Riviera (8 slides, February 2027 festival/rail guide with precise parade dates and named food/art stops). Both include the standard final follow card. `content/reviews/002-porto-slow-weekend.json` and `content/reviews/003-riviera-by-train.json` record actual full-size image inspection, value judgments, omissions, source checks, caption hook alternatives, technical checks, exact media revision and final scheduling verification. These approved records supersede the initial replacement status and old IDs above.
+
+Metricool verified PENDING, autoPublish=true, draft=false: Porto ID 409965085 / UUID -1686861758455201569, 7 images, Monday 2 November 2026 19:00 Europe/London; Riviera ID 409965138 / UUID -4032844728941590495, 8 images, Wednesday 4 November 2026 12:00 Europe/London. Imported media came from pinned reviewed render commit `4740b75ee62e6b108d36880d109ca90764f5a36b`. Istanbul Reel ID 409593701 / UUID 5053010952195819165 remains unchanged for 5 November 2026 09:00. Exactly three November slots verified.
+
+Instagram browser sign-in succeeded. The actual hospitality.guide Andalusia carousel was visually inspected through all eight slides, including its scenic follow card; selected bucket-list map/reveal pages and the month-by-month guide were also inspected, with exact scope documented in EDITORIAL_BENCHMARKS.md. Prefer actual full posts when available, never confuse an indexed summary with a visual review, and do not assume this authenticated session will persist indefinitely. Retain photographic impact while allowing different density, pacing and layouts for different editorial ideas. Do not turn all posts into the same text-panel treatment.
