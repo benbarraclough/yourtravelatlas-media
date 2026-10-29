@@ -1,0 +1,109 @@
+{
+  "reel_number": 3,
+  "slug": "003-istanbul-between-continents",
+  "destination": "Istanbul, Türkiye",
+  "hook": "A long weekend between two continents",
+  "effort_level": "relaxed",
+  "accessibility_angle": "A friend-friendly city break built around tram rides, strolling, stopping for coffee and taking an ordinary public ferry; no hiking or complicated road trip needed.",
+  "editorial_intent": "A kinetic, warm, sensory city-break invitation. Begin above the skyline, plunge into İstiklal street life and neighbourhood markets, pause for coffee, then cross the water, sip tea and end in glowing evening light. A journey with momentum, variety and atmosphere, not a collection of landmark shots.",
+  "reader_scenario": "Friends planning a long weekend: spend time on historic streets, markets, cafés and the public ferries across the Bosphorus at a comfortable pace; not a rigid one-day route.",
+  "share_reason": "Send this to the friend you'd take on a spontaneous long weekend: a ferry between continents, atmospheric city streets and coffee stops rather than a checklist of monuments.",
+  "originality": "First city-in-motion/urban culture Reel focused on ordinary joyful travel moments and a memorable ferry crossing, distinct from adventure-heavy numbered carousels and the rejected Lisbon/Cinque Terre pilots.",
+  "audio_policy": "wikimedia_cc_by_4",
+  "editorial_status": "candidate_not_approved",
+  "editorial_review": "Requires verified successful render, complete storyboard/crop visual inspection and listening check of the actual CC BY 4.0 soundtrack before any Metricool automatic publication.",
+  "music": {
+    "title": "Chillhouse",
+    "artist": "Frank Schroeter",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Chillhouse_by_Frank_Schroeter.ogg",
+    "download_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Chillhouse_by_Frank_Schroeter.ogg",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "credits": "Chillhouse by Frank Schroeter (CC BY 4.0); edited/excerpted and synchronised to video."
+  },
+  "fact_sources": [
+    "https://tga.gov.tr/en/press-room/press-releases/live-an-unforgettable-48-hours-in-istanbul",
+    "https://istanbul.travel/en/istiklal",
+    "https://sehirhatlari.istanbul/en/seferler"
+  ],
+  "caption": "One long weekend. Two continents. A city full of reasons to stay out a little longer. 🇹🇷\n\nIn Istanbul, even getting from one neighbourhood to another can become part of the adventure. Follow the red tram along İstiklal Avenue, linger by the market stalls and make time for a proper Turkish coffee. Then take a public ferry across the Bosphorus, order tea by the window and watch the city unfold from the water.\n\nDon't try to tick off every monument. Leave space for wandering, neighbourhood cafés and an evening beside the strait. Check current ferry routes before you set off.\n\nWho would you take for a long weekend between Europe and Asia? 🌊\n\nFootage: Kenan Turguç, Khaoula ATTAR, Sururi Ballıdağ Director, Esra Afşar, Sıla Deniz Göktaş & Harun Şahin / Pexels.\nMusic: “Chillhouse” — Frank Schroeter, CC BY 4.0 (excerpted and edited). https://commons.wikimedia.org/wiki/File:Chillhouse_by_Frank_Schroeter.ogg\n\n#YourTravelAtlas #Istanbul #IstanbulTravel #Bosphorus #CityBreak #TurkeyTravel #WeekendEscape",
+  "clips": [
+    {
+      "page_url": "https://www.pexels.com/video/aerial-view-of-istanbul-featuring-suleymaniye-mosque-34883236/",
+      "download_url": "https://www.pexels.com/download/video/34883236/",
+      "license": "Pexels License",
+      "photographer": "Kenan Turguç",
+      "description": "A vertical drone reveal of Süleymaniye Mosque above Istanbul's rooftops",
+      "overlay": "Your next weekend deserves two continents",
+      "activity_source": "https://tga.gov.tr/en/press-room/press-releases/live-an-unforgettable-48-hours-in-istanbul",
+      "seconds": 3.2,
+      "start": 0
+    },
+    {
+      "page_url": "https://www.pexels.com/video/iconic-red-tram-on-istanbul-s-istiklal-avenue-35362480/",
+      "download_url": "https://www.pexels.com/download/video/35362480/",
+      "license": "Pexels License",
+      "photographer": "Khaoula ATTAR",
+      "description": "The historic red tram moving along lively İstiklal Avenue",
+      "overlay": "Follow the red tram into the bustle",
+      "activity_source": "https://istanbul.travel/en/istiklal",
+      "seconds": 3,
+      "start": 0
+    },
+    {
+      "page_url": "https://www.pexels.com/video/bustling-turkish-street-market-with-vendor-stalls-36280516/",
+      "download_url": "https://www.pexels.com/download/video/36280516/",
+      "license": "Pexels License",
+      "photographer": "Sururi Ballıdağ Director",
+      "description": "Local market stalls and shoppers on a lively Istanbul street",
+      "overlay": "Let the market streets change your plans",
+      "activity_source": "https://tga.gov.tr/en/press-room/press-releases/live-an-unforgettable-48-hours-in-istanbul",
+      "seconds": 3.1,
+      "start": 0
+    },
+    {
+      "page_url": "https://www.pexels.com/video/traditional-turkish-coffee-sand-preparation-29636068/",
+      "download_url": "https://www.pexels.com/download/video/29636068/",
+      "license": "Pexels License",
+      "photographer": "Esra Afşar",
+      "description": "Close-up of traditional Turkish coffee being brewed in hot sand",
+      "overlay": "Slow down for coffee made the old way",
+      "activity_source": "https://tga.gov.tr/en/press-room/press-releases/live-an-unforgettable-48-hours-in-istanbul",
+      "seconds": 3.2,
+      "start": 0
+    },
+    {
+      "page_url": "https://www.pexels.com/video/istanbul-ferry-ride-on-marmara-sea-with-seagulls-39759628/",
+      "download_url": "https://www.pexels.com/download/video/39759628/",
+      "license": "Pexels License",
+      "photographer": "Sıla Deniz Göktaş",
+      "description": "Vertical view across the water from an Istanbul ferry, with seagulls",
+      "overlay": "Cross the water. Find another side of the city.",
+      "activity_source": "https://sehirhatlari.istanbul/en/seferler",
+      "seconds": 3.1,
+      "start": 0
+    },
+    {
+      "page_url": "https://www.pexels.com/video/turkish-tea-on-table-14017665/",
+      "download_url": "https://www.pexels.com/download/video/14017665/",
+      "license": "Pexels License",
+      "photographer": "Harun Şahin",
+      "description": "A glass of Turkish tea by the window of a ferry",
+      "overlay": "Take your tea with the city drifting by",
+      "activity_source": "https://sehirhatlari.istanbul/en/seferler",
+      "seconds": 3.1,
+      "start": 0
+    },
+    {
+      "page_url": "https://www.pexels.com/video/a-man-walking-in-front-of-a-mosque-at-sunset-27879223/",
+      "download_url": "https://www.pexels.com/download/video/27879223/",
+      "license": "Pexels License",
+      "photographer": "Sururi Ballıdağ Director",
+      "description": "Evening light around Şemsi Paşa Mosque on Istanbul's waterfront",
+      "overlay": "And stay until the skyline turns gold",
+      "activity_source": "https://tga.gov.tr/en/press-room/press-releases/live-an-unforgettable-48-hours-in-istanbul",
+      "seconds": 3.4,
+      "start": 0
+    }
+  ]
+}
