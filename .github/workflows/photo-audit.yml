@@ -6,6 +6,7 @@ on:
     paths:
       - "content/research/004-photo-candidate-pages.json"
       - "scripts/inspect_photo_candidates.py"
+      - "scripts/inspect_commons_candidates.py"
       - ".github/workflows/photo-audit.yml"
 permissions:
   contents: write
@@ -34,6 +35,7 @@ jobs:
             git fetch origin main
             git checkout -B main origin/main
             python scripts/inspect_photo_candidates.py
+            python scripts/inspect_commons_candidates.py
             git add review/candidates/004-japan-beyond-the-cities/
             if git diff --cached --quiet; then exit 0; fi
             git commit -m "Audit original photo candidates for Japan 004 [skip ci]"
