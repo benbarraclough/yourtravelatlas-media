@@ -1,18 +1,19 @@
 {
   "slug": "001-lisbon-weekend",
   "destination": "Lisbon, Portugal",
-  "hook": "A Lisbon weekend without rushing",
+  "hook": "The city break that actually feels like a holiday",
   "effort_level": "relaxed",
-  "editorial_intent": "A relaxed Lisbon weekend told through five authentic moving scenes: rooftops from a viewpoint, vintage tram, lively pedestrian backstreets, Praça do Comércio and a peaceful Tagus waterfront finish.",
-  "share_reason": "A tangible, easy European city-break plan friends could send each other, with sights, local streets, trams, shared food and a relaxed riverside finish.",
-  "audio_policy": "original_synth_ambient",
-  "caption": "Lisbon is the kind of city break you can enjoy without a complicated itinerary. 🇵🇹\n\nStart with the viewpoints above Alfama, hop on a yellow tram and leave time to wander the pedestrian streets. Walk through Praça do Comércio, pause for coffee and pastéis de nata, then finish beside the Tagus at Ribeira das Naus.\n\nThis is five glimpses of a relaxed weekend, not a rigid route. The older neighbourhoods have steep hills and cobbles, but you can make it easier with public transport and plenty of café stops.\n\nSend this to someone you'd like to get away with. 🌞\n\nFootage: Vincent Rivaud, Jose Cruz, Alyona Nagel, Policarpo Brito & Dany B. / Pexels.\n\n#YourTravelAtlas #Lisbon #PortugalTravel #CityBreak #WeekendEscape #VisitLisboa",
+  "editorial_intent": "Show a genuinely attractive, achievable and relaxed Lisbon weekend: inspiring views, the iconic yellow tram moving through narrow lanes, an easy walk among tiled streets, a beautiful grand square and golden-hour Belém by the Tagus, with distinctive real scenes, warm upbeat music and useful planning context.",
+  "share_reason": "A cheerful, inviting city-break Reel someone would send to a friend and say: let's do Lisbon for a weekend of strolls, trams, cafés, waterfront afternoons and evening light.",
+  "audio_policy": "original_synth_upbeat",
+  "caption": "The kind of city break you'll want to book with your favourite people. 🇵🇹\n\nLisbon does weekends brilliantly: viewpoints above the terracotta rooftops, yellow trams winding through old streets, tiled lanes made for getting lost, coffee and pastel de nata stops, and golden-hour walks along the Tagus towards Belém.\n\nYou don't need a packed itinerary. Pick a couple of neighbourhoods, leave time for long lunches and take the tram when the hills get steep. Give Belém a separate afternoon rather than rushing across town.\n\nWho would you bring for a long weekend in Lisbon? Send them this. 🌞\n\nFootage: Vincent Rivaud, Efrem Efre, Alyona Nagel, Policarpo Brito & Alvin David / Pexels.\n\n#YourTravelAtlas #Lisbon #PortugalTravel #LisbonWeekend #CityBreak #TravelInspiration",
   "fact_sources": [
     "https://www.visitlisboa.com/en/places/no-28-tram",
     "https://www.visitlisboa.com/en/places/praca-do-comercio-terreiro-do-paco",
     "https://www.visitlisboa.com/en/places/ribeira-das-naus",
     "https://www.visitlisboa.com/pt-pt/locais/alfama",
-    "https://www.visitlisboa.com/en/places/rua-augusta"
+    "https://www.visitlisboa.com/en/places/rua-augusta",
+    "https://www.visitlisboa.com/en/lisbon-stories/15-rota-do-tejo/pois"
   ],
   "clips": [
     {
@@ -21,19 +22,19 @@
       "license": "Pexels License",
       "photographer": "Vincent Rivaud",
       "description": "Lisbon's red-tiled rooftops from a scenic viewpoint",
-      "overlay": "A weekend without rushing",
+      "overlay": "Your next getaway could look like this",
       "seconds": 3.5,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/pt-pt/locais/alfama"
     },
     {
-      "page_url": "https://www.pexels.com/video/yellow-tram-in-lisbon-cityscape-33171550/",
-      "download_url": "https://www.pexels.com/download/video/33171550/",
+      "page_url": "https://www.pexels.com/video/historic-tram-in-lisbon-amidst-cityscape-36109381/",
+      "download_url": "https://www.pexels.com/download/video/36109381/",
       "license": "Pexels License",
-      "photographer": "Jose Cruz",
-      "description": "Lisbon yellow tram passing through its city streets",
-      "overlay": "Ride the yellow trams",
-      "seconds": 3.2,
+      "photographer": "Efrem Efre",
+      "description": "Classic Lisbon yellow tram travelling along a narrow historic street",
+      "overlay": "Ride through Lisbon's old neighbourhoods",
+      "seconds": 3.1,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/en/places/no-28-tram"
     },
@@ -43,7 +44,7 @@
       "license": "Pexels License",
       "photographer": "Alyona Nagel",
       "description": "A lively pedestrian street in the historic centre of Lisbon",
-      "overlay": "Wander the old city streets",
+      "overlay": "Get lost in the tiled backstreets",
       "seconds": 3.2,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/en/places/rua-augusta"
@@ -54,21 +55,21 @@
       "license": "Pexels License",
       "photographer": "Policarpo Brito",
       "description": "People enjoying the Rua Augusta arch and Praça do Comércio",
-      "overlay": "Stroll through the grand square",
+      "overlay": "Stay for the cafés and city squares",
       "seconds": 3.2,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/en/places/praca-do-comercio-terreiro-do-paco"
     },
     {
-      "page_url": "https://www.pexels.com/video/silhouettes-of-watercrafts-on-the-tagus-river-in-lisbon-portugal-14864065/",
-      "download_url": "https://www.pexels.com/download/video/14864065/",
+      "page_url": "https://www.pexels.com/video/majestic-belem-tower-in-lisbon-at-dusk-40429167/",
+      "download_url": "https://www.pexels.com/download/video/40429167/",
       "license": "Pexels License",
-      "photographer": "Dany B.",
-      "description": "Watercraft silhouetted against the light on Lisbon's Tagus waterfront",
-      "overlay": "Finish beside the Tagus",
-      "seconds": 3.2,
+      "photographer": "Alvin David",
+      "description": "Belém Tower at dusk by the Tagus River in Lisbon",
+      "overlay": "Follow the riverside to golden-hour Belém",
+      "seconds": 3.1,
       "start": 0,
-      "activity_source": "https://www.visitlisboa.com/en/places/ribeira-das-naus"
+      "activity_source": "https://www.visitlisboa.com/en/lisbon-stories/15-rota-do-tejo/pois"
     }
   ],
   "reel_number": 1

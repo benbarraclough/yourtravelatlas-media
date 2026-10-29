@@ -89,40 +89,63 @@ def wrap_text(message, max_width=865, fontsize=57, max_lines=2, face_path=FONT_S
     if len(lines)>max_lines:raise ValueError(f"Overlay too long at mobile size: {message}")
     return "\n".join(lines)
 
-def compose_original_ambient(destination, seconds):
-    """Generate a quiet original harmonic bed, not a licensed commercial track.
+def compose_original_upbeat(destination, seconds):
+    """Compose an ORIGINAL, cheerful 112-BPM travel instrumental in C major.
 
-    Four slow sustained chords and intermittent gently fading upper notes,
-    entirely synthesized in code. No samples, external songs or uploads.
+    Entirely synthesized: lightly plucked guitar-like notes, a tuneful lead,
+    warm bass and soft percussion. No samples, borrowed tunes or audio APIs.
     """
-    rate=32000
-    chordsets=[
-        (196.0,246.94,293.66),
-        (174.61,220.00,261.63),
-        (164.81,196.00,246.94),
-        (174.61,220.00,261.63),
+    rate = 32000
+    bpm = 112
+    beat = 60.0 / bpm
+    chords = [
+        (261.63, 329.63, 392.00, 493.88),  # Cmaj7
+        (349.23, 440.00, 523.25, 659.25),  # Fmaj7
+        (392.00, 493.88, 587.33, 783.99),  # Gadd
+        (261.63, 329.63, 392.00, 587.33),  # Cadd9
     ]
-    frames=int(seconds*rate)
-    period=seconds/len(chordsets)
-    audio=array.array("h")
-    for n in range(frames):
-        t=n/rate
-        section=min(3,int(t/period))
-        pos=t/period-section
-        def pad(notes):
-            return sum(math.sin(2*math.pi*f*t)+0.16*math.sin(2*math.pi*f*2*t) for f in notes)/3.48
-        if pos>0.79 and section<3:
-            w=(pos-0.79)/0.21
-            tone=(1-w)*pad(chordsets[section])+w*pad(chordsets[section+1])
-        else:
-            tone=pad(chordsets[section])
-        beat=t%0.85
-        pluck_frequency=chordsets[section][int(t/0.85)%3]*2
-        pluck=math.sin(2*math.pi*pluck_frequency*t)*math.exp(-7.0*beat)
-        breath=0.87+0.13*math.sin(2*math.pi*0.11*t)
-        fade=min(1.0,t/0.8,max(0.0,(seconds-t)/1.45))
-        val=(0.17*tone*breath+0.043*pluck)*fade
-        audio.append(int(max(-0.98,min(0.98,val))*32767))
+    bass_notes = (130.81, 174.61, 196.00, 130.81)
+    lead_notes = (659.25, 783.99, 880.00, 783.99, 659.25, 587.33, 523.25, 659.25,
+                  698.46, 880.00, 783.99, 698.46, 659.25, 587.33, 523.25, 587.33)
+    audio = array.array("h")
+    for n in range(int(seconds*rate)):
+        t = n/rate
+        bar = int(t/(beat*4))
+        chord_index = bar % 4
+        chord = chords[chord_index]
+        eighth = beat/2
+        eighth_index = int(t/eighth)
+        eighth_phase = (t % eighth)/eighth
+        # A bouncy finger-picked pulse instead of the old long, sombre pad.
+        pluck_note = chord[(0,2,1,3,2,1,3,1)[eighth_index % 8]]
+        pluck_env = (1-math.exp(-40*eighth_phase))*math.exp(-4.1*eighth_phase)
+        pluck = (math.sin(2*math.pi*pluck_note*t) +
+                 0.22*math.sin(2*math.pi*2*pluck_note*t) +
+                 0.08*math.sin(2*math.pi*3*pluck_note*t))*pluck_env*0.13
+        # A bright but restrained, original four-bar melodic motif.
+        lead_index = int(t/beat) % len(lead_notes)
+        lead_phase = (t%beat)/beat
+        freq = lead_notes[lead_index]
+        lead_env = (1-math.exp(-30*lead_phase))*math.exp(-4.5*lead_phase)
+        lead = (math.sin(2*math.pi*freq*t)+0.15*math.sin(2*math.pi*2*freq*t))*lead_env*0.067
+        # Warm rhythmic bass and restrained soft percussion.
+        beat_phase = t % beat
+        bass = math.sin(2*math.pi*bass_notes[chord_index]*t)*math.exp(-3.0*beat_phase/beat)*0.085
+        bass += 0.018*math.sin(2*math.pi*bass_notes[chord_index]*2*t)
+        kick = 0.0
+        if int(t/beat)%4 in (0,2) and beat_phase<0.18:
+            kick = math.sin(2*math.pi*(74-35*beat_phase)*beat_phase)*math.exp(-28*beat_phase)*0.09
+        # Deterministic high frequency noise is synthesized, not sampled.
+        shimmer = (math.sin(2*math.pi*5033*t)*math.sin(2*math.pi*3167*t))
+        hat = 0.022*shimmer*math.exp(-55*(t % eighth))
+        clap_phase = (t % beat)
+        clap = 0.0
+        if int(t/beat)%4 in (1,3) and clap_phase<0.095:
+            clap = 0.035*shimmer*math.exp(-30*clap_phase)
+        # Fade in/out naturally so the clip loops with no sudden click.
+        fade = min(1.0, t/0.24, max(0.0,(seconds-t)/0.6))
+        value = (pluck+lead+bass+kick+hat+clap)*fade
+        audio.append(int(max(-0.96,min(0.96,value))*32767))
     with wave.open(str(destination),"wb") as wav:
         wav.setnchannels(1)
         wav.setsampwidth(2)
@@ -158,8 +181,8 @@ def main(postfile):
         if "pexels.com/video/" not in clip["page_url"] and "commons.wikimedia.org/" not in clip["page_url"]:
             raise ValueError("Video page URL must point at inspectable source")
         if len(clip["overlay"])>68:raise ValueError("Text too long for 9:16 Reel overlay")
-    if brief.get("audio_policy")!="original_synth_ambient":
-        raise ValueError("Reel requires a verified in-house original soundtrack")
+    if brief.get("audio_policy")!="original_synth_upbeat":
+        raise ValueError("Reel requires a verified in-house upbeat original soundtrack")
 
     output=OUTPUT/brief["slug"]
     output.mkdir(parents=True,exist_ok=True)
@@ -177,7 +200,7 @@ def main(postfile):
             txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=57,face_path=FONT_SERIF))
             destination=text_file(temp,f"destination{i}",wrap_text(brief["destination"].split(",")[0].upper(),max_width=900,fontsize=74,face_path=FONT_SERIF))
             brand=text_file(temp,f"brand{i}","YOUR TRAVEL ATLAS")
-            tagline=text_file(temp,f"tagline{i}","WANDER FURTHER")
+            
             # 9:16 full bleed, intentional text only in safe bands.
             filters=[
                 "scale=1080:1920:force_original_aspect_ratio=increase",
@@ -186,10 +209,8 @@ def main(postfile):
                 "format=yuv420p",
                 textfilter(brand,28,153,font=FONT_REG),
                 textfilter(destination,74,229,font=FONT_SERIF),
-                textfilter(txt,57,1283,font=FONT_SERIF),
+                textfilter(txt,57,1405,font=FONT_SERIF),
             ]
-            if i==len(clips)-1:
-                filters.append(textfilter(tagline,29,1534,font=FONT_REG))
             # End of layout; no clip counts, no carousel issue numbers.
             piece=temp/f"piece{i:02d}.mp4"
             run("ffmpeg","-hide_banner","-loglevel","error","-y",
@@ -213,11 +234,12 @@ def main(postfile):
             "-i",concat,"-c","copy","-movflags","+faststart",str(silent))
         duration_silent=probe(silent)["duration"]
         soundtrack=temp/"original_ambient.wav"
-        compose_original_ambient(soundtrack,duration_silent)
+        compose_original_upbeat(soundtrack,duration_silent)
         final=output/"reel.mp4"
         run("ffmpeg","-hide_banner","-loglevel","error","-y",
             "-i",str(silent),"-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
             "-c:v","copy","-c:a","aac","-b:a","128k","-ar","44100","-ac","2",
+            "-af","loudnorm=I=-16:TP=-1.5:LRA=9",
             "-t",str(duration_silent),"-movflags","+faststart",str(final))
         final_meta=probe(final)
         streams=json.loads(run("ffprobe","-v","error","-show_streams","-of","json",final))["streams"]
@@ -235,7 +257,7 @@ def main(postfile):
             "hook":brief["hook"],"status":"rendered-not-published",
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
             "caption":brief["caption"],"fact_sources":brief["fact_sources"],
-            "audio_policy":"original_synth_ambient","soundtrack_provenance":"Original synthesized instrumental ambience created by scripts/render_reel.py; no external composition, samples or third-party music",
+            "audio_policy":"original_synth_upbeat","soundtrack_provenance":"Original upbeat 112-BPM C-major instrumental, synthesized entirely by scripts/render_reel.py; no copyrighted samples, licensed songs, or third-party music",
             "video":"reel.mp4",
             "width":WIDTH,"height":HEIGHT,"fps":FPS,
             "duration_seconds":round(duration,2),"size_bytes":final.stat().st_size,
