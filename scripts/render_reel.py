@@ -18,7 +18,7 @@ from PIL import Image, ImageFont, ImageDraw
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE=ROOT/"content"/"reels"
 OUTPUT=ROOT/"media"/"reels"
-WIDTH, HEIGHT, FPS = 720, 1280, 30
+WIDTH, HEIGHT, FPS = 1080, 1920, 30
 FONT_REG="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 FONT_BOLD="/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 FONT_SERIF="/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"
@@ -70,7 +70,7 @@ def download(clip,tmp):
     data=probe(tmp)
     return {"source_sha256":hashlib.sha256(Path(tmp).read_bytes()).hexdigest(),"source_bytes":count,**data}
 
-def wrap_text(message, max_width=585, fontsize=37, max_lines=3):
+def wrap_text(message, max_width=875, fontsize=54, max_lines=3):
     face=ImageFont.truetype(FONT_BOLD,fontsize)
     lines=[]
     buf=""
@@ -93,7 +93,7 @@ def text_file(tmp_dir,name,value):
 
 def textfilter(path,size,y,color="white",font=FONT_BOLD,center=False):
     # drawtext textfile and precise fixed margins maintain accessibility and safe framing
-    x="(w-text_w)/2" if center else "60"
+    x="(w-text_w)/2" if center else "90"
     return f"drawtext=fontfile={font}:textfile={path}:fontsize={size}:fontcolor={color}:x={x}:y={y}:line_spacing=12:shadowcolor=black@0.65:shadowx=2:shadowy=3"
 
 def main(postfile):
@@ -138,15 +138,15 @@ def main(postfile):
             tagline=text_file(temp,f"tagline{i}","WANDER FURTHER  /  @YOURTRAVELATLAS")
             # 9:16 full bleed, intentional text only in safe bands.
             filters=[
-                "scale=720:1280:force_original_aspect_ratio=increase",
-                "crop=720:1280",
+                "scale=1080:1920:force_original_aspect_ratio=increase",
+                "crop=1080:1920",
                 "setsar=1",
                 "format=yuv420p",
-                textfilter(brand,27,95),
-                textfilter(progress,21,140),
-                textfilter(destination,30,785),
-                textfilter(txt,37,850),
-                textfilter(tagline,18,1135),
+                textfilter(brand,41,142),
+                textfilter(progress,30,212),
+                textfilter(destination,45,1177),
+                textfilter(txt,54,1275),
+                textfilter(tagline,27,1702),
             ]
             piece=temp/f"piece{i:02d}.mp4"
             run("ffmpeg","-hide_banner","-loglevel","error","-y",
@@ -196,11 +196,11 @@ def main(postfile):
             run("ffmpeg","-hide_banner","-loglevel","error","-y","-ss",str(mid),
                 "-i",str(final),"-frames:v","1",str(frame))
             original=Image.open(frame).convert("RGB")
-            thumbnails.append(original.resize((360,640),Image.Resampling.LANCZOS))
+            thumbnails.append(original.resize((540,960),Image.Resampling.LANCZOS))
             middle += evidence[i]["clip_seconds"]
-        contact=Image.new("RGB",(720,640*((len(thumbnails)+1)//2)),(25,28,30))
+        contact=Image.new("RGB",(1080,960*((len(thumbnails)+1)//2)),(25,28,30))
         for i,frame in enumerate(thumbnails):
-            contact.paste(frame,((i%2)*360,(i//2)*640))
+            contact.paste(frame,((i%2)*540,(i//2)*960))
         contact.save(output/"storyboard.jpg",quality=86,optimize=True)
         shutil.copy2(temp/"frame0.jpg",output/"cover.jpg")
         print("WROTE",final,f"{duration:.2f}s",flush=True)
