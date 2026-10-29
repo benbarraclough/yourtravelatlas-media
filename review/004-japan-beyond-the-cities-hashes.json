@@ -1,0 +1,14 @@
+{
+  "issue": 4,
+  "slug": "004-japan-beyond-the-cities",
+  "brief_sha256": "550242a3ad89fefbd187f5a67e69b56a72371f092ac5f87988fb374eae1dc74e",
+  "caption_sha256": "391a6827959828bc14f20aa23796f59992e8c3d48781b292d6d396162345f34a",
+  "image_sha256": {
+    "media/004-japan-beyond-the-cities/01.jpg": "7fdcff0ddc2c87eadcc32a11f4662ff16b2337b372394194394314c5d043a1dc",
+    "media/004-japan-beyond-the-cities/02.jpg": "8fee324e793eda4c039a4163124eaf764e67fa4f2deb7a1b2db9142df47aeef4",
+    "media/004-japan-beyond-the-cities/03.jpg": "406629c7fe1ce22d6e0e135e4e0e9e46237c812931d55930b1d4db9d55b4cd57",
+    "media/004-japan-beyond-the-cities/04.jpg": "bb877436b6b834480e65230306974584119554b065b290afd7149948761b9c57",
+    "media/004-japan-beyond-the-cities/05.jpg": "151a0a092a1b8f08a629427a4fbd03289b984971bc1efc4f52857748662b3aa3",
+    "media/004-japan-beyond-the-cities/06.jpg": "911903acbed4cba36760e6cbd797c4cf6b29599f85cd06ced6e2663b12e83c03"
+  }
+}

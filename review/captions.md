@@ -1,6 +1,6 @@
-# Your Travel Atlas — captions for approval
+# Your Travel Atlas — current v6 editorial captions
 
-Both v6 remakes await owner approval. These are the exact candidate captions.
+Publication verdicts are recorded separately in content/reviews.
 
 ## How to spend a weekend in Porto
 
