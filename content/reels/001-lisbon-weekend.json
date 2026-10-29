@@ -1,18 +1,18 @@
 {
-  "issue": 4,
-  "slug": "004-lisbon-weekend",
+  "slug": "001-lisbon-weekend",
   "destination": "Lisbon, Portugal",
   "hook": "A Lisbon weekend without rushing",
   "effort_level": "relaxed",
-  "editorial_intent": "A relaxed, sociable short break in Lisbon: start with hillside views, take a yellow tram into old neighbourhood streets, drift through Praça do Comércio and finish beside the Tagus.",
-  "share_reason": "Send it to a friend as a doable European city weekend with a tram ride, a scenic wander, a square full of atmosphere and a relaxed riverside finish, not a strenuous expedition.",
-  "audio_policy": "silent",
-  "caption": "A city break that doesn't need a complicated itinerary. 🇵🇹\n\nLisbon is made for wandering slowly: start with rooftops and viewpoints around Alfama, ride one of the city's historic yellow trams, stroll through Praça do Comércio and finish with some time beside the Tagus at Ribeira das Naus.\n\nIt's a good place to plan a long weekend around neighbourhoods rather than rushing from one sight to the next. Expect hills and cobbles in the older districts, and use the trams to make the climbs easier.\n\nSend this to the friend you'd bring for a few days away. 🌞\n\nFootage: Vincent Rivaud, Jose Cruz, Policarpo Brito & Dany B. / Pexels.\n\n#YourTravelAtlas #Lisbon #VisitLisbon #PortugalTravel #CityBreak #WeekendEscape #TravelIdeas",
+  "editorial_intent": "A relaxed Lisbon weekend told through five authentic moving scenes: rooftops from a viewpoint, vintage tram, lively pedestrian backstreets, Praça do Comércio and a peaceful Tagus waterfront finish.",
+  "share_reason": "A tangible, easy European city-break plan friends could send each other, with sights, local streets, trams, shared food and a relaxed riverside finish.",
+  "audio_policy": "original_synth_ambient",
+  "caption": "Lisbon is the kind of city break you can enjoy without a complicated itinerary. 🇵🇹\n\nStart with the viewpoints above Alfama, hop on a yellow tram and leave time to wander the pedestrian streets. Walk through Praça do Comércio, pause for coffee and pastéis de nata, then finish beside the Tagus at Ribeira das Naus.\n\nThis is five glimpses of a relaxed weekend, not a rigid route. The older neighbourhoods have steep hills and cobbles, but you can make it easier with public transport and plenty of café stops.\n\nSend this to someone you'd like to get away with. 🌞\n\nFootage: Vincent Rivaud, Jose Cruz, Alyona Nagel, Policarpo Brito & Dany B. / Pexels.\n\n#YourTravelAtlas #Lisbon #PortugalTravel #CityBreak #WeekendEscape #VisitLisboa",
   "fact_sources": [
     "https://www.visitlisboa.com/en/places/no-28-tram",
     "https://www.visitlisboa.com/en/places/praca-do-comercio-terreiro-do-paco",
     "https://www.visitlisboa.com/en/places/ribeira-das-naus",
-    "https://www.visitlisboa.com/pt-pt/locais/alfama"
+    "https://www.visitlisboa.com/pt-pt/locais/alfama",
+    "https://www.visitlisboa.com/en/places/rua-augusta"
   ],
   "clips": [
     {
@@ -21,7 +21,7 @@
       "license": "Pexels License",
       "photographer": "Vincent Rivaud",
       "description": "Lisbon's red-tiled rooftops from a scenic viewpoint",
-      "overlay": "A WEEKEND WITHOUT RUSHING",
+      "overlay": "A weekend without rushing",
       "seconds": 3.5,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/pt-pt/locais/alfama"
@@ -32,10 +32,21 @@
       "license": "Pexels License",
       "photographer": "Jose Cruz",
       "description": "Lisbon yellow tram passing through its city streets",
-      "overlay": "TAKE A TRAM INTO OLD LISBON",
-      "seconds": 3.5,
+      "overlay": "Ride the yellow trams",
+      "seconds": 3.2,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/en/places/no-28-tram"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/charming-pedestrian-street-in-historic-lisbon-35551190/",
+      "download_url": "https://www.pexels.com/download/video/35551190/",
+      "license": "Pexels License",
+      "photographer": "Alyona Nagel",
+      "description": "A lively pedestrian street in the historic centre of Lisbon",
+      "overlay": "Wander the old city streets",
+      "seconds": 3.2,
+      "start": 0,
+      "activity_source": "https://www.visitlisboa.com/en/places/rua-augusta"
     },
     {
       "page_url": "https://www.pexels.com/video/people-walking-through-iconic-lisbon-arch-35318439/",
@@ -43,8 +54,8 @@
       "license": "Pexels License",
       "photographer": "Policarpo Brito",
       "description": "People enjoying the Rua Augusta arch and Praça do Comércio",
-      "overlay": "WANDER THE CITY'S GRAND SQUARE",
-      "seconds": 3.5,
+      "overlay": "Stroll through the grand square",
+      "seconds": 3.2,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/en/places/praca-do-comercio-terreiro-do-paco"
     },
@@ -54,10 +65,11 @@
       "license": "Pexels License",
       "photographer": "Dany B.",
       "description": "Watercraft silhouetted against the light on Lisbon's Tagus waterfront",
-      "overlay": "END THE DAY BY THE RIVER",
-      "seconds": 3.5,
+      "overlay": "Finish beside the Tagus",
+      "seconds": 3.2,
       "start": 0,
       "activity_source": "https://www.visitlisboa.com/en/places/ribeira-das-naus"
     }
-  ]
+  ],
+  "reel_number": 1
 }

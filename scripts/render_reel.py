@@ -6,6 +6,9 @@ Fails closed on missing or invalid real video inputs.
 import hashlib
 import json
 import os
+import array
+import math
+import wave
 from pathlib import Path
 import re
 import shutil
@@ -70,8 +73,8 @@ def download(clip,tmp):
     data=probe(tmp)
     return {"source_sha256":hashlib.sha256(Path(tmp).read_bytes()).hexdigest(),"source_bytes":count,**data}
 
-def wrap_text(message, max_width=875, fontsize=54, max_lines=3):
-    face=ImageFont.truetype(FONT_BOLD,fontsize)
+def wrap_text(message, max_width=865, fontsize=57, max_lines=2, face_path=FONT_SERIF):
+    face=ImageFont.truetype(face_path,fontsize)
     lines=[]
     buf=""
     for word in str(message).split():
@@ -86,6 +89,46 @@ def wrap_text(message, max_width=875, fontsize=54, max_lines=3):
     if len(lines)>max_lines:raise ValueError(f"Overlay too long at mobile size: {message}")
     return "\n".join(lines)
 
+def compose_original_ambient(destination, seconds):
+    """Generate a quiet original harmonic bed, not a licensed commercial track.
+
+    Four slow sustained chords and intermittent gently fading upper notes,
+    entirely synthesized in code. No samples, external songs or uploads.
+    """
+    rate=32000
+    chordsets=[
+        (196.0,246.94,293.66),
+        (174.61,220.00,261.63),
+        (164.81,196.00,246.94),
+        (174.61,220.00,261.63),
+    ]
+    frames=int(seconds*rate)
+    period=seconds/len(chordsets)
+    audio=array.array("h")
+    for n in range(frames):
+        t=n/rate
+        section=min(3,int(t/period))
+        pos=t/period-section
+        def pad(notes):
+            return sum(math.sin(2*math.pi*f*t)+0.16*math.sin(2*math.pi*f*2*t) for f in notes)/3.48
+        if pos>0.79 and section<3:
+            w=(pos-0.79)/0.21
+            tone=(1-w)*pad(chordsets[section])+w*pad(chordsets[section+1])
+        else:
+            tone=pad(chordsets[section])
+        beat=t%0.85
+        pluck_frequency=chordsets[section][int(t/0.85)%3]*2
+        pluck=math.sin(2*math.pi*pluck_frequency*t)*math.exp(-7.0*beat)
+        breath=0.87+0.13*math.sin(2*math.pi*0.11*t)
+        fade=min(1.0,t/0.8,max(0.0,(seconds-t)/1.45))
+        val=(0.17*tone*breath+0.043*pluck)*fade
+        audio.append(int(max(-0.98,min(0.98,val))*32767))
+    with wave.open(str(destination),"wb") as wav:
+        wav.setnchannels(1)
+        wav.setsampwidth(2)
+        wav.setframerate(rate)
+        wav.writeframes(audio.tobytes())
+
 def text_file(tmp_dir,name,value):
     filename=tmp_dir/(name+".txt")
     filename.write_text(value,encoding="utf-8")
@@ -98,12 +141,12 @@ def textfilter(path,size,y,color="white",font=FONT_BOLD,center=False):
 
 def main(postfile):
     brief=json.loads(postfile.read_text(encoding="utf-8"))
-    required=("issue","slug","destination","hook","caption","editorial_intent","share_reason","clips","fact_sources")
+    required=("reel_number","slug","destination","hook","caption","editorial_intent","share_reason","clips","fact_sources")
     for key in required:
         if not brief.get(key):raise ValueError(f"Missing {key}")
     if not re.fullmatch(r"[0-9]{3}-[a-z0-9-]+",brief["slug"]):raise ValueError("Bad slug")
     clips=brief["clips"]
-    if len(clips)<3 or len(clips)>6:raise ValueError("Reels require 3-6 independent moving shots")
+    if len(clips)<5 or len(clips)>8:raise ValueError("Reels require 5-8 distinct moving shots")
     if len(set(x["page_url"] for x in clips))!=len(clips):raise ValueError("Duplicate footage")
     for clip in clips:
         for k in ("page_url","photographer","license","description","overlay","download_url","activity_source"):
@@ -115,8 +158,8 @@ def main(postfile):
         if "pexels.com/video/" not in clip["page_url"] and "commons.wikimedia.org/" not in clip["page_url"]:
             raise ValueError("Video page URL must point at inspectable source")
         if len(clip["overlay"])>68:raise ValueError("Text too long for 9:16 Reel overlay")
-    if brief.get("audio_policy")!="silent":
-        raise ValueError("Reel audio not cleared, default to silent")
+    if brief.get("audio_policy")!="original_synth_ambient":
+        raise ValueError("Reel requires a verified in-house original soundtrack")
 
     output=OUTPUT/brief["slug"]
     output.mkdir(parents=True,exist_ok=True)
@@ -131,23 +174,23 @@ def main(postfile):
             meta=download(clip,src)
             seconds=min(float(clip.get("seconds",3.4)),meta["duration"]-0.3)
             if seconds<2.5 or seconds>6:raise ValueError("Clip segment duration out of bounds")
-            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"]))
-            destination=text_file(temp,f"destination{i}",brief["destination"].upper())
+            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=57,face_path=FONT_SERIF))
+            destination=text_file(temp,f"destination{i}",wrap_text(brief["destination"].split(",")[0].upper(),max_width=900,fontsize=74,face_path=FONT_SERIF))
             brand=text_file(temp,f"brand{i}","YOUR TRAVEL ATLAS")
-            progress=text_file(temp,f"progress{i}",f"ISSUE {brief['issue']:03d}  /  {i+1:02d} of {len(clips):02d}")
-            tagline=text_file(temp,f"tagline{i}","WANDER FURTHER  /  @YOURTRAVELATLAS")
+            tagline=text_file(temp,f"tagline{i}","WANDER FURTHER")
             # 9:16 full bleed, intentional text only in safe bands.
             filters=[
                 "scale=1080:1920:force_original_aspect_ratio=increase",
                 "crop=1080:1920",
                 "setsar=1",
                 "format=yuv420p",
-                textfilter(brand,41,142),
-                textfilter(progress,30,212),
-                textfilter(destination,45,1177),
-                textfilter(txt,54,1275),
-                textfilter(tagline,27,1702),
+                textfilter(brand,28,153,font=FONT_REG),
+                textfilter(destination,74,229,font=FONT_SERIF),
+                textfilter(txt,57,1283,font=FONT_SERIF),
             ]
+            if i==len(clips)-1:
+                filters.append(textfilter(tagline,29,1534,font=FONT_REG))
+            # End of layout; no clip counts, no carousel issue numbers.
             piece=temp/f"piece{i:02d}.mp4"
             run("ffmpeg","-hide_banner","-loglevel","error","-y",
                 "-ss",clip.get("start",0),"-i",src,"-t",str(seconds),
@@ -165,10 +208,21 @@ def main(postfile):
             print(f"  {i+1}/{len(clips)} {clip['description']} ({seconds:.2f}s)",flush=True)
         concat=temp/"files.txt"
         concat.write_text("".join(f"file '{p.absolute()}'\n" for p in pieces),encoding="utf-8")
-        final=output/"reel.mp4"
+        silent=temp/"silent.mp4"
         run("ffmpeg","-hide_banner","-loglevel","error","-y","-f","concat","-safe","0",
-            "-i",concat,"-c","copy","-movflags","+faststart",str(final))
+            "-i",concat,"-c","copy","-movflags","+faststart",str(silent))
+        duration_silent=probe(silent)["duration"]
+        soundtrack=temp/"original_ambient.wav"
+        compose_original_ambient(soundtrack,duration_silent)
+        final=output/"reel.mp4"
+        run("ffmpeg","-hide_banner","-loglevel","error","-y",
+            "-i",str(silent),"-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
+            "-c:v","copy","-c:a","aac","-b:a","128k","-ar","44100","-ac","2",
+            "-t",str(duration_silent),"-movflags","+faststart",str(final))
         final_meta=probe(final)
+        streams=json.loads(run("ffprobe","-v","error","-show_streams","-of","json",final))["streams"]
+        if not any(st.get("codec_type")=="audio" and st.get("codec_name")=="aac" for st in streams):
+            raise ValueError("Final Reel missing playable AAC soundtrack")
         if final.stat().st_size>38*1024*1024:
             raise ValueError("Final Reel file exceeds GitHub upload quality/size cap")
         if final_meta["width"]!=WIDTH or final_meta["height"]!=HEIGHT:
@@ -177,11 +231,12 @@ def main(postfile):
         if duration<9 or duration>50:raise ValueError("Unexpected output duration")
         # Silent audio is an intentional editorial default, not unlicensed music.
         manifest={
-            "issue":brief["issue"],"slug":brief["slug"],"destination":brief["destination"],
+            "reel_number":brief["reel_number"],"slug":brief["slug"],"destination":brief["destination"],
             "hook":brief["hook"],"status":"rendered-not-published",
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
             "caption":brief["caption"],"fact_sources":brief["fact_sources"],
-            "audio_policy":"silent","video":"reel.mp4",
+            "audio_policy":"original_synth_ambient","soundtrack_provenance":"Original synthesized instrumental ambience created by scripts/render_reel.py; no external composition, samples or third-party music",
+            "video":"reel.mp4",
             "width":WIDTH,"height":HEIGHT,"fps":FPS,
             "duration_seconds":round(duration,2),"size_bytes":final.stat().st_size,
             "clips":evidence
@@ -203,7 +258,7 @@ def main(postfile):
             contact.paste(frame,((i%2)*540,(i//2)*960))
         contact.save(output/"storyboard.jpg",quality=86,optimize=True)
         shutil.copy2(temp/"frame0.jpg",output/"cover.jpg")
-        print("WROTE",final,f"{duration:.2f}s",flush=True)
+        print("WROTE",final,f"{duration:.2f}s", "with original AAC soundtrack",flush=True)
     finally:
         shutil.rmtree(temp,ignore_errors=True)
 
