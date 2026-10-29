@@ -1,0 +1,73 @@
+{
+  "reel_number": 2,
+  "slug": "002-cinque-terre-by-train",
+  "destination": "Cinque Terre, Italy",
+  "hook": "Five villages. One railway. A coast worth slowing down for.",
+  "effort_level": "relaxed",
+  "editorial_intent": "An achievable, friend-worthy Italian Riviera getaway by train rather than rental car, with a distinctive sequence of colourful Riomaggiore, the Manarola lanes, Vernazza harbour and a relaxed beach afternoon at Monterosso.",
+  "share_reason": "Friends can send this to one another as a concrete Italian coast trip: use the rail line as a base, get off for village wandering, food and beach breaks, without a strenuous hiking itinerary.",
+  "audio_policy": "original_synth_upbeat",
+  "caption": "Five colourful villages, one spectacular coastline — and you don't need a car. 🇮🇹\n\nThe Cinque Terre railway connects Riomaggiore, Manarola, Corniglia, Vernazza and Monterosso. Make a long weekend of it: wander the harbour streets of Riomaggiore, take your time in Manarola, settle in for a slow lunch in Vernazza and give Monterosso its own beach afternoon.\n\nIt’s an easy trip to make with friends if you base yourself in one village or nearby La Spezia and use the train between stops. Don't try to squeeze everything into one day. Check current rail timetables and the national park's access guidance before going.\n\nSend this to the friends you'd take on an Italian seaside escape. 🌞\n\nFootage: Stephan Leuzinger, Attila Pergel, Mihaela Claudia Puscas & Alyona Nagel / Pexels.\n\n#YourTravelAtlas #CinqueTerre #ItalianRiviera #ItalyByTrain #ItalyTravel #SeasideEscapes #TravelIdeas",
+  "fact_sources": [
+    "https://www.parconazionale5terre.it/page.php?id=346",
+    "https://parconazionale5terre.it/Earr.php",
+    "https://www.parconazionale5terre.it/page.php?id=158"
+  ],
+  "clips": [
+    {
+      "page_url": "https://www.pexels.com/video/scenic-coastline-of-cinque-terre-italy-33987506/",
+      "download_url": "https://www.pexels.com/download/video/33987506/",
+      "license": "Pexels License",
+      "photographer": "Stephan Leuzinger",
+      "description": "Aerial coastline with villages and dramatic turquoise sea at Cinque Terre",
+      "overlay": "A coast made for taking your time",
+      "seconds": 3.4,
+      "start": 0,
+      "activity_source": "https://www.parconazionale5terre.it/page.php?id=346"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/cinque-terre-colorful-houses-in-italy-12205053/",
+      "download_url": "https://www.pexels.com/download/video/12205053/",
+      "license": "Pexels License",
+      "photographer": "Attila Pergel",
+      "description": "Riomaggiore's colourful hillside houses and waterfront",
+      "overlay": "Start among Riomaggiore's painted houses",
+      "seconds": 3.3,
+      "start": 0,
+      "activity_source": "https://www.parconazionale5terre.it/page.php?id=346"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/scenic-walk-through-manarola-cinque-terre-32778491/",
+      "download_url": "https://www.pexels.com/download/video/32778491/",
+      "license": "Pexels License",
+      "photographer": "Mihaela Claudia Puscas",
+      "description": "Walk through the colourful cliffside village of Manarola",
+      "overlay": "Give Manarola's little lanes a morning",
+      "seconds": 3.3,
+      "start": 0,
+      "activity_source": "https://www.parconazionale5terre.it/page.php?id=346"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/vernazza-and-its-vibrant-coastal-beauty-36581397/",
+      "download_url": "https://www.pexels.com/download/video/36581397/",
+      "license": "Pexels License",
+      "photographer": "Alyona Nagel",
+      "description": "Colourful Vernazza village and its harbour setting",
+      "overlay": "Stop for a harbour-side lunch in Vernazza",
+      "seconds": 3.3,
+      "start": 0,
+      "activity_source": "https://www.parconazionale5terre.it/page.php?id=346"
+    },
+    {
+      "page_url": "https://www.pexels.com/video/this-aerial-view-showcases-the-charming-coastal-town-of-monterosso-al-mare-in-the-cinque-terre-region-of-italy-the-image-captures-the-picturesque-beach-clear-turquoise-waters-and-the-co-27440350/",
+      "download_url": "https://www.pexels.com/download/video/27440350/",
+      "license": "Pexels License",
+      "photographer": "Attila Pergel",
+      "description": "Wide aerial view of Monterosso's beach and turquoise waterfront",
+      "overlay": "Save a beach afternoon for Monterosso",
+      "seconds": 3.3,
+      "start": 0,
+      "activity_source": "https://www.parconazionale5terre.it/page.php?id=346"
+    }
+  ]
+}
