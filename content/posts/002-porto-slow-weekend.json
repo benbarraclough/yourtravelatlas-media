@@ -22,7 +22,7 @@
     "https://www.visitportugal.com/en/node/155969",
     "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao"
   ],
-  "caption": "Porto has a night when strangers greet each other with toy hammers—and a tram ride that ends with Atlantic air. Two very different reasons to go. 🇵🇹\n\nFor a two-day break, give Saturday to the city: Bolhão for coffee and a browse, São Bento's tiled entrance hall, Rua das Flores towards Ribeira, then an evening across Luís I Bridge in Gaia. Sunday is for historic tram 1 from Infante to Passeio Alegre and an unhurried Foz seafront walk.\n\nThe small detail that saves the plan: Bolhão's market is closed on Sundays. Go on Saturday, then leave the coast for day two. Porto's hills and cobbles reward fewer stops and longer pauses; this is a suggested sequence, not a timed route.\n\nWant the city at its most exuberant? São João peaks on the night of 23 June: street dancing, sardine grills, caldo verde, basil pots and the martelinhos greeting tradition. Douro fireworks are a signature of the celebrations. Plan around the recurring date, then check Ágora/Visit Porto for the next edition's programme; no 2027 line-up or fireworks time is confirmed here.\n\nKeep one Porto base for both days. Check the tram service for your dates rather than relying on an old timetable.\n\nSave this for the friend who'd turn a city break into a longer weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Kristijan Arsov & Vitalii Kyktov / Unsplash.\n\n#YourTravelAtlas #Porto #SaoJoao #PortoCityBreak #PortugalTravel",
+  "caption": "Porto has a night when strangers greet each other with toy hammers—and a tram ride that ends with Atlantic air. Two very different reasons to go. 🇵🇹\n\nFor a two-day break, give Saturday to the city: Bolhão for coffee and a browse, São Bento's tiled entrance hall, Rua das Flores towards Ribeira, then an evening across Luís I Bridge in Gaia. Sunday is for historic tram 1 from Infante to Passeio Alegre and an unhurried Foz seafront walk.\n\nThe small detail that saves the plan: Bolhão's market is closed on Sundays. Go on Saturday, then leave the coast for day two. Porto's hills and cobbles reward fewer stops and longer pauses; this is a suggested sequence, not a timed route.\n\nWant the city at its most exuberant? São João peaks on the night of 23 June: street dancing, sardine grills, caldo verde, basil pots and the martelinhos greeting tradition. Douro fireworks are a signature of the celebrations. Plan around the recurring date, then check Ágora/Visit Porto for the next edition's programme; no 2027 line-up or fireworks time is confirmed here.\n\nKeep one Porto base for both days. Check the tram service for your dates rather than relying on an old timetable.\n\nSave this for the friend who'd turn a city break into a longer weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, zibik & Vitalii Kyktov / Unsplash.\n\n#YourTravelAtlas #Porto #SaoJoao #PortoCityBreak #PortugalTravel",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1748792461789-e94a91541532?auto=format&fit=crop&w=2000&q=88",
@@ -123,12 +123,12 @@
       }
     },
     {
-      "image_url": "https://images.unsplash.com/photo-1744737037824-98b249ccfd12?auto=format&fit=crop&w=2000&q=88",
-      "source_page": "https://unsplash.com/photos/an-old-tram-is-parked-on-the-tracks-9eGOH-aBKus",
-      "photographer": "Kristijan Arsov",
+      "image_url": "https://images.unsplash.com/photo-1583942449156-08f42da51e0a?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/people-walking-on-sidewalk-near-yellow-tram-during-daytime-54TiibpZgu4",
+      "photographer": "zibik",
       "license": "Unsplash License",
-      "subject": "A historic electric tram on the tracks in Porto.",
-      "alt": "A historic electric tram on the tracks in Porto.",
+      "subject": "A historic tram beside a Porto street with pedestrians.",
+      "alt": "A historic Porto tram beside a street with pedestrians.",
       "activity_source": "https://www.museudocarroelectrico.pt/visitar/",
       "focus_y": 0.5,
       "layout": "story",
@@ -141,10 +141,10 @@
         "https://www.museudocarroelectrico.pt/visitar/",
         "https://stcp.pt/pt/horarios-de-verao-linhas-1-18-500"
       ],
-      "photo_note": "PICTURED: HERITAGE LINE 18 • TAKE LINE 1 FOR THIS OUTING",
+      "photo_note": "PORTO'S HISTORIC TRAMS • THIS OUTING USES LINE 1",
       "review": {
         "reader_value": "Gives a usable heritage-tram route and a linked coastal walk after the ride.",
-        "image_context": "The photograph is a real Porto historic tram; it is not falsely identified as a specific line-1 carriage.",
+        "image_context": "The source identifies a real historic Porto tram. Its actual route display and advertising must be checked in the final render; the planned Infante–Passeio Alegre route is independently verified.",
         "specific_detail": "Names line 1, Infante and Passeio Alegre using operator/museum evidence.",
         "distinct_contribution": "Makes transport part of the experience and changes the landscape from city to Atlantic."
       }
