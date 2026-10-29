@@ -10,8 +10,8 @@
   "share_reason": "Send this to the friend you'd take on a spontaneous long weekend: a ferry between continents, atmospheric city streets and coffee stops rather than a checklist of monuments.",
   "originality": "First city-in-motion/urban culture Reel focused on ordinary joyful travel moments and a memorable ferry crossing, distinct from adventure-heavy numbered carousels and the rejected Lisbon/Cinque Terre pilots.",
   "audio_policy": "incompetech_cc_by_4",
-  "editorial_status": "candidate_not_approved",
-  "editorial_review": "Requires verified successful render, complete storyboard/crop visual inspection and listening check of the actual CC BY 4.0 soundtrack before any Metricool automatic publication. 29 Oct 2026: Wikimedia's music server returned 429 to Actions. Changed music source to the original composer's official Incompetech download, to be freshly tested; never bypass Wikimedia rate limiting. 29 Oct 2026: invalid TLS hostname for static.incompetech.com; use canonical HTTPS incompetech.com URL only, and require certificate validation.",
+  "editorial_status": "approved_scheduled",
+  "editorial_review": "Requires verified successful render, complete storyboard/crop visual inspection and listening check of the actual CC BY 4.0 soundtrack before any Metricool automatic publication. 29 Oct 2026: Wikimedia's music server returned 429 to Actions. Changed music source to the original composer's official Incompetech download, to be freshly tested; never bypass Wikimedia rate limiting. 29 Oct 2026: invalid TLS hostname for static.incompetech.com; use canonical HTTPS incompetech.com URL only, and require certificate validation. 29 Oct 2026: Owner reviewed the completed Reel and explicitly approved it for scheduling. It replaces the Lisbon rejected pilot's existing Metricool slot; do not create a duplicate.",
   "music": {
     "title": "Protofunk",
     "artist": "Kevin MacLeod",
@@ -105,5 +105,18 @@
       "seconds": 3.4,
       "start": 0
     }
-  ]
+  ],
+  "scheduled_publication": {
+    "platform": "instagram",
+    "account": "@yourtravelatlas",
+    "provider": "metricool",
+    "brand_id": "7717708",
+    "post_id": "409593701",
+    "post_uuid": "5053010952195819165",
+    "date_time": "2026-11-05T09:00:00",
+    "timezone": "Europe/London",
+    "auto_publish": true,
+    "post_type": "REEL",
+    "replaces_rejected": "001-lisbon-weekend"
+  }
 }
