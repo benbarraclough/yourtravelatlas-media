@@ -15,11 +15,11 @@
   ],
   "audio_policy": "silent",
   "video": "reel.mp4",
-  "width": 720,
-  "height": 1280,
+  "width": 1080,
+  "height": 1920,
   "fps": 30,
   "duration_seconds": 14.0,
-  "size_bytes": 3846749,
+  "size_bytes": 7664784,
   "clips": [
     {
       "page_url": "https://www.pexels.com/video/picturesque-view-of-lisbon-with-red-rooftops-28962464/",
