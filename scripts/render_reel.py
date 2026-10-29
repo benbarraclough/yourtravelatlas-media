@@ -13,6 +13,7 @@ import subprocess
 import sys
 from urllib.parse import urlsplit
 import requests
+from PIL import Image, ImageFont, ImageDraw
 
 ROOT=Path(__file__).resolve().parents[1]
 SOURCE=ROOT/"content"/"reels"
@@ -69,6 +70,22 @@ def download(clip,tmp):
     data=probe(tmp)
     return {"source_sha256":hashlib.sha256(Path(tmp).read_bytes()).hexdigest(),"source_bytes":count,**data}
 
+def wrap_text(message, max_width=585, fontsize=37, max_lines=3):
+    face=ImageFont.truetype(FONT_BOLD,fontsize)
+    lines=[]
+    buf=""
+    for word in str(message).split():
+        proposal=(buf+" "+word).strip()
+        if face.getlength(proposal)<=max_width:
+            buf=proposal
+        else:
+            if buf: lines.append(buf)
+            if face.getlength(word)>max_width: raise ValueError(f"On-screen word exceeds safe width: {word}")
+            buf=word
+    if buf:lines.append(buf)
+    if len(lines)>max_lines:raise ValueError(f"Overlay too long at mobile size: {message}")
+    return "\n".join(lines)
+
 def text_file(tmp_dir,name,value):
     filename=tmp_dir/(name+".txt")
     filename.write_text(value,encoding="utf-8")
@@ -77,7 +94,7 @@ def text_file(tmp_dir,name,value):
 def textfilter(path,size,y,color="white",font=FONT_BOLD,center=False):
     # drawtext textfile and precise fixed margins maintain accessibility and safe framing
     x="(w-text_w)/2" if center else "60"
-    return f"drawtext=fontfile={font}:textfile={path}:fontsize={size}:fontcolor={color}:x={x}:y={y}:shadowcolor=black@0.65:shadowx=2:shadowy=3"
+    return f"drawtext=fontfile={font}:textfile={path}:fontsize={size}:fontcolor={color}:x={x}:y={y}:line_spacing=12:shadowcolor=black@0.65:shadowx=2:shadowy=3"
 
 def main(postfile):
     brief=json.loads(postfile.read_text(encoding="utf-8"))
@@ -114,10 +131,10 @@ def main(postfile):
             meta=download(clip,src)
             seconds=min(float(clip.get("seconds",3.4)),meta["duration"]-0.3)
             if seconds<2.5 or seconds>6:raise ValueError("Clip segment duration out of bounds")
-            txt=text_file(temp,f"caption{i}",clip["overlay"])
+            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"]))
             destination=text_file(temp,f"destination{i}",brief["destination"].upper())
             brand=text_file(temp,f"brand{i}","YOUR TRAVEL ATLAS")
-            progress=text_file(temp,f"progress{i}",f"{i+1:02d} / {len(clips):02d}")
+            progress=text_file(temp,f"progress{i}",f"ISSUE {brief['issue']:03d}  /  {i+1:02d} of {len(clips):02d}")
             tagline=text_file(temp,f"tagline{i}","WANDER FURTHER  /  @YOURTRAVELATLAS")
             # 9:16 full bleed, intentional text only in safe bands.
             filters=[
@@ -170,9 +187,22 @@ def main(postfile):
             "clips":evidence
         }
         (output/"manifest.json").write_text(json.dumps(manifest,indent=2,ensure_ascii=False)+"\n",encoding="utf-8")
-        # Unique video cover thumbnail from first video frame, intended to be visually reviewed
-        run("ffmpeg","-hide_banner","-loglevel","error","-y","-ss","1.0","-i",str(final),
-            "-frames:v","1",str(output/"cover.jpg"))
+        # Generate an opening cover and a multi-frame review contact sheet.
+        thumbnails=[]
+        middle=0.0
+        for i,clip in enumerate(clips):
+            mid=middle+evidence[i]["clip_seconds"]/2
+            frame=temp/f"frame{i}.jpg"
+            run("ffmpeg","-hide_banner","-loglevel","error","-y","-ss",str(mid),
+                "-i",str(final),"-frames:v","1",str(frame))
+            original=Image.open(frame).convert("RGB")
+            thumbnails.append(original.resize((360,640),Image.Resampling.LANCZOS))
+            middle += evidence[i]["clip_seconds"]
+        contact=Image.new("RGB",(720,640*((len(thumbnails)+1)//2)),(25,28,30))
+        for i,frame in enumerate(thumbnails):
+            contact.paste(frame,((i%2)*360,(i//2)*640))
+        contact.save(output/"storyboard.jpg",quality=86,optimize=True)
+        shutil.copy2(temp/"frame0.jpg",output/"cover.jpg")
         print("WROTE",final,f"{duration:.2f}s",flush=True)
     finally:
         shutil.rmtree(temp,ignore_errors=True)
