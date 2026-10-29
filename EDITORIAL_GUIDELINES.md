@@ -134,8 +134,20 @@ Consider Instagram Reels when there is verified, properly licensed and accuratel
 8. Measure saves/shares/follows/reach and Reels watch time once available. Test Monday evenings, Wednesday noon, Thursday mornings as starting UK slots, optimise later based on real account metrics. Maximum 20 posts/month on free plan.
 9. Maintain existing recurring ChatGPT automation; fail closed if a required free tool, reliable licence, accuracy check or rendering step is unavailable. Zero additional spending beyond the existing ChatGPT subscription.
 
-## Examples for current launch issues
+## Current carousel issues (updated 29 October 2026)
 - Issue 001: **FIVE PLACES FOR A WILD ATLANTIC ESCAPE** [large] / **FAROE ISLANDS** [small]
-- Issue 002: **SIX VERY DIFFERENT REASONS TO EXPLORE** [large] / **NAMIBIA** [small]
-- Issue 003: **SIX SCENES WORTH THE JOURNEY** [large] / **THE ITALIAN DOLOMITES** [small]
+- Issue 002: **A WEEKEND WITHOUT THE RUSH** [large] / **PORTO** [prominent destination]. Fresh replacement, five slides; `content/posts/002-porto-slow-weekend.json`.
+- Issue 003: **ONE BASE. NO CAR. MORE COAST.** [large] / **FRENCH RIVIERA** [prominent destination]. Fresh replacement, five slides; `content/posts/003-riviera-by-train.json`.
 This is an example hierarchy, **not** a repeating formula required for new stories.
+
+
+## Owner-requested replacement record — 29 October 2026
+
+The owner confirmed issue 001 published successfully and requested removing the old issues 002 (Namibia) and 003 (Dolomites), creating fresh stories using the final experience-led process discussed in “Create Travel Instagram Automation”, and leaving the approved Istanbul Reel unchanged. The old queued carousels were first disabled as drafts, then their existing Metricool UUIDs were replaced in full with freshly researched, licensed, rendered and visually reviewed five-slide carousels. These are replacement editions of UNPUBLISHED numbers, not additional publications.
+
+- Issue 002 is now Porto — “A weekend without the rush”, `media/002-porto-slow-weekend/`; Metricool UUID `-1686861758455201569`, ID `409866139`; Monday 2 November 2026, 19:00 Europe/London.
+- Issue 003 is now French Riviera — “One base. No car. More coast.”, `media/003-riviera-by-train/`; Metricool UUID `-4032844728941590495`, ID `409866160`; Wednesday 4 November 2026, 12:00 Europe/London.
+- Both were re-fetched as PENDING, `draft=false`, `autoPublish=true`, five imported Metricool-hosted JPEGs each and matching alt text. All ten final images were inspected; a closing-slide footer overlap was corrected and re-rendered before scheduling.
+- Istanbul Reel UUID `5053010952195819165`, ID `409593701`, remains untouched for Thursday 5 November 2026, 09:00 Europe/London. Three total November slots verified; no increase in volume.
+- The two relaxed replacements fulfil the earlier immediate request for at least two attainable travel concepts. Continue the portfolio mix; avoid repeatedly choosing European city/coast subjects just because these two were accepted.
+- Old `media/002-namibia/` and `media/003-dolomites/` outputs are obsolete historical assets. DO NOT schedule them or infer they are current issues. Their former briefs survive in Git history, while current briefs have destination-accurate filenames. Do not recreate removed content automatically.

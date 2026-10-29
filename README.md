@@ -19,8 +19,8 @@ A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www
 ## Launch issues
 
 - **001** Faroe Islands: five different places for an Atlantic exploration story.
-- **002** Namibia: six distinct experiences from the desert to wildlife.
-- **003** Dolomites: six photographs exploring contrasting mountain experiences.
+- **002** Porto: a slow city weekend with Ribeira, São Bento, Gaia and Foz. Fresh five-slide replacement; scheduled 2 November 2026 at 19:00 Europe/London.
+- **003** French Riviera by train: one Nice base with separate coastal outings. Fresh five-slide replacement; scheduled 4 November 2026 at 12:00 Europe/London.
 
 Sources, photographer names and fact-check references are stored in each JSON brief; generated `manifest.json` files provide the image provenance and output list.
 
@@ -58,3 +58,7 @@ After editorial approval, schedule as `instagramData.type=REEL`, with verified f
 Mixkit's free music licence allows Instagram video posts, but a direct automated download for "Just Keep Walking" by Michael Ramir C. was **blocked with HTTP 403**. No track has been approved for unattended downloading or added to a scheduled Reel. The Lisbon and Cinque Terre Reel pilots remain **rejected**; Lisbon is an unpublished Metricool draft and must not be revived just because a new soundtrack is found.
 
 Before the next Reel: select a professionally recorded, joyful, genuinely suitable track; independently verify its licence and actual automated delivery; assess the complete footage, sound and narrative; publish only if the finished result inspires a trip. Never force a Reel into the schedule. Regular carousels are unaffected.
+
+## Current queue correction — 29 October 2026
+
+The owner-requested Porto and Riviera replacements use the existing issue 002/003 Metricool slots. Old Namibia/Dolomites media are retained only as historical outputs and must never be rescheduled automatically. Current brief filenames match their new destinations. The approved Istanbul Reel remains scheduled for 5 November at 09:00 Europe/London; older pilot/audio notes above are historical and the latest Editorial Playbook decision takes precedence.
