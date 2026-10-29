@@ -1,0 +1,130 @@
+{
+  "issue": 3,
+  "slug": "003-riviera-by-train",
+  "verdict": "PASS",
+  "reviewed_on": "2026-10-29",
+  "source_check_date": "2026-10-29",
+  "render_commit": "4740b75ee62e6b108d36880d109ca90764f5a36b",
+  "source_commit": "09c8473edeb4dc1e9810579ff23afa2dcb475275",
+  "brief_sha256": "8673320a96af88f2959dc15fa18df99063ec0d4d215be1b6e17b968ef8833722",
+  "inspected_images": [
+    {
+      "path": "media/003-riviera-by-train/01.jpg",
+      "sha256": "337b2689f2f8348a4f9198db0e9a65bd70e24206cd687417915801f5020c4586"
+    },
+    {
+      "path": "media/003-riviera-by-train/02.jpg",
+      "sha256": "cc7e7ed6558ed184e9bee360e1cddee4e2d55f4ba6b6e801e688c267516abfa5"
+    },
+    {
+      "path": "media/003-riviera-by-train/03.jpg",
+      "sha256": "ec6a85082e5d2b45d2f9462eb00629a8245141ce65f34573b18a58d211e5529f"
+    },
+    {
+      "path": "media/003-riviera-by-train/04.jpg",
+      "sha256": "50f1645f2505fefe535a4bd127b78511036f858fadf085e98654b31a21c38a53"
+    },
+    {
+      "path": "media/003-riviera-by-train/05.jpg",
+      "sha256": "af0c28ac538106424ab38f6d8aac82dd54cd32335951b01bfb1c1c1e7f0efbe4"
+    },
+    {
+      "path": "media/003-riviera-by-train/06.jpg",
+      "sha256": "bbc1af76baffd38fa1c2f3afdc00c6ab14e955aaed569dc0643f0ce860c82da7"
+    },
+    {
+      "path": "media/003-riviera-by-train/07.jpg",
+      "sha256": "e39521be2a72698b0042a92a07bfcddcf6446b6fac178c65a6702cf6cc21b09d"
+    },
+    {
+      "path": "media/003-riviera-by-train/08.jpg",
+      "sha256": "5e34ee22874dd6d19db9ac704ed123041d3669c63319a3ba6a5896250d1447da"
+    }
+  ],
+  "visual_inspection": "Every listed final image inspected at full size and as a contact sheet. Riviera pages 02 and 03 re-inspected after useful context labels replaced defensive wording. Image bytes were compared against the pinned render revision; only those two changed during final review.",
+  "slide_verdicts": [
+    {
+      "slide": 1,
+      "verdict": "PASS",
+      "reason": "Establishes an event-led rail guide, different from Porto's two-day city-break structure.",
+      "image_context": "Menton's authentic waterfront establishes the region, without claiming a festival is pictured."
+    },
+    {
+      "slide": 2,
+      "verdict": "PASS",
+      "reason": "A rail-and-date planning page supplies structure before the two event features.",
+      "image_context": "Nice's seafront is labelled a location view rather than a February weather promise."
+    },
+    {
+      "slide": 3,
+      "verdict": "PASS",
+      "reason": "Adds floral spectacle and a booking decision instead of another coastal scene.",
+      "image_context": "A real 2026 Nice Carnival float at Place Masséna is identified by the source and labelled archive, not the 2027 theme."
+    },
+    {
+      "slide": 4,
+      "verdict": "PASS",
+      "reason": "Supplies the strongest time-specific bucket-list idea and a second distinct event.",
+      "image_context": "An authentic Menton citrus-festival photo is labelled a past edition, not 2027 artwork."
+    },
+    {
+      "slide": 5,
+      "verdict": "PASS",
+      "reason": "Adds a food ritual and practical morning stop between the ticketed festivals.",
+      "image_context": "The source verifies a produce market in Nice only. The location-view label separates this context photo from the researched specific Cours Saleya recommendation; no exact stall or pictured dish is claimed."
+    },
+    {
+      "slide": 6,
+      "verdict": "PASS",
+      "reason": "Adds a westbound art day, distinct from eastbound festivals and harbour exploration.",
+      "image_context": "Château Grimaldi and Antibes sea walls are visible; no interior artworks are implied to be shown."
+    },
+    {
+      "slide": 7,
+      "verdict": "PASS",
+      "reason": "An intimate art stop supplies a quieter, optional eastern outing between major events.",
+      "image_context": "The old lanes show the approach; text explicitly says to continue to the chapel, not that it is pictured."
+    },
+    {
+      "slide": 8,
+      "verdict": "PASS",
+      "reason": "One conversion slide supplies a recognisable finish without replacing an editorial stop.",
+      "image_context": "The authentic Villefranche waterfront closes the coastal story without a swimming forecast."
+    }
+  ],
+  "rejected_or_cut": [
+    "Earlier generic summer coast treatment replaced with a specific February festival-and-rail idea.",
+    "A redundant beach experience page was removed; the last waterfront photograph serves only the standard follow card.",
+    "Defensive weather/edition labels were rewritten as useful location and archive labels; seasonal context remains in the caption."
+  ],
+  "caption_hooks": [
+    "The French Riviera's best reason for a February trip might be a parade made of lemons.",
+    "One February break, two festivals, and no hire car: build it around Nice and Menton."
+  ],
+  "chosen_hook": "The French Riviera's best reason for a February trip might be a parade made of lemons. 🍋",
+  "caption_characters": 1492,
+  "save_value": "Exact overlapping festival window and Menton parade dates, east/west rail directions, event-first booking, a named socca stop and specific Picasso/Cocteau outings.",
+  "fact_check_result": "2027 festival spans and Menton day/night parade dates rechecked on official pages. Food stand days and museum/chapel guidance checked against venue/tourism sources. No journey time, price or swimming-weather guarantee.",
+  "rights_result": "Every final image uses a verified free Unsplash source page. No CC material remains in these final editions. Accurate photographer credits retained.",
+  "layout_result": "All text fits at readable sizes; contrast, masthead, destination, page counts, spelling, photo crop, archive context and footer clearance checked. Exactly one closing card, final position. No duplicated image URL within the post.",
+  "tests": {
+    "offline_regressions": "5 passed",
+    "github_actions_run": 40866200029,
+    "github_actions_conclusion": "success",
+    "published_issue_001": "Legacy drawing path tested pixel-identical on the same fixture."
+  },
+  "remaining_limitations": [
+    "The Nice produce photo is verified to Nice, not a specifically identified socca stall; its context label makes the distinction explicit.",
+    "Event images show past editions, including Nice 2026. Specific 2027 creations and individual Nice show dates are not promised.",
+    "Warm-weather location photographs are contextual; February travel is pitched for events, food and sea air."
+  ],
+  "benchmark_review": "Actual signed-in hospitality.guide examples and observation limits recorded in EDITORIAL_BENCHMARKS.md; principles adapted without copying assets or text.",
+  "scheduling": {
+    "status": "approved_for_existing_slot_replacement",
+    "uuid": "-4032844728941590495",
+    "date": "2026-11-04T12:00:00",
+    "timezone": "Europe/London",
+    "required_media_count": 8,
+    "media_url_policy": "Pin URLs to render_commit; never silently substitute main after review."
+  }
+}
