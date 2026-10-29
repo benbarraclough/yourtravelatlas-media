@@ -181,12 +181,12 @@ def main(postfile):
         if "pexels.com/video/" not in clip["page_url"] and "commons.wikimedia.org/" not in clip["page_url"]:
             raise ValueError("Video page URL must point at inspectable source")
         if len(clip["overlay"])>68:raise ValueError("Text too long for 9:16 Reel overlay")
-    if brief.get("audio_policy") != "wikimedia_cc_by_4":
+    if brief.get("audio_policy") != "incompetech_cc_by_4":
         raise ValueError("Reel soundtrack must be independently cleared CC BY 4.0 music")
     track=brief.get("music",{})
-    approved_url="https://upload.wikimedia.org/wikipedia/commons/f/fb/Chillhouse_by_Frank_Schroeter.ogg"
-    if (track.get("source_page")!="https://commons.wikimedia.org/wiki/File:Chillhouse_by_Frank_Schroeter.ogg"
-        or track.get("title")!="Chillhouse" or track.get("artist")!="Frank Schroeter"
+    approved_url="https://static.incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3"
+    if (track.get("source_page")!="https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103"
+        or track.get("title")!="Protofunk" or track.get("artist")!="Kevin MacLeod"
         or track.get("license")!="CC BY 4.0"
         or track.get("download_url")!=approved_url
         or track.get("license_url")!="https://creativecommons.org/licenses/by/4.0/"):
@@ -241,11 +241,11 @@ def main(postfile):
         run("ffmpeg","-hide_banner","-loglevel","error","-y","-f","concat","-safe","0",
             "-i",concat,"-c","copy","-movflags","+faststart",str(silent))
         duration_silent=probe(silent)["duration"]
-        soundtrack=temp/"licensed_music.ogg"
+        soundtrack=temp/"licensed_music.mp3"
         result=S.get(track["download_url"],timeout=60,stream=True)
         result.raise_for_status()
-        if not result.url.startswith("https://upload.wikimedia.org/"):
-            raise ValueError("Music download redirected away from approved Wikimedia source")
+        if not result.url.startswith("https://static.incompetech.com/"):
+            raise ValueError("Music download redirected away from approved Incompetech source")
         if "audio" not in result.headers.get("content-type","").lower() and "ogg" not in result.headers.get("content-type","").lower() and "octet-stream" not in result.headers.get("content-type","").lower():
             raise ValueError("Music download did not provide an audio file")
         size=0
@@ -260,7 +260,7 @@ def main(postfile):
             raise ValueError("Licensed soundtrack not a valid longer-than-one-minute audio file")
         final=output/"reel.mp4"
         run("ffmpeg","-hide_banner","-loglevel","error","-y",
-            "-i",str(silent),"-ss","38","-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
+            "-i",str(silent),"-ss","32","-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
             "-c:v","copy","-c:a","aac","-b:a","128k","-ar","44100","-ac","2",
             "-af","loudnorm=I=-16:TP=-1.5:LRA=9",
             "-t",str(duration_silent),"-movflags","+faststart",str(final))
@@ -280,7 +280,7 @@ def main(postfile):
             "hook":brief["hook"],"status":"rendered-not-published",
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
             "caption":brief["caption"],"fact_sources":brief["fact_sources"],
-            "audio_policy":"wikimedia_cc_by_4",
+            "audio_policy":"incompetech_cc_by_4",
             "soundtrack_provenance":track,
             "soundtrack_sha256":hashlib.sha256(soundtrack.read_bytes()).hexdigest(),
             "video":"reel.mp4",
@@ -305,7 +305,7 @@ def main(postfile):
             contact.paste(frame,((i%2)*540,(i//2)*960))
         contact.save(output/"storyboard.jpg",quality=86,optimize=True)
         shutil.copy2(temp/"frame0.jpg",output/"cover.jpg")
-        print("WROTE",final,f"{duration:.2f}s", "with licensed CC BY 4.0 music and AAC audio",flush=True)
+        print("WROTE",final,f"{duration:.2f}s", "with licensed Kevin MacLeod CC BY 4.0 music and AAC audio",flush=True)
     finally:
         shutil.rmtree(temp,ignore_errors=True)
 
