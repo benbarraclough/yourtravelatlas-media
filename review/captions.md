@@ -79,10 +79,10 @@ Wild Japanese macaques sometimes bathe in the hot spring, especially in winter (
 📍 Shirogane Blue Pond, Biei, Hokkaido — slide 5
 Minerals and light make this pond appear strikingly blue, but its colour changes with weather and season. Reach it by local bus or car from Biei; the blue water isn't guaranteed.
 
-These are separate discoveries across Japan, not a five-stop route or a one-week itinerary. The cover and pond photos show green-season conditions; Shirakawa-go and the monkeys show winter.
+These are separate discoveries across Japan, not a five-stop route or a one-week itinerary. The cover shows a green-season gorge; Shirakawa-go and the monkeys show winter, while the pond and closing landscape show autumn.
 
 Which one would you go out of your way for?
 
-Photos: Daniel Newman, Shino Nakamura, Adam Jang, Chloe Evans, Georgios Kaleadis & Nizar F / Unsplash.
+Photos: Daniel Newman, Shino Nakamura, Chloe Evans & Georgios Kaleadis / Unsplash. Shirakawa-go: Qian2007 / Wikimedia Commons, CC BY-SA 4.0 (cropped, text added): https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg · https://creativecommons.org/licenses/by-sa/4.0 . Kamikochi: lumoplank / Wikimedia Commons, CC0.
 
 #YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido
