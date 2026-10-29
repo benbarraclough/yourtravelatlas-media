@@ -40,17 +40,14 @@ The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Met
 
 This README and generated media are public. Do not add passwords, private data or credentials.
 
-## Reels — original footage and original sound
+## Reels — editorial quality before production
 
-Reels use a dedicated internal series, **independent** of numbered carousel issues, and **do not show a public sequence or clip counter**.
+Reels are independent from numbered carousels and initially replace a carousel slot approximately once a fortnight, within the 16-publication internal monthly budget.
 
-The zero-extra-cost Reel workflow:
+The existing no-cost production path uses `content/reels/NNN-slug.json`, `scripts/render_reel.py` and `.github/workflows/reels.yml` to render actual 1080 × 1920 moving footage into `media/reels/<slug>/reel.mp4`, cover, storyboard and source manifest. It can create an original upbeat soundtrack without using copyrighted music or paid APIs. It now **skips any brief containing `"editorial_status": "rejected"`**.
 
-1. Research a concrete, genuinely shareable trip idea, verify five or more distinct and actually moving free-licensed video clips against original Pexels pages, and check official source information for travel activities.
-2. Create `content/reels/NNN-slug.json`; see [Lisbon Reel 001](content/reels/001-lisbon-weekend.json) for a working example. The file has `reel_number`, not a carousel `issue` number.
-3. [GitHub Actions Reel renderer](.github/workflows/reels.yml) calls `scripts/render_reel.py`, producing 1080×1920 H.264 and playable AAC original synthesized ambient audio. Results: `media/reels/<slug>/reel.mp4`, `cover.jpg`, `storyboard.jpg` and `manifest.json`.
-4. Visually inspect each frame and check media properties, exact footage/licensing, text contrast, correct location, original soundtrack and whether the sound actually suits the travel story. The render passing only confirms technical checks, not human-level quality.
-5. Update the existing scheduled Reel (if revising), or fill one eligible future Reel slot with Metricool. Use real video-only public pinned-commit media URLs, a proper Reel cover and `instagramData.type=REEL`, `autoPublish=true`, `draft=false`. Read the queue again and check.
-6. Start with about **one Reel per fortnight** (two per month). Reels **replace** an ordinary carousel slot. The conservative **16-publication per month** cap covers all formats, with zero paid services.
+The first two tests — **Lisbon Reel 001** and **Cinque Terre by Train Reel 002** — were creatively rejected despite successful technical renders. Lisbon is preserved in Metricool as a **draft with automatic publishing disabled** (UUID `5053010952195819165`); Cinque Terre was never scheduled. Neither should be published without a new concept, new source footage and renewed visual/audio review.
 
-**First Reel:** *A Lisbon Weekend Without Rushing* — five actual Lisbon moving scenes, separate internal Reel no. 001, original instrumental ambience, and 16.3 seconds of video. Scheduled for Thursday 5 November 2026 at 09:00 Europe/London via existing Metricool UUID `5053010952195819165`. Publication is pending, not yet proven. Carousel Issue 004 is not used by this Reel.
+**Mandatory Reel quality gate:** Find the travel story first; do not list locations merely because clips exist. Five or more distinct, high-quality, authentic, fully licensed moving shots must independently inspire a real trip friends would want to share. Prominent destination and small masthead at top; inspiring short serif description lower down; **no "Wander Further" line, issue number or clip counter on Reels**. Sound should be bright, positive and fitting, never dreary. For a professionally recorded song, verify exact source, track licence, professional Instagram use and no paid requirement before adding it. Review actual rendered frames, cropping and the sound before a Reel is scheduled.
+
+After editorial approval, schedule as `instagramData.type=REEL`, with verified full MP4, optional thumbnail, `autoPublish=true`, `draft=false`, and confirm via Metricool. It is preferable to leave a slot empty than publish an uninspiring Reel.
