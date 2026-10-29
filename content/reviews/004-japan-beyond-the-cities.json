@@ -1,0 +1,257 @@
+{
+  "issue": 4,
+  "slug": "004-japan-beyond-the-cities",
+  "editorial_version": 6,
+  "verdict": "approved",
+  "internal_verdict": "pass",
+  "owner_approval_required": false,
+  "calibration_reference": "29 October 2026 owner release of issue004 block and autonomous v6 editorial review",
+  "review_date": "2026-10-29",
+  "source_commit": "7f7ebebb06241e7d36068a09cf171667e0c28cfb",
+  "media_revision": "4d7681ca2b1d2cb1be80437c5867acffab0771a6",
+  "brief_sha256": "97fefa383d62e5bd62b196e9e712f140df855f8571012739d6875f6f538a4313",
+  "caption_sha256": "391a6827959828bc14f20aa23796f59992e8c3d48781b292d6d396162345f34a",
+  "image_sha256": {
+    "media/004-japan-beyond-the-cities/01.jpg": "7fdcff0ddc2c87eadcc32a11f4662ff16b2337b372394194394314c5d043a1dc",
+    "media/004-japan-beyond-the-cities/02.jpg": "8fee324e793eda4c039a4163124eaf764e67fa4f2deb7a1b2db9142df47aeef4",
+    "media/004-japan-beyond-the-cities/03.jpg": "406629c7fe1ce22d6e0e135e4e0e9e46237c812931d55930b1d4db9d55b4cd57",
+    "media/004-japan-beyond-the-cities/04.jpg": "bb877436b6b834480e65230306974584119554b065b290afd7149948761b9c57",
+    "media/004-japan-beyond-the-cities/05.jpg": "151a0a092a1b8f08a629427a4fbd03289b984971bc1efc4f52857748662b3aa3",
+    "media/004-japan-beyond-the-cities/06.jpg": "911903acbed4cba36760e6cbd797c4cf6b29599f85cd06ced6e2663b12e83c03"
+  },
+  "caption_length": 1972,
+  "inspected_paths": [
+    "media/004-japan-beyond-the-cities/01.jpg",
+    "media/004-japan-beyond-the-cities/02.jpg",
+    "media/004-japan-beyond-the-cities/03.jpg",
+    "media/004-japan-beyond-the-cities/04.jpg",
+    "media/004-japan-beyond-the-cities/05.jpg",
+    "media/004-japan-beyond-the-cities/06.jpg",
+    "review/004-japan-beyond-the-cities-preview.jpg"
+  ],
+  "inspection_scope": "Every final 1080×1350 JPEG 01–06 viewed individually at full size and the final mobile/contact sheet inspected. Source photos and Commons candidate previews separately reviewed. Latest SHA-256 matches the previously visually inspected final JPEGs exactly.",
+  "per_slide": [
+    {
+      "slide": 1,
+      "verdict": "pass",
+      "reason": "Strong waterfall-and-gorge opening with immediately legible five-place promise; photographed location matches Takachiho and the cover is counted as item one.",
+      "value": "Volcanic gorge and optional rowboat views, with booking/closure checks in caption.",
+      "image_context": "Real green-season Takachiho gorge; no rowboat claimed to appear."
+    },
+    {
+      "slide": 2,
+      "verdict": "pass",
+      "reason": "A calmer but geographically surprising coastal sandscape with a human for scale; image and copy explicitly distinguish dunes from a desert.",
+      "value": "Tottori's dunes sit on the Sea of Japan, with verified bus access from Tottori Station.",
+      "image_context": "Original full-size photo shows the coast and dunes clearly; alternative snowy Commons dunes were rejected."
+    },
+    {
+      "slide": 3,
+      "verdict": "pass",
+      "reason": "Original dark panorama rejected; final snow-dusted thatched farmhouse is a specific architectural subject, readable and seasonally honest.",
+      "value": "Gassho-zukuri roof form and UNESCO village context, with Takayama bus access in caption.",
+      "image_context": "Actual CC BY-SA 4.0 winter photo, adapted with crop/gradient/text; source and licence credited on image and caption."
+    },
+    {
+      "slide": 4,
+      "verdict": "pass",
+      "reason": "Expressive close-up of a genuine bathing Japanese macaque adds the strongest wildlife reveal; no guarantee of sightings or bathing.",
+      "value": "Wild macaques, December–March tendency and forest approach time from JNTO.",
+      "image_context": "Original photo from Jigokudani park; animal visibly in hot-spring water."
+    },
+    {
+      "slide": 5,
+      "verdict": "pass",
+      "reason": "Turquoise pond and skeletal trees are independently striking; explanation of light scattering adds factual substance.",
+      "value": "Accidental pond origin, changing colour, Biei transport options.",
+      "image_context": "Original Biei Blue Pond photo in autumn; colour is presented as conditional, not guaranteed."
+    },
+    {
+      "slide": 6,
+      "verdict": "pass",
+      "reason": "One scenic follow card, replaced the dull first riverbank with snowy peaks, autumn trees, Kappa Bridge and clear river.",
+      "value": "Standard honest follow promise without extra destination claim.",
+      "image_context": "Public-domain CC0 Kamikochi image; visibly distinct from all five editorial photographs."
+    }
+  ],
+  "source_claim_ledger": [
+    {
+      "slide": 1,
+      "claims": [
+        "Takachiho gorge is in Miyazaki; Manai Falls and walking/boat viewpoints exist"
+      ],
+      "sources": [
+        "https://www.kanko-miyazaki.jp/en/sightseeing/1001"
+      ],
+      "limitations": "Boat rentals can be interrupted and require current checks; no fixed price/hours."
+    },
+    {
+      "slide": 2,
+      "claims": [
+        "Tottori is coastal sand dunes formed and reshaped by wind; buses from Tottori Station"
+      ],
+      "sources": [
+        "https://www.japan.travel/en/spot/949/",
+        "https://www.torican.jp/en/feature/hajimete"
+      ],
+      "limitations": "Dunes are not a desert; avoid implying Sahara conditions."
+    },
+    {
+      "slide": 3,
+      "claims": [
+        "Shirakawa-go is UNESCO recognised; steep thatched roofs relate to deep snowfall; bus access from Takayama"
+      ],
+      "sources": [
+        "https://www.hida.jp/english/touristattractions/4001419/4000089.html"
+      ],
+      "limitations": "Winter photo is seasonal; do not promise snowfall on visit."
+    },
+    {
+      "slide": 4,
+      "claims": [
+        "Jigokudani has wild macaques bathing in hot springs; Dec–Mar best chance; forest approach 25–40 minutes"
+      ],
+      "sources": [
+        "https://www.japan.travel/en/spot/1344/"
+      ],
+      "limitations": "Wildlife is not guaranteed; park etiquette in caption."
+    },
+    {
+      "slide": 5,
+      "claims": [
+        "Blue Pond formed as part of volcanic mudflow-control works; blue colour depends on particles and light; bus access from Biei"
+      ],
+      "sources": [
+        "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
+        "https://www.biei-hokkaido.jp/en/facility/shirogane-blue-pond"
+      ],
+      "limitations": "Colour changes and may be dull; do not guarantee vivid blue."
+    },
+    {
+      "slide": 6,
+      "claims": [
+        "Kamikochi location of scenic closing photograph"
+      ],
+      "sources": [
+        "https://commons.wikimedia.org/wiki/File:Kamikochi_-_Kamikochi6538.jpg"
+      ],
+      "limitations": "Closing photograph only; no claimed itinerary stop."
+    }
+  ],
+  "photo_rights_checks": [
+    {
+      "slide": 1,
+      "url": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-river-surrounded-by-trees-5BNFwnRk1lI",
+      "photographer": "Daniel Newman",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Manai Falls descending into the green Takachiho Gorge, Miyazaki, Japan.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 2,
+      "url": "https://unsplash.com/photos/a-sandy-beach-with-waves-coming-in-from-the-ocean-WSrsdZu13Xs",
+      "photographer": "Shino Nakamura",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Coastal Tottori Sand Dunes looking toward the Sea of Japan.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 3,
+      "url": "https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg",
+      "photographer": "Qian2007",
+      "declared_license": "CC BY-SA 4.0; original Commons file page, licence link and attribution verified in Commons imageinfo",
+      "location": "Snowy steep-roofed gassho-zukuri farmhouse in Shirakawa-go, Gifu, Japan.",
+      "visual_status": "Original Commons preview and authorised 1920px API derivative inspected; exact 1080x1350 render pending.",
+      "rights_status": "Adapted image must be CC BY-SA 4.0, credit author/source/license and indicate crop/text."
+    },
+    {
+      "slide": 4,
+      "url": "https://unsplash.com/photos/a-monkey-in-a-hot-spring-with-snow-on-the-ground-U8ETnd1UEMs",
+      "photographer": "Chloe Evans",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Japanese macaque bathing in a hot spring at Jigokudani Snow Monkey Park, Nagano.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 5,
+      "url": "https://unsplash.com/photos/green-leafed-tree-surrounded-by-water-cC8CA0f9Kf4",
+      "photographer": "Georgios Kaleadis",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Turquoise water and standing trees at Shirogane Blue Pond, Biei, Hokkaido.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 6,
+      "url": "https://commons.wikimedia.org/wiki/File:Kamikochi_-_Kamikochi6538.jpg",
+      "photographer": "lumoplank",
+      "declared_license": "CC0 1.0; original Commons file metadata inspected",
+      "location": "Kappa Bridge and the Hotaka mountain range in autumn at Kamikochi, Nagano.",
+      "visual_status": "Original Commons preview and authorised 1920px API derivative inspected; exact 1080x1350 render pending.",
+      "rights_status": "Public domain dedication CC0; attribution still given editorially."
+    }
+  ],
+  "caption_review": {
+    "hook_alternatives": [
+      "5 places in Japan beyond the big cities",
+      "Japan has sand dunes by the sea, a snow village and monkeys that bathe in hot springs."
+    ],
+    "chosen_hook": "Japan has sand dunes by the sea, a village built for deep snow and wild monkeys that choose to soak in hot springs.",
+    "reason": "A specific and accurate three-discovery opening gives immediate curiosity; five slide-matched 📍 locations, seasonal and travel details follow.",
+    "save_value": "Five exact named locations and distinct experience types, official access directions and honest seasonal constraints, without inventing a multi-day route.",
+    "caption_characters": 1972,
+    "verdict": "pass"
+  },
+  "rejected_material": [
+    "Unverified social media post visuals and inaccessible competitor middle slides are not treated as inspected.",
+    "No festival shoehorned into a nonseasonal, geographic wishlist.",
+    "No promises of bathing macaques, blue colour, accessible boats, or a single short itinerary.",
+    "First rendered Shirakawa-go image was mostly snowless, dark and weak; replaced with a genuine snow-roof Commons photograph.",
+    "First rendered Kamikochi CTA was a generic dark hillside; replaced with public-domain Kappa Bridge and alpine scenery.",
+    "Commons Tottori winter-dune photos were rejected because snowy conditions made the place look less like the intended coastal-dune discovery; kept the correctly located original photo.",
+    "Original Unsplash candidate-page audit returned HTTP 403 from GitHub Actions. No access controls bypassed; Commons public API provided legally reusable alternatives.",
+    "Wikimedia original upload host returned HTTP 429 in render; official Commons imageinfo API delivered documented 1920px derivatives via thumb.wikimedia.org with verified licences. Used those public, authorised derivative URLs; no rate-limit circumvention or unapproved mirror."
+  ],
+  "layout_checks": {
+    "cover": "Single strong photo and clear numbered promise; only discreet @yourtravelatlas and issue branding; no Wander Further, deck or counter.",
+    "supporting_word_counts": [
+      22,
+      18,
+      23,
+      21
+    ],
+    "supporting_max_total_words": 30,
+    "full_image_size": [
+      1080,
+      1350
+    ],
+    "mobile_sheet_inspected": true,
+    "exactly_one_scenic_final_card": true,
+    "credits_footer_readable": true,
+    "photo_crop_subject_match": true,
+    "alt_text_count": 6,
+    "caption_limit": 2200,
+    "numeric_hook_promised": 5,
+    "numeric_hook_delivered": 5,
+    "source_and_licence_verified": true,
+    "seasonality_and_access_qualified": true,
+    "not_one_week_itinerary": true,
+    "portfolio_diversity": "East Asia multi-region wishlist; distinct from Porto city weekend, Riviera rail and Istanbul city Reel.",
+    "cost": "£0 additional; free GitHub Actions, Unsplash and Commons imagery."
+  },
+  "limitations": [
+    "This is editorial travel inspiration; actual conditions, transport and wildlife can change. Sources checked 29 October 2026.",
+    "The current Instagram comparison relies on accurately scoped previous benchmark evidence; no claim of newly opening full competitor carousels.",
+    "Wikimedia original media host returned HTTP 429; official Commons API-provided 1920px derivative files were successfully rendered without bypassing access restrictions."
+  ],
+  "scheduling": {
+    "status": "approved_not_yet_scheduled",
+    "target_local": "2026-11-09T19:00:00",
+    "timezone": "Europe/London",
+    "month_budget_before": "3 pending Instagram posts; published analytics may lag",
+    "monthly_internal_cap": 16
+  }
+}
