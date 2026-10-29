@@ -46,6 +46,7 @@ jobs:
             echo "Render/push attempt $attempt"
             git fetch origin main
             git checkout -B main origin/main
+            python -m unittest discover -s tests
             python scripts/render.py
             git add media/
             if git diff --cached --quiet; then

@@ -2,7 +2,17 @@
 
 Purpose: learn editorial principles and make original work. Never reuse a competitor's photo, text, signature visual system or unverified travel claim.
 
-## hospitality.guide — evidence and limits
+## Signed-in primary visual review — 29 October 2026
+
+Instagram sign-in was completed securely by the owner in the browsing session, and the actual @hospitality.guide profile and posts became readable. This supersedes the earlier access limitation for the following specifically inspected examples. Do not assume the session will survive forever or that scheduled runs can always access Instagram; if authentication expires, report the real state and never invent a review.
+
+1. **Andalusia regional guide**, https://www.instagram.com/hospitality.guide/p/De-CHxKkct6/ . Inspected all eight slides and the caption. Cover uses a strong Alhambra hero and a clear regional promise. Six supporting photographs vary dramatically: rock-overhung street, Seville canal/rowing, hotel courtyard, flowered village lane, Ronda bridge and Alhambra. On-image copy is mainly a place/city label; caption supplies the descriptive context. The eighth slide is a dedicated scenic follow card. Lesson: exceptional visual contrast and an explicit region/theme can carry a collection; the closing card makes the account's follow proposition unambiguous. Do not copy the images, wording or promotional hotel inclusion.
+2. **Bucket-list collection**, https://www.instagram.com/p/DfA1cIlkbBH/ . Visually inspected slides 1–4 and the final slide at index 15, and read the complete caption. Middle slides were navigated, not all visually reviewed. Opening alternates a satellite/map-style curiosity page with the actual To Sua swimming-pool reveal, then a map-style lead-in and Whitehaven reveal. The final inspected page features Huanglong. Lesson: editorial pacing can build curiosity and reveal, rather than repeating identical destination cards. Do not assume satellite imagery rights or unusual source images are automatically reusable.
+3. **Month-by-month guide**, https://www.instagram.com/hospitality.guide/p/DfAqtkXkbEA/ . Inspected cover, January page and caption; no claim of inspecting the complete carousel. Cover makes an instantly usable timing promise. The January page includes month/destination and several lines explaining the season and activities directly on the image. Lesson: information density can change with format, while the photographic/serif visual identity stays recognisable. Travel recommendations in competitor captions remain unverified research leads, not sources for our own factual claims.
+
+**Production implications:** retain striking authentic photography and concise hooks, then choose how much on-image information each format needs. Our detailed plans should add exact experiences, sequencing, event windows and useful choices; broader collections can remain more image-led if each place earns its selection and the caption delivers real value. Do not turn every future issue into cream text panels, alternate map/reveal pairs, or the same eight-slide template. The standard follow card is adopted as an original Your Travel Atlas design and promise, not copied competitor wording. No causal performance claim is made from likes or follower counts.
+
+## hospitality.guide — initial public lookup (historical access limits)
 
 Direct Instagram profile and three original post URLs were requested but the public fetch returned throttling. Their latest carousel images, typography, full captions, final cards and analytics could NOT be inspected. No claims about their precise current layouts or performance are justified from this review.
 

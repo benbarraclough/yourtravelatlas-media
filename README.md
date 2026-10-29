@@ -2,6 +2,8 @@
 
 **Editorial source of truth:** [Your Travel Atlas — Editorial Playbook (latest)](EDITORIAL_GUIDELINES.md). Read it before creating or changing issues.
 
+**Mandatory production procedure:** [Editorial creation and review](EDITORIAL_REVIEW.md), with [competitive reference evidence](EDITORIAL_BENCHMARKS.md). New carousels require editorial_version 5, per-slide value/context/detail reviews and claim-source ledgers, appropriate story/event/itinerary layouts, and one standard photographic follow card. Publication requires an actual full-image review recorded under `content/reviews/`; a successful renderer is not creative approval. Run `python -m unittest discover -s tests` before production changes. Published issue 001 keeps its original rendering path.
+
 A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www.instagram.com/yourtravelatlas/).
 
 **GitHub Actions renders artwork. ChatGPT + Metricool handles editorial research and publishing.** This repository does **not** store Instagram credentials or publish directly.
