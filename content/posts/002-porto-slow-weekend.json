@@ -1,15 +1,15 @@
 {
   "issue": 2,
   "slug": "002-porto-slow-weekend",
-  "category": "PORTO / A CITY BREAK WITH AN ATLANTIC FINISH",
-  "headline": "TAKE THE LONG WAY TO THE SEA",
-  "dek": "Markets, tiled halls and a June street party",
+  "category": "PORTO",
+  "headline": "How to spend a weekend in Porto",
+  "dek": "Photo-led weekend guide",
   "effort_level": "relaxed",
   "accessibility_angle": "One city base, short outings and café stops, with public transport for Foz and Gaia. Porto has steep hills and cobbles; relaxed pace does not mean step-free.",
-  "editorial_intent": "A detailed two-day Porto city break pairing Bolhão's working market with a tile-to-river walk, Gaia's evening garden and the historic tram to Foz; São João provides a researched seasonal return.",
-  "share_reason": "Save a Saturday/Sunday plan, know what to eat and look for, take the right historic tram route, and consider 23 June for a completely different Porto.",
+  "editorial_intent": "Inspire a relaxed Porto weekend through distinct market, tile-hall, riverside and Atlantic experiences, with concise scene-specific descriptions and practical caption pins.",
+  "share_reason": "Send a friend a weekend idea that combines an extraordinary tiled station, a riverside sunset and an Atlantic tram outing, with exact places to save.",
   "reader_scenario": "Two friends or a couple choose a single Porto base for a weekend; Foz is an optional longer outing, not another mandatory stop.",
-  "editorial_verdict": "Accepted: attainable single-base plan with distinct urban, interior, evening and coastal imagery, contrasting the published Faroes adventure.",
+  "editorial_verdict": "Candidate for owner calibration: remake of rejected brochure-heavy v5; not approved for scheduling.",
   "fact_sources": [
     "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
     "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
@@ -22,7 +22,7 @@
     "https://www.visitportugal.com/en/node/155969",
     "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao"
   ],
-  "caption": "Porto has a night when strangers greet each other with toy hammers—and a tram ride that ends with Atlantic air. Two very different reasons to go. 🇵🇹\n\nFor a two-day break, give Saturday to the city: Bolhão for coffee and a browse, São Bento's tiled entrance hall, Rua das Flores towards Ribeira, then an evening across Luís I Bridge in Gaia. Sunday is for historic tram 1 from Infante to Passeio Alegre and an unhurried Foz seafront walk.\n\nThe small detail that saves the plan: Bolhão's market is closed on Sundays. Go on Saturday, then leave the coast for day two. Porto's hills and cobbles reward fewer stops and longer pauses; this is a suggested sequence, not a timed route.\n\nWant the city at its most exuberant? São João peaks on the night of 23 June: street dancing, sardine grills, caldo verde, basil pots and the martelinhos greeting tradition. Douro fireworks are a signature of the celebrations. Plan around the recurring date, then check Ágora/Visit Porto for the next edition's programme; no 2027 line-up or fireworks time is confirmed here.\n\nKeep one Porto base for both days. Check the tram service for your dates rather than relying on an old timetable.\n\nSave this for the friend who'd turn a city break into a longer weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n\n#YourTravelAtlas #Porto #SaoJoao #PortoCityBreak #PortugalTravel",
+  "caption": "A station worth entering without a ticket. A bridge worth crossing for the evening. A tram that takes you towards the Atlantic. This is a weekend in Porto. 🇵🇹\n\n📍 Ribeira — cover\nColourful houses, riverside terraces and traditional boats on the Douro. Make this your lunch stop after walking down through the old town.\n\n📍 Mercado do Bolhão — slide 2\nStart Saturday with coffee and a browse through the produce stalls. The market is closed on Sundays, so save the coast for day two.\n\n📍 São Bento station — slide 3\nJorge Colaço’s blue-and-white panels turn the entrance hall into a story of Portuguese history. Continue along Rua das Flores towards Ribeira afterwards.\n\n📍 Luís I Bridge → Jardim do Morro — slide 4\nTake the upper deck across to Gaia for Porto’s skyline in the changing evening light. The upper crossing is also used by the metro.\n\n📍 Passeio Alegre → Foz do Douro — slide 5\nHistoric tram 1 links Infante with Passeio Alegre. From the garden, continue to the Atlantic promenade and Felgueiras lighthouse. Check the current tram service before setting off.\n\nThe simple split: Saturday for the market, old town and river; Sunday for the coast. Leave space between stops—Porto is hilly.\n\nOne date to save for another visit: the night of 23 June, when São João brings street celebrations and the toy-hammer greeting tradition. Check the next official programme before booking around a particular show.\n\nWho’s your Porto weekend person?\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n\n#YourTravelAtlas #Porto #PortugalTravel #WeekendAway",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1748792461789-e94a91541532?auto=format&fit=crop&w=2000&q=88",
@@ -57,19 +57,17 @@
       "alt": "Fruit stalls and shoppers at Porto's Mercado do Bolhão.",
       "activity_source": "https://mercadobolhao.pt/en/",
       "focus_y": 0.5,
-      "layout": "story",
-      "kicker": "SATURDAY MORNING / MERCADO DO BOLHÃO",
-      "heading": "START AT THE STALLS",
-      "body": "Begin with coffee inside the working market, then browse the fruit, flowers and produce stalls before heading into the old town. Come for everyday Porto, not another queue for a landmark.",
-      "detail": "Build this into Saturday: the market closes on Sundays.",
+      "layout": "photo",
+      "heading": "Mercado do Bolhão",
+      "body": "A working produce market filled with fruit stalls, flowers and coffee counters. Start here on Saturday: the market closes on Sundays.",
       "fact_checks": [
         "https://mercadobolhao.pt/en/",
         "https://visitporto.travel/en-GB/poi/5cd04b4bf979e00001939090"
       ],
       "review": {
-        "reader_value": "Provides a Saturday market start and avoids arriving on its Sunday closure.",
+        "reader_value": "Identifies this exact scene and one distinctive experience in concise, readable copy; fuller planning details are pinned in the caption.",
         "image_context": "Actual Bolhão stalls and shoppers support a working-market experience, not a generic café.",
-        "specific_detail": "Names Mercado do Bolhão and explains how Sunday closure changes the plan.",
+        "specific_detail": "A working produce market filled with fruit stalls, flowers and coffee counters. Start here on Saturday: the market closes on Sundays.",
         "distinct_contribution": "Food and everyday city life add a different experience to the architecture and coast."
       }
     },
@@ -80,21 +78,19 @@
       "license": "Unsplash License",
       "subject": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
       "alt": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
-      "heading": "FOLLOW THE BLUE TILES",
-      "kicker": "SÃO BENTO → RUA DAS FLORES → RIBEIRA",
+      "heading": "São Bento station",
       "activity_source": "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
       "focus_y": 0.5,
-      "layout": "story",
-      "body": "Pause in São Bento's entrance hall for Jorge Colaço's painted panels. Then walk Rua das Flores towards the old-town lanes and Ribeira: a cultural stop that becomes your route down to a riverside lunch.",
-      "detail": "Don't miss the entrance hall before heading for the platforms.",
+      "layout": "photo",
+      "body": "Its entrance hall is lined with Jorge Colaço’s blue-and-white tile panels, depicting Portuguese history. Step inside even if you’re not catching a train.",
       "fact_checks": [
         "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
         "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf"
       ],
       "review": {
-        "reader_value": "Turns the tile hall into a walk towards a riverside meal, with named connecting streets.",
+        "reader_value": "Identifies this exact scene and one distinctive experience in concise, readable copy; fuller planning details are pinned in the caption.",
         "image_context": "The source identifies São Bento azulejos and the pictured mural matches that subject.",
-        "specific_detail": "Names Jorge Colaço and the São Bento–Rua das Flores–Ribeira sequence.",
+        "specific_detail": "Its entrance hall is lined with Jorge Colaço’s blue-and-white tile panels, depicting Portuguese history. Step inside even if you’re not catching a train.",
         "distinct_contribution": "The only interior cultural stop, connecting the city-centre morning to the river."
       }
     },
@@ -105,20 +101,18 @@
       "license": "Unsplash License",
       "subject": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
       "alt": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
-      "heading": "CROSS FOR THE EVENING",
-      "kicker": "LATE AFTERNOON / VILA NOVA DE GAIA",
+      "heading": "Luís I Bridge",
       "activity_source": "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
       "focus_y": 0.5,
-      "layout": "story",
-      "body": "Take the upper deck of Luís I Bridge to Jardim do Morro. Settle on the lawn with Porto spread across the river; make the evening about the changing light, then choose dinner on whichever bank takes your fancy.",
-      "detail": "The metro also links São Bento and Jardim do Morro.",
+      "layout": "photo",
+      "body": "Cross the upper deck towards Jardim do Morro for a wide view over Porto’s riverside rooftops, especially as the evening light changes.",
       "fact_checks": [
         "https://backoffice.visitporto.travel/en-GB/porto-in-1-day"
       ],
       "review": {
-        "reader_value": "Specifies the bridge deck, Gaia destination and how to spend the evening there.",
+        "reader_value": "Identifies this exact scene and one distinctive experience in concise, readable copy; fuller planning details are pinned in the caption.",
         "image_context": "The real Luís I Bridge at sunset supports the crossing and evening-light experience.",
-        "specific_detail": "Names Jardim do Morro and the verified metro alternative to walking across.",
+        "specific_detail": "Cross the upper deck towards Jardim do Morro for a wide view over Porto’s riverside rooftops, especially as the evening light changes.",
         "distinct_contribution": "Adds a different bank, time of day and sociable garden pause rather than another viewpoint."
       }
     },
@@ -131,65 +125,19 @@
       "alt": "Felgueiras lighthouse beside the Atlantic at Foz do Douro in Porto.",
       "activity_source": "https://www.museudocarroelectrico.pt/visitar/",
       "focus_y": 0.5,
-      "layout": "story",
-      "kicker": "SUNDAY / HISTORIC TRAM TO FOZ",
-      "heading": "RIDE TOWARDS THE SEA",
-      "body": "Board historic tram 1 at Infante for Passeio Alegre. From its riverside garden, continue towards the Atlantic seafront at Foz: a slow change from tiled city streets to cafés, salt air and the Felgueiras lighthouse.",
-      "detail": "Take line 1, not the modern metro; verify service for your dates.",
+      "layout": "photo",
+      "heading": "Foz do Douro",
+      "body": "Where the Douro meets the Atlantic. Ride historic tram 1 to Passeio Alegre, then follow the seafront towards the Felgueiras lighthouse.",
       "fact_checks": [
         "https://backoffice.visitporto.travel/en-GB/foz",
         "https://www.museudocarroelectrico.pt/visitar/",
         "https://stcp.pt/pt/horarios-de-verao-linhas-1-18-500"
       ],
-      "photo_note": "FOZ DO DOURO / THE ATLANTIC FINISH",
       "review": {
-        "reader_value": "Gives a usable heritage-tram route and a linked coastal walk after the ride.",
+        "reader_value": "Identifies this exact scene and one distinctive experience in concise, readable copy; fuller planning details are pinned in the caption.",
         "image_context": "The source explicitly places this lighthouse and Atlantic scene in Foz do Douro. It illustrates the outing's actual coastal destination, with the tram journey explained separately; no carriage is misidentified.",
-        "specific_detail": "Names line 1, Infante and Passeio Alegre using operator/museum evidence.",
+        "specific_detail": "Where the Douro meets the Atlantic. Ride historic tram 1 to Passeio Alegre, then follow the seafront towards the Felgueiras lighthouse.",
         "distinct_contribution": "Shows the sea-air destination of the only transport-linked outing. The later sunset CTA is a different photograph serving a brand-closing role, not an additional repeated editorial stop."
-      }
-    },
-    {
-      "image_url": "https://images.unsplash.com/photo-1765101159794-4241aa5a19ec?auto=format&fit=crop&w=2000&q=88",
-      "source_page": "https://unsplash.com/photos/empty-square-with-outdoor-cafe-seating-and-buildings-1dL_jchYAlg",
-      "photographer": "Vitalii Kyktov",
-      "license": "Unsplash License",
-      "subject": "Café terraces and colourful façades on a quiet, damp Ribeira square in Porto.",
-      "alt": "Café terraces and colourful façades on a quiet, damp Ribeira square in Porto.",
-      "heading": "MAKE THE DAYS FLOW",
-      "kicker": "SAVE THIS / SUGGESTED TWO-DAY PLAN",
-      "activity_source": "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
-      "focus_y": 0.5,
-      "layout": "itinerary",
-      "stops": [
-        {
-          "label": "SATURDAY / CITY + RIVER",
-          "text": "Bolhão → São Bento → Rua das Flores → Ribeira. Cross to Jardim do Morro for the evening."
-        },
-        {
-          "label": "SUNDAY / TRAM + ATLANTIC",
-          "text": "Infante → tram 1 → Passeio Alegre. Continue on foot along the Foz seafront."
-        },
-        {
-          "label": "A DIFFERENT TRIP / SÃO JOÃO, 23 JUNE",
-          "text": "Street dancing, sardine grills and toy-hammer greetings. Check the next programme before planning a return."
-        }
-      ],
-      "detail": "One Porto base. Suggested pacing, not a timed walking tour.",
-      "fact_checks": [
-        "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
-        "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
-        "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
-        "https://backoffice.visitporto.travel/en-GB/foz",
-        "https://mercadobolhao.pt/en/",
-        "https://www.museudocarroelectrico.pt/visitar/",
-        "https://www.visitportugal.com/en/node/155969"
-      ],
-      "review": {
-        "reader_value": "Creates a saveable sequence that separates the market day and coastal day.",
-        "image_context": "The genuine Ribeira square anchors a planning card, without pretending it depicts all outings.",
-        "specific_detail": "Orders Saturday and Sunday stops; names 23 June plus street dancing, grills and toy-hammer greetings.",
-        "distinct_contribution": "Adds the itinerary decisions missing from the earlier photodump; not another scenic filler."
       }
     },
     {
@@ -215,14 +163,18 @@
       }
     }
   ],
-  "editorial_version": 5,
-  "format": "city-break-with-seasonal-return",
-  "slide_count_rationale": "Seven: cover, four distinct experiences, a two-day planning card with a researched São João return motive, and a final follow card. A dedicated festival image was rejected because the licensed archive source is not reliably downloadable by the free pipeline; the planning card names the actual festival experience without pretending a city photograph depicts it.",
-  "editorial_status": "ready_for_visual_review",
+  "editorial_version": 6,
+  "format": "weekend-discovery",
+  "slide_count_rationale": "Six pages: clear Ribeira cover, four distinct city-to-coast experiences and the scenic follow card. Removed the dense itinerary page; the caption carries the weekend sequence.",
+  "editorial_status": "awaiting_owner_approval",
   "reviewed_sources_on": "2026-10-29",
   "caption_review": {
-    "hook": "Grounded curiosity gap with specific local ritual or time-specific festival.",
-    "save_value": "Adds sequence, dates, closures and transport decisions beyond repeating slide copy.",
-    "verdict": "Final visual review and platform caption limits must pass before scheduling."
+    "hook_candidates": [
+      "How to spend a weekend in Porto, from blue tiles to Atlantic air.",
+      "A station worth entering without a ticket. A bridge worth crossing for the evening. A tram that takes you towards the Atlantic."
+    ],
+    "chosen_hook": "Second: introduces three concrete reasons to swipe without hiding the destination.",
+    "save_value": "Caption pins match cover and supporting slides; weekend split, Sunday closure, tram endpoints and recurring festival date are easy to retrieve.",
+    "verdict": "Awaiting owner approval of this exact new edition."
   }
 }

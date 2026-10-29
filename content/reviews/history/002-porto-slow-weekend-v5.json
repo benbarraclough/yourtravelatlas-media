@@ -1,0 +1,124 @@
+{
+  "issue": 2,
+  "slug": "002-porto-slow-weekend",
+  "verdict": "PASS",
+  "reviewed_on": "2026-10-29",
+  "source_check_date": "2026-10-29",
+  "render_commit": "4740b75ee62e6b108d36880d109ca90764f5a36b",
+  "source_commit": "09c8473edeb4dc1e9810579ff23afa2dcb475275",
+  "brief_sha256": "5054a3499527616adbcf3ad0bc855baf4b1cff722cd1606bba1ffb455b8e6d5f",
+  "inspected_images": [
+    {
+      "path": "media/002-porto-slow-weekend/01.jpg",
+      "sha256": "e2ddf38a98dda61ae0dfa632d0eab24ed583c679626a73f46c57930e66a770f0"
+    },
+    {
+      "path": "media/002-porto-slow-weekend/02.jpg",
+      "sha256": "5bac9e67660e456704a8eb09f226212a58e18dc5b34ee184e7a0c23ab6a5cdfd"
+    },
+    {
+      "path": "media/002-porto-slow-weekend/03.jpg",
+      "sha256": "9a3fd3f246d602b9ba12e067dc2556803da09c354e11e4f6fbf4359938c303f0"
+    },
+    {
+      "path": "media/002-porto-slow-weekend/04.jpg",
+      "sha256": "7f1e555a84ae43e03d5f8046daa1db74fbdd9286140bbebaac13cd9ac6b34034"
+    },
+    {
+      "path": "media/002-porto-slow-weekend/05.jpg",
+      "sha256": "6e2723cf16c80b5f5286f1414073e8e6b6ce977c069b2c240486501bc4110548"
+    },
+    {
+      "path": "media/002-porto-slow-weekend/06.jpg",
+      "sha256": "95cc96aca563bc2192b9cd293a25c46fac6d8f3a0248a616cf6dbe9a61d1de44"
+    },
+    {
+      "path": "media/002-porto-slow-weekend/07.jpg",
+      "sha256": "3c35a357b05c859174b2b2e5baefc6f78f63974233e149fb9124bf8b443ff11d"
+    }
+  ],
+  "visual_inspection": "Every listed final image inspected at full size and as a contact sheet. Riviera pages 02 and 03 re-inspected after useful context labels replaced defensive wording. Image bytes were compared against the pinned render revision; only those two changed during final review.",
+  "slide_verdicts": [
+    {
+      "slide": 1,
+      "verdict": "PASS",
+      "reason": "This image establishes place and promise; later slides explain the actual trip.",
+      "image_context": "Ribeira waterfront establishes Porto and the Douro; the hero depicts the actual city."
+    },
+    {
+      "slide": 2,
+      "verdict": "PASS",
+      "reason": "Food and everyday city life add a different experience to the architecture and coast.",
+      "image_context": "Actual Bolhão stalls and shoppers support a working-market experience, not a generic café."
+    },
+    {
+      "slide": 3,
+      "verdict": "PASS",
+      "reason": "The only interior cultural stop, connecting the city-centre morning to the river.",
+      "image_context": "The source identifies São Bento azulejos and the pictured mural matches that subject."
+    },
+    {
+      "slide": 4,
+      "verdict": "PASS",
+      "reason": "Adds a different bank, time of day and sociable garden pause rather than another viewpoint.",
+      "image_context": "The real Luís I Bridge at sunset supports the crossing and evening-light experience."
+    },
+    {
+      "slide": 5,
+      "verdict": "PASS",
+      "reason": "Shows the sea-air destination of the only transport-linked outing. The later sunset CTA is a different photograph serving a brand-closing role, not an additional repeated editorial stop.",
+      "image_context": "The source explicitly places this lighthouse and Atlantic scene in Foz do Douro. It illustrates the outing's actual coastal destination, with the tram journey explained separately; no carriage is misidentified."
+    },
+    {
+      "slide": 6,
+      "verdict": "PASS",
+      "reason": "Adds the itinerary decisions missing from the earlier photodump; not another scenic filler.",
+      "image_context": "The genuine Ribeira square anchors a planning card, without pretending it depicts all outings."
+    },
+    {
+      "slide": 7,
+      "verdict": "PASS",
+      "reason": "The sole closing card provides a recognisable conversion moment after the editorial content.",
+      "image_context": "The Foz lighthouse closes the city-to-coast story with a genuine location image."
+    }
+  ],
+  "rejected_or_cut": [
+    "Earlier five-slide generic wander/café treatment replaced with named route, market and planning detail.",
+    "A dedicated event page was cut; São João remains a verified seasonal return idea on the planning card and in the caption, avoiding a weak extra image.",
+    "Advertising-dominated tram imagery was rejected; the Foz destination image now illustrates the verified tram-to-coast outing."
+  ],
+  "caption_hooks": [
+    "Porto has a night when strangers greet each other with toy hammers—and a tram ride that ends with Atlantic air.",
+    "The detail that changes your Porto weekend: Bolhão closes on Sunday."
+  ],
+  "chosen_hook": "Porto has a night when strangers greet each other with toy hammers—and a tram ride that ends with Atlantic air. Two very different reasons to go. 🇵🇹",
+  "caption_characters": 1403,
+  "save_value": "A Saturday city/Sunday Atlantic sequence, Bolhão's Sunday closure, exact tram line/endpoints, named evening garden and recurring June celebration.",
+  "fact_check_result": "Key route, market closure and recurring São João facts verified against official market, operator/museum and tourism/organiser pages. No 2027 programme, time or price invented.",
+  "rights_result": "Every final image uses a verified free Unsplash source page. No CC material remains in these final editions. Accurate photographer credits retained.",
+  "layout_result": "All text fits at readable sizes; contrast, masthead, destination, page counts, spelling, photo crop, archive context and footer clearance checked. Exactly one closing card, final position. No duplicated image URL within the post.",
+  "tests": {
+    "offline_regressions": "5 passed",
+    "github_actions_run": 40866200029,
+    "github_actions_conclusion": "success",
+    "published_issue_001": "Legacy drawing path tested pixel-identical on the same fixture."
+  },
+  "remaining_limitations": [
+    "The Foz photo illustrates the coastal destination; no claim it shows a tram or promises pier access in rough conditions.",
+    "São João date is recurring; detailed next-edition programme must be checked before a trip."
+  ],
+  "benchmark_review": "Actual signed-in hospitality.guide examples and observation limits recorded in EDITORIAL_BENCHMARKS.md; principles adapted without copying assets or text.",
+  "scheduling": {
+    "status": "verified_pending",
+    "uuid": "-1686861758455201569",
+    "date": "2026-11-02T19:00:00",
+    "timezone": "Europe/London",
+    "required_media_count": 7,
+    "media_url_policy": "Pin URLs to render_commit; never silently substitute main after review.",
+    "metricool_id": 409965085,
+    "autoPublish": true,
+    "draft": false,
+    "verified_on": "2026-10-29",
+    "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-1686861758455201569"
+  }
+}

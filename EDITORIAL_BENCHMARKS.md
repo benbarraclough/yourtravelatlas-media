@@ -1,4 +1,16 @@
-# Editorial reference review — 29 October 2026
+# Editorial benchmarks — v6 calibration, 29 October 2026
+
+## Current interpretation (supersedes earlier v5 production recommendations)
+
+The owner judged v5 too brochure-like. Model hospitality.guide's image-led simplicity, plain gripping covers, concise identification and useful location-pinned captions. Do not try to outperform it by putting more text on every screen. Our originality comes from discovery, selection, photographic taste and specific accurate information suited to the concept. Maximum 30 overlay words on supporting pages; fuller details in the caption. No default cream planning cards or mandatory itinerary structure.
+
+This turn re-opened the actual signed-in Andalusia post below, inspected its cover screenshot and read the complete caption. The cover is a single region/lifetime promise over a strong photograph; the caption uses discrete pin-led explanations. Earlier full eight-slide inspection remains documented below. A Next interaction during this turn did not visibly advance the screenshot; it is not represented as a fresh full-carousel review.
+
+Complementary source inspected this turn: https://www.alongdustyroads.com/posts/things-to-do-in-porto — actual city-break article, updated August2023. Its varied concrete subjects are useful idea leads; old prices/hours are not current verification. Official VisitPorto, Bolhão, SNCF and festival sources were checked for the remakes. No TikTok or travel-book material was actually reviewed this turn; future research should vary sources when accessible rather than claim universal coverage.
+
+Chosen remakes: Porto = approachable weekend discovery; Riviera = coastal rail discovery with two optional seasonal spectacles. Removed dense planning cards; Porto removed an ornamental café scene and Riviera removed a generic market shot. Photographs and captions carry specific substance without a full plan on every slide. Both require owner approval before scheduling. The owner additionally requested evergreen month-led event suggestions, so the Riviera uses February with a date-variation note rather than 2027 programme dates.
+
+# Prior evidence and historical v5 interpretation — 29 October 2026
 
 Purpose: learn editorial principles and make original work. Never reuse a competitor's photo, text, signature visual system or unverified travel claim.
 

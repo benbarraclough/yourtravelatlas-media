@@ -50,10 +50,10 @@ class EditorialPublicationChecks(unittest.TestCase):
         with self.assertRaises(ValueError):
             renderer.draw_slide(self.photo, self.post, item, 1, len(self.post["slides"]))
 
-    def test_new_briefs_cannot_bypass_v5_and_caption_budget(self):
+    def test_new_briefs_cannot_bypass_v6_and_caption_budget(self):
         post = copy.deepcopy(self.post)
-        post["slides"] = post["slides"][:4] + [post["slides"][-1]]
-        with self.assertRaisesRegex(ValueError, "five editorial pages"):
+        post["slides"] = post["slides"][:3] + [post["slides"][-1]]
+        with self.assertRaisesRegex(ValueError, "5–10 intentional pages"):
             renderer.validate_editorial(post)
         post = copy.deepcopy(self.post)
         post.pop("editorial_version")
@@ -67,3 +67,16 @@ class EditorialPublicationChecks(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+class DiscoveryDensityChecks(unittest.TestCase):
+    def test_thirty_word_ceiling_includes_labels_and_archive_notes(self):
+        post = json.loads((ROOT / "content/posts/003-riviera-by-train.json").read_text())
+        post["slides"][1]["body"] = "word " * 30
+        with self.assertRaisesRegex(ValueError, "30-word"):
+            renderer.validate_editorial(post)
+
+    def test_v5_unpublished_edition_cannot_return(self):
+        post = json.loads((ROOT / "content/posts/002-porto-slow-weekend.json").read_text())
+        post["editorial_version"] = 5
+        with self.assertRaisesRegex(ValueError, "editorial_version"):
+            renderer.validate_editorial(post)

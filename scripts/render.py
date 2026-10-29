@@ -184,20 +184,78 @@ def draw_editorial(source, post, item, index, count):
     return canvas
 
 
+def visible_words(item):
+    """Count all editorial overlay words, excluding discreet brand/issue marks."""
+    return " ".join(str(item.get(k, "")) for k in
+                    ("heading", "body", "date_label", "photo_note", "detail", "kicker")).split()
+
+
+def draw_discovery(source, post, item, index, count):
+    """Photo-first v6: one promise; concise specific copy; no brochure panels."""
+    cream = (252, 249, 241)
+    focus = tuple(float(item.get(k, .5)) for k in ("focus_x", "focus_y"))
+    canvas = ImageOps.fit(source, SIZE, method=Image.Resampling.LANCZOS, centering=focus).convert("RGBA")
+    overlay = Image.new("RGBA", SIZE, (0, 0, 0, 0))
+    shade = ImageDraw.Draw(overlay)
+    for y in range(1350):
+        top = round(65 * max(0, 1-y/180))
+        bottom = round(225 * max(0, min(1, (y-730)/590)))
+        shade.line((0,y,1080,y), fill=(8,17,20,max(top,bottom)))
+    canvas = Image.alpha_composite(canvas, overlay).convert("RGB")
+    d = ImageDraw.Draw(canvas)
+    if index == 0:
+        title = post["headline"]
+        face = font(86, SERIF)
+        rows = lines_to_fit(d,title,face,936,3)
+        a,b = face.getmetrics(); h=a+b+5
+        y=1198-len(rows)*h
+        if y < 800: raise ValueError("Cover hook obscures too much of the photograph")
+        editorial_text(d,title,(72,y),face,936,cream,3,5)
+    elif item.get("layout") == "cta":
+        y=editorial_text(d,"Fill your feed with wonder.",(72,885),font(74,SERIF),936,cream,2,5)
+        y=editorial_text(d,"Follow @yourtravelatlas for beautiful places and the details that turn them into real plans.",(72,y+24),font(30,REGULAR),900,cream,3,6)
+        if y > 1234: raise ValueError("Closing-card text overlaps brand mark")
+    else:
+        if len(visible_words(item)) > 30:
+            raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
+        bodyface=font(34,REGULAR); titleface=font(56,SERIF)
+        rows=lines_to_fit(d,item["body"],bodyface,936,4)
+        titles=lines_to_fit(d,item["heading"],titleface,936,2)
+        a,b=bodyface.getmetrics(); ta,tb=titleface.getmetrics()
+        note=" · ".join(item.get(k,"") for k in ("date_label","photo_note") if item.get(k))
+        block=len(rows)*(a+b+7)+len(titles)*(ta+tb+5)+17+(38 if note else 0)
+        y=1210-block
+        if y < 830: raise ValueError("Supporting copy obscures too much of the photograph")
+        if note:
+            y=editorial_text(d,note,(72,y),font(20),936,cream,1,4)+10
+        y=editorial_text(d,item["heading"],(72,y),titleface,936,cream,2,5)+17
+        y=editorial_text(d,item["body"],(72,y),bodyface,936,cream,4,7)
+        if y > 1220: raise ValueError("Discovery copy overlaps brand mark")
+    d.text((72,1270),"@yourtravelatlas",font=font(20,REGULAR),fill=cream)
+    issue=f"ISSUE {post['issue']:03d}"
+    width=d.textbbox((0,0),issue,font=font(17,REGULAR))[2]
+    d.text((1008-width,1273),issue,font=font(17,REGULAR),fill=cream)
+    if item.get("credit_line"):
+        editorial_text(d,item["credit_line"],(72,1305),font(16,REGULAR),936,cream,1)
+    return canvas
+
+
 def validate_editorial(post):
-    if post.get("editorial_version", 0) < 5:
+    if post.get("editorial_version", 0) < 6:
         if post.get("issue") == 1:
             return  # Preserve the already published, frozen launch issue.
-        raise ValueError("New/unpublished carousels require editorial_version >= 5")
+        raise ValueError("New/unpublished carousels require editorial_version >= 6")
     if not post.get("format") or not post.get("slide_count_rationale"):
         raise ValueError("Missing format-specific treatment or slide-count decision")
-    if not 6 <= len(post["slides"]) <= 10:
-        raise ValueError("New carousels need five editorial pages plus a closing card, at most ten total")
+    if not 5 <= len(post["slides"]) <= 10:
+        raise ValueError("New carousels need 5–10 intentional pages including a closing card")
     if len(post["caption"]) > 2200:
         raise ValueError("Instagram caption exceeds 2200 characters")
     if post["slides"][-1].get("layout") != "cta" or sum(s.get("layout") == "cta" for s in post["slides"]) != 1:
         raise ValueError("Exactly one standard closing card must finish the carousel")
     for i, slide in enumerate(post["slides"]):
+        if 0 < i < len(post["slides"])-1 and len(visible_words(slide)) > 30:
+            raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
         for field in ("reader_value", "image_context", "specific_detail", "distinct_contribution"):
             if len(slide.get("review", {}).get(field, "").strip()) < 35:
                 raise ValueError(f"Slide {i+1} lacks substantive {field} review")
@@ -206,13 +264,15 @@ def validate_editorial(post):
             raise ValueError(f"Slide {i+1} has no valid claim-source ledger")
         if 0 < i < len(post["slides"])-1 and slide.get("layout") != "itinerary" and not slide.get("body"):
             raise ValueError("Supporting slides require valuable on-image detail")
-        if slide.get("layout") == "event" and (not slide.get("event_status") or not slide.get("date_label")):
+        if slide.get("event_status") and (not slide.get("event_status") or not slide.get("date_label")):
             raise ValueError("Events require dates and confirmed/recurring status")
         if slide["license"].startswith("CC ") and not all(slide.get(k) for k in ("license_url", "credit_line", "changes")):
             raise ValueError("Creative Commons images require attribution, licence and changes")
 
 
 def draw_slide(source, post, item, index, count):
+    if post.get("editorial_version", 0) >= 6:
+        return draw_discovery(source, post, item, index, count)
     if post.get("editorial_version", 0) >= 5 and index > 0:
         return draw_editorial(source, post, item, index, count)
     crop_y = min(1.0, max(0.0, float(item.get("focus_y", 0.5))))
@@ -303,6 +363,10 @@ def build(path):
         raise ValueError("Duplicate image or slide subject")
     out = OUTPUT / post["slug"]
     out.mkdir(parents=True, exist_ok=True)
+    # A shorter remake must not leave obsolete numbered pages in its output folder.
+    for stale in out.glob("[0-9][0-9].jpg"):
+        if int(stale.stem) > len(post["slides"]):
+            stale.unlink()
     evidence = []
     print(f"Rendering {post['slug']}: {len(post['slides'])} slides", flush=True)
     hashes = set()

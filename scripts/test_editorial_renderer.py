@@ -23,10 +23,10 @@ class EditorialRendererTests(unittest.TestCase):
 
     def test_overflow_fails_instead_of_covering_footer(self):
         post = copy.deepcopy(self.posts[0])
-        slide = next(s for s in post["slides"] if s.get("layout") == "story")
+        slide = next(s for s in post["slides"] if s.get("layout") == "photo")
         slide["body"] = "A detailed but impossibly long paragraph. " * 80
         with self.assertRaises(ValueError):
-            render.draw_editorial(self.photo, post, slide, 1, len(post["slides"]))
+            render.draw_slide(self.photo, post, slide, 1, len(post["slides"]))
 
     def test_no_final_card_or_no_source_ledger_fails(self):
         for mutation in ("cta", "source", "review", "version", "caption"):

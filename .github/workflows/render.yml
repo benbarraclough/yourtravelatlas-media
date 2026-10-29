@@ -7,6 +7,7 @@ on:
     paths:
       - "content/posts/**"
       - "scripts/render.py"
+      - "scripts/build_review.py"
       - "requirements.txt"
       - ".github/workflows/render.yml"
 
@@ -48,7 +49,8 @@ jobs:
             git checkout -B main origin/main
             python -m unittest discover -s tests
             python scripts/render.py
-            git add media/
+            python scripts/build_review.py
+            git add media/ review/
             if git diff --cached --quiet; then
               echo "No changed assets."
               exit 0

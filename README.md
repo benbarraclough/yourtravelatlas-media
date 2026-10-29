@@ -2,7 +2,7 @@
 
 **Editorial source of truth:** [Your Travel Atlas — Editorial Playbook (latest)](EDITORIAL_GUIDELINES.md). Read it before creating or changing issues.
 
-**Mandatory production procedure:** [Editorial creation and review](EDITORIAL_REVIEW.md), with [competitive reference evidence](EDITORIAL_BENCHMARKS.md). New carousels require editorial_version 5, per-slide value/context/detail reviews and claim-source ledgers, appropriate story/event/itinerary layouts, and one standard photographic follow card. Publication requires an actual full-image review recorded under `content/reviews/`; a successful renderer is not creative approval. Run `python -m unittest discover -s tests` before production changes. Published issue 001 keeps its original rendering path.
+**Mandatory production procedure:** [Editorial creation and review](EDITORIAL_REVIEW.md), with [competitive reference evidence](EDITORIAL_BENCHMARKS.md). New carousels require editorial_version 6: image-led clear hooks, discreet @yourtravelatlas/issue branding, no WANDER FURTHER, supporting overlays at most 30 words, caption location pins and relevant critical details. Varied intentions and 5–10 intentional pages; no compulsory itinerary panels. Per-slide source/value reviews and actual image inspection remain required. Porto/Riviera first v6 remakes require owner approval before scheduling and remain drafts meanwhile; future editions use the calibrated internal review. Published issue001 and the approved Istanbul Reel stay unchanged. Run both renderer test suites before production changes.
 
 A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www.instagram.com/yourtravelatlas/).
 
@@ -15,21 +15,21 @@ A **£0-extra-cost** editorial image renderer for [@yourtravelatlas](https://www
 3. The free GitHub Actions [Render travel carousels](.github/workflows/render.yml) workflow automatically creates 1080×1350 JPEG slides, using Pillow and open-source system fonts, under `media/<slug>/`. It rejects too-small, missing or duplicate photos, missing attribution, unknown licensing, duplicate issue numbers, missing caption, missing source list and absent overlay copy.
 4. **Inspect the actual rendered slides** before scheduling, including visual distinctiveness, accuracy, cropping, readability, absence of promotions, and source provenance. The renderer cannot prove that a declared licence is genuine; editorial research must establish that from the original source.
 5. Schedule or update the existing draft with Metricool using publicly accessible URLs such as:
-   `https://raw.githubusercontent.com/benbarraclough/yourtravelatlas-media/main/media/003-dolomites/01.jpg`
+   `https://raw.githubusercontent.com/benbarraclough/yourtravelatlas-media/<reviewed-commit>/media/002-porto-slow-weekend/01.jpg`
    Include all slide URLs, image alt text, caption and `autoPublish: true`, and use `draft: false` only after the finished carousel passes every check.
 
 ## Launch issues
 
 - **001** Faroe Islands: five different places for an Atlantic exploration story.
-- **002** Porto: a slow city weekend with Ribeira, São Bento, Gaia and Foz. Fresh five-slide replacement; scheduled 2 November 2026 at 19:00 Europe/London.
-- **003** French Riviera by train: one Nice base with separate coastal outings. Fresh five-slide replacement; scheduled 4 November 2026 at 12:00 Europe/London.
+- **002** Porto: a slow city weekend with Ribeira, São Bento, Gaia and Foz. Six-slide v6 remake; draft awaiting owner approval, intended 2 November 2026 at 19:00 Europe/London.
+- **003** French Riviera by train: one Nice base with separate coastal outings. Seven-slide v6 remake; draft awaiting owner approval, intended 4 November 2026 at 12:00 Europe/London.
 
 Sources, photographer names and fact-check references are stored in each JSON brief; generated `manifest.json` files provide the image provenance and output list.
 
 ## Editorial standards
 
 - Every post must be a genuine travel idea, not a photodump; vary formats and geography.
-- Cover text includes the **Your Travel Atlas** masthead, a destination/trip hook and an issue identifier. Every subsequent slide has context-appropriate, legible on-image text.
+- Cover text is one clear hook plus discreet @yourtravelatlas and issue. Supporting slides contain concise, specific descriptions with an absolute 30-word total overlay maximum. No WANDER FURTHER or large masthead.
 - Images must be real, location-accurate, visually different, high resolution and appropriately licensed. The photo host and file existing do **not** validate the licence.
 - Captions focus on memorable experiences and practical travel advice, not unhelpful trivia; they are checked, searchable and free of promotions.
 - Do not reuse photos or issue numbers. Check existing published content as well as this repository for repeated editorial concepts.
@@ -38,7 +38,7 @@ Sources, photographer names and fact-check references are stored in each JSON br
 
 ## Automated task
 
-The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Metricool queue and this repository's content history, research and create next issue briefs via the GitHub connector, confirm that the Actions run succeeded, review the rendered media, then schedule eligible posts through the Metricool connector. If output has not yet rendered, leave the draft unpublished until verified in a later run.
+The recurring ChatGPT task **Your Travel Atlas Publishing** should check the Metricool queue and this repository's content history, respect the initial Porto/Riviera owner-review hold, research and create eligible next issue briefs via the GitHub connector, confirm that the Actions run succeeded, review the rendered media, then schedule eligible posts through the Metricool connector. If output has not yet rendered, leave the draft unpublished until verified in a later run.
 
 This README and generated media are public. Do not add passwords, private data or credentials.
 
