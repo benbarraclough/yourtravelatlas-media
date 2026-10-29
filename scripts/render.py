@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "content" / "posts"
 OUTPUT = ROOT / "media"
 SIZE = (1080, 1350)
-ALLOWED_HOSTS = {"images.unsplash.com", "images.pexels.com", "upload.wikimedia.org"}
+ALLOWED_HOSTS = {"images.unsplash.com", "images.pexels.com", "upload.wikimedia.org", "thumb.wikimedia.org"}
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": "YourTravelAtlasMediaRenderer/1.0 (public travel magazine)"})
 REGULAR = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"

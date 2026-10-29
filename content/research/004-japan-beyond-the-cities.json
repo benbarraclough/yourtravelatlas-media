@@ -128,7 +128,7 @@
       "photographer": "Qian2007",
       "declared_license": "CC BY-SA 4.0; original Commons file page, licence link and attribution verified in Commons imageinfo",
       "location": "Snowy steep-roofed gassho-zukuri farmhouse in Shirakawa-go, Gifu, Japan.",
-      "visual_status": "Original preview inspected; full rendered crop pending",
+      "visual_status": "Original Commons preview and authorised 1920px API derivative inspected; exact 1080x1350 render pending.",
       "rights_status": "Adapted image must be CC BY-SA 4.0, credit author/source/license and indicate crop/text."
     },
     {
@@ -155,7 +155,7 @@
       "photographer": "lumoplank",
       "declared_license": "CC0 1.0; original Commons file metadata inspected",
       "location": "Kappa Bridge and the Hotaka mountain range in autumn at Kamikochi, Nagano.",
-      "visual_status": "Original preview inspected; full rendered crop pending",
+      "visual_status": "Original Commons preview and authorised 1920px API derivative inspected; exact 1080x1350 render pending.",
       "rights_status": "Public domain dedication CC0; attribution still given editorially."
     }
   ],
@@ -166,7 +166,8 @@
     "First rendered Shirakawa-go image was mostly snowless, dark and weak; replaced with a genuine snow-roof Commons photograph.",
     "First rendered Kamikochi CTA was a generic dark hillside; replaced with public-domain Kappa Bridge and alpine scenery.",
     "Commons Tottori winter-dune photos were rejected because snowy conditions made the place look less like the intended coastal-dune discovery; kept the correctly located original photo.",
-    "Original Unsplash candidate-page audit returned HTTP 403 from GitHub Actions. No access controls bypassed; Commons public API provided legally reusable alternatives."
+    "Original Unsplash candidate-page audit returned HTTP 403 from GitHub Actions. No access controls bypassed; Commons public API provided legally reusable alternatives.",
+    "Wikimedia original upload host returned HTTP 429 in render; official Commons imageinfo API delivered documented 1920px derivatives via thumb.wikimedia.org with verified licences. Used those public, authorised derivative URLs; no rate-limit circumvention or unapproved mirror."
   ],
   "revision_date": "2026-10-29"
 }
