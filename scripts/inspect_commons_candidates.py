@@ -25,11 +25,11 @@ def main():
                 if not infos:continue
                 inf=infos[0]; meta=inf.get("extmetadata",{})
                 lic=strip_html(meta.get("LicenseShortName",{}).get("value",""))
-                if lic not in ("CC BY 4.0","CC BY-SA 4.0","CC BY 2.0"):
+                if lic not in ("CC BY 4.0","CC BY-SA 4.0","CC BY 2.0","CC0"):
                     all_results.append({"query":term,"title":p.get("title"),"status":"license_not_supported","license":lic,"width":inf.get("width"),"height":inf.get("height")})
                     continue
                 url=inf.get("thumburl") or inf.get("url")
-                if not url or urlsplit(url).hostname not in ("upload.wikimedia.org",):
+                if not url or urlsplit(url).hostname not in ("upload.wikimedia.org","thumb.wikimedia.org"):
                     all_results.append({"query":term,"title":p.get("title"),"status":"image_url_not_supported","license":lic,"url":url})
                     continue
                 if inf.get("width",0)<1200 or inf.get("height",0)<1000:
