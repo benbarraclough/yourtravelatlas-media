@@ -8,7 +8,7 @@ from PIL import Image,ImageOps
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/"review"/"candidates"/"004-japan-beyond-the-cities"
 API="https://commons.wikimedia.org/w/api.php"
-QUERIES=["Shirakawa-go snow","Kamikochi Azusa river mountains"]
+QUERIES=["selected file pages"]
 SELECTED={"File:Shirakawa 2024.jpg","File:Kamikochi - Kamikochi6538.jpg"}
 def strip_html(s):return re.sub("<[^>]+>"," ",html.unescape(s or "")).strip()
 def main():
@@ -17,7 +17,7 @@ def main():
     all_results=[]
     for term in QUERIES:
         try:
-            r=session.get(API,params={"action":"query","generator":"search","gsrsearch":term,"gsrnamespace":6,"gsrlimit":8,"prop":"imageinfo","iiprop":"url|size|extmetadata","iiurlwidth":1600,"format":"json","formatversion":2},timeout=35)
+            r=session.get(API,params={"action":"query","titles":"|".join(sorted(SELECTED)),"prop":"imageinfo","iiprop":"url|size|extmetadata","iiurlwidth":1600,"format":"json","formatversion":2},timeout=35)
             r.raise_for_status()
             pages=r.json().get("query",{}).get("pages",[])
             print("QUERY",term,"RESULTS",len(pages),flush=True)
