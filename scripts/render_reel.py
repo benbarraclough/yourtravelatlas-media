@@ -288,4 +288,9 @@ if __name__=="__main__":
     files=[SOURCE/(arg+".json") for arg in sys.argv[1:]] if len(sys.argv)>1 else sorted(SOURCE.glob("*.json"))
     if not files:
         print("No Reel briefs found; no videos rendered")
-    for p in files: main(p)
+    for p in files:
+        brief=json.loads(p.read_text(encoding="utf-8"))
+        if brief.get("editorial_status")=="rejected":
+            print(f"SKIP EDITORIALLY REJECTED REEL: {p.name}",flush=True)
+            continue
+        main(p)
