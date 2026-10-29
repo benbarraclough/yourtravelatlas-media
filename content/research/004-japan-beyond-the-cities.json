@@ -1,0 +1,167 @@
+{
+  "issue": 4,
+  "date": "2026-10-29",
+  "selection_method": "Discovery-first shortlist evaluated for hook, independent photo potential, curiosity, verified substance, shareability and variety.",
+  "candidates": [
+    {
+      "concept": "Five surprising places across Japan beyond Tokyo and Kyoto",
+      "decision": "SELECT",
+      "hook": "Five precise locations with strong contrast: volcanic gorge, coastal dunes, snowy village, wild macaques, turquoise pond.",
+      "photo_potential": "Six individually identified free Unsplash photographs, different subjects and seasons; crop quality still pending rendered visual review.",
+      "curiosity": "Five different physical and cultural phenomena; factual origins add more than a photo list.",
+      "shareability": "A concrete wishlist to send someone planning Japan, with caveat that places are far apart.",
+      "portfolio": "First East Asia carousel; breaks the Porto/Riviera Europe city/coast streak.",
+      "effort": "Moderate; options range from simple buses to forest walking."
+    },
+    {
+      "concept": "Costa Rica's remarkable wildlife encounters",
+      "decision": "REJECT_FOR_NOW",
+      "reason": "Species/sighting reliability and individually verified destination-specific photo provenance not yet strong enough; would risk implying guaranteed encounters.",
+      "portfolio": "Tropical wildlife and approachable/adventurous mixture."
+    },
+    {
+      "concept": "Morocco's oases and desert villages",
+      "decision": "DEFER",
+      "reason": "Strong potential but requires credible specific access/route distinctions and a distinctive selection of actual licensed location photographs before commissioning.",
+      "portfolio": "North African culture/landscapes; could be a later road-trip discovery."
+    }
+  ],
+  "reference_scope": [
+    {
+      "url": "https://www.instagram.com/hospitality.guide/p/De-CHxKkct6/",
+      "scope": "Previous documented full eight-slide and caption inspection in EDITORIAL_BENCHMARKS.md; not freshly reopened in this run.",
+      "lesson": "One clear regional promise and visual contrast; own selection and captions are original."
+    },
+    {
+      "url": "https://www.alongdustyroads.com/the-road-trip-guides",
+      "scope": "Previous benchmark documentation only, not freshly browsed.",
+      "lesson": "Distinguish practical itinerary details from pure inspiration; this post is not an itinerary."
+    }
+  ],
+  "research_scope": "This run read indexed full-text original Unsplash photograph pages, official JNTO, Miyazaki, Hida and Biei tourism information returned by web search. Did not access full Instagram carousels, TikTok, books or paywalled visual references; no performance claims.",
+  "claim_ledger": [
+    {
+      "slide": 1,
+      "claims": [
+        "Takachiho gorge is in Miyazaki; Manai Falls and walking/boat viewpoints exist"
+      ],
+      "sources": [
+        "https://www.kanko-miyazaki.jp/en/sightseeing/1001"
+      ],
+      "limitations": "Boat rentals can be interrupted and require current checks; no fixed price/hours."
+    },
+    {
+      "slide": 2,
+      "claims": [
+        "Tottori is coastal sand dunes formed and reshaped by wind; buses from Tottori Station"
+      ],
+      "sources": [
+        "https://www.japan.travel/en/spot/949/",
+        "https://www.torican.jp/en/feature/hajimete"
+      ],
+      "limitations": "Dunes are not a desert; avoid implying Sahara conditions."
+    },
+    {
+      "slide": 3,
+      "claims": [
+        "Shirakawa-go is UNESCO recognised; steep thatched roofs relate to deep snowfall; bus access from Takayama"
+      ],
+      "sources": [
+        "https://www.hida.jp/english/touristattractions/4001419/4000089.html"
+      ],
+      "limitations": "Winter photo is seasonal; do not promise snowfall on visit."
+    },
+    {
+      "slide": 4,
+      "claims": [
+        "Jigokudani has wild macaques bathing in hot springs; Dec–Mar best chance; forest approach 25–40 minutes"
+      ],
+      "sources": [
+        "https://www.japan.travel/en/spot/1344/"
+      ],
+      "limitations": "Wildlife is not guaranteed; park etiquette in caption."
+    },
+    {
+      "slide": 5,
+      "claims": [
+        "Blue Pond formed as part of volcanic mudflow-control works; blue colour depends on particles and light; bus access from Biei"
+      ],
+      "sources": [
+        "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
+        "https://www.biei-hokkaido.jp/en/facility/shirogane-blue-pond"
+      ],
+      "limitations": "Colour changes and may be dull; do not guarantee vivid blue."
+    },
+    {
+      "slide": 6,
+      "claims": [
+        "Kamikochi location of scenic closing photograph"
+      ],
+      "sources": [
+        "https://www.japan.travel/en/spot/1374/"
+      ],
+      "limitations": "Closing photograph only; no claimed itinerary stop."
+    }
+  ],
+  "source_photo_audit": [
+    {
+      "slide": 1,
+      "url": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-river-surrounded-by-trees-5BNFwnRk1lI",
+      "photographer": "Daniel Newman",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Manai Falls descending into the green Takachiho Gorge, Miyazaki, Japan.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 2,
+      "url": "https://unsplash.com/photos/a-sandy-beach-with-waves-coming-in-from-the-ocean-WSrsdZu13Xs",
+      "photographer": "Shino Nakamura",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Coastal Tottori Sand Dunes looking toward the Sea of Japan.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 3,
+      "url": "https://unsplash.com/photos/a-small-village-in-the-mountains-with-snow-on-the-ground-Pi6Qu__PZBU",
+      "photographer": "Adam Jang",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Snow-covered gassho-zukuri houses in Shirakawa-go, Gifu.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 4,
+      "url": "https://unsplash.com/photos/a-monkey-in-a-hot-spring-with-snow-on-the-ground-U8ETnd1UEMs",
+      "photographer": "Chloe Evans",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Japanese macaque bathing in a hot spring at Jigokudani Snow Monkey Park, Nagano.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 5,
+      "url": "https://unsplash.com/photos/green-leafed-tree-surrounded-by-water-cC8CA0f9Kf4",
+      "photographer": "Georgios Kaleadis",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Turquoise water and standing trees at Shirogane Blue Pond, Biei, Hokkaido.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    },
+    {
+      "slide": 6,
+      "url": "https://unsplash.com/photos/mountain-range-with-a-river-and-autumn-trees-Jemdkeh1WXs",
+      "photographer": "Nizar F",
+      "declared_license": "Unsplash License — page explicitly marked Free to use under Unsplash License",
+      "location": "Autumn mountain and river landscape at Kamikochi, Nagano, Japan.",
+      "visual_status": "Original page text inspected; final crop/full-size review pending",
+      "rights_status": "Original page showed Download free, not Unsplash+; use allowed by Unsplash License."
+    }
+  ],
+  "rejected_material": [
+    "Unverified social media post visuals and inaccessible competitor middle slides are not treated as inspected.",
+    "No festival shoehorned into a nonseasonal, geographic wishlist.",
+    "No promises of bathing macaques, blue colour, accessible boats, or a single short itinerary."
+  ]
+}

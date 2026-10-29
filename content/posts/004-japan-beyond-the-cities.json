@@ -1,0 +1,178 @@
+{
+  "issue": 4,
+  "slug": "004-japan-beyond-the-cities",
+  "category": "JAPAN",
+  "headline": "5 places in Japan beyond the big cities",
+  "dek": "Five independent discoveries across Japan",
+  "effort_level": "moderate",
+  "accessibility_angle": "A wishlist of independent destinations rather than one rushed route: Tottori is reachable by local bus, Shirakawa-go by bus from Takayama, and Biei's pond by local bus or car. Jigokudani requires a forest walk; Takachiho's rowing is optional and subject to conditions. Do not promise step-free access.",
+  "editorial_intent": "An image-led discovery of five radically different real Japanese experiences outside Tokyo and Kyoto: a waterfall gorge, coastal dunes, a snow-built village, bathing wild macaques and a mineral-blue pond. This is a curated wishlist, not a weekend plan or itinerary.",
+  "share_reason": "Five specific, geographically honest surprises friends can send each other while imagining a longer Japan trip or planning one independent detour, with useful access and seasonal distinctions in the caption.",
+  "reader_scenario": "A curious traveller building a future Japan wishlist; the scenes are spread from Kyushu to Hokkaido and must not be presented as a single short route.",
+  "format": "five-place-discovery-collection",
+  "editorial_version": 6,
+  "editorial_status": "ready_for_visual_review",
+  "reviewed_sources_on": "2026-10-29",
+  "slide_count_rationale": "Six total pages: one Takachiho hero counted as item one, four different supporting locations, and one distinct scenic Kamikochi follow card. Five places are actually delivered, not padded.",
+  "caption": "Japan has sand dunes by the sea, a village built for deep snow and wild monkeys that choose to soak in hot springs. These five places deserve a spot on your wishlist. 🇯🇵\n\n📍 Takachiho Gorge, Miyazaki — cover\nA waterfall drops between volcanic cliffs in Kyushu. See Manai Falls from the gorge path or, when conditions allow, from a rental rowing boat. Reserve ahead and check the latest boat and trail notices.\n\n📍 Tottori Sand Dunes — slide 2\nClimb the wind-shaped dunes for views of the Sea of Japan. They're coastal dunes, not a desert; buses run from Tottori Station.\n\n📍 Shirakawa-go, Gifu — slide 3\nA lived-in UNESCO village of gassho-zukuri farmhouses with steep thatched roofs built for heavy snow. Visit by bus from Takayama; winter scenes are seasonal.\n\n📍 Jigokudani Snow Monkey Park, Nagano — slide 4\nWild Japanese macaques sometimes bathe in the hot spring, especially in winter (roughly December–March). The approach includes a forest walk of around 25–40 minutes. Sightings and bathing aren't guaranteed; never touch or feed the monkeys.\n\n📍 Shirogane Blue Pond, Biei, Hokkaido — slide 5\nMinerals and light make this pond appear strikingly blue, but its colour changes with weather and season. Reach it by local bus or car from Biei; the blue water isn't guaranteed.\n\nThese are separate discoveries across Japan, not a five-stop route or a one-week itinerary. The cover and pond photos show green-season conditions; Shirakawa-go and the monkeys show winter.\n\nWhich one would you go out of your way for?\n\nPhotos: Daniel Newman, Shino Nakamura, Adam Jang, Chloe Evans, Georgios Kaleadis & Nizar F / Unsplash.\n\n#YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido",
+  "slides": [
+    {
+      "image_url": "https://images.unsplash.com/photo-1729440174930-1e5c5cfa573c?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-river-surrounded-by-trees-5BNFwnRk1lI",
+      "photographer": "Daniel Newman",
+      "license": "Unsplash License",
+      "subject": "Manai Falls descending into the green Takachiho Gorge, Miyazaki, Japan.",
+      "alt": "A waterfall dropping into a narrow, green forested gorge in Takachiho, Miyazaki, Japan.",
+      "heading": "Takachiho Gorge",
+      "layout": "cover",
+      "activity_source": "https://www.kanko-miyazaki.jp/en/sightseeing/1001",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://www.kanko-miyazaki.jp/en/sightseeing/1001"
+      ],
+      "review": {
+        "reader_value": "A distinctive first reveal that signals a geographically diverse Japanese landscape collection.",
+        "image_context": "Original Unsplash page explicitly identifies Takachiho Gorge in Miyazaki; photo depicts a waterfall between forested gorge walls.",
+        "specific_detail": "Official Miyazaki tourism identifies Manai Falls, the gorge walk and optional boat views.",
+        "distinct_contribution": "The first of five independent Japan discoveries; green volcanic gorge contrasts all later scenes."
+      }
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1635902918331-10e4952b3920?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/a-sandy-beach-with-waves-coming-in-from-the-ocean-WSrsdZu13Xs",
+      "photographer": "Shino Nakamura",
+      "license": "Unsplash License",
+      "subject": "Coastal Tottori Sand Dunes looking toward the Sea of Japan.",
+      "alt": "Wind-shaped sand dunes meeting the sea in Tottori, Japan.",
+      "heading": "Tottori Sand Dunes",
+      "body": "Climb wind-shaped coastal dunes for a view of the Sea of Japan. Not a desert, but a shifting landscape beside the coast.",
+      "layout": "photo",
+      "activity_source": "https://www.japan.travel/en/spot/949/",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://www.japan.travel/en/spot/949/",
+        "https://www.torican.jp/en/feature/hajimete"
+      ],
+      "review": {
+        "reader_value": "Offers the unexpected contrast of dunes on Japan's coast, not a fabricated Sahara-style desert.",
+        "image_context": "Photo source is tagged precisely to Tottori Sand Dunes and shows the sand and shoreline, not a desert elsewhere.",
+        "specific_detail": "The official JNTO describes wind-shaped dunes and views over the Sea of Japan; city tourism explains bus access.",
+        "distinct_contribution": "A golden coastal sand landscape changes both texture and geographical region from the opening gorge."
+      }
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1681075349410-b674c1f149b2?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/a-small-village-in-the-mountains-with-snow-on-the-ground-Pi6Qu__PZBU",
+      "photographer": "Adam Jang",
+      "license": "Unsplash License",
+      "subject": "Snow-covered gassho-zukuri houses in Shirakawa-go, Gifu.",
+      "alt": "Snowy village with steep-roofed traditional Japanese farmhouses in Shirakawa-go.",
+      "heading": "Shirakawa-go",
+      "body": "A lived-in UNESCO village where steep thatched gassho-zukuri roofs were designed for deep mountain snow.",
+      "layout": "photo",
+      "activity_source": "https://www.hida.jp/english/touristattractions/4001419/4000089.html",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://www.hida.jp/english/touristattractions/4001419/4000089.html"
+      ],
+      "review": {
+        "reader_value": "A real village and vernacular architecture story, not simply a generic snow postcard.",
+        "image_context": "Unsplash source locates the winter village photograph in Shirakawa-go, Gifu, with houses and snow visible.",
+        "specific_detail": "Hida tourism verifies UNESCO recognition and the roof design's relationship to heavy snowfall.",
+        "distinct_contribution": "Introduces winter cultural heritage and human settlement between a natural dune and animal behaviour."
+      }
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1677283848061-e2d6175c2fc6?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/a-monkey-in-a-hot-spring-with-snow-on-the-ground-U8ETnd1UEMs",
+      "photographer": "Chloe Evans",
+      "license": "Unsplash License",
+      "subject": "Japanese macaque bathing in a hot spring at Jigokudani Snow Monkey Park, Nagano.",
+      "alt": "Japanese snow monkey soaking in hot spring water with snow at Jigokudani, Nagano.",
+      "heading": "Jigokudani's snow monkeys",
+      "body": "Wild Japanese macaques sometimes soak in the park's hot spring. Winter offers the best chance to witness their bathing behaviour.",
+      "layout": "photo",
+      "activity_source": "https://www.japan.travel/en/spot/1344/",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://www.japan.travel/en/spot/1344/"
+      ],
+      "review": {
+        "reader_value": "A specific and surprising animal behaviour that makes this slide independently saveable.",
+        "image_context": "Photo is explicitly tagged Jigokudani Yaen Koen by the original photographer and shows a monkey in water.",
+        "specific_detail": "JNTO identifies wild macaques and says December to March is usually best for bathing; sightings aren't promised.",
+        "distinct_contribution": "Living wildlife provides emotional and visual variety after the snowy architecture scene."
+      }
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1539430416000-065144bb6a86?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/green-leafed-tree-surrounded-by-water-cC8CA0f9Kf4",
+      "photographer": "Georgios Kaleadis",
+      "license": "Unsplash License",
+      "subject": "Turquoise water and standing trees at Shirogane Blue Pond, Biei, Hokkaido.",
+      "alt": "Vivid turquoise water surrounding bare standing trees at Shirogane Blue Pond, Hokkaido.",
+      "heading": "Shirogane Blue Pond",
+      "body": "A pond formed during volcanic mudflow-control works. Mineral particles scatter light, making the water appear blue—depending on conditions.",
+      "layout": "photo",
+      "activity_source": "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
+        "https://www.biei-hokkaido.jp/en/facility/shirogane-blue-pond"
+      ],
+      "review": {
+        "reader_value": "The natural-looking but human-origin blue pond is a surprising factual discovery.",
+        "image_context": "Unsplash original explicitly locates the photographed blue pond in Biei, Hokkaido, with submerged trunks.",
+        "specific_detail": "Biei Tourism Association documents the pond's construction and light-scattering explanation, including colour variation.",
+        "distinct_contribution": "Adds a saturated turquoise optical phenomenon as the final factual reveal, contrasting wildlife and winter."
+      }
+    },
+    {
+      "image_url": "https://images.unsplash.com/photo-1762178904924-d2ee569a3086?auto=format&fit=crop&w=2000&q=88",
+      "source_page": "https://unsplash.com/photos/mountain-range-with-a-river-and-autumn-trees-Jemdkeh1WXs",
+      "photographer": "Nizar F",
+      "license": "Unsplash License",
+      "subject": "Autumn mountain and river landscape at Kamikochi, Nagano, Japan.",
+      "alt": "River flowing through autumn trees with Japanese Alpine mountains behind in Kamikochi.",
+      "heading": "Fill your feed with wonder.",
+      "layout": "cta",
+      "activity_source": "https://www.japan.travel/en/spot/1374/",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://www.japan.travel/en/spot/1374/"
+      ],
+      "review": {
+        "reader_value": "A visually spacious invitation to follow for more travel discoveries and practical detail.",
+        "image_context": "Original Unsplash source identifies the autumn river valley as Kamikochi in Nagano; it is not a sixth listed destination.",
+        "specific_detail": "The closing card uses the established standard follow promise without unsupported access claims.",
+        "distinct_contribution": "A scenic Japanese Alpine ending is a distinct licensed image, not reused within the post."
+      }
+    }
+  ],
+  "fact_sources": [
+    "https://www.kanko-miyazaki.jp/en/sightseeing/1001",
+    "https://www.japan.travel/en/spot/949/",
+    "https://www.torican.jp/en/feature/hajimete",
+    "https://www.hida.jp/english/touristattractions/4001419/4000089.html",
+    "https://www.japan.travel/en/spot/1344/",
+    "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
+    "https://www.biei-hokkaido.jp/en/facility/shirogane-blue-pond",
+    "https://www.japan.travel/en/spot/1374/"
+  ],
+  "caption_review": {
+    "hook_candidates": [
+      "5 places in Japan beyond the big cities",
+      "Japan has sand dunes by the sea, a snow village and monkeys that bathe in hot springs."
+    ],
+    "chosen_hook": "The second opening line for the caption, anchored in three specific surprising experiences; the cover uses the first clear numbered promise.",
+    "save_value": "Five exact named locations and distinct experience types, official access directions and honest seasonal constraints, without inventing a multi-day route.",
+    "verdict": "Awaiting actual rendered full-size/mobile image inspection; metadata does not approve publication."
+  },
+  "evergreen_policy": "No edition-specific events or claims. Winter imagery labelled through caption; JNTO winter monkey bathing guidance is seasonal, not a guarantee."
+}
