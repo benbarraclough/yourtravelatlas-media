@@ -184,7 +184,7 @@ def main(postfile):
     if brief.get("audio_policy") != "incompetech_cc_by_4":
         raise ValueError("Reel soundtrack must be independently cleared CC BY 4.0 music")
     track=brief.get("music",{})
-    approved_url="https://static.incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3"
+    approved_url="https://incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3"
     if (track.get("source_page")!="https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103"
         or track.get("title")!="Protofunk" or track.get("artist")!="Kevin MacLeod"
         or track.get("license")!="CC BY 4.0"
@@ -244,7 +244,7 @@ def main(postfile):
         soundtrack=temp/"licensed_music.mp3"
         result=S.get(track["download_url"],timeout=60,stream=True)
         result.raise_for_status()
-        if not result.url.startswith("https://static.incompetech.com/"):
+        if not result.url.startswith("https://incompetech.com/"):
             raise ValueError("Music download redirected away from approved Incompetech source")
         if "audio" not in result.headers.get("content-type","").lower() and "ogg" not in result.headers.get("content-type","").lower() and "octet-stream" not in result.headers.get("content-type","").lower():
             raise ValueError("Music download did not provide an audio file")
