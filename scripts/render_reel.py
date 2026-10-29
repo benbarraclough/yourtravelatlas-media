@@ -181,8 +181,13 @@ def main(postfile):
         if "pexels.com/video/" not in clip["page_url"] and "commons.wikimedia.org/" not in clip["page_url"]:
             raise ValueError("Video page URL must point at inspectable source")
         if len(clip["overlay"])>68:raise ValueError("Text too long for 9:16 Reel overlay")
-    if brief.get("audio_policy")!="original_synth_upbeat":
-        raise ValueError("Reel requires a verified in-house upbeat original soundtrack")
+    if brief.get("audio_policy")!="mixkit_stock":
+        raise ValueError("The Reel must have verifiably cleared music, not unapproved AI/synth audio")
+    track=brief.get("music",{})
+    if track.get("source_page")!="https://mixkit.co/free-stock-music/indie-pop/" or track.get("title")!="Just Keep Walking" or track.get("artist")!="Michael Ramir C." or track.get("license")!="Mixkit Stock Music Free License":
+        raise ValueError("Missing verified artist/track/music rights provenance")
+    if track.get("download_url")!="https://assets.mixkit.co/active_storage/music/963/963.mp3":
+        raise ValueError("Unexpected stock soundtrack URL")
 
     output=OUTPUT/brief["slug"]
     output.mkdir(parents=True,exist_ok=True)
@@ -233,11 +238,24 @@ def main(postfile):
         run("ffmpeg","-hide_banner","-loglevel","error","-y","-f","concat","-safe","0",
             "-i",concat,"-c","copy","-movflags","+faststart",str(silent))
         duration_silent=probe(silent)["duration"]
-        soundtrack=temp/"original_ambient.wav"
-        compose_original_upbeat(soundtrack,duration_silent)
+        soundtrack=temp/"mixkit_stock.mp3"
+        result=S.get(track["download_url"],timeout=35,stream=True)
+        result.raise_for_status()
+        if not result.url.startswith("https://assets.mixkit.co/"):
+            raise ValueError("Music download redirected away from the licensed source")
+        size=0
+        with open(soundtrack,"wb") as out:
+            for block in result.iter_content(128*1024):
+                if not block:continue
+                size+=len(block)
+                if size>12_000_000:raise ValueError("Stock audio too large")
+                out.write(block)
+        details=json.loads(run("ffprobe","-v","error","-show_entries","format=duration:stream=codec_type,codec_name","-of","json",soundtrack))
+        if float(details.get("format",{}).get("duration") or 0)<60 or not any(x.get("codec_type")=="audio" for x in details.get("streams",[])):
+            raise ValueError("Licensed soundtrack not a valid longer-than-one-minute audio file")
         final=output/"reel.mp4"
         run("ffmpeg","-hide_banner","-loglevel","error","-y",
-            "-i",str(silent),"-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
+            "-i",str(silent),"-ss","18","-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
             "-c:v","copy","-c:a","aac","-b:a","128k","-ar","44100","-ac","2",
             "-af","loudnorm=I=-16:TP=-1.5:LRA=9",
             "-t",str(duration_silent),"-movflags","+faststart",str(final))
@@ -257,7 +275,9 @@ def main(postfile):
             "hook":brief["hook"],"status":"rendered-not-published",
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
             "caption":brief["caption"],"fact_sources":brief["fact_sources"],
-            "audio_policy":"original_synth_upbeat","soundtrack_provenance":"Original upbeat 112-BPM C-major instrumental, synthesized entirely by scripts/render_reel.py; no copyrighted samples, licensed songs, or third-party music",
+            "audio_policy":"mixkit_stock",
+            "soundtrack_provenance":track,
+            "soundtrack_sha256":hashlib.sha256(soundtrack.read_bytes()).hexdigest(),
             "video":"reel.mp4",
             "width":WIDTH,"height":HEIGHT,"fps":FPS,
             "duration_seconds":round(duration,2),"size_bytes":final.stat().st_size,
@@ -280,7 +300,7 @@ def main(postfile):
             contact.paste(frame,((i%2)*540,(i//2)*960))
         contact.save(output/"storyboard.jpg",quality=86,optimize=True)
         shutil.copy2(temp/"frame0.jpg",output/"cover.jpg")
-        print("WROTE",final,f"{duration:.2f}s", "with original AAC soundtrack",flush=True)
+        print("WROTE",final,f"{duration:.2f}s", "with licensed Mixkit AAC soundtrack",flush=True)
     finally:
         shutil.rmtree(temp,ignore_errors=True)
 
