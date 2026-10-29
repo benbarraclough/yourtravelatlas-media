@@ -75,6 +75,11 @@ def download(clip,tmp):
 
 def wrap_text(message, max_width=865, fontsize=57, max_lines=2, face_path=FONT_SERIF):
     face=ImageFont.truetype(face_path,fontsize)
+    if "\n" in str(message):
+        explicit=str(message).splitlines()
+        if len(explicit)>max_lines or any(face.getlength(line)>max_width for line in explicit):
+            raise ValueError("Explicit overlay lines exceed mobile safe area")
+        return "\n".join(explicit)
     lines=[]
     buf=""
     for word in str(message).split():
@@ -210,7 +215,7 @@ def main(postfile):
             meta=download(clip,src)
             seconds=min(float(clip.get("seconds",3.4)),meta["duration"]-0.3)
             if seconds<2.5 or seconds>6:raise ValueError("Clip segment duration out of bounds")
-            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=57,face_path=FONT_SERIF))
+            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=64 if discovery else 57,face_path=FONT_SERIF))
             destination=text_file(temp,f"destination{i}",wrap_text(brief["destination"].split(",")[0].upper(),max_width=900,fontsize=74,face_path=FONT_SERIF))
             brand=text_file(temp,f"brand{i}","YOUR TRAVEL ATLAS")
             
@@ -226,7 +231,7 @@ def main(postfile):
                 filters.append(textfilter(brand,27,170,font=FONT_REG))
                 if clip["overlay"]:
                     filters.extend([
-                        textfilter(txt,57,1405,font=FONT_SERIF),
+                        textfilter(txt,64,1405,font=FONT_SERIF),
                     ])
             else:
                 filters.extend([
@@ -278,7 +283,8 @@ def main(postfile):
         run("ffmpeg","-hide_banner","-loglevel","error","-y",
             "-i",str(silent),"-ss","32","-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
             "-c:v","copy","-c:a","aac","-b:a","128k","-ar","44100","-ac","2",
-            "-af","loudnorm=I=-16:TP=-1.5:LRA=9",
+            "-af",("loudnorm=I=-16:TP=-1.5:LRA=9" +
+                   (f",afade=t=in:d=0.12,afade=t=out:st={max(0,duration_silent-0.45):.3f}:d=0.45" if discovery else "")),
             "-t",str(duration_silent),"-movflags","+faststart",str(final))
         final_meta=probe(final)
         streams=json.loads(run("ffprobe","-v","error","-show_streams","-of","json",final))["streams"]
