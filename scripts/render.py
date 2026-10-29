@@ -191,6 +191,8 @@ def validate_editorial(post):
         raise ValueError("New/unpublished carousels require editorial_version >= 5")
     if not post.get("format") or not post.get("slide_count_rationale"):
         raise ValueError("Missing format-specific treatment or slide-count decision")
+    if not 6 <= len(post["slides"]) <= 10:
+        raise ValueError("New carousels need five editorial pages plus a closing card, at most ten total")
     if len(post["caption"]) > 2200:
         raise ValueError("Instagram caption exceeds 2200 characters")
     if post["slides"][-1].get("layout") != "cta" or sum(s.get("layout") == "cta" for s in post["slides"]) != 1:

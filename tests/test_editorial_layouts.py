@@ -52,6 +52,10 @@ class EditorialPublicationChecks(unittest.TestCase):
 
     def test_new_briefs_cannot_bypass_v5_and_caption_budget(self):
         post = copy.deepcopy(self.post)
+        post["slides"] = post["slides"][:4] + [post["slides"][-1]]
+        with self.assertRaisesRegex(ValueError, "five editorial pages"):
+            renderer.validate_editorial(post)
+        post = copy.deepcopy(self.post)
         post.pop("editorial_version")
         with self.assertRaisesRegex(ValueError, "editorial_version"):
             renderer.validate_editorial(post)
