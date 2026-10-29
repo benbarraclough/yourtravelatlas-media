@@ -25,10 +25,16 @@ def main():
                 if not infos:continue
                 inf=infos[0]; meta=inf.get("extmetadata",{})
                 lic=strip_html(meta.get("LicenseShortName",{}).get("value",""))
-                if lic not in ("CC BY 4.0","CC BY-SA 4.0","CC BY 2.0"):continue
+                if lic not in ("CC BY 4.0","CC BY-SA 4.0","CC BY 2.0"):
+                    all_results.append({"query":term,"title":p.get("title"),"status":"license_not_supported","license":lic,"width":inf.get("width"),"height":inf.get("height")})
+                    continue
                 url=inf.get("thumburl") or inf.get("url")
-                if not url or urlsplit(url).hostname not in ("upload.wikimedia.org",):continue
-                if inf.get("width",0)<1200 or inf.get("height",0)<1000:continue
+                if not url or urlsplit(url).hostname not in ("upload.wikimedia.org",):
+                    all_results.append({"query":term,"title":p.get("title"),"status":"image_url_not_supported","license":lic,"url":url})
+                    continue
+                if inf.get("width",0)<1200 or inf.get("height",0)<1000:
+                    all_results.append({"query":term,"title":p.get("title"),"status":"too_small","license":lic,"width":inf.get("width"),"height":inf.get("height")})
+                    continue
                 record={"query":term,"title":p.get("title"),"page_url":inf.get("descriptionurl"),"file_url":inf.get("url"),"license":lic,"license_url":strip_html(meta.get("LicenseUrl",{}).get("value","")),"author":strip_html(meta.get("Artist",{}).get("value",""))[:250],"description":strip_html(meta.get("ImageDescription",{}).get("value",""))[:400],"width":inf.get("width"),"height":inf.get("height")}
                 try:
                     blob=session.get(url,timeout=30);blob.raise_for_status()
