@@ -6,7 +6,7 @@
   "status": "rendered-not-published",
   "editorial_version": 7,
   "brief_sha256": "43f585955f6244de36f8c14ecc8eef62bec0f6304655f384ca8f326dd1edf616",
-  "video_sha256": "053074762ee9154a9f6a3170a838c9ef8c8e6c24c668188952b4ff30e2b37ed0",
+  "video_sha256": "df73bb2efbf0779f7323f2c07e01237f0241ca89e2e225bb855c209d0c62c8ff",
   "treatment": "discovery_v1",
   "shot_count_exception": null,
   "editorial_intent": "Show why Seljalandsfoss belongs on an Iceland trip through five different visual functions: unusual perspective, scale and location, named recognition, immersive spray, and the actual walking experience. Give useful context within the video rather than depending on the caption.",
@@ -32,7 +32,7 @@
   "height": 1920,
   "fps": 30,
   "duration_seconds": 23.0,
-  "size_bytes": 11270085,
+  "size_bytes": 10939125,
   "clips": [
     {
       "page_url": "https://www.pexels.com/video/majestic-waterfall-behind-rocky-archway-32344066/",
