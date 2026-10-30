@@ -140,16 +140,8 @@ def main(postfile):
             raise ValueError("Overlay must be text; blank only in discovery treatment")
         if not 0<=float(clip.get("crop_x",0.5))<=1:raise ValueError("Invalid crop anchor")
         if len(clip["overlay"])>68:raise ValueError("Text too long for 9:16 Reel overlay")
-    if brief.get("audio_policy") != "incompetech_cc_by_4":
-        raise ValueError("Reel soundtrack must be independently cleared CC BY 4.0 music")
-    track=brief.get("music",{})
-    approved_url="https://incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3"
-    if (track.get("source_page")!="https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103"
-        or track.get("title")!="Protofunk" or track.get("artist")!="Kevin MacLeod"
-        or track.get("license")!="CC BY 4.0"
-        or track.get("download_url")!=approved_url
-        or track.get("license_url")!="https://creativecommons.org/licenses/by/4.0/"):
-        raise ValueError("Unexpected soundtrack or incomplete CC BY 4.0 rights provenance")
+    if brief.get("audio_policy") != "no_music":
+        raise ValueError("Owner requires no music on all new Reel exports")
 
     output=OUTPUT/brief["slug"]
     output.mkdir(parents=True,exist_ok=True)
@@ -212,34 +204,14 @@ def main(postfile):
         run("ffmpeg","-hide_banner","-loglevel","error","-y","-f","concat","-safe","0",
             "-i",concat,"-c","copy","-movflags","+faststart",str(silent))
         duration_silent=probe(silent)["duration"]
-        soundtrack=temp/"licensed_music.mp3"
-        result=S.get(track["download_url"],timeout=60,stream=True)
-        result.raise_for_status()
-        if not result.url.startswith("https://incompetech.com/"):
-            raise ValueError("Music download redirected away from approved Incompetech source")
-        if "audio" not in result.headers.get("content-type","").lower() and "ogg" not in result.headers.get("content-type","").lower() and "octet-stream" not in result.headers.get("content-type","").lower():
-            raise ValueError("Music download did not provide an audio file")
-        size=0
-        with open(soundtrack,"wb") as out:
-            for block in result.iter_content(128*1024):
-                if not block:continue
-                size+=len(block)
-                if size>20_000_000:raise ValueError("Stock audio too large")
-                out.write(block)
-        details=json.loads(run("ffprobe","-v","error","-show_entries","format=duration:stream=codec_type,codec_name","-of","json",soundtrack))
-        if float(details.get("format",{}).get("duration") or 0)<60 or not any(x.get("codec_type")=="audio" for x in details.get("streams",[])):
-            raise ValueError("Licensed soundtrack not a valid longer-than-one-minute audio file")
         final=output/"reel.mp4"
         run("ffmpeg","-hide_banner","-loglevel","error","-y",
-            "-i",str(silent),"-ss","32","-i",str(soundtrack),"-map","0:v:0","-map","1:a:0",
-            "-c:v","copy","-c:a","aac","-b:a","128k","-ar","44100","-ac","2",
-            "-af",("loudnorm=I=-16:TP=-1.5:LRA=9" +
-                   (f",afade=t=in:d=0.12,afade=t=out:st={max(0,duration_silent-0.45):.3f}:d=0.45" if discovery else "")),
-            "-t",str(duration_silent),"-movflags","+faststart",str(final))
+            "-i",str(silent),"-map","0:v:0","-c:v","copy","-an",
+            "-movflags","+faststart",str(final))
         final_meta=probe(final)
         streams=json.loads(run("ffprobe","-v","error","-show_streams","-of","json",final))["streams"]
-        if not any(st.get("codec_type")=="audio" and st.get("codec_name")=="aac" for st in streams):
-            raise ValueError("Final Reel missing playable AAC soundtrack")
+        if any(st.get("codec_type")=="audio" for st in streams):
+            raise ValueError("No-music export unexpectedly contains audio")
         if final.stat().st_size>38*1024*1024:
             raise ValueError("Final Reel file exceeds GitHub upload quality/size cap")
         if final_meta["width"]!=WIDTH or final_meta["height"]!=HEIGHT:
@@ -257,9 +229,8 @@ def main(postfile):
             "shot_count_exception":brief.get("shot_count_exception"),
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
             "caption":brief["caption"],"fact_sources":brief["fact_sources"],
-            "audio_policy":"incompetech_cc_by_4",
-            "soundtrack_provenance":track,
-            "soundtrack_sha256":hashlib.sha256(soundtrack.read_bytes()).hexdigest(),
+            "audio_policy":"no_music",
+            "audio_streams":0,
             "video":"reel.mp4",
             "width":WIDTH,"height":HEIGHT,"fps":FPS,
             "duration_seconds":round(duration,2),"size_bytes":final.stat().st_size,
@@ -283,7 +254,7 @@ def main(postfile):
             contact.paste(frame,((i%2)*540,(i//2)*960))
         contact.save(output/"storyboard.jpg",quality=86,optimize=True)
         shutil.copy2(temp/"frame0.jpg",output/"cover.jpg")
-        print("WROTE",final,f"{duration:.2f}s", "with licensed Kevin MacLeod CC BY 4.0 music and AAC audio",flush=True)
+        print("WROTE",final,f"{duration:.2f}s", "with no music or audio stream",flush=True)
     finally:
         shutil.rmtree(temp,ignore_errors=True)
 

@@ -7,21 +7,12 @@
   "editorial_status": "owner_review_required",
   "editorial_intent": "Show why Seljalandsfoss belongs on an Iceland trip through five different visual functions: unusual perspective, scale and location, named recognition, immersive spray, and the actual walking experience. Give useful context within the video rather than depending on the caption.",
   "share_reason": "Send it to the person you would take to Iceland: the walk-behind perspective gives a concrete reason to visit.",
-  "audio_policy": "incompetech_cc_by_4",
-  "music": {
-    "title": "Protofunk",
-    "artist": "Kevin MacLeod",
-    "source_page": "https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103",
-    "download_url": "https://incompetech.com/music/royalty-free/mp3-royaltyfree/Protofunk.mp3",
-    "license": "CC BY 4.0",
-    "license_url": "https://creativecommons.org/licenses/by/4.0/",
-    "credits": "Protofunk by Kevin MacLeod (incompetech.com), CC BY 4.0; excerpt edited and synchronised to video. Guitar performed by Dan Ritter."
-  },
+  "audio_policy": "no_music",
   "fact_sources": [
     "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
     "https://www.south.is/en/travel-info/newsblog/explore-the-waterfalls-of-the-south-coast-of-iceland"
   ],
-  "caption": "Most waterfalls give you a view. This one lets you step inside it. 🇮🇸\n\n📍 Seljalandsfoss, South Iceland\nA 60-metre drop beside the Ring Road, with a footpath into the rock recess behind the falling water. The moment to come for: looking out across the plain through the curtain of spray.\n\nBring a waterproof layer and shoes with grip. The spray reaches the path, so protect your phone before stepping behind the falls.\n\nPlan the walk for ice-free conditions and follow the signs on arrival. Winter ice can close the path; the front view is still worth the stop. Never pass a closure for the photo.\n\n📍 Nearby: Gljúfrabúi, partly hidden by its canyon—another waterfall to add to your South Coast map.\n\nSave both pins for your Iceland trip. Send this to the person you’d walk behind it with.\n\nFollow @yourtravelatlas for beautiful places worth making plans for.\n\nClips show different visits and conditions. Footage: Artem Yellow, Caio Cezar, Jarod Barton & Muhammad Junaid / Pexels.\nMusic: Protofunk — Kevin MacLeod (incompetech.com), CC BY 4.0; excerpted and edited. https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103\n\n#YourTravelAtlas #IcelandTravel #Seljalandsfoss #SouthIceland",
+  "caption": "Most waterfalls give you a view. This one lets you step inside it. 🇮🇸\n\n📍 Seljalandsfoss, South Iceland\nA 60-metre drop beside the Ring Road, with a footpath into the rock recess behind the falling water. The moment to come for: looking out across the plain through the curtain of spray.\n\nBring a waterproof layer and shoes with grip. The spray reaches the path, so protect your phone before stepping behind the falls.\n\nPlan the walk for ice-free conditions and follow the signs on arrival. Winter ice can close the path; the front view is still worth the stop. Never pass a closure for the photo.\n\n📍 Nearby: Gljúfrabúi, partly hidden by its canyon—another waterfall to add to your South Coast map.\n\nSave both pins for your Iceland trip. Send this to the person you’d walk behind it with.\n\nFollow @yourtravelatlas for beautiful places worth making plans for.\n\nClips show different visits and conditions. Footage: Artem Yellow, Caio Cezar, Jarod Barton & Muhammad Junaid / Pexels.\n\n#YourTravelAtlas #IcelandTravel #Seljalandsfoss #SouthIceland",
   "clips": [
     {
       "page_url": "https://www.pexels.com/video/majestic-waterfall-behind-rocky-archway-32344066/",
@@ -99,5 +90,6 @@
       "distinct_contribution": "Human movement supplies scale and turns the earlier scenic promise into an understandable activity."
     }
   ],
-  "editorial_version": 7
+  "editorial_version": 7,
+  "typography_owner_approved": true
 }
