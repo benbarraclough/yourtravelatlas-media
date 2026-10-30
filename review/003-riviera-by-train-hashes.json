@@ -1,15 +1,15 @@
 {
   "issue": 3,
   "slug": "003-riviera-by-train",
-  "brief_sha256": "5aa82b045fcb52a0303a1ad069168ec5034bd82f6f274fa0b85cceaec2bdcd10",
+  "brief_sha256": "110925ced9284a7520865badac58d798c5ec59586e1cc491dd17125243bbf2a8",
   "caption_sha256": "e63b3e4e4ac583a237bc54019009bcdf63db561046238e3ef558805c179d1da7",
   "image_sha256": {
-    "media/003-riviera-by-train/01.jpg": "9fc4f0cbb48ebfb9c40c3305641cb4e59f60638e0a34290915c5d210dbd1dabe",
-    "media/003-riviera-by-train/02.jpg": "dc681379150cb274b220d6652571b4a7c399d1b5569f58c312a6c5ac9b7b97eb",
-    "media/003-riviera-by-train/03.jpg": "dcd6585cf7efabe033c5653ef6269ad7cd158f616b21f38394551f05969efc2c",
-    "media/003-riviera-by-train/04.jpg": "c599ed18b1b7d880e73fabe73bd7709b520d9a4a9921bbf98e595e7b2631921a",
-    "media/003-riviera-by-train/05.jpg": "8a6d7548bbd9244914ce80dd67285c67b83d4ce4a8857655bfe8d806628f6000",
-    "media/003-riviera-by-train/06.jpg": "d10ee0aa064163f1d09130194b3c3ba68e56d232e3a2ce0fafcf3f6a45d60a6e",
-    "media/003-riviera-by-train/07.jpg": "8e8d9a678134d1401ee2917b1a99edd1018c2bee26e1e6a31aeaf6cc22c8587a"
+    "media/003-riviera-by-train/01.jpg": "86eb54f871cbad366766f051575f92a4c423fa70b9d765f476dd9b79710754cb",
+    "media/003-riviera-by-train/02.jpg": "6398e259b229ca03685058d95991468217445cf45b9a8bafffc8e2e5c7aab06c",
+    "media/003-riviera-by-train/03.jpg": "621f2f8c627921f258031a8bb09d3137720333726e407b92c2d937aea12e43e5",
+    "media/003-riviera-by-train/04.jpg": "9ec80fd3921b423399a0dc204d29fba332e92eb4faa0f2ec7b7a89057496a578",
+    "media/003-riviera-by-train/05.jpg": "f15636e0a3513f162445e42e0d3cbbfda2bf29cef210fc4834562a3ba4262cbc",
+    "media/003-riviera-by-train/06.jpg": "8e084dc6df3a7f8af8042072a967f8be7c6e42c5c2fc0989c86d890b56341a03",
+    "media/003-riviera-by-train/07.jpg": "ea2f3bc2705b636e4824bf1a8e399e5c8709e9ac016c4dfd17522d4ed8ac0481"
   }
 }

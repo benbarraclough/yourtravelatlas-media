@@ -2,6 +2,10 @@
   "issue": 4,
   "slug": "004-japan-beyond-the-cities",
   "status": "rendered-not-published",
+  "editorial_version": 6,
+  "content_type": "legacy",
+  "collection_number": null,
+  "brief_sha256": "bb5f68dc0f7278ebc902b5abb4a296d8a13559f5523f7ca916db0688f96861b7",
   "caption": "Japan has sand dunes by the sea, a village built for deep snow and wild monkeys that choose to soak in hot springs. These five places deserve a spot on your wishlist. 🇯🇵\n\n📍 Takachiho Gorge, Miyazaki — cover\nA waterfall drops between volcanic cliffs in Kyushu. See Manai Falls from the gorge path or, when conditions allow, from a rental rowing boat. Reserve ahead and check the latest boat and trail notices.\n\n📍 Tottori Sand Dunes — slide 2\nClimb the wind-shaped dunes for views of the Sea of Japan. They're coastal dunes, not a desert; buses run from Tottori Station.\n\n📍 Shirakawa-go, Gifu — slide 3\nA lived-in UNESCO village of gassho-zukuri farmhouses with steep thatched roofs built for heavy snow. Visit by bus from Takayama; winter scenes are seasonal.\n\n📍 Jigokudani Snow Monkey Park, Nagano — slide 4\nWild Japanese macaques sometimes bathe in the hot spring, especially in winter (roughly December–March). The approach includes a forest walk of around 25–40 minutes. Sightings and bathing aren't guaranteed; never touch or feed the monkeys.\n\n📍 Shirogane Blue Pond, Biei, Hokkaido — slide 5\nMinerals and light make this pond appear strikingly blue, but its colour changes with weather and season. Reach it by local bus or car from Biei; the blue water isn't guaranteed.\n\nThese are separate discoveries across Japan, not a five-stop route or a one-week itinerary. The cover shows a green-season gorge; Shirakawa-go and the monkeys show winter, while the pond and closing landscape show autumn.\n\nWhich one would you go out of your way for?\n\nPhotos: Daniel Newman, Shino Nakamura, Chloe Evans & Georgios Kaleadis / Unsplash. Shirakawa-go: Qian2007 / Wikimedia Commons, CC BY-SA 4.0 (cropped, text added): https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg · https://creativecommons.org/licenses/by-sa/4.0 . Kamikochi: lumoplank / Wikimedia Commons, CC0.\n\n#YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido",
   "fact_sources": [
     "https://www.kanko-miyazaki.jp/en/sightseeing/1001",
@@ -25,6 +29,7 @@
       "activity_source": "https://www.kanko-miyazaki.jp/en/sightseeing/1001",
       "file": "01.jpg",
       "source_sha256": "0d64f0658e586a48b1511e0ac535efe1332ed6745107326b27ec4b5953ae8140",
+      "output_sha256": "b3e73d1b0a8bb151de97deddf53a0b64ffd7a2977fff1e93d93a840831d372d1",
       "size": [
         1080,
         1350
@@ -49,6 +54,7 @@
       "activity_source": "https://www.japan.travel/en/spot/949/",
       "file": "02.jpg",
       "source_sha256": "383dd93cec95408ef9a532177cf50d959a5df6eae68ca3866ec9cc8a6a4f7dff",
+      "output_sha256": "79ab32cfa0a942442cb27e2bb5fbbb1bfeb7ca0473dc5d37bc05dcc1a8988b00",
       "size": [
         1080,
         1350
@@ -75,6 +81,7 @@
       "activity_source": "https://www.hida.jp/english/touristattractions/4001419/4000089.html",
       "file": "03.jpg",
       "source_sha256": "61b46f24ec65f5f46755dbaba5e895e6c18914cef44b0c2f9a3724542ff32985",
+      "output_sha256": "9bc0b9cee9aca315f1c18162e23b53143b7c462d8d6d63ce009e6d724cf8c5bd",
       "size": [
         1080,
         1350
@@ -103,6 +110,7 @@
       "activity_source": "https://www.japan.travel/en/spot/1344/",
       "file": "04.jpg",
       "source_sha256": "f1568811152cc724c972881c0ed34a005478521e14f46fe82fc7217a1bec3c82",
+      "output_sha256": "8eb55b2c5b0eb1feabbe4ddafec629f83cbde0968fe092675641b8256d1fa9c3",
       "size": [
         1080,
         1350
@@ -128,6 +136,7 @@
       "activity_source": "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
       "file": "05.jpg",
       "source_sha256": "ba6cbdc76f03a43bc9bacec156795e10549b0658273de8d44e029c5afdd63dff",
+      "output_sha256": "ff43fec679b4252276a0fc388c70335e8c9a7b15ea315609ed93a1f8243e3fb1",
       "size": [
         1080,
         1350
@@ -154,6 +163,7 @@
       "activity_source": "https://commons.wikimedia.org/wiki/File:Kamikochi_-_Kamikochi6538.jpg",
       "file": "06.jpg",
       "source_sha256": "30f9272fcc40647df1b7187b12367f7f0cb04e980f58489cb2c7b184db6309b5",
+      "output_sha256": "496526c557f29a475d4f095cb48cd6da2f05a116de48ab981f66235306237bfc",
       "size": [
         1080,
         1350

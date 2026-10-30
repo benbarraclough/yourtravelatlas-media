@@ -4,32 +4,37 @@ Publication verdicts are recorded separately in content/reviews.
 
 ## How to spend a weekend in Porto
 
-A station worth entering without a ticket. A bridge worth crossing for the evening. A tram that takes you towards the Atlantic. This is a weekend in Porto. 🇵🇹
+Porto deserves more than a riverside photo. Come for the tiled station and steep old streets; stay for the cellar stories, market lunches and sunset across the Douro. 🇵🇹
 
 📍 Ribeira — cover
-Colourful houses, riverside terraces and traditional boats on the Douro. Make this your lunch stop after walking down through the old town.
+Walk the waterfront below the colourful houses, then climb through the old-town lanes. Pair it with the Luís I Bridge rather than making a separate cross-city trip.
 
 📍 Mercado do Bolhão — slide 2
-Start Saturday with coffee and a browse through the produce stalls. The market is closed on Sundays, so save the coast for day two.
+Start Saturday with coffee and the produce stalls. The market closes on Sundays.
 
-📍 São Bento station — slide 3
-Jorge Colaço’s blue-and-white panels turn the entrance hall into a story of Portuguese history. Continue along Rua das Flores towards Ribeira afterwards.
+📍 São Bento — slide 3
+Step into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even without a train to catch. Continue towards Rua das Flores and the riverside.
 
 📍 Luís I Bridge → Jardim do Morro — slide 4
-Take the upper deck across to Gaia for Porto’s skyline in the changing evening light. The upper crossing is also used by the metro.
+Cross the upper deck towards Gaia for Porto’s skyline in the evening light. Share the crossing carefully with the metro.
 
-📍 Passeio Alegre → Foz do Douro — slide 5
-Historic tram 1 links Infante with Passeio Alegre. From the garden, continue to the Atlantic promenade and Felgueiras lighthouse. Check the current tram service before setting off.
+📍 Clérigos Tower — add to your old-town walk
+Climb for a different view across the rooftops. Combine the area with nearby Livraria Lello if its ornate bookshop interior interests you; check current ticket and entry arrangements first.
 
-The simple split: Saturday for the market, old town and river; Sunday for the coast. Leave space between stops—Porto is hilly.
+📍 Vila Nova de Gaia — port-wine cellars
+Book a cellar visit and tasting to understand the region’s signature fortified wine. Taylor’s is one option; plan the visit before your Jardim do Morro sunset.
 
-One date to save for another visit: the night of 23 June, when São João brings street celebrations and the toy-hammer greeting tradition. Check the next official programme before booking around a particular show.
+📍 Foz do Douro — slide 5, optional coast outing
+Head to Passeio Alegre and follow the Atlantic promenade towards Felgueiras lighthouse. Check the current historic-tram service before relying on it.
 
-Who’s your Porto weekend person?
+Saturday: market, Clérigos area, São Bento and Ribeira. Sunday: Gaia and a cellar visit; choose Foz as an extra outing if time allows. Leave room for a long lunch—Porto’s hills make rushed checklists hard work.
+
+In June, the night of 23 June brings São João street celebrations; check the annual programme.
+
+Save this for your first Porto weekend.
 
 Photos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.
-
-#YourTravelAtlas #Porto #PortugalTravel #WeekendAway
+#YourTravelAtlas #Porto #PortugalTravel
 
 ## The French Riviera by train
 

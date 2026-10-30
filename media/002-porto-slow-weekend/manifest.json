@@ -2,7 +2,11 @@
   "issue": 2,
   "slug": "002-porto-slow-weekend",
   "status": "rendered-not-published",
-  "caption": "A station worth entering without a ticket. A bridge worth crossing for the evening. A tram that takes you towards the Atlantic. This is a weekend in Porto. 🇵🇹\n\n📍 Ribeira — cover\nColourful houses, riverside terraces and traditional boats on the Douro. Make this your lunch stop after walking down through the old town.\n\n📍 Mercado do Bolhão — slide 2\nStart Saturday with coffee and a browse through the produce stalls. The market is closed on Sundays, so save the coast for day two.\n\n📍 São Bento station — slide 3\nJorge Colaço’s blue-and-white panels turn the entrance hall into a story of Portuguese history. Continue along Rua das Flores towards Ribeira afterwards.\n\n📍 Luís I Bridge → Jardim do Morro — slide 4\nTake the upper deck across to Gaia for Porto’s skyline in the changing evening light. The upper crossing is also used by the metro.\n\n📍 Passeio Alegre → Foz do Douro — slide 5\nHistoric tram 1 links Infante with Passeio Alegre. From the garden, continue to the Atlantic promenade and Felgueiras lighthouse. Check the current tram service before setting off.\n\nThe simple split: Saturday for the market, old town and river; Sunday for the coast. Leave space between stops—Porto is hilly.\n\nOne date to save for another visit: the night of 23 June, when São João brings street celebrations and the toy-hammer greeting tradition. Check the next official programme before booking around a particular show.\n\nWho’s your Porto weekend person?\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n\n#YourTravelAtlas #Porto #PortugalTravel #WeekendAway",
+  "editorial_version": 6,
+  "content_type": "legacy",
+  "collection_number": null,
+  "brief_sha256": "e2e296a791ea42d871ca8d1f458b0c072b53b4bed025b7a28eed29eca9b30521",
+  "caption": "Porto deserves more than a riverside photo. Come for the tiled station and steep old streets; stay for the cellar stories, market lunches and sunset across the Douro. 🇵🇹\n\n📍 Ribeira — cover\nWalk the waterfront below the colourful houses, then climb through the old-town lanes. Pair it with the Luís I Bridge rather than making a separate cross-city trip.\n\n📍 Mercado do Bolhão — slide 2\nStart Saturday with coffee and the produce stalls. The market closes on Sundays.\n\n📍 São Bento — slide 3\nStep into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even without a train to catch. Continue towards Rua das Flores and the riverside.\n\n📍 Luís I Bridge → Jardim do Morro — slide 4\nCross the upper deck towards Gaia for Porto’s skyline in the evening light. Share the crossing carefully with the metro.\n\n📍 Clérigos Tower — add to your old-town walk\nClimb for a different view across the rooftops. Combine the area with nearby Livraria Lello if its ornate bookshop interior interests you; check current ticket and entry arrangements first.\n\n📍 Vila Nova de Gaia — port-wine cellars\nBook a cellar visit and tasting to understand the region’s signature fortified wine. Taylor’s is one option; plan the visit before your Jardim do Morro sunset.\n\n📍 Foz do Douro — slide 5, optional coast outing\nHead to Passeio Alegre and follow the Atlantic promenade towards Felgueiras lighthouse. Check the current historic-tram service before relying on it.\n\nSaturday: market, Clérigos area, São Bento and Ribeira. Sunday: Gaia and a cellar visit; choose Foz as an extra outing if time allows. Leave room for a long lunch—Porto’s hills make rushed checklists hard work.\n\nIn June, the night of 23 June brings São João street celebrations; check the annual programme.\n\nSave this for your first Porto weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n#YourTravelAtlas #Porto #PortugalTravel",
   "fact_sources": [
     "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
     "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
@@ -13,7 +17,9 @@
     "https://www.museudocarroelectrico.pt/visitar/",
     "https://stcp.pt/pt/horarios-de-verao-linhas-1-18-500",
     "https://www.visitportugal.com/en/node/155969",
-    "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao"
+    "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao",
+    "https://www.torredosclerigos.pt/en/",
+    "https://www.taylor.pt/en/visit-taylors/port-cellars"
   ],
   "editorial_intent": "Inspire a relaxed Porto weekend through distinct market, tile-hall, riverside and Atlantic experiences, with concise scene-specific descriptions and practical caption pins.",
   "share_reason": "Send a friend a weekend idea that combines an extraordinary tiled station, a riverside sunset and an Atlantic tram outing, with exact places to save.",
@@ -27,6 +33,7 @@
       "activity_source": "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
       "file": "01.jpg",
       "source_sha256": "48ed1c11d2247df69e60bf53ba5f5c205e3e8eaa1bc3ef79d0621ef323752d4d",
+      "output_sha256": "35deaf930b87fa72c74d9faa7c5fdb2fac58280635ad1df5e612eaf0f01f9f95",
       "size": [
         1080,
         1350
@@ -53,6 +60,7 @@
       "activity_source": "https://mercadobolhao.pt/en/",
       "file": "02.jpg",
       "source_sha256": "71b31985a8a62ceb902195e15649f17b8fcb181c74fb284b65d62f57272717b4",
+      "output_sha256": "ce88eacdf11b9bcc61337edb57abd56568199124a4525302a568f8a3a1335864",
       "size": [
         1080,
         1350
@@ -79,6 +87,7 @@
       "activity_source": "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
       "file": "03.jpg",
       "source_sha256": "b46ff8f3965d4b0daa4c25ba3a85f224233eaedb77dd1dae4f4356207fcb1706",
+      "output_sha256": "5d85d1e80fbec2d3a0b930f16c5544f6a95f35ce34e3e502e1d01332e02797dc",
       "size": [
         1080,
         1350
@@ -105,6 +114,7 @@
       "activity_source": "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
       "file": "04.jpg",
       "source_sha256": "11f1d3a93516ddfc62833e6818ae2a5b88755229329f8a258dc25e64665c0341",
+      "output_sha256": "f453daef85a88543ce978501ce4882ef9c16c00fd5141f71a227214261fa11e5",
       "size": [
         1080,
         1350
@@ -130,6 +140,7 @@
       "activity_source": "https://www.museudocarroelectrico.pt/visitar/",
       "file": "05.jpg",
       "source_sha256": "374593c96097c8d829c3f909aa0a14a8e0c2010029f57f11f6e9c73d12a3a076",
+      "output_sha256": "c500007761ac9be3f6d95c953a28f69b3bd993f49365c371fff2b1464ebbafbd",
       "size": [
         1080,
         1350
@@ -157,6 +168,7 @@
       "activity_source": "https://backoffice.visitporto.travel/en-GB/foz",
       "file": "06.jpg",
       "source_sha256": "fa944894e707714bb452b0d65867c7b2acda5517f87b129bb4dd71873367e133",
+      "output_sha256": "4c531e90d9eaf0b2e79b9fc1080288ecd7e88d93c510b1352179e65603fc68d5",
       "size": [
         1080,
         1350

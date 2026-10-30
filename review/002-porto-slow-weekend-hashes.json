@@ -1,14 +1,14 @@
 {
   "issue": 2,
   "slug": "002-porto-slow-weekend",
-  "brief_sha256": "0198c28db51d051251d0eda523a02a7843a2936197206f3f5edab60bfa477f93",
-  "caption_sha256": "b8d553d68cf5b07f369153e0995932464f41fb9b81f2415fd992b3694d15bbd5",
+  "brief_sha256": "e2e296a791ea42d871ca8d1f458b0c072b53b4bed025b7a28eed29eca9b30521",
+  "caption_sha256": "01d3a2394c73cc0e16bf4794f47f1b69a3b17c555ca5e6ee1e2f2045ae1f2358",
   "image_sha256": {
-    "media/002-porto-slow-weekend/01.jpg": "cebf6ef1a3900b5568ecb859e9e398dfb2381158019424f555a12450bda027a2",
-    "media/002-porto-slow-weekend/02.jpg": "fe30adc967c27b64a8d58d06722f1bd4cf41e902543235aae533eb80a97086e1",
-    "media/002-porto-slow-weekend/03.jpg": "b2a5c3daeb024ebbace9f97200a224be8a7a8de8e59b07335a3b02c939593fdf",
-    "media/002-porto-slow-weekend/04.jpg": "0de1f94a200be08d6ea760450bd92dc963815c3d9037027be3adb2a5225c7309",
-    "media/002-porto-slow-weekend/05.jpg": "f1a454e551d0f8b90c3221df5e4a65f8a21214f8926e01a34178d10e283bfd30",
-    "media/002-porto-slow-weekend/06.jpg": "ff5bd223ae5539ce0ab4ae43abb7bc30b0760787d922bc5aa41d49242ce9e6fe"
+    "media/002-porto-slow-weekend/01.jpg": "35deaf930b87fa72c74d9faa7c5fdb2fac58280635ad1df5e612eaf0f01f9f95",
+    "media/002-porto-slow-weekend/02.jpg": "ce88eacdf11b9bcc61337edb57abd56568199124a4525302a568f8a3a1335864",
+    "media/002-porto-slow-weekend/03.jpg": "5d85d1e80fbec2d3a0b930f16c5544f6a95f35ce34e3e502e1d01332e02797dc",
+    "media/002-porto-slow-weekend/04.jpg": "f453daef85a88543ce978501ce4882ef9c16c00fd5141f71a227214261fa11e5",
+    "media/002-porto-slow-weekend/05.jpg": "c500007761ac9be3f6d95c953a28f69b3bd993f49365c371fff2b1464ebbafbd",
+    "media/002-porto-slow-weekend/06.jpg": "4c531e90d9eaf0b2e79b9fc1080288ecd7e88d93c510b1352179e65603fc68d5"
   }
 }

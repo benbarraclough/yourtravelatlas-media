@@ -2,6 +2,10 @@
   "issue": 3,
   "slug": "003-riviera-by-train",
   "status": "rendered-not-published",
+  "editorial_version": 6,
+  "content_type": "legacy",
+  "collection_number": null,
+  "brief_sha256": "110925ced9284a7520865badac58d798c5ec59586e1cc491dd17125243bbf2a8",
   "caption": "The French Riviera is more than a summer road trip. Take the coastal trains—and in February, add a carnival and a parade made of citrus. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 6\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 2\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 3\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 4\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 5\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
   "fact_sources": [
     "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
@@ -33,6 +37,7 @@
       "activity_source": "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
       "file": "01.jpg",
       "source_sha256": "9694cdafd195db368887f347b33630a98c427d8e1d8eaa6bd4bfd400f5015ba5",
+      "output_sha256": "86eb54f871cbad366766f051575f92a4c423fa70b9d765f476dd9b79710754cb",
       "size": [
         1080,
         1350
@@ -58,6 +63,7 @@
       "activity_source": "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
       "file": "02.jpg",
       "source_sha256": "91461e348e0f7ee0a8913452e2d0b60248bbe15ea5b3e99ab49ba4d9537594fd",
+      "output_sha256": "6398e259b229ca03685058d95991468217445cf45b9a8bafffc8e2e5c7aab06c",
       "size": [
         1080,
         1350
@@ -86,6 +92,7 @@
       "activity_source": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
       "file": "03.jpg",
       "source_sha256": "c9171b413a8ced03d68eec1673b70980c9ac1be78fcd49aad3d134b16daa6df3",
+      "output_sha256": "621f2f8c627921f258031a8bb09d3137720333726e407b92c2d937aea12e43e5",
       "size": [
         1080,
         1350
@@ -112,6 +119,7 @@
       "activity_source": "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
       "file": "04.jpg",
       "source_sha256": "a435c51b53cb57dde2d037a52ef50a6f16ff19a9099abd9761c8f6db7b4cb819",
+      "output_sha256": "9ec80fd3921b423399a0dc204d29fba332e92eb4faa0f2ec7b7a89057496a578",
       "size": [
         1080,
         1350
@@ -138,6 +146,7 @@
       "activity_source": "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
       "file": "05.jpg",
       "source_sha256": "5cd208ab30f08d769b0bd17ae96aad3f42a3e9148c3873cf748fa26b1b734156",
+      "output_sha256": "f15636e0a3513f162445e42e0d3cbbfda2bf29cef210fc4834562a3ba4262cbc",
       "size": [
         1080,
         1350
@@ -167,6 +176,7 @@
       "activity_source": "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
       "file": "06.jpg",
       "source_sha256": "4f9191314a5d58f4c9f033bdacc0b2e4b66fee54b8e6f91c3338e83b75bfc8b0",
+      "output_sha256": "8e084dc6df3a7f8af8042072a967f8be7c6e42c5c2fc0989c86d890b56341a03",
       "size": [
         1080,
         1350
@@ -195,7 +205,8 @@
       "alt": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
       "activity_source": "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
       "file": "07.jpg",
-      "source_sha256": "b3c7ce549b707c2fb4e57e25d78091e1059d98bab71d36275bcf9e2a1aab7325",
+      "source_sha256": "84fc72c215ded98a0e17319ab1355bb01d16a3c62aa5472edd900744ed9a6b6e",
+      "output_sha256": "ea2f3bc2705b636e4824bf1a8e399e5c8709e9ac016c4dfd17522d4ed8ac0481",
       "size": [
         1080,
         1350
