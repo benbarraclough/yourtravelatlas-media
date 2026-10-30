@@ -27,7 +27,7 @@ Always re-fetch Metricool and current review records before acting; this table i
 | French Riviera, internal carousel 003 | Owner-approved v6 discovery | 4 November 12:00; UUID -4032844728941590495. |
 | Japan beyond the big cities, internal carousel 004 | Internally approved v6 discovery | 9 November 19:00; UUID -1638283085571405156. |
 | Istanbul, internal Reel 003 | Previously owner-approved and scheduled; replacement requested | 5 November 09:00; UUID 5053010952195819165. Keep until a replacement passes review and receives owner approval. |
-| Seljalandsfoss, internal Reel 004 | Owner feedback: requires improvement; NOT approved | Four-shot16-second preview is not the future standard. Rework for richer substance and at least five strong clips; no scheduling approval inferred. |
+| Seljalandsfoss, internal Reel 004 | Owner feedback: requires improvement; NOT approved | New five-shot, 23-second v7 draft prepared 30 October. Full playback/listening and owner approval remain open; no scheduling approval inferred. |
 
 All schedule times use Europe/London. Existing approved artwork, including legacy public numbers, is preserved until intentionally revised and re-reviewed. New Discovery carousels have no public issue number. Internal IDs remain unique and stable; public Collection numbers are a separate sequence. Derive the next internal ID from current history, not a hardcoded instruction.
 

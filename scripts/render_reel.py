@@ -259,7 +259,7 @@ def main(postfile):
             run("ffmpeg","-hide_banner","-loglevel","error","-y",
                 "-ss",clip.get("start",0),"-i",src,"-t",str(seconds),
                 "-vf",",".join(filters),"-an","-r",str(FPS),
-                "-c:v","libx264","-preset","veryfast","-crf","24",
+                "-c:v","libx264","-threads","2","-preset","veryfast","-crf","24",
                 "-pix_fmt","yuv420p","-movflags","+faststart",
                 str(piece))
             pieces.append(piece)
@@ -268,7 +268,8 @@ def main(postfile):
                 "license":clip["license"],"description":clip["description"],
                 "activity_source":clip["activity_source"],"overlay":clip["overlay"],
                 "clip_seconds":round(seconds,2),"start":float(clip.get("start",0)),
-                "crop_x":float(clip.get("crop_x",0.5)),"location_evidence":clip.get("location_evidence"),**meta,
+                "crop_x":float(clip.get("crop_x",0.5)),"location_evidence":clip.get("location_evidence"),
+                "reader_value":clip.get("reader_value"),"distinct_contribution":clip.get("distinct_contribution"),**meta,
             })
             print(f"  {i+1}/{len(clips)} {clip['description']} ({seconds:.2f}s)",flush=True)
         concat=temp/"files.txt"
@@ -315,6 +316,9 @@ def main(postfile):
         manifest={
             "reel_number":brief["reel_number"],"slug":brief["slug"],"destination":brief["destination"],
             "hook":brief["hook"],"status":"rendered-not-published",
+            "editorial_version":brief.get("editorial_version",0),
+            "brief_sha256":hashlib.sha256(postfile.read_bytes()).hexdigest(),
+            "video_sha256":hashlib.sha256(final.read_bytes()).hexdigest(),
             "treatment":brief.get("treatment","legacy"),
             "shot_count_exception":brief.get("shot_count_exception"),
             "editorial_intent":brief["editorial_intent"],"share_reason":brief["share_reason"],
@@ -359,6 +363,6 @@ if __name__=="__main__":
             print(f"PRESERVE APPROVED SCHEDULED REEL: {p.name}",flush=True)
             continue
         if brief.get("editorial_status") in ("rejected", "revision_required"):
-            print(f"SKIP EDITORIALLY REJECTED REEL: {p.name}",flush=True)
+            print(f"SKIP {brief['editorial_status'].upper()} REEL: {p.name}",flush=True)
             continue
         main(p)

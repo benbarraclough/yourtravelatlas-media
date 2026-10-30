@@ -219,17 +219,19 @@ def draw_discovery(source, post, item, index, count):
         if len(visible_words(item)) > 30:
             raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
         bodyface=font(34,REGULAR); titleface=font(56,SERIF)
-        rows=lines_to_fit(d,item["body"],bodyface,936,4)
+        body = " ".join(x for x in (item["body"], item.get("detail", "")) if x) if post.get("editorial_version", 0) >= 7 else item["body"]
+        rows=lines_to_fit(d,body,bodyface,936,4)
         titles=lines_to_fit(d,item["heading"],titleface,936,2)
         a,b=bodyface.getmetrics(); ta,tb=titleface.getmetrics()
-        note=" · ".join(item.get(k,"") for k in ("date_label","photo_note") if item.get(k))
+        labels = ("kicker", "date_label", "photo_note") if post.get("editorial_version", 0) >= 7 else ("date_label", "photo_note")
+        note=" · ".join(item.get(k,"") for k in labels if item.get(k))
         block=len(rows)*(a+b+7)+len(titles)*(ta+tb+5)+17+(38 if note else 0)
         y=1210-block
         if y < 830: raise ValueError("Supporting copy obscures too much of the photograph")
         if note:
             y=editorial_text(d,note,(72,y),font(20),936,cream,1,4)+10
         y=editorial_text(d,item["heading"],(72,y),titleface,936,cream,2,5)+17
-        y=editorial_text(d,item["body"],(72,y),bodyface,936,cream,4,7)
+        y=editorial_text(d,body,(72,y),bodyface,936,cream,4,7)
         if y > 1220: raise ValueError("Discovery copy overlaps brand mark")
     d.text((72,1270),"@yourtravelatlas",font=font(20,REGULAR),fill=cream)
     issue="" if post.get("editorial_version", 0) >= 7 else f"ISSUE {post['issue']:03d}"

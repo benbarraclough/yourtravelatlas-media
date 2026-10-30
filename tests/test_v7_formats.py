@@ -52,6 +52,8 @@ class FormatChecks(unittest.TestCase):
 class ReelChecks(unittest.TestCase):
     def test_four_shot_exception_fails(self):
         brief=json.loads((ROOT/'content/reels/004-behind-the-waterfall.json').read_text())
+        brief['clips']=brief['clips'][:4]
+        brief['shot_count_exception']='Historical exception must not permit four shots'
         with self.assertRaisesRegex(ValueError,'5-8'):reel.validate_shots(brief)
     def test_repeated_download_does_not_count_as_new_shot(self):
         brief={'clips':[{'page_url':str(i),'download_url':'same'} for i in range(5)]}

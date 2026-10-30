@@ -46,3 +46,20 @@ GitHub Actions runs 40905184656 and 40905385494 both completed successfully. Rev
 ## Subsequent owner feedback — v7 revision required
 
 29 October2026: owner described the preview as “not bad” but too specific/short with minimal information and said it could definitely be improved. This is NOT scheduling approval. The new three-format framework requires more informative, refined Reels and restores the previously requested minimum of five strong distinct shots. The four-shot exception above is historical and superseded for editorial approval. Rework the concept/beat sheet and useful specifics; do not pad with a token fifth shot. Re-review actual moving video, audio and caption and obtain owner approval before replacing Istanbul. Public Collection-only numbering was separately confirmed; Reels stay unnumbered.
+
+## 30 October: v7 five-shot revision — DRAFT, NOT APPROVED
+
+The 23-second local preview replaces the four-shot draft for review only. It has five distinct sources: behind-water hook, aerial scale/geography, named front view, close cascade/spray, and people on the walking path. All five carry contextual overlays. The caption adds practical preparation, access conditions, and a nearby Gljúfrabúi map pin.
+
+Options reconsidered: improve the single experience; expand to the nearby pair of waterfalls; make a South Coast collection. The single-experience revision uses verified available footage; the other concepts require additional location-matched footage. No claim is made that this is a fresh competitor-performance audit.
+
+Rechecked 30 October: Visit South Iceland's Seljalandsfoss page supports height, Ring Road access, behind-water path, nearby Gljúfrabúi and winter closures. Pexels source 4941711 explicitly identifies Seljalandsfoss and Jarod Barton. Pexels licence permits edited social use. The fifth clip is a close cascade/rock perspective chosen to explain spray, not a duplicate download.
+
+Sources:
+- https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall
+- https://www.pexels.com/video/beautiful-waterfalls-4941711/
+- https://www.pexels.com/license/
+
+Technical checks: local final decodes completely without FFmpeg errors; 1080×1920, 23 seconds, five source files. Master audio measured mean -17.2 dB, peak -1.8 dB; these measurements do NOT prove pleasant music, good pacing or subjective audibility. Midpoint storyboard inspected for all five shots and readable overlays. Local preview SHA-256: 9e1ebb293d970226ca6afba603ae76f79c3dfb147e5021ddc94bf46b48dec5a0.
+
+**Open gates:** complete moving-video playback and actual listening were unavailable in this session; frame inspection is not their substitute. Weakest element remains variety: all five shots are one waterfall, although each has a separate purpose. Owner must judge whether this now supplies enough substance. Production export can differ from the local preview; review and pin the exact final media before scheduling. No scheduling or deletion authorised by this review. Istanbul remains intact until these gates and explicit owner approval are satisfied.
