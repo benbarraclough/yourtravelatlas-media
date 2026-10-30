@@ -6,9 +6,6 @@ Fails closed on missing or invalid real video inputs.
 import hashlib
 import json
 import os
-import array
-import math
-import wave
 from pathlib import Path
 import re
 import shutil
@@ -94,69 +91,6 @@ def wrap_text(message, max_width=865, fontsize=57, max_lines=2, face_path=FONT_S
     if len(lines)>max_lines:raise ValueError(f"Overlay too long at mobile size: {message}")
     return "\n".join(lines)
 
-def compose_original_upbeat(destination, seconds):
-    """Compose an ORIGINAL, cheerful 112-BPM travel instrumental in C major.
-
-    Entirely synthesized: lightly plucked guitar-like notes, a tuneful lead,
-    warm bass and soft percussion. No samples, borrowed tunes or audio APIs.
-    """
-    rate = 32000
-    bpm = 112
-    beat = 60.0 / bpm
-    chords = [
-        (261.63, 329.63, 392.00, 493.88),  # Cmaj7
-        (349.23, 440.00, 523.25, 659.25),  # Fmaj7
-        (392.00, 493.88, 587.33, 783.99),  # Gadd
-        (261.63, 329.63, 392.00, 587.33),  # Cadd9
-    ]
-    bass_notes = (130.81, 174.61, 196.00, 130.81)
-    lead_notes = (659.25, 783.99, 880.00, 783.99, 659.25, 587.33, 523.25, 659.25,
-                  698.46, 880.00, 783.99, 698.46, 659.25, 587.33, 523.25, 587.33)
-    audio = array.array("h")
-    for n in range(int(seconds*rate)):
-        t = n/rate
-        bar = int(t/(beat*4))
-        chord_index = bar % 4
-        chord = chords[chord_index]
-        eighth = beat/2
-        eighth_index = int(t/eighth)
-        eighth_phase = (t % eighth)/eighth
-        # A bouncy finger-picked pulse instead of the old long, sombre pad.
-        pluck_note = chord[(0,2,1,3,2,1,3,1)[eighth_index % 8]]
-        pluck_env = (1-math.exp(-40*eighth_phase))*math.exp(-4.1*eighth_phase)
-        pluck = (math.sin(2*math.pi*pluck_note*t) +
-                 0.22*math.sin(2*math.pi*2*pluck_note*t) +
-                 0.08*math.sin(2*math.pi*3*pluck_note*t))*pluck_env*0.13
-        # A bright but restrained, original four-bar melodic motif.
-        lead_index = int(t/beat) % len(lead_notes)
-        lead_phase = (t%beat)/beat
-        freq = lead_notes[lead_index]
-        lead_env = (1-math.exp(-30*lead_phase))*math.exp(-4.5*lead_phase)
-        lead = (math.sin(2*math.pi*freq*t)+0.15*math.sin(2*math.pi*2*freq*t))*lead_env*0.067
-        # Warm rhythmic bass and restrained soft percussion.
-        beat_phase = t % beat
-        bass = math.sin(2*math.pi*bass_notes[chord_index]*t)*math.exp(-3.0*beat_phase/beat)*0.085
-        bass += 0.018*math.sin(2*math.pi*bass_notes[chord_index]*2*t)
-        kick = 0.0
-        if int(t/beat)%4 in (0,2) and beat_phase<0.18:
-            kick = math.sin(2*math.pi*(74-35*beat_phase)*beat_phase)*math.exp(-28*beat_phase)*0.09
-        # Deterministic high frequency noise is synthesized, not sampled.
-        shimmer = (math.sin(2*math.pi*5033*t)*math.sin(2*math.pi*3167*t))
-        hat = 0.022*shimmer*math.exp(-55*(t % eighth))
-        clap_phase = (t % beat)
-        clap = 0.0
-        if int(t/beat)%4 in (1,3) and clap_phase<0.095:
-            clap = 0.035*shimmer*math.exp(-30*clap_phase)
-        # Fade in/out naturally so the clip loops with no sudden click.
-        fade = min(1.0, t/0.24, max(0.0,(seconds-t)/0.6))
-        value = (pluck+lead+bass+kick+hat+clap)*fade
-        audio.append(int(max(-0.96,min(0.96,value))*32767))
-    with wave.open(str(destination),"wb") as wav:
-        wav.setnchannels(1)
-        wav.setsampwidth(2)
-        wav.setframerate(rate)
-        wav.writeframes(audio.tobytes())
-
 def text_file(tmp_dir,name,value):
     filename=tmp_dir/(name+".txt")
     filename.write_text(value,encoding="utf-8")
@@ -230,7 +164,7 @@ def main(postfile):
             meta=download(clip,src)
             seconds=min(float(clip.get("seconds",3.4)),meta["duration"]-0.3)
             if seconds<2.5 or seconds>6:raise ValueError("Clip segment duration out of bounds")
-            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=64 if discovery else 57,face_path=FONT_SERIF))
+            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=48 if discovery else 57,face_path=FONT_SERIF))
             destination=text_file(temp,f"destination{i}",wrap_text(brief["destination"].split(",")[0].upper(),max_width=900,fontsize=74,face_path=FONT_SERIF))
             brand=text_file(temp,f"brand{i}","YOUR TRAVEL ATLAS")
             
@@ -246,7 +180,7 @@ def main(postfile):
                 filters.append(textfilter(brand,27,170,font=FONT_REG))
                 if clip["overlay"]:
                     filters.extend([
-                        textfilter(txt,64,1405,font=FONT_SERIF),
+                        *[textfilter(text_file(temp,f"line{i}_{j}",line),48,1280+j*62,font=FONT_SERIF,center=True) for j,line in enumerate(txt.read_text().splitlines())],
                     ])
             else:
                 filters.extend([

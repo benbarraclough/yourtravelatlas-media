@@ -181,5 +181,6 @@
   },
   "evergreen_policy": "No edition-specific events or claims. Winter imagery labelled through caption; JNTO winter monkey bathing guidance is seasonal, not a guarantee.",
   "editorial_verdict": "PASS: v6 discovery-first; all six actual full-size JPEGs and mobile contact sheet inspected after two weak photo replacements; no routine owner approval required under 29 Oct calibration.",
-  "final_visual_review_on": "2026-10-29"
+  "final_visual_review_on": "2026-10-29",
+  "public_numbers": false
 }

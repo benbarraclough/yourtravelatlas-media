@@ -1,10 +1,14 @@
+<!-- Owner update 30 October 2026: supersedes earlier public-numbering rules. -->
+
+**Current owner direction:** remove public issue numbers from ALL formats. Keep internal IDs for tracking/removal only. Destination guides must include the essential sights and signature experiences before optional discoveries; record covered and omitted essentials with reasons. Rail/road/activity concepts must visibly show the train/road/activity in at least one meaningful image. Preserve the successful Japan editorial direction. Iceland discovery Reel text: smaller, horizontally centred, in the lower middle of the frame (48px at 1080-wide; first line y=1280), with no footage/content changes. Retire Protofunk as the default: research contemporary travel-page audio and verify a lawful publishing route before using a replacement.
+
 # Your Travel Atlas — Editorial Playbook v7
 
 Owner-directed consolidation, 29 October 2026. The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.
 
 ## Three permanent editorial formats
 
-1. **Travel Discovery Collection:** formal, Faroe-style photographic destination guides. Help the reader know what to do, what not to miss and how the outings fit a plausible trip. Retain formal masthead/rules/destination hierarchy/serif identity. Public Collection issue numbers only. Faroe is Collection 001's visual reference; do not modify the published asset.
+1. **Travel Discovery Collection:** formal, Faroe-style photographic destination guides. Help the reader know what to do, what not to miss and how the outings fit a plausible trip. Retain formal masthead/rules/destination hierarchy/serif identity. Internal Collection tracking IDs only. Faroe is Collection 001's visual reference; do not modify the published asset.
 2. **Discovery carousels:** gripping honest hooks, exceptional images and concise specific descriptions, inspired by hospitality.guide's readability. Lists, facts, routes, animals, parks, villages, film locations and occasional weekend ideas. No public issue number on new editions. Full practical itineraries are not mandatory.
 3. **Travel Reels:** authentic video with a strong visual hook, coherent progression, useful information and positive fitting audio. Minimum five genuinely different purposeful shots, normally 5–8. A short scenery montage with a title and CTA fails. No public issue or clip counter. The four-shot Iceland experiment does not override the earlier five-clip requirement.
 

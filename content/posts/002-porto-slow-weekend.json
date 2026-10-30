@@ -9,7 +9,7 @@
   "editorial_intent": "Inspire a relaxed Porto weekend through distinct market, tile-hall, riverside and Atlantic experiences, with concise scene-specific descriptions and practical caption pins.",
   "share_reason": "Send a friend a weekend idea that combines an extraordinary tiled station, a riverside sunset and an Atlantic tram outing, with exact places to save.",
   "reader_scenario": "Two friends or a couple choose a single Porto base for a weekend; Foz is an optional longer outing, not another mandatory stop.",
-  "editorial_verdict": "Candidate for owner calibration: remake of rejected brochure-heavy v5; not approved for scheduling.",
+  "editorial_verdict": "Owner requests broader destination coverage; expanded caption draft, new essential-experience photographs still required before renewed approval.",
   "fact_sources": [
     "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
     "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
@@ -20,9 +20,11 @@
     "https://www.museudocarroelectrico.pt/visitar/",
     "https://stcp.pt/pt/horarios-de-verao-linhas-1-18-500",
     "https://www.visitportugal.com/en/node/155969",
-    "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao"
+    "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao",
+    "https://www.torredosclerigos.pt/en/",
+    "https://www.taylor.pt/en/visit-taylors/port-cellars"
   ],
-  "caption": "A station worth entering without a ticket. A bridge worth crossing for the evening. A tram that takes you towards the Atlantic. This is a weekend in Porto. 🇵🇹\n\n📍 Ribeira — cover\nColourful houses, riverside terraces and traditional boats on the Douro. Make this your lunch stop after walking down through the old town.\n\n📍 Mercado do Bolhão — slide 2\nStart Saturday with coffee and a browse through the produce stalls. The market is closed on Sundays, so save the coast for day two.\n\n📍 São Bento station — slide 3\nJorge Colaço’s blue-and-white panels turn the entrance hall into a story of Portuguese history. Continue along Rua das Flores towards Ribeira afterwards.\n\n📍 Luís I Bridge → Jardim do Morro — slide 4\nTake the upper deck across to Gaia for Porto’s skyline in the changing evening light. The upper crossing is also used by the metro.\n\n📍 Passeio Alegre → Foz do Douro — slide 5\nHistoric tram 1 links Infante with Passeio Alegre. From the garden, continue to the Atlantic promenade and Felgueiras lighthouse. Check the current tram service before setting off.\n\nThe simple split: Saturday for the market, old town and river; Sunday for the coast. Leave space between stops—Porto is hilly.\n\nOne date to save for another visit: the night of 23 June, when São João brings street celebrations and the toy-hammer greeting tradition. Check the next official programme before booking around a particular show.\n\nWho’s your Porto weekend person?\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n\n#YourTravelAtlas #Porto #PortugalTravel #WeekendAway",
+  "caption": "Porto deserves more than a riverside photo. Come for the tiled station and steep old streets; stay for the cellar stories, market lunches and sunset across the Douro. 🇵🇹\n\n📍 Ribeira — cover\nWalk the waterfront below the colourful houses, then climb through the old-town lanes. Pair it with the Luís I Bridge rather than making a separate cross-city trip.\n\n📍 Mercado do Bolhão — slide 2\nStart Saturday with coffee and the produce stalls. The market closes on Sundays.\n\n📍 São Bento — slide 3\nStep into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even without a train to catch. Continue towards Rua das Flores and the riverside.\n\n📍 Luís I Bridge → Jardim do Morro — slide 4\nCross the upper deck towards Gaia for Porto’s skyline in the evening light. Share the crossing carefully with the metro.\n\n📍 Clérigos Tower — add to your old-town walk\nClimb for a different view across the rooftops. Combine the area with nearby Livraria Lello if its ornate bookshop interior interests you; check current ticket and entry arrangements first.\n\n📍 Vila Nova de Gaia — port-wine cellars\nBook a cellar visit and tasting to understand the region’s signature fortified wine. Taylor’s is one option; plan the visit before your Jardim do Morro sunset.\n\n📍 Foz do Douro — slide 5, optional coast outing\nHead to Passeio Alegre and follow the Atlantic promenade towards Felgueiras lighthouse. Check the current historic-tram service before relying on it.\n\nSaturday: market, Clérigos area, São Bento and Ribeira. Sunday: Gaia and a cellar visit; choose Foz as an extra outing if time allows. Leave room for a long lunch—Porto’s hills make rushed checklists hard work.\n\nIn June, the night of 23 June brings São João street celebrations; check the annual programme.\n\nSave this for your first Porto weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n#YourTravelAtlas #Porto #PortugalTravel",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1748792461789-e94a91541532?auto=format&fit=crop&w=2000&q=88",
@@ -166,7 +168,7 @@
   "editorial_version": 6,
   "format": "weekend-discovery",
   "slide_count_rationale": "Six pages: clear Ribeira cover, four distinct city-to-coast experiences and the scenic follow card. Removed the dense itinerary page; the caption carries the weekend sequence.",
-  "editorial_status": "awaiting_owner_approval",
+  "editorial_status": "revision_required",
   "reviewed_sources_on": "2026-10-29",
   "caption_review": {
     "hook_candidates": [
@@ -176,5 +178,6 @@
     "chosen_hook": "Second: introduces three concrete reasons to swipe without hiding the destination.",
     "save_value": "Caption pins match cover and supporting slides; weekend split, Sunday closure, tram endpoints and recurring festival date are easy to retrieve.",
     "verdict": "Awaiting owner approval of this exact new edition."
-  }
+  },
+  "public_numbers": false
 }

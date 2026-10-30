@@ -213,5 +213,6 @@
     "save_value": "Pinned towns and scenes, direction from Nice, recurring festival month, museum closure and named food stop; useful beyond one calendar year.",
     "verdict": "Awaiting owner approval of this exact new edition."
   },
-  "evergreen_policy": "Month-led recurring inspiration; no specific upcoming edition dates in published copy. Reverify recurrence, closures and service recommendations before reuse."
+  "evergreen_policy": "Month-led recurring inspiration; no specific upcoming edition dates in published copy. Reverify recurrence, closures and service recommendations before reuse.",
+  "public_numbers": false
 }

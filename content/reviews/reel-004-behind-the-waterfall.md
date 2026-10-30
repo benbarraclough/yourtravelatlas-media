@@ -63,3 +63,7 @@ Sources:
 Technical checks: local final decodes completely without FFmpeg errors; 1080×1920, 23 seconds, five source files. Master audio measured mean -17.2 dB, peak -1.8 dB; these measurements do NOT prove pleasant music, good pacing or subjective audibility. Midpoint storyboard inspected for all five shots and readable overlays. Local preview SHA-256: 9e1ebb293d970226ca6afba603ae76f79c3dfb147e5021ddc94bf46b48dec5a0.
 
 **Open gates:** complete moving-video playback and actual listening were unavailable in this session; frame inspection is not their substitute. Weakest element remains variety: all five shots are one waterfall, although each has a separate purpose. Owner must judge whether this now supplies enough substance. Production export can differ from the local preview; review and pin the exact final media before scheduling. No scheduling or deletion authorised by this review. Istanbul remains intact until these gates and explicit owner approval are satisfied.
+
+
+## 30 October owner feedback and typography revision
+Owner explicitly praised the five-shot Iceland video content and requested only smaller text, horizontally centred in the lower middle of the frame. Discovery overlays changed from 64px left-aligned at y1405 to 48px, each line individually centred, starting y1280 with 62px line spacing. Footage, order, duration, caption and existing soundtrack remain unchanged. Await review of the exact new export; do not infer scheduling approval.

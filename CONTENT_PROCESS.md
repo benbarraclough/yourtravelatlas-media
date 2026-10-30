@@ -1,3 +1,7 @@
+<!-- Owner update 30 October 2026: supersedes earlier public-numbering rules. -->
+
+**Current owner direction:** remove public issue numbers from ALL formats. Keep internal IDs for tracking/removal only. Destination guides must include the essential sights and signature experiences before optional discoveries; record covered and omitted essentials with reasons. Rail/road/activity concepts must visibly show the train/road/activity in at least one meaningful image. Preserve the successful Japan editorial direction. Iceland discovery Reel text: smaller, horizontally centred, in the lower middle of the frame (48px at 1080-wide; first line y=1280), with no footage/content changes. Retire Protofunk as the default: research contemporary travel-page audio and verify a lawful publishing route before using a replacement.
+
 # Your Travel Atlas — three-format creation process
 
 Version 7 · 29 October 2026 · Owner-directed framework

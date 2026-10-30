@@ -1,0 +1,33 @@
+{
+  "reason": "Owner-requested cleanup of rejected/superseded pilots; active queued assets and source ledgers preserved; deleted files recoverable in prior Git commits.",
+  "removed": [
+    "media/002-namibia/06.jpg",
+    "media/002-namibia/03.jpg",
+    "media/002-namibia/05.jpg",
+    "media/002-namibia/01.jpg",
+    "media/002-namibia/02.jpg",
+    "media/002-namibia/manifest.json",
+    "media/002-namibia/04.jpg",
+    "media/003-dolomites/06.jpg",
+    "media/003-dolomites/03.jpg",
+    "media/003-dolomites/05.jpg",
+    "media/003-dolomites/01.jpg",
+    "media/003-dolomites/02.jpg",
+    "media/003-dolomites/manifest.json",
+    "media/003-dolomites/04.jpg",
+    "media/reels/001-lisbon-weekend/reel.mp4",
+    "media/reels/001-lisbon-weekend/manifest.json",
+    "media/reels/001-lisbon-weekend/cover.jpg",
+    "media/reels/001-lisbon-weekend/storyboard.jpg",
+    "media/reels/002-cinque-terre-by-train/reel.mp4",
+    "media/reels/002-cinque-terre-by-train/manifest.json",
+    "media/reels/002-cinque-terre-by-train/cover.jpg",
+    "media/reels/002-cinque-terre-by-train/storyboard.jpg",
+    "media/reels/004-lisbon-weekend/reel.mp4",
+    "media/reels/004-lisbon-weekend/manifest.json",
+    "media/reels/004-lisbon-weekend/cover.jpg",
+    "media/reels/004-lisbon-weekend/storyboard.jpg",
+    "content/reels/001-lisbon-weekend.json",
+    "content/reels/002-cinque-terre-by-train.json"
+  ]
+}

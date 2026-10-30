@@ -1,8 +1,12 @@
+<!-- Owner update 30 October 2026: supersedes earlier public-numbering rules. -->
+
+**Current owner direction:** remove public issue numbers from ALL formats. Keep internal IDs for tracking/removal only. Destination guides must include the essential sights and signature experiences before optional discoveries; record covered and omitted essentials with reasons. Rail/road/activity concepts must visibly show the train/road/activity in at least one meaningful image. Preserve the successful Japan editorial direction. Iceland discovery Reel text: smaller, horizontally centred, in the lower middle of the frame (48px at 1080-wide; first line y=1280), with no footage/content changes. Retire Protofunk as the default: research contemporary travel-page audio and verify a lawful publishing route before using a replacement.
+
 # Your Travel Atlas — media and editorial workflow
 
 **Start here:** [Three-format creation process and flowcharts](CONTENT_PROCESS.md).
 
-Read [Editorial Guidelines v7](EDITORIAL_GUIDELINES.md), [mandatory approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md) on every production run. The three formats coexist: formal **Travel Discovery Collection** destination guides, attention-grabbing **Discovery carousels**, and informative authentic-video **Travel Reels**. Only the Collection has public issue numbering on new editions.
+Read [Editorial Guidelines v7](EDITORIAL_GUIDELINES.md), [mandatory approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md) on every production run. The three formats coexist: formal **Travel Discovery Collection** destination guides, attention-grabbing **Discovery carousels**, and informative authentic-video **Travel Reels**. No format displays a public issue number. Internal IDs remain for tracking and deletion.
 
 £0 additional cost. GitHub Actions renders assets; ChatGPT researches/reviews and Metricool schedules. This public repository contains no Instagram credentials and does not publish directly. The recurring task reads current policy rather than relying on chat memory.
 

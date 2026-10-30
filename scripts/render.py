@@ -234,7 +234,7 @@ def draw_discovery(source, post, item, index, count):
         y=editorial_text(d,body,(72,y),bodyface,936,cream,4,7)
         if y > 1220: raise ValueError("Discovery copy overlaps brand mark")
     d.text((72,1270),"@yourtravelatlas",font=font(20,REGULAR),fill=cream)
-    issue="" if post.get("editorial_version", 0) >= 7 else f"ISSUE {post['issue']:03d}"
+    issue="" if post.get("editorial_version", 0) >= 7 or post.get("public_numbers") is False else f"ISSUE {post['issue']:03d}"
     width=d.textbbox((0,0),issue,font=font(17,REGULAR))[2]
     d.text((1008-width,1273),issue,font=font(17,REGULAR),fill=cream)
     if item.get("credit_line"):
@@ -250,7 +250,7 @@ def draw_collection(source, post, item, index, count):
     d = ImageDraw.Draw(canvas)
     d.text((72, 62), "YOUR TRAVEL ATLAS", font=font(30), fill=cream)
     d.line((72, 117, 1008, 117), fill=cream, width=2)
-    d.text((72, 145), f"TRAVEL DISCOVERY COLLECTION  /  {post['collection_number']:03d}", font=font(20, REGULAR), fill=cream)
+    d.text((72, 145), "TRAVEL DISCOVERY COLLECTION", font=font(20, REGULAR), fill=cream)
     d.text((905, 145), f"{index+1:02d}/{count:02d}", font=font(22), fill=cream)
     if index == 0:
         title = post["headline"].upper()
@@ -297,12 +297,6 @@ def validate_editorial(post):
     if post.get("editorial_version", 0) >= 7:
         if post.get("content_type") not in ("collection", "discovery"):
             raise ValueError("V7 requires explicit collection or discovery content_type")
-        if post["content_type"] == "collection":
-            number = post.get("collection_number")
-            if type(number) is not int or number < 2:
-                raise ValueError("New Collection requires collection_number >= 2; 001 is frozen")
-        elif "collection_number" in post:
-            raise ValueError("Discovery cannot carry a public collection_number")
         if any(s.get("layout") not in ("cover", "photo", "cta") for s in post["slides"]):
             raise ValueError("V7 uses cover, photo and cta layouts; dense itinerary panels are unsupported")
     if post.get("editorial_version", 0) < 6:
@@ -506,7 +500,7 @@ def main():
             used_images[src] = path
     for path in files:
         brief = json.loads(path.read_text(encoding="utf-8"))
-        if len(sys.argv) == 1 and brief.get("editorial_version", 0) < 7:
+        if len(sys.argv) == 1 and brief.get("editorial_version", 0) < 7 and brief.get("public_numbers") is not False:
             print(f"PRESERVE LEGACY CAROUSEL: {path.name}")
             continue
         build(path)

@@ -37,10 +37,10 @@ class FormatChecks(unittest.TestCase):
                 render.draw_slide(self.photo,post,post['slides'][0],0,len(post['slides']))
             joined=' '.join(words)
             self.assertNotIn('WANDER FURTHER',joined)
-            self.assertEqual('COLLECTION  /  002' in joined,kind=='collection')
+            self.assertNotIn('COLLECTION  /  002',joined)
             self.assertNotIn('ISSUE',joined)
     def test_bad_format_or_number_rejected(self):
-        for updates in ({'content_type':'unknown'}, {'content_type':'collection'}, {'content_type':'collection','collection_number':1}, {'collection_number':2}):
+        for updates in ({'content_type':'unknown'}, {'content_type':None}):
             post=copy.deepcopy(self.post);post.update(updates)
             with self.assertRaises(ValueError):render.validate_editorial(post)
     def test_legacy_routing_remains_discovery(self):
