@@ -232,7 +232,7 @@ def draw_discovery(source, post, item, index, count):
         y=editorial_text(d,item["body"],(72,y),bodyface,936,cream,4,7)
         if y > 1220: raise ValueError("Discovery copy overlaps brand mark")
     d.text((72,1270),"@yourtravelatlas",font=font(20,REGULAR),fill=cream)
-    issue=f"ISSUE {post['issue']:03d}"
+    issue="" if post.get("editorial_version", 0) >= 7 else f"ISSUE {post['issue']:03d}"
     width=d.textbbox((0,0),issue,font=font(17,REGULAR))[2]
     d.text((1008-width,1273),issue,font=font(17,REGULAR),fill=cream)
     if item.get("credit_line"):
@@ -240,7 +240,69 @@ def draw_discovery(source, post, item, index, count):
     return canvas
 
 
+def draw_collection(source, post, item, index, count):
+    """Formal photograph-led destination collection; independent public numbering."""
+    cream = (252, 248, 235, 255)
+    focus = tuple(float(item.get(k, .5)) for k in ("focus_x", "focus_y"))
+    canvas = gradient_overlay(ImageOps.fit(source, SIZE, method=Image.Resampling.LANCZOS, centering=focus))
+    d = ImageDraw.Draw(canvas)
+    d.text((72, 62), "YOUR TRAVEL ATLAS", font=font(30), fill=cream)
+    d.line((72, 117, 1008, 117), fill=cream, width=2)
+    d.text((72, 145), f"TRAVEL DISCOVERY COLLECTION  /  {post['collection_number']:03d}", font=font(20, REGULAR), fill=cream)
+    d.text((905, 145), f"{index+1:02d}/{count:02d}", font=font(22), fill=cream)
+    if index == 0:
+        title = post["headline"].upper()
+        face = font(72, SERIF)
+        rows = lines_to_fit(d, title, face, 936, 3)
+        a, b = face.getmetrics()
+        y = 1190 - len(rows) * (a+b+8)
+        destination = post["category"].split("/")[0].strip().upper()
+        if y < 820:
+            raise ValueError("Collection hook obscures too much of the photograph")
+        editorial_text(d, destination, (72, y-85), font(40), 936, cream, 1)
+        editorial_text(d, title, (68, y), face, 936, cream, 3)
+    elif item.get("layout") == "cta":
+        y = editorial_text(d, "Fill your feed with wonder.", (72, 875), font(72, SERIF), 936, cream, 2)
+        y = editorial_text(d, "Follow @yourtravelatlas for beautiful places and the details that turn them into real plans.", (72, y+24), font(30, REGULAR), 936, cream, 3)
+        if y > 1250:
+            raise ValueError("Collection closing card overlaps footer")
+    else:
+        if len(visible_words(item)) > 30:
+            raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
+        heading, body = item["heading"].upper(), item["body"]
+        labels = " · ".join(item.get(k, "") for k in ("kicker", "date_label", "photo_note") if item.get(k))
+        body = " ".join(x for x in (body, item.get("detail", "")) if x)
+        hf, bf = font(58, SERIF), font(32, REGULAR)
+        hr, br = lines_to_fit(d, heading, hf, 936, 2), lines_to_fit(d, body, bf, 936, 4)
+        ha, hb = hf.getmetrics(); ba, bb = bf.getmetrics()
+        y = 1220 - len(hr)*(ha+hb+8) - len(br)*(ba+bb+8) - 20 - (45 if labels else 0)
+        if y < 800:
+            raise ValueError("Collection copy obscures too much of the photograph")
+        if labels:
+            y = editorial_text(d, labels.upper(), (72, y), font(22), 936, cream, 1)+12
+        y = editorial_text(d, heading, (68, y), hf, 936, cream, 2)+20
+        y = editorial_text(d, body, (72, y), bf, 936, cream, 4)
+        if y > 1221:
+            raise ValueError("Collection copy overlaps footer")
+    if item.get("credit_line"):
+        editorial_text(d, item["credit_line"], (72, 1245), font(16, REGULAR), 936, cream, 1)
+    d.line((72, 1276, 1008, 1276), fill=cream, width=2)
+    d.text((72, 1293), "@YOURTRAVELATLAS", font=font(17), fill=cream)
+    return canvas.convert("RGB")
+
+
 def validate_editorial(post):
+    if post.get("editorial_version", 0) >= 7:
+        if post.get("content_type") not in ("collection", "discovery"):
+            raise ValueError("V7 requires explicit collection or discovery content_type")
+        if post["content_type"] == "collection":
+            number = post.get("collection_number")
+            if type(number) is not int or number < 2:
+                raise ValueError("New Collection requires collection_number >= 2; 001 is frozen")
+        elif "collection_number" in post:
+            raise ValueError("Discovery cannot carry a public collection_number")
+        if any(s.get("layout") not in ("cover", "photo", "cta") for s in post["slides"]):
+            raise ValueError("V7 uses cover, photo and cta layouts; dense itinerary panels are unsupported")
     if post.get("editorial_version", 0) < 6:
         if post.get("issue") == 1:
             return  # Preserve the already published, frozen launch issue.
@@ -271,6 +333,11 @@ def validate_editorial(post):
 
 
 def draw_slide(source, post, item, index, count):
+    if post.get("editorial_version", 0) >= 7:
+        if post.get("content_type") == "collection":
+            return draw_collection(source, post, item, index, count)
+        if post.get("content_type") != "discovery":
+            raise ValueError("V7 requires explicit collection or discovery content_type")
     if post.get("editorial_version", 0) >= 6:
         return draw_discovery(source, post, item, index, count)
     if post.get("editorial_version", 0) >= 5 and index > 0:
@@ -389,13 +456,17 @@ def build(path):
         filename = f"{i+1:02d}.jpg"
         slide.save(out / filename, "JPEG", quality=91, optimize=True, subsampling=0)
         evidence.append({k: item[k] for k in ("subject", "source_page", "photographer", "license", "alt", "activity_source")})
-        evidence[-1].update({"file": filename, "source_sha256": sha, "size": list(SIZE)})
+        evidence[-1].update({"file": filename, "source_sha256": sha, "output_sha256": hashlib.sha256((out / filename).read_bytes()).hexdigest(), "size": list(SIZE)})
         for key in ("layout", "body", "detail", "date_label", "event_status", "photo_note", "license_url", "credit_line", "changes", "review", "fact_checks"):
             if key in item:
                 evidence[-1][key] = item[key]
         print(f"  {filename} - {item['subject']}", flush=True)
     manifest = {
         "issue": post["issue"], "slug": post["slug"], "status": "rendered-not-published",
+        "editorial_version": post.get("editorial_version", 0),
+        "content_type": post.get("content_type", "legacy"),
+        "collection_number": post.get("collection_number"),
+        "brief_sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
         "caption": post["caption"], "fact_sources": post["fact_sources"],
         "editorial_intent": post["editorial_intent"], "share_reason": post["share_reason"],
         "slides": evidence,
@@ -414,8 +485,14 @@ def main():
     all_paths = sorted(INPUT.glob("*.json"))
     used_images = {}
     used_issues = {}
+    used_collections = {1: "published Faroe Islands"}
     for path in all_paths:
         post = json.loads(path.read_text(encoding="utf-8"))
+        if post.get("content_type") == "collection":
+            collection = post.get("collection_number")
+            if collection in used_collections:
+                raise ValueError(f"Collection number {collection} already used")
+            used_collections[collection] = path
         number = post.get("issue")
         if number in used_issues:
             raise ValueError(f"Issue {number} duplicated by {path} and {used_issues[number]}")
@@ -426,6 +503,10 @@ def main():
                 raise ValueError(f"Photo reused between issues: {path} and {used_images[src]}")
             used_images[src] = path
     for path in files:
+        brief = json.loads(path.read_text(encoding="utf-8"))
+        if len(sys.argv) == 1 and brief.get("editorial_version", 0) < 7:
+            print(f"PRESERVE LEGACY CAROUSEL: {path.name}")
+            continue
         build(path)
 
 

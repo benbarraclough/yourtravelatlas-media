@@ -167,6 +167,22 @@ def textfilter(path,size,y,color="white",font=FONT_BOLD,center=False):
     x="(w-text_w)/2" if center else "90"
     return f"drawtext=fontfile={font}:textfile={path}:fontsize={size}:fontcolor={color}:x={x}:y={y}:line_spacing=12:shadowcolor=black@0.65:shadowx=2:shadowy=3"
 
+def validate_shots(brief):
+    clips = brief["clips"]
+    if not 5 <= len(clips) <= 8:
+        raise ValueError("Reels require 5-8 distinct shots; no four-shot exceptions")
+    if len({x["page_url"] for x in clips}) != len(clips) or len({x["download_url"] for x in clips}) != len(clips):
+        raise ValueError("Duplicate footage cannot satisfy the shot minimum")
+    if len(brief.get("caption", "")) > 2200:
+        raise ValueError("Instagram caption exceeds 2200 characters")
+    if brief.get("editorial_version", 0) >= 7:
+        for clip in clips:
+            for field in ("location_evidence", "reader_value", "distinct_contribution"):
+                if len(clip.get(field, "").strip()) < 35:
+                    raise ValueError(f"V7 shot lacks substantive {field}")
+        if sum(bool(x.get("overlay", "").strip()) for x in clips) < 3:
+            raise ValueError("V7 video needs useful on-screen context beyond a hook and CTA")
+
 def main(postfile):
     brief=json.loads(postfile.read_text(encoding="utf-8"))
     required=("reel_number","slug","destination","hook","caption","editorial_intent","share_reason","clips","fact_sources")
@@ -175,8 +191,7 @@ def main(postfile):
     if not re.fullmatch(r"[0-9]{3}-[a-z0-9-]+",brief["slug"]):raise ValueError("Bad slug")
     clips=brief["clips"]
     discovery=brief.get("treatment")=="discovery_v1"
-    minimum=4 if discovery and brief.get("shot_count_exception") else 5
-    if len(clips)<minimum or len(clips)>8:raise ValueError("Reels require 5-8 shots, or 4 with a documented discovery exception")
+    validate_shots(brief)
     if len(set(x["page_url"] for x in clips))!=len(clips):raise ValueError("Duplicate footage")
     for clip in clips:
         for k in ("page_url","photographer","license","description","download_url","activity_source"):
@@ -343,7 +358,7 @@ if __name__=="__main__":
         if brief.get("editorial_status")=="approved_scheduled":
             print(f"PRESERVE APPROVED SCHEDULED REEL: {p.name}",flush=True)
             continue
-        if brief.get("editorial_status")=="rejected":
+        if brief.get("editorial_status") in ("rejected", "revision_required"):
             print(f"SKIP EDITORIALLY REJECTED REEL: {p.name}",flush=True)
             continue
         main(p)
