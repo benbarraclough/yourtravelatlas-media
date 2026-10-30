@@ -2,10 +2,10 @@
   "reel_number": 4,
   "slug": "004-behind-the-waterfall",
   "destination": "Seljalandsfoss, Iceland",
-  "hook": "You can walk behind this waterfall",
+  "hook": "Iceland’s waterfall you can walk behind",
   "treatment": "discovery_v1",
-  "editorial_status": "revision_required",
-  "editorial_intent": "One remarkable real experience: see the waterfall from behind immediately, identify it, pull out to establish the landform, then show the walking path and invite a save. Four different visual functions, no itinerary or repeated scenic filler.",
+  "editorial_status": "owner_review_required",
+  "editorial_intent": "Show why Seljalandsfoss belongs on an Iceland trip through five different visual functions: unusual perspective, scale and location, named recognition, immersive spray, and the actual walking experience. Give useful context within the video rather than depending on the caption.",
   "share_reason": "Send it to the person you would take to Iceland: the walk-behind perspective gives a concrete reason to visit.",
   "audio_policy": "incompetech_cc_by_4",
   "music": {
@@ -21,7 +21,7 @@
     "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
     "https://www.south.is/en/travel-info/newsblog/explore-the-waterfalls-of-the-south-coast-of-iceland"
   ],
-  "caption": "Most waterfalls ask you to stand in front of them. This one lets you see the world through the water. 🇮🇸\n\n📍 Seljalandsfoss, South Iceland\nA 60-metre waterfall just off the Ring Road, with a footpath that passes behind the falling water. When the path is open, follow it into the rock recess and look back out across the landscape through the spray—that’s the view to come for.\n\nBring a waterproof jacket and shoes with grip: the path gets wet. Plan the walk-behind experience for warmer conditions and check local notices before visiting. Ice and falling ice can close the path, especially in winter; respect every closure. The waterfall itself can still be viewed from the front.\n\nThese clips show different visits and conditions, not one continuous walk.\n\nSave this for your Iceland wishlist—and send it to your future road-trip partner.\n\nFollow @yourtravelatlas for beautiful places worth making plans for.\n\nFootage: Artem Yellow, Jarod Barton, Caio Cezar & Muhammad Junaid / Pexels.\nMusic: “Protofunk” — Kevin MacLeod (incompetech.com), CC BY 4.0 (excerpted and edited). https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103\n\n#YourTravelAtlas #IcelandTravel #Seljalandsfoss #SouthIceland #Waterfall",
+  "caption": "Most waterfalls give you a view. This one lets you step inside it. 🇮🇸\n\n📍 Seljalandsfoss, South Iceland\nA 60-metre drop beside the Ring Road, with a footpath into the rock recess behind the falling water. The moment to come for: looking out across the plain through the curtain of spray.\n\nBring a waterproof layer and shoes with grip. The spray reaches the path, so protect your phone before stepping behind the falls.\n\nPlan the walk for ice-free conditions and follow the signs on arrival. Winter ice can close the path; the front view is still worth the stop. Never pass a closure for the photo.\n\n📍 Nearby: Gljúfrabúi, partly hidden by its canyon—another waterfall to add to your South Coast map.\n\nSave both pins for your Iceland trip. Send this to the person you’d walk behind it with.\n\nFollow @yourtravelatlas for beautiful places worth making plans for.\n\nClips show different visits and conditions. Footage: Artem Yellow, Caio Cezar, Jarod Barton & Muhammad Junaid / Pexels.\nMusic: Protofunk — Kevin MacLeod (incompetech.com), CC BY 4.0; excerpted and edited. https://incompetech.com/music/royalty-free/index.html?Search=Search&isrc=USUAN1100103\n\n#YourTravelAtlas #IcelandTravel #Seljalandsfoss #SouthIceland",
   "clips": [
     {
       "page_url": "https://www.pexels.com/video/majestic-waterfall-behind-rocky-archway-32344066/",
@@ -29,12 +29,14 @@
       "license": "Pexels License",
       "photographer": "Artem Yellow",
       "description": "Immediate behind-the-water reveal; native vertical pan from overhang towards the falling water.",
-      "overlay": "You can walk behind\nthis waterfall",
+      "overlay": "Iceland’s waterfall\nyou can walk behind",
       "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
       "seconds": 4,
       "start": 1.5,
       "crop_x": 0.5,
-      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof."
+      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof.",
+      "reader_value": "Shows the unusual viewpoint immediately so the promise is visible, not merely asserted.",
+      "distinct_contribution": "Opens with the view from the rock recess looking out through the waterfall."
     },
     {
       "page_url": "https://www.pexels.com/video/stunning-aerial-view-of-dramatic-waterfall-34476955/",
@@ -42,12 +44,14 @@
       "license": "Pexels License",
       "photographer": "Caio Cezar",
       "description": "Aerial establishes the cliff, single-drop waterfall, bowl and path; distinct scale and geography.",
-      "overlay": "",
+      "overlay": "A 60-metre drop,\njust off the Ring Road",
       "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
-      "seconds": 3.2,
+      "seconds": 4.5,
       "start": 3,
       "crop_x": 0.5,
-      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof."
+      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof.",
+      "reader_value": "Explains the waterfall scale and its position by Iceland’s main touring road.",
+      "distinct_contribution": "Pulls out to show the cliff and surrounding landscape, giving geographical context."
     },
     {
       "page_url": "https://www.pexels.com/video/view-of-the-waterfalls-4941732/",
@@ -55,12 +59,29 @@
       "license": "Pexels License",
       "photographer": "Jarod Barton",
       "description": "Front view with rainbow establishes the named waterfall and its neighbouring thin side stream.",
-      "overlay": "Seljalandsfoss, Iceland",
+      "overlay": "Seljalandsfoss,\nSouth Iceland",
       "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
-      "seconds": 2.8,
+      "seconds": 4,
       "start": 2,
       "crop_x": 0.55,
-      "location_evidence": "Creator description explicitly identifies Seljalandsfoss."
+      "location_evidence": "Creator description explicitly identifies Seljalandsfoss.",
+      "reader_value": "Names the exact place so the viewer can save and find this experience.",
+      "distinct_contribution": "Front view makes the landmark recognisable and supplies a contrasting rainbow view."
+    },
+    {
+      "page_url": "https://www.pexels.com/video/beautiful-waterfalls-4941711/",
+      "download_url": "https://videos.pexels.com/video-files/4941711/4941711-hd_1920_1080_24fps.mp4",
+      "license": "Pexels License",
+      "photographer": "Jarod Barton",
+      "description": "Close view of the cascade and wet rock, making the spray and proximity tangible.",
+      "overlay": "Bring waterproofs.\nYou’ll feel the spray.",
+      "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
+      "seconds": 4.5,
+      "start": 1,
+      "crop_x": 0.45,
+      "location_evidence": "Creator source description explicitly names Seljalandsfoss; the rock overhang and waterfall geometry match the location.",
+      "reader_value": "Makes the spray tangible and explains why waterproof clothing changes the experience.",
+      "distinct_contribution": "Moves close to the cascade and rock texture rather than repeating another distant panorama."
     },
     {
       "page_url": "https://www.pexels.com/video/exploration-behind-majestic-waterfall-adventure-40368785/",
@@ -68,13 +89,15 @@
       "license": "Pexels License",
       "photographer": "Muhammad Junaid",
       "description": "People on the wet rock path provide human scale, then the camera turns towards the falling water and open plain.",
-      "overlay": "Save for Iceland.\nFollow @yourtravelatlas",
+      "overlay": "Walk behind when open.\nSave this for Iceland.",
       "activity_source": "https://www.south.is/en/destinations/nature/waterfalls/seljalandsfoss-waterfall",
       "seconds": 6,
       "start": 0,
       "crop_x": 0.5,
-      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof."
+      "location_evidence": "Visual identification against named Seljalandsfoss footage and official site: matching recess, cliff, stream and open plain. Not a GPS geotag; generic Pexels description alone was not used as proof.",
+      "reader_value": "Shows the path and the walk itself, with the essential condition that access must be open.",
+      "distinct_contribution": "Human movement supplies scale and turns the earlier scenic promise into an understandable activity."
     }
   ],
-  "shot_count_exception": "Four distinct views complete this single-experience discovery: behind-water hook, aerial geography, named front view, and people on the walk-behind path. Reject the soft 720p close-up and unconfirmed golden-light clip instead of padding to five."
+  "editorial_version": 7
 }
