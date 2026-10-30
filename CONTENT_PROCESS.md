@@ -1,12 +1,6 @@
-**Latest owner direction, 30 October 2026:** NO MUSIC on any content from now on. Stop music research and selection. Silent Reel exports are intentional and must be verified to contain no audio stream. This supersedes all earlier soundtrack/listening requirements. Iceland lower-middle centred text placement is approved; preserve it. Porto remains a visual/editorial revision: find a stronger selection of essential places and worthwhile experiences, and illustrate them with verified photographs. A longer caption is not completion of that request.
-
-<!-- Owner update 30 October 2026: supersedes earlier public-numbering rules. -->
-
-**Current owner direction:** remove public issue numbers from ALL formats. Keep internal IDs for tracking/removal only. Destination guides must include the essential sights and signature experiences before optional discoveries; record covered and omitted essentials with reasons. Rail/road/activity concepts must visibly show the train/road/activity in at least one meaningful image. Preserve the successful Japan editorial direction. Iceland discovery Reel text: smaller, horizontally centred, in the lower middle of the frame (48px at 1080-wide; first line y=1280), with no footage/content changes. Retire Protofunk as the default: research contemporary travel-page audio and verify a lawful publishing route before using a replacement.
-
 # Your Travel Atlas — three-format creation process
 
-Version 7 · 29 October 2026 · Owner-directed framework
+Version 8 · 30 October 2026 · Owner-directed framework
 
 One travel publication, three distinct editorial jobs. Choose the idea and the reader's need first; then select the right format. This supersedes the former rule that every carousel must use the same discovery treatment. Read with [Editorial Guidelines](EDITORIAL_GUIDELINES.md), the [approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md).
 
@@ -14,9 +8,9 @@ One travel publication, three distinct editorial jobs. Choose the idea and the r
 
 | Format | Reader promise | Presentation | Information | Numbering |
 | --- | --- | --- | --- | --- |
-| **Travel Discovery Collection** | “Here is how to enjoy this particular destination.” | Formal photographic editorial design based on the published Faroe Islands issue: masthead, fine rules, destination hierarchy, serif headlines and considered captions. | Named essentials, what to do, why it is worthwhile, plausible connections and useful choices. Supporting image copy stays concise; caption carries the practical plan. | Public collection issue number. Faroe is the visual reference and Collection 001. |
+| **Travel Discovery Collection** | “Here is how to enjoy this particular destination.” | Formal photographic editorial design based on the published Faroe Islands issue: masthead, fine rules, destination hierarchy, serif headlines and considered captions. | Named essentials, what to do, why it is worthwhile, plausible connections and useful choices. Supporting image copy stays concise; caption carries the practical plan. | Internal ID only; no public issue number. Published Faroe remains the visual reference. |
 | **Discovery carousels** | “Here are places, experiences or facts you will want to discover and save.” | Striking image, gripping plain-language title, small handle, concise descriptive support and a scenic follow card. | Specific facts suited to the premise: route distance, animal identity, a film scene, season, unusual feature or what makes a place special. | No public issue number on new editions. Internal IDs remain. |
-| **Travel Reels** | “See what makes this experience worth having—and learn enough to save it.” | Real moving footage, a visual hook, readable selective overlays, small handle, clear place identification and positive fitting audio. | A story with progression and useful discoveries on screen; caption supplies exact places and material planning details. | Separate internal Reel sequence; no public issue or clip counter. |
+| **Travel Reels** | “See what makes this experience worth having—and learn enough to save it.” | Real moving footage, a visual hook, readable selective overlays, small handle, clear place identification and silent exports. | A story with progression and useful discoveries on screen; caption supplies exact places and material planning details. | Separate internal Reel sequence; no public issue or clip counter. |
 
 These are formats, not three inflexible topic buckets. A weekend in Porto could be a collection guide if it offers a useful destination plan, or a discovery carousel if it selects a few compelling experiences. Its reader promise and information structure decide. Do not publish both versions close together merely to fill slots.
 
@@ -53,7 +47,7 @@ flowchart TD
 2. Find the particular things worth travelling for. Research named experiences, cultural places, food, natural features, transport and meaningful seasonal events. Include a festival only if it improves this specific trip.
 3. Establish enough practical coherence for the promise: sensible direction, plausible transfers, trip length if researched, relevant opening days and accessibility/effort. Include alternatives when they solve a real traveller need. Do not turn every guide into a minute-by-minute itinerary.
 4. Give each supporting page one job: **exact place + what to do + distinctive payoff**. For example, a statement about following a particular path to a sea gorge is useful; “explore this beautiful village” is not. Keep supporting editorial overlays within 30 words, including headings/context. More depth comes from better selection, sequence, additional useful pages and the caption, not smaller text.
-5. Use the Faroe family of design elements: photographic full frames, formal hierarchy, restrained cream/white typography and fine rules. Retain a clear destination and issue identity. Do not revive WANDER FURTHER or force dense cream planning panels into the format. Use one scenic follow card at the end of new editions.
+5. Use the Faroe family of design elements: photographic full frames, formal hierarchy, restrained cream/white typography and fine rules. Retain a clear destination and publication identity; no public issue numbers. Do not revive WANDER FURTHER or force dense cream planning panels into the format. Use one scenic follow card at the end of new editions.
 6. Write a caption that turns the images into a usable starting plan: 📍 exact places mapped to pages, what to do, how outings connect where relevant, a useful timing/access detail and what must be checked before booking. Include the cover's location when it depicts a destination stop. Essential travel context must be available in the post/caption.
 
 **Format-specific approval question:** could a reader explain what they would actually do there and how the choices fit a plausible trip? If the answer is only “see some pretty spots”, revise or reject.
@@ -82,7 +76,7 @@ flowchart TD
 
 ## 3. Travel Reels
 
-**Job:** create travel desire through motion while making the viewer more informed. The Iceland preview is useful direction, but its four-shot, lightly explained treatment is not the approved future standard.
+**Job:** create travel desire through motion while making the viewer more informed. The five-shot Iceland content and lower-middle centred text placement are approved visual references.
 
 ```mermaid
 flowchart TD
@@ -91,17 +85,17 @@ flowchart TD
     C -->|"No"| D["Search wider, rework or reject"]
     D --> A
     C -->|"Yes"| E["Edit hook, explanation, progression and payoff"]
-    E --> F["Add fitting cleared audio and a useful pinned caption"]
-    F --> G["Watch, listen, inspect mobile text and complete every gate"]
+    E --> F["Export without audio and write a useful pinned caption"]
+    F --> G["Watch motion, verify zero audio, inspect mobile text and complete every gate"]
 ```
 
-1. Select an experience, journey, discovery, wildlife behaviour, cultural story or worthwhile collection. The premise must be interesting before the edit. Research references for opening frames, story progression, useful overlays and sound; do not mistake visible play counts for proof of why a post performed well.
+1. Select an experience, journey, discovery, wildlife behaviour, cultural story or worthwhile collection. The premise must be interesting before the edit. Research references for opening frames, story progression and useful overlays; do not mistake visible play counts for proof of why a post performed well.
 2. Write a short beat sheet with an information purpose for every shot. A useful progression is **visual hook → name/context → experience unfolding → distinctive insight → practical takeaway/payoff → brief follow/save invitation**. Combine beats where natural; do not repeat this exact structure mechanically in every Reel.
 3. Source at least five genuinely distinct, purposeful moving shots, normally 5–8. Multiple trims of one shot do not manufacture variety. Search Pexels plus another suitable source from the sourcebook; specialist archives may suit wildlife or transport. Prefer native vertical or suitable 4K footage. Verify exact subject, rights, actual dimensions and the intended portrait crop. Reject low-quality, mislocated, generic or near-duplicate filler. If the story cannot support five strong shots, choose a better premise rather than waive the requirement.
 4. Make the video itself explain the premise. Show where it is, what is unusual, what the viewer could do and at least one useful specific discovery. Use short selective overlays; allow the footage space. Richness comes from meaningful images and facts, not text on every second. A scenery montage with a title and CTA alone fails this standard even if its caption is good.
 5. Keep a small handle, clear early destination/subject identification near the top when appropriate, and readable contrasting serif editorial text in a safe lower band. Avoid competition between the hook and location labels. No public issue/clip counters or WANDER FURTHER. Check actual phone readability and allow time to read each overlay.
 6. Let the story determine duration. As an editing starting point, roughly 20–35 seconds often gives five to eight shots room to convey substance; this is not a platform rule, quota or reason to pad. A shorter Reel must still satisfy the same footage, comprehension and usefulness gates. Do not hold every shot for the same length by default. Keep the follow prompt brief and on a worthwhile moving final image.
-7. Use positive, fitting, professionally recorded, explicitly licensed music. Natural sound can add meaning only when its rights and quality are verified. Avoid dreary pads, generic synthesized/MIDI backing and unrelated viral music. Audibility, cuts, pacing and the final fade must be assessed in the actual mastered video, not inferred from the presence of AAC audio. The existing renderer supports one vetted track; additional tracks/providers require individual verification and delivery testing.
+7. NO MUSIC on any content. Stop soundtrack sourcing and auditions. Export Reels without audio and verify zero audio streams. Inspect full motion, cuts, pacing and text. There is no listening gate for intentionally silent files.
 8. Write a strong caption with 📍 exact featured places and enough specific information to act on the inspiration: experience, seasonal window, route, access or booking fact as relevant. Match multi-location captions to the video order. Do not imply footage from different visits or seasons shows one continuous trip. Evergreen does not mean omitting material conditions.
 
 **Format-specific approval question:** after watching, can someone say where this is, what makes it special and why/how they would experience it? “Nice scenery” is insufficient. If no actual motion-and-listening review is possible, the Reel remains unapproved.
@@ -114,7 +108,7 @@ All three branches enter the same review pipeline. Format-specific usefulness is
 flowchart TD
     A["Concept: a clear promise worth saving"] --> B["Evidence: claims, locations, assets and rights verified"]
     B --> C["Story: every page or shot earns its place"]
-    C --> D["Finished output: actual visuals, copy and audio reviewed"]
+    C --> D["Finished output: actual visuals and copy reviewed; zero audio verified"]
     D --> E{"Editorial verdict with evidence"}
     E -->|"Revise"| F["Fix the failure and repeat affected reviews"]
     F --> B
@@ -128,7 +122,7 @@ flowchart TD
 
 The detailed evidence, stop conditions and review record are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). No technical success, attractive cover, aggregate score or completed checklist can compensate for a wrong fact, weak story, bad crop or missing licence. A separate critical review pass must challenge the creator's choices; do not call it independent human review or multi-reviewer approval unless that actually happened.
 
-**Approval ownership:** preserve the established autonomous internal review for routine posts. Owner approval is required when Ben explicitly requests it, for the current Istanbul replacement, or when an owner-approved edition is materially changed under an active owner-review agreement. This document is not approval of any unfinished asset. Ben's “not bad … could definitely be improved” is not permission to schedule the Iceland preview.
+**Approval ownership:** preserve the established autonomous internal review for routine posts. Owner approval is required when Ben explicitly requests it, for the current Istanbul replacement, or when an owner-approved edition is materially changed under an active owner-review agreement. This document is not approval of any unfinished asset. Later owner feedback approved the five-shot Iceland content and final typography; the no-music direction removes its soundtrack. Use exact-edition evidence, not the superseded four-shot review.
 
 ## Repeatability without sameness
 
@@ -141,8 +135,12 @@ The detailed evidence, stop conditions and review record are in [EDITORIAL_REVIE
 
 ## Production handoff and current status
 
-New briefs must declare `content_type`: `collection`, `discovery` or `reel`, plus reader promise, scope, format-specific usefulness, source ledger and review status. Keep existing internal file/issue IDs stable. New Collection editions additionally carry `collection_issue`; the public sequence begins with the existing Faroe reference at 001 and is independent of internal carousel IDs. New Discovery editions and Reels show no public issue number. Existing scheduled editions retain their approved artwork until deliberately revised and re-reviewed.
+Read [CURRENT_STATE.json](CURRENT_STATE.json) and [outstanding work](OUTSTANDING_WORK.md) every run; re-fetch Metricool before acting. New briefs explicitly declare collection/discovery/reel, internal ID, promise, sources and review status. There is no public numbering or separate public Collection sequence.
 
-**Implemented capability, 30 October 2026:** photo briefs with editorial_version=7 must explicitly select content_type=collection or discovery. Collection has a separate collection_number (2 onward; Faroe is 001), formal masthead, full photographs and a scenic closing card; Discovery hides public numbering. Both support cover/photo/cta layouts and reject dense itinerary panels and excessive supporting copy. Default batch runs preserve legacy carousel assets. The Reel renderer now rejects the old four-shot exception and duplicate downloads; v7 adds per-shot context and contribution fields. All 17 regression tests pass and all 24 legacy carousel pages match the previous renderer pixel-for-pixel on a fixed image. Real-photo template samples were inspected; this is template validation, not approval of a new edition. Every actual new edition still needs all image/video/audio checks before scheduling.
+Implemented: Collection/Discovery photo routing; formal Collection identity; discreet Discovery handle; 30-word supporting overlays; scenic follow cards; no public issue numbers; minimum five distinct Reel shots; smaller centred lower-middle discovery overlays; silent exports with zero-audio validation. Photo pipeline supports 5–10 total pages. Test/inspect unsupported changes before use.
 
-The published Faroe post and queued Porto, Riviera, Japan and Istanbul assets are preserved by this process update. Iceland Reel 004 requires a richer concept/edit and at least five strong shots before renewed review. No replacement or cleanup is authorised merely by recording this framework. After the owner is happy with the finished schedule, remove obsolete working content while retaining published/queued assets, necessary source/licence evidence and recovery history; never delete media on which a live or queued post still depends.
+Porto's broader visual selection and Riviera's train image remain priority revisions. Their old queued versions are held as drafts. Never pass either from a caption-only change or an irrelevant stock image. Destination guides record a coverage matrix of main sights, signature experiences, worthwhile discoveries, photographed subjects and justified omissions. Transport-led ideas visibly show the transport.
+
+Iceland replaces Istanbul in its existing slot after the owner's content/typography approval and no-music instruction. Japan preserves its successful content with public numbering removed. Published Faroe is frozen. The 28 obsolete pilot/output files were removed with recovery in Git history; preserve active media and rights evidence.
+
+The Thursday automation handles outstanding work before new commissioning, verifies the queue, learns from available analytics, plans future slots and reports only material results/blockers. GitHub's render/photo-audit workflows are event/manual triggered helpers, not recurring editorial jobs.

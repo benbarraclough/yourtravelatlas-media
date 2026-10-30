@@ -1,6 +1,6 @@
 # Travel Reel footage sourcebook
 
-Current editorial workflow: [CONTENT_PROCESS.md](CONTENT_PROCESS.md) and [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). At least five strong distinct shots remain mandatory; the four-shot Iceland preview is a revision candidate. Existing provider audit results below are dated evidence, not blanket approval. The prior “do not change Istanbul” statements mean preserve it until the owner-requested replacement is complete and approved.
+Current standard: CONTENT_PROCESS.md and EDITORIAL_REVIEW.md v8. Minimum five distinct strong clips. NO MUSIC; export and verify zero audio streams. Iceland content/typography approved; Istanbul is replaced in the queue. The dated provider evidence below is research history, not blanket asset approval.
 
 Checked 29 October 2026. Owner instruction: prioritise genuine moving footage and broaden the source pool so stories are not limited to whatever one stock library happens to contain. If there is not enough good, coherent video, do not make the Reel. This audit did not commission or schedule a new Reel or alter approved content.
 
@@ -32,7 +32,7 @@ Checked 29 October 2026. Owner instruction: prioritise genuine moving footage an
 
 Technical results, source pages, direct download URLs, SHA256s and editorial observations are recorded in content/research/footage-source-audit-2026-10-29.json. Four complete MP4s from three additional sites were downloaded successfully, each decoded at three timestamps. Landscape and centre-portrait comparisons were inspected. This is evidence of sample delivery and framing, not approval of whole catalogues, motion pacing, music or a finished Reel. Local requests are not proof that GitHub Actions can download the same file; test from the actual rendering environment before production use.
 
-No raw stock files or extracted frames are committed or offered for standalone redistribution. Store asset evidence and use permitted footage only as part of an original edited Reel. Do not cache entire libraries or scrape bulk catalogues. Do not change the approved Istanbul Reel.
+No raw stock files or extracted frames are committed or offered for standalone redistribution. Store asset evidence and use permitted footage only as part of an original edited Reel. Do not cache entire libraries or scrape bulk catalogues. Istanbul is a retained historical approved asset, superseded in the active slot by Iceland; never reschedule it from this historical note.
 
 ## Repeatable footage feasibility gate
 

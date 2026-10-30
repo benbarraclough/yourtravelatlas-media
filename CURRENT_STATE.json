@@ -1,0 +1,70 @@
+{
+  "checked_at": "2026-10-30",
+  "timezone": "Europe/London",
+  "policy_version": 8,
+  "automation": {
+    "id": "6ae251260af881919e1d2042f46e1ff2",
+    "title": "Your Travel Atlas Publishing",
+    "only_chatgpt_automation_found": true,
+    "day": "Thursday",
+    "configured_time": "15:00",
+    "timing_mode": "flexible_schedule",
+    "enabled": true
+  },
+  "public_numbers": false,
+  "music": false,
+  "queue": [
+    {
+      "uuid": "-1686861758455201569",
+      "id": 411506748,
+      "date": "2026-11-02T19:00:00",
+      "draft": true,
+      "auto_publish": false,
+      "format": "POST",
+      "media_count": 6,
+      "edition": "Porto"
+    },
+    {
+      "uuid": "-4032844728941590495",
+      "id": 411506805,
+      "date": "2026-11-04T12:00:00",
+      "draft": true,
+      "auto_publish": false,
+      "format": "POST",
+      "media_count": 7,
+      "edition": "French Riviera"
+    },
+    {
+      "uuid": "5053010952195819165",
+      "id": 411509000,
+      "date": "2026-11-05T09:00:00",
+      "draft": false,
+      "auto_publish": true,
+      "format": "REEL",
+      "media_count": 1,
+      "edition": "Iceland / Seljalandsfoss"
+    },
+    {
+      "uuid": "-1638283085571405156",
+      "id": 411509019,
+      "date": "2026-11-09T19:00:00",
+      "draft": false,
+      "auto_publish": true,
+      "format": "POST",
+      "media_count": 6,
+      "edition": "Japan"
+    }
+  ],
+  "pending": [
+    "Porto visual/editorial remake",
+    "French Riviera relevant train photograph",
+    "Owner preview of revised Porto/Riviera before enabling publication"
+  ],
+  "completed": [
+    "Iceland silent export imported to existing Reel UUID",
+    "Japan number-free six-image edition imported",
+    "28 obsolete pilot/output files removed",
+    "Iceland content and typography owner approval recorded"
+  ],
+  "media_revision": "86e693e41d551114afc29db2bab959d0a2c902ba"
+}

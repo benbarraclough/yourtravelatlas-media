@@ -1,8 +1,4 @@
-<!-- Owner update 30 October 2026: supersedes earlier public-numbering rules. -->
-
-**Current owner direction:** remove public issue numbers from ALL formats. Keep internal IDs for tracking/removal only. Destination guides must include the essential sights and signature experiences before optional discoveries; record covered and omitted essentials with reasons. Rail/road/activity concepts must visibly show the train/road/activity in at least one meaningful image. Preserve the successful Japan editorial direction. Iceland discovery Reel text: smaller, horizontally centred, in the lower middle of the frame (48px at 1080-wide; first line y=1280), with no footage/content changes. Retire Protofunk as the default: research contemporary travel-page audio and verify a lawful publishing route before using a replacement.
-
-# Mandatory editorial approval — v7
+# Mandatory editorial approval — v8
 
 Applies to Collection guides, Discovery carousels and Reels. Read [CONTENT_PROCESS.md](CONTENT_PROCESS.md) for each format's job and flow, plus [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md). All gates are mandatory. A technical pass cannot compensate for an editorial failure.
 
@@ -11,7 +7,7 @@ Applies to Collection guides, Discovery carousels and Reels. Read [CONTENT_PROCE
 - **PASS:** the criterion is satisfied by specific recorded evidence from this exact edition.
 - **REVISE:** name the actual failure and correction; repeat affected checks after the change. All downstream visual/caption checks affected by a changed fact or asset must be repeated.
 - **REJECT:** the premise, footage or imagery cannot meet the standard without forcing weak material. Record why, abandon that candidate and choose another. Do not re-label rejected work as approved on a later run.
-- **BLOCKED / AWAITING OWNER:** a required source, delivery, playback/listening check or explicitly required owner approval is unavailable. State the gap; do not manufacture a pass.
+- **BLOCKED / AWAITING OWNER:** a required source, delivery, playback check or explicitly required owner approval is unavailable. State the gap; do not manufacture a pass.
 
 Use reasons, not an average score that lets poor accuracy be offset by a pretty cover. Empty praise such as “high quality” or “adds value” does not count as evidence. Take a separate critical pass after creating the asset. Challenge the weakest page/shot and the weakest factual/creative assumption. Do not call this independent multi-person review unless it actually was.
 
@@ -37,6 +33,8 @@ For each asset record: what it shows; what the reader learns or feels; its speci
 - **Discovery:** every item belongs under the premise and contributes a distinctive fact or experience. The promised count is fulfilled. No repeated generic descriptions.
 - **Reel:** at least five distinct strong moving shots; visual hook, context, progression and payoff. The video itself provides meaningful information. A title, scenery and CTA alone fail. Multiple crops/trims of one shot do not count as distinct shots.
 
+Destination guides require a visual coverage matrix: essentials/signature experiences, what each photograph shows, optional discoveries and justified omissions. A longer caption cannot pass missing visual coverage. Rail/road/activity posts must actually show that transport/activity meaningfully.
+
 Ask: would removing this asset lose something worthwhile? Would a stronger asset or more precise sentence improve it? Reject weak photography/footage rather than rescuing it with more words. Do not pad to a count or length. If the Reel cannot meet the five-shot rule, change the concept.
 
 ## Gate 4 — copy and caption
@@ -55,9 +53,9 @@ Confirm the pipeline supports the selected format and numbering. Run checks appr
 
 Inspect EVERY actual final image at full size and in a phone-sized presentation: photographic impact, subject visibility, intentional crop, contrast, text hierarchy, legibility, line breaks, margins, credits and seasonal labels. A contact sheet is useful but insufficient by itself. Check the follow card and item count.
 
-For Reels, watch the complete moving export and listen to its mastered audio. Examine the opening seconds, every transition, readable overlay duration, motion/crop continuity, pacing, emotional fit, volume, abrupt cuts and ending. Review a muted view to check that the idea remains understandable. Still frames, metadata, codec validation and audio waveform checks do not substitute for watching/listening. If those capabilities are unavailable, record BLOCKED and use owner playback review when explicitly requested/authorised; do not routinely outsource ordinary work as a workaround.
+For Reels, inspect complete moving output: opening seconds, every transition, crop continuity, pacing, overlay duration and ending. NO MUSIC on any format. Verify zero audio streams in the exact final MP4. Listening/music clearance gates are cancelled. Owner playback approval may supply the visual review when explicitly given for this edition; record exact scope. Metadata/stills alone cannot be presented as a watch-through.
 
-**Stop:** any visible bad crop, weak/irrelevant shot, unreadable text, inaccurate overlay, awkward pacing, inappropriate/unheard music or missing actual review.
+**Stop:** bad crop, weak/irrelevant shot, unreadable text, inaccurate overlay, awkward pacing, any audio stream or missing required visual review.
 
 ## Gate 6 — editorial challenge and approval
 
@@ -70,7 +68,7 @@ Re-read the promise and assess the FINISHED post:
 5. Is it easy to read/watch on a phone?
 6. Is there a credible reason to save/send it beyond attractive scenery?
 7. Is it fresh within the account's recent portfolio?
-8. Are all source, rights, fact, copy, render and, for Reels, motion/audio checks complete?
+8. Are all source, rights, fact, copy, render and, for Reels, motion and zero-audio checks complete?
 
 Every answer needs evidence. Any unresolved failure means REVISE, REJECT or BLOCKED, never “mostly passes”. Identify the weakest element explicitly and resolve it. The self-review must not simply restate the brief.
 
@@ -86,15 +84,15 @@ After mutation, re-fetch and compare media count/order, final text, type POST/RE
 
 Store the review beside the edition under content/reviews/, including:
 
-- policy version and content_type; internal ID and public Collection issue if applicable;
+- policy version and content_type; internal ID; no public issue numbers;
 - candidate slate, selected promise/angle, comparator URLs and exact inspection scope;
 - claim/source and asset/rights evidence, with checked dates;
 - per-page/shot contributions, weak candidates rejected and changes made;
 - chosen title/caption hook and alternatives; caption and full brief hashes;
 - exact media commit, output hashes, inspected paths and full-size/mobile evidence;
-- for Reels: intervals, motion/playback and actual listening review evidence or explicit limitation;
+- for Reels: intervals, motion/playback and zero-audio verification evidence or explicit limitation;
 - each gate's verdict and reason, unresolved issues, reviewer type and approval status;
 - owner approval evidence when applicable, tied to the exact edition;
 - final schedule/import verification and later publication confirmation separately.
 
-Never write a fictional reviewer, listening session, performance result or source check. Preserve old review history as superseded; it cannot approve a newer edition. Cleanup follows owner satisfaction with the final schedule and preserves live dependencies, provenance and recovery evidence.
+Never write a fictional reviewer, playback session, performance result or source check. Preserve old review history as superseded; it cannot approve a newer edition. Cleanup follows owner satisfaction with the final schedule and preserves live dependencies, provenance and recovery evidence.
