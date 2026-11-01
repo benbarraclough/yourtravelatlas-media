@@ -20,7 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 INPUT = ROOT / "content" / "posts"
 OUTPUT = ROOT / "media"
 SIZE = (1080, 1350)
-ALLOWED_HOSTS = {"images.unsplash.com", "images.pexels.com", "upload.wikimedia.org", "thumb.wikimedia.org"}
+ALLOWED_HOSTS = {"images.unsplash.com", "images.pexels.com", "upload.wikimedia.org", "thumb.wikimedia.org", "live.staticflickr.com"}
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": "YourTravelAtlasMediaRenderer/1.0 (public travel magazine)"})
 REGULAR = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
@@ -91,7 +91,7 @@ def acquire_photo(item):
         raise ValueError("Photo file too large")
     original = ImageOps.exif_transpose(Image.open(io.BytesIO(blob)))
     original.load()
-    if original.width < 1000 or original.height < 850:
+    if original.width < 1000 or original.height < (600 if item.get("layout") == "landscape" else 850):
         raise ValueError(f"Source image too small: {original.size} ({url})")
     return original.convert("RGB"), hashlib.sha256(blob).hexdigest()
 
@@ -189,6 +189,27 @@ def visible_words(item):
     return " ".join(str(item.get(k, "")) for k in
                     ("heading", "body", "date_label", "photo_note", "detail", "kicker")).split()
 
+
+def draw_landscape(source, post, item):
+    """Retain a wide transport subject without a destructive portrait crop."""
+    cream = (252,249,241)
+    canvas = Image.new("RGB", SIZE, (15,32,36))
+    scaled_height = round(source.height * 1080 / source.width)
+    if not 600 <= scaled_height <= 850:
+        raise ValueError("Landscape page requires a meaningful wide photograph")
+    canvas.paste(source.resize((1080,scaled_height),Image.Resampling.LANCZOS),(0,0))
+    d=ImageDraw.Draw(canvas)
+    if len(visible_words(item)) > 30:
+        raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
+    y=scaled_height+35
+    y=editorial_text(d,item.get("date_label",""),(72,y),font(20),936,cream,1)+15
+    y=editorial_text(d,item["heading"],(72,y),font(52,SERIF),936,cream,1)+12
+    y=editorial_text(d,item["body"],(72,y),font(32,REGULAR),936,cream,3)
+    if y>1230:raise ValueError("Landscape copy overlaps brand")
+    d.text((72,1270),"@yourtravelatlas",font=font(20,REGULAR),fill=cream)
+    if item.get("credit_line"):
+        editorial_text(d,item["credit_line"],(72,1305),font(16,REGULAR),936,cream,1)
+    return canvas
 
 def draw_discovery(source, post, item, index, count):
     """Photo-first v6: one promise; concise specific copy; no brochure panels."""
@@ -297,8 +318,8 @@ def validate_editorial(post):
     if post.get("editorial_version", 0) >= 7:
         if post.get("content_type") not in ("collection", "discovery"):
             raise ValueError("V7 requires explicit collection or discovery content_type")
-        if any(s.get("layout") not in ("cover", "photo", "cta") for s in post["slides"]):
-            raise ValueError("V7 uses cover, photo and cta layouts; dense itinerary panels are unsupported")
+        if any(s.get("layout") not in ("cover", "photo", "cta", "landscape") for s in post["slides"]):
+            raise ValueError("V7 uses cover, photo, landscape and cta layouts; dense itinerary panels are unsupported")
     if post.get("editorial_version", 0) < 6:
         if post.get("issue") == 1:
             return  # Preserve the already published, frozen launch issue.
@@ -329,6 +350,8 @@ def validate_editorial(post):
 
 
 def draw_slide(source, post, item, index, count):
+    if item.get("layout") == "landscape":
+        return draw_landscape(source, post, item)
     if post.get("editorial_version", 0) >= 7:
         if post.get("content_type") == "collection":
             return draw_collection(source, post, item, index, count)

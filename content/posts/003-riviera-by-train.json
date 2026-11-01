@@ -55,17 +55,17 @@
       }
     },
     {
-      "layout": "photo",
+      "layout": "landscape",
       "heading": "The coastal train",
       "body": "Use Nice as a base for TER outings: west to Antibes, east to Villefranche-sur-Mer and Menton.",
       "date_label": "ARCHIVE · 2016",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GARE_DE_VILLEFRANCHE_SUR_MER_%2824676570344%29.jpg/1280px-GARE_DE_VILLEFRANCHE_SUR_MER_%2824676570344%29.jpg",
+      "image_url": "https://live.staticflickr.com/1530/24676570344_399b77b5d5_b.jpg",
       "source_page": "https://commons.wikimedia.org/wiki/File:GARE_DE_VILLEFRANCHE_SUR_MER_(24676570344).jpg",
       "photographer": "Patrick Janicek",
       "license": "CC BY 2.0",
       "license_url": "https://creativecommons.org/licenses/by/2.0/",
-      "credit_line": "Patrick Janicek / CC BY 2.0 · cropped + text",
-      "changes": "Cropped to portrait; typography added.",
+      "credit_line": "Patrick Janicek / CC BY 2.0 · resized + text",
+      "changes": "Full landscape photograph resized; typography added below it.",
       "subject": "A regional train at Villefranche-sur-Mer station, photographed in February 2016.",
       "alt": "Archival photograph of a regional train at Villefranche-sur-Mer station in 2016; current rolling stock may differ.",
       "activity_source": "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer",
@@ -79,7 +79,8 @@
         "image_context": "Source identifies Villefranche-sur-Mer and provides station coordinates, photographer,2016 date and CC BY2.0 licence; clearly labelled archive.",
         "specific_detail": "Nice is a base for separate rail outings west towards Antibes and east towards Villefranche-sur-Mer/Menton.",
         "distinct_contribution": "Adds the missing transport experience and route orientation; not an unrelated scenic train from the Pyrenees."
-      }
+      },
+      "image_context": "Archived 2016 regional train at Villefranche-sur-Mer; shown as a full landscape image so a portrait crop does not cut out the train and station context."
     },
     {
       "image_url": "https://images.unsplash.com/photo-1723214375570-a86809b0f210?auto=format&fit=crop&w=2000&q=88",
