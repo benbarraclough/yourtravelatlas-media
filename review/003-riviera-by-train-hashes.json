@@ -1,8 +1,8 @@
 {
   "issue": 3,
   "slug": "003-riviera-by-train",
-  "brief_sha256": "80705e1c83c2dad6e69b269a10a23b223368c617cb8d65f685925e59687bdde4",
-  "caption_sha256": "5d71e4b23247def6415d2ee47e5482f3b4181d05d71aab4f798b49ae5b4399c2",
+  "brief_sha256": "bb9bb0b77ca4a3d6d964acf5b27207755ad65dbe7de0b69c53388634e36930ff",
+  "caption_sha256": "19f610518ba994b773054b51344fd48ebe6dc59bffc32c55eb788fb70a0e2a66",
   "image_sha256": {
     "media/003-riviera-by-train/01.jpg": "86eb54f871cbad366766f051575f92a4c423fa70b9d765f476dd9b79710754cb",
     "media/003-riviera-by-train/02.jpg": "d1120d2a16910559b138d98aed4df3a8d4b156b1f63a81b3f94875b2429cf7ea",
