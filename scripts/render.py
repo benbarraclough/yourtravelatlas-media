@@ -498,12 +498,22 @@ def main():
             if src in used_images:
                 raise ValueError(f"Photo reused between issues: {path} and {used_images[src]}")
             used_images[src] = path
+    network_errors = []
     for path in files:
         brief = json.loads(path.read_text(encoding="utf-8"))
         if len(sys.argv) == 1 and brief.get("editorial_version", 0) < 7 and brief.get("public_numbers") is not False:
             print(f"PRESERVE LEGACY CAROUSEL: {path.name}")
             continue
-        build(path)
+        try:
+            build(path)
+        except requests.RequestException as exc:
+            network_errors.append({"slug": brief["slug"], "status": "blocked_source_download",
+                                   "brief_sha256": hashlib.sha256(path.read_bytes()).hexdigest(),
+                                   "reason": str(exc)[:500]})
+            print(f"BLOCKED SOURCE: {path.name}: {exc}", flush=True)
+    report = ROOT / "review" / "render-errors.json"
+    report.parent.mkdir(parents=True, exist_ok=True)
+    report.write_text(json.dumps(network_errors, indent=2) + "\n")
 
 
 if __name__ == "__main__":
