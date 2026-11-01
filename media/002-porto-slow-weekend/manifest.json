@@ -2,11 +2,11 @@
   "issue": 2,
   "slug": "002-porto-slow-weekend",
   "status": "rendered-not-published",
-  "editorial_version": 6,
-  "content_type": "legacy",
+  "editorial_version": 7,
+  "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "e2e296a791ea42d871ca8d1f458b0c072b53b4bed025b7a28eed29eca9b30521",
-  "caption": "Porto deserves more than a riverside photo. Come for the tiled station and steep old streets; stay for the cellar stories, market lunches and sunset across the Douro. 🇵🇹\n\n📍 Ribeira — cover\nWalk the waterfront below the colourful houses, then climb through the old-town lanes. Pair it with the Luís I Bridge rather than making a separate cross-city trip.\n\n📍 Mercado do Bolhão — slide 2\nStart Saturday with coffee and the produce stalls. The market closes on Sundays.\n\n📍 São Bento — slide 3\nStep into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even without a train to catch. Continue towards Rua das Flores and the riverside.\n\n📍 Luís I Bridge → Jardim do Morro — slide 4\nCross the upper deck towards Gaia for Porto’s skyline in the evening light. Share the crossing carefully with the metro.\n\n📍 Clérigos Tower — add to your old-town walk\nClimb for a different view across the rooftops. Combine the area with nearby Livraria Lello if its ornate bookshop interior interests you; check current ticket and entry arrangements first.\n\n📍 Vila Nova de Gaia — port-wine cellars\nBook a cellar visit and tasting to understand the region’s signature fortified wine. Taylor’s is one option; plan the visit before your Jardim do Morro sunset.\n\n📍 Foz do Douro — slide 5, optional coast outing\nHead to Passeio Alegre and follow the Atlantic promenade towards Felgueiras lighthouse. Check the current historic-tram service before relying on it.\n\nSaturday: market, Clérigos area, São Bento and Ribeira. Sunday: Gaia and a cellar visit; choose Foz as an extra outing if time allows. Leave room for a long lunch—Porto’s hills make rushed checklists hard work.\n\nIn June, the night of 23 June brings São João street celebrations; check the annual programme.\n\nSave this for your first Porto weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.\n#YourTravelAtlas #Porto #PortugalTravel",
+  "brief_sha256": "50c50221d3c96e76841ecebb6f3c2e118d4f1f73f786fde686f65cabc4808e6b",
+  "caption": "Porto is a tiled station, a bookshop with a crimson staircase, a tower above the rooftops—and a cellar visit across the river. Here’s a weekend worth saving. 🇵🇹\n\n📍 Ribeira — cover\nWalk the Douro waterfront below the colourful houses; connect it with the old-town lanes rather than treating it as a separate excursion.\n\n📍 Mercado do Bolhão — 2\nBegin Saturday with coffee and the produce stalls. The market closes on Sundays.\n\n📍 Clérigos Tower — 3\nClimb for the city panorama and explore the Baroque church. Check current entry arrangements; the climb involves stairs.\n\n📍 Livraria Lello — 4\nCome for the red staircase, carved shelves and stained glass. Book entry through the official site; this is a busy visitor attraction.\n\n📍 São Bento — 5\nStep into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even if you aren’t catching a train.\n\n📍 Luís I Bridge → Jardim do Morro — 6\nCross the upper deck towards Gaia for Porto’s skyline in the changing evening light. Metro trains also use this crossing.\n\n📍 Taylor’s, Vila Nova de Gaia — 7\nBook a cellar visit and tasting to understand the region’s signature fortified wine. Pair Gaia with the bridge/viewpoint outing.\n\n📍 Passeio Alegre → Foz do Douro — 8\nAn optional Atlantic outing: follow the seafront towards Felgueiras lighthouse. Check the historic tram’s current service before relying on it.\n\nA sensible split: Saturday for the market and old-town sights; Sunday for Gaia. Choose Foz if you have extra time—these are options, not a race through every stop. Porto is hilly.\n\nFor another visit, the night of 23 June brings São João street celebrations; check the annual programme.\n\nSave this for your Porto weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Sasha Pleshco, Dmitri Zotov, Maxime Galliot, Gabriel Palma, John Cameron & Vitalii Kyktov / Unsplash.\n#YourTravelAtlas #Porto #PortugalTravel",
   "fact_sources": [
     "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
     "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
@@ -19,9 +19,10 @@
     "https://www.visitportugal.com/en/node/155969",
     "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao",
     "https://www.torredosclerigos.pt/en/",
-    "https://www.taylor.pt/en/visit-taylors/port-cellars"
+    "https://www.taylor.pt/en/visit-taylors/port-cellars",
+    "https://livrarialello.pt/en/"
   ],
-  "editorial_intent": "Inspire a relaxed Porto weekend through distinct market, tile-hall, riverside and Atlantic experiences, with concise scene-specific descriptions and practical caption pins.",
+  "editorial_intent": "A first Porto weekend with signature city sights and a Gaia wine experience, plus an explicitly optional coast outing; each image shows a distinct worthwhile thing to do.",
   "share_reason": "Send a friend a weekend idea that combines an extraordinary tiled station, a riverside sunset and an Atlantic tram outing, with exact places to save.",
   "slides": [
     {
@@ -79,13 +80,65 @@
       ]
     },
     {
+      "subject": "Clérigos Tower in Porto, photographed from below against the sky.",
+      "source_page": "https://unsplash.com/photos/a-clock-tower-on-a-building-ESEaSiPrB9A",
+      "photographer": "Sasha Pleshco",
+      "license": "Unsplash License",
+      "alt": "Clérigos Tower in Porto, photographed from below against the sky.",
+      "activity_source": "https://www.torredosclerigos.pt/en/",
+      "file": "03.jpg",
+      "source_sha256": "fea15cef2f9f8ae8b1f81ec0f6b7ce3de7362b5cc1ba9a4366b82526a01f9e2d",
+      "output_sha256": "855042c7e418d36ff89fa36462d17f89baee254db98a96fefd2126d249aa5608",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+      "review": {
+        "reader_value": "Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+        "image_context": "Clérigos Tower in Porto, photographed from below against the sky. Source page identifies this exact Porto-area subject.",
+        "specific_detail": "Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+        "distinct_contribution": "Adds a signature landmark and viewpoint omitted from the original four-stop selection."
+      },
+      "fact_checks": [
+        "https://www.torredosclerigos.pt/en/"
+      ]
+    },
+    {
+      "subject": "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above.",
+      "source_page": "https://unsplash.com/photos/a-spiral-staircase-in-a-building-aT86BBws-Z4",
+      "photographer": "Dmitri Zotov",
+      "license": "Unsplash License",
+      "alt": "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above.",
+      "activity_source": "https://livrarialello.pt/en/",
+      "file": "04.jpg",
+      "source_sha256": "0655b0a8403e2291d8691602ace7c9a3b28a68c41feb3232d18a88c6911ac696",
+      "output_sha256": "7d4389a9541850e6c97a12a979e55d5e4d0f6effd9f1567618a33e6f2633d429",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+      "review": {
+        "reader_value": "Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+        "image_context": "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above. Source page identifies this exact Porto-area subject.",
+        "specific_detail": "Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+        "distinct_contribution": "Shows the interior that makes this bookshop distinctive, rather than another exterior or caption-only mention."
+      },
+      "fact_checks": [
+        "https://livrarialello.pt/en/"
+      ]
+    },
+    {
       "subject": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
       "source_page": "https://unsplash.com/photos/a-blue-and-white-tile-mural-depicts-a-lively-scene-ciZmTEBCfZo",
       "photographer": "Jacek Urbanski",
       "license": "Unsplash License",
       "alt": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
       "activity_source": "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
-      "file": "03.jpg",
+      "file": "05.jpg",
       "source_sha256": "b46ff8f3965d4b0daa4c25ba3a85f224233eaedb77dd1dae4f4356207fcb1706",
       "output_sha256": "5d85d1e80fbec2d3a0b930f16c5544f6a95f35ce34e3e502e1d01332e02797dc",
       "size": [
@@ -112,7 +165,7 @@
       "license": "Unsplash License",
       "alt": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
       "activity_source": "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
-      "file": "04.jpg",
+      "file": "06.jpg",
       "source_sha256": "11f1d3a93516ddfc62833e6818ae2a5b88755229329f8a258dc25e64665c0341",
       "output_sha256": "f453daef85a88543ce978501ce4882ef9c16c00fd5141f71a227214261fa11e5",
       "size": [
@@ -132,13 +185,39 @@
       ]
     },
     {
+      "subject": "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia.",
+      "source_page": "https://unsplash.com/photos/a-long-row-of-wine-barrels-in-a-winery-Vi1ugNVy3Ew",
+      "photographer": "John Cameron",
+      "license": "Unsplash License",
+      "alt": "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia.",
+      "activity_source": "https://www.taylor.pt/en/visit-taylors/port-cellars",
+      "file": "07.jpg",
+      "source_sha256": "2d01f9f373f2c598e5d7b75eb2c73d8e2c8f3559e7b801c953d2fa7f3784117a",
+      "output_sha256": "0169bf1b3da0aea2c825323ad2262826500fff08ca1714f6385b29869c5700e9",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+      "review": {
+        "reader_value": "Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+        "image_context": "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia. Source page identifies this exact Porto-area subject.",
+        "specific_detail": "Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+        "distinct_contribution": "Adds Porto's signature wine experience with an identified Gaia cellar photograph and concrete visitor action."
+      },
+      "fact_checks": [
+        "https://www.taylor.pt/en/visit-taylors/port-cellars"
+      ]
+    },
+    {
       "subject": "The Felgueiras lighthouse and Atlantic waves at Foz do Douro in daylight.",
       "source_page": "https://unsplash.com/photos/a-lighthouse-on-a-pier-with-waves-crashing-in-the-background-5kmMDx_FalU",
       "photographer": "Gabriel Palma",
       "license": "Unsplash License",
       "alt": "Felgueiras lighthouse beside the Atlantic at Foz do Douro in Porto.",
       "activity_source": "https://www.museudocarroelectrico.pt/visitar/",
-      "file": "05.jpg",
+      "file": "08.jpg",
       "source_sha256": "374593c96097c8d829c3f909aa0a14a8e0c2010029f57f11f6e9c73d12a3a076",
       "output_sha256": "c500007761ac9be3f6d95c953a28f69b3bd993f49365c371fff2b1464ebbafbd",
       "size": [
@@ -166,7 +245,7 @@
       "license": "Unsplash License",
       "alt": "A beachgoer silhouetted by the Atlantic and lighthouses at Foz do Douro.",
       "activity_source": "https://backoffice.visitporto.travel/en-GB/foz",
-      "file": "06.jpg",
+      "file": "09.jpg",
       "source_sha256": "fa944894e707714bb452b0d65867c7b2acda5517f87b129bb4dd71873367e133",
       "output_sha256": "4c531e90d9eaf0b2e79b9fc1080288ecd7e88d93c510b1352179e65603fc68d5",
       "size": [

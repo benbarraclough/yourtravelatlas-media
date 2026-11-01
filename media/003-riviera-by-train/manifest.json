@@ -2,11 +2,11 @@
   "issue": 3,
   "slug": "003-riviera-by-train",
   "status": "rendered-not-published",
-  "editorial_version": 6,
-  "content_type": "legacy",
+  "editorial_version": 7,
+  "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "110925ced9284a7520865badac58d798c5ec59586e1cc491dd17125243bbf2a8",
-  "caption": "The French Riviera is more than a summer road trip. Take the coastal trains—and in February, add a carnival and a parade made of citrus. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 6\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 2\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 3\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 4\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 5\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
+  "brief_sha256": "80705e1c83c2dad6e69b269a10a23b223368c617cb8d65f685925e59687bdde4",
+  "caption": "The French Riviera by rail: coastal towns, sea views—and February’s carnival and citrus parades. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 7\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 3\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 4\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 5\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 6\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nTrain photo: Villefranche-sur-Mer,2016; current trains vary. Patrick Janicek / CC BY2.0, cropped + text: https://creativecommons.org/licenses/by/2.0/\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
   "fact_sources": [
     "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
     "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
@@ -23,7 +23,8 @@
     "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum",
     "https://www.explorenicecotedazur.com/en/culture/la-chapelle-saint-pierre-cocteau/",
     "https://www.explorenicecotedazur.com/en/explore/unesco-and-heritage/nice-carnival/",
-    "https://www.menton-riviera-merveilles.co.uk/get-planning/schedule/major-events/lemon-festival/"
+    "https://www.menton-riviera-merveilles.co.uk/get-planning/schedule/major-events/lemon-festival/",
+    "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer"
   ],
   "editorial_intent": "Inspire coastal outings from Nice with concise place-led scenes and two February festival discoveries, putting rail orientation and dates in the caption rather than a brochure panel.",
   "share_reason": "A shareable car-free coastal idea with distinct old towns, Picasso’s seaside museum and a lemon festival that gives friends a specific reason to choose February.",
@@ -55,13 +56,43 @@
       ]
     },
     {
+      "subject": "A regional train at Villefranche-sur-Mer station, photographed in February 2016.",
+      "source_page": "https://commons.wikimedia.org/wiki/File:GARE_DE_VILLEFRANCHE_SUR_MER_(24676570344).jpg",
+      "photographer": "Patrick Janicek",
+      "license": "CC BY 2.0",
+      "alt": "Archival photograph of a regional train at Villefranche-sur-Mer station in 2016; current rolling stock may differ.",
+      "activity_source": "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer",
+      "file": "02.jpg",
+      "source_sha256": "2fc4f53b9ae4021181348f1f2b057c0e8ada850dd2711e6b9deea91aeb17c812",
+      "output_sha256": "d1120d2a16910559b138d98aed4df3a8d4b156b1f63a81b3f94875b2429cf7ea",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "landscape",
+      "body": "Use Nice as a base for TER outings: west to Antibes, east to Villefranche-sur-Mer and Menton.",
+      "date_label": "ARCHIVE · 2016",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit_line": "Patrick Janicek / CC BY 2.0 · resized + text",
+      "changes": "Full landscape photograph resized; typography added below it.",
+      "review": {
+        "reader_value": "Shows an actual relevant regional train so the rail premise is visible rather than confined to the caption.",
+        "image_context": "Source identifies Villefranche-sur-Mer and provides station coordinates, photographer,2016 date and CC BY2.0 licence; clearly labelled archive.",
+        "specific_detail": "Nice is a base for separate rail outings west towards Antibes and east towards Villefranche-sur-Mer/Menton.",
+        "distinct_contribution": "Adds the missing transport experience and route orientation; not an unrelated scenic train from the Pyrenees."
+      },
+      "fact_checks": [
+        "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer"
+      ]
+    },
+    {
       "subject": "Film photograph of Nice's curving seafront and busy pebble beaches.",
       "source_page": "https://unsplash.com/photos/a-beach-with-a-lot-of-people-on-it-M2u_fRfluME",
       "photographer": "Nick Page",
       "license": "Unsplash License",
       "alt": "Film photograph of Nice's curving seafront and busy pebble beaches.",
       "activity_source": "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
-      "file": "02.jpg",
+      "file": "03.jpg",
       "source_sha256": "91461e348e0f7ee0a8913452e2d0b60248bbe15ea5b3e99ab49ba4d9537594fd",
       "output_sha256": "6398e259b229ca03685058d95991468217445cf45b9a8bafffc8e2e5c7aab06c",
       "size": [
@@ -90,7 +121,7 @@
       "license": "Unsplash License",
       "alt": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
       "activity_source": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
-      "file": "03.jpg",
+      "file": "04.jpg",
       "source_sha256": "c9171b413a8ced03d68eec1673b70980c9ac1be78fcd49aad3d134b16daa6df3",
       "output_sha256": "621f2f8c627921f258031a8bb09d3137720333726e407b92c2d937aea12e43e5",
       "size": [
@@ -117,7 +148,7 @@
       "license": "Unsplash License",
       "alt": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
       "activity_source": "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
-      "file": "04.jpg",
+      "file": "05.jpg",
       "source_sha256": "a435c51b53cb57dde2d037a52ef50a6f16ff19a9099abd9761c8f6db7b4cb819",
       "output_sha256": "9ec80fd3921b423399a0dc204d29fba332e92eb4faa0f2ec7b7a89057496a578",
       "size": [
@@ -144,7 +175,7 @@
       "license": "Unsplash License",
       "alt": "An elaborate fantasy float at Nice Carnival 2026, illustrating the past-edition parade spectacle.",
       "activity_source": "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
-      "file": "05.jpg",
+      "file": "06.jpg",
       "source_sha256": "5cd208ab30f08d769b0bd17ae96aad3f42a3e9148c3873cf748fa26b1b734156",
       "output_sha256": "f15636e0a3513f162445e42e0d3cbbfda2bf29cef210fc4834562a3ba4262cbc",
       "size": [
@@ -174,7 +205,7 @@
       "license": "Unsplash License",
       "alt": "Crowds beside a citrus-fruit sculpture at Menton's Lemon Festival, published March 2022.",
       "activity_source": "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
-      "file": "06.jpg",
+      "file": "07.jpg",
       "source_sha256": "4f9191314a5d58f4c9f033bdacc0b2e4b66fee54b8e6f91c3338e83b75bfc8b0",
       "output_sha256": "8e084dc6df3a7f8af8042072a967f8be7c6e42c5c2fc0989c86d890b56341a03",
       "size": [
@@ -204,9 +235,9 @@
       "license": "Unsplash License",
       "alt": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
       "activity_source": "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
-      "file": "07.jpg",
-      "source_sha256": "84fc72c215ded98a0e17319ab1355bb01d16a3c62aa5472edd900744ed9a6b6e",
-      "output_sha256": "ea2f3bc2705b636e4824bf1a8e399e5c8709e9ac016c4dfd17522d4ed8ac0481",
+      "file": "08.jpg",
+      "source_sha256": "b3c7ce549b707c2fb4e57e25d78091e1059d98bab71d36275bcf9e2a1aab7325",
+      "output_sha256": "fbf1f195a5a1ed6581c4e8988760c59ff7ca17d4bb3e6781a8ef0a0e7c14579d",
       "size": [
         1080,
         1350

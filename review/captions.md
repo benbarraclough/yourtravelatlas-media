@@ -4,62 +4,67 @@ Publication verdicts are recorded separately in content/reviews.
 
 ## How to spend a weekend in Porto
 
-Porto deserves more than a riverside photo. Come for the tiled station and steep old streets; stay for the cellar stories, market lunches and sunset across the Douro. 🇵🇹
+Porto is a tiled station, a bookshop with a crimson staircase, a tower above the rooftops—and a cellar visit across the river. Here’s a weekend worth saving. 🇵🇹
 
 📍 Ribeira — cover
-Walk the waterfront below the colourful houses, then climb through the old-town lanes. Pair it with the Luís I Bridge rather than making a separate cross-city trip.
+Walk the Douro waterfront below the colourful houses; connect it with the old-town lanes rather than treating it as a separate excursion.
 
-📍 Mercado do Bolhão — slide 2
-Start Saturday with coffee and the produce stalls. The market closes on Sundays.
+📍 Mercado do Bolhão — 2
+Begin Saturday with coffee and the produce stalls. The market closes on Sundays.
 
-📍 São Bento — slide 3
-Step into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even without a train to catch. Continue towards Rua das Flores and the riverside.
+📍 Clérigos Tower — 3
+Climb for the city panorama and explore the Baroque church. Check current entry arrangements; the climb involves stairs.
 
-📍 Luís I Bridge → Jardim do Morro — slide 4
-Cross the upper deck towards Gaia for Porto’s skyline in the evening light. Share the crossing carefully with the metro.
+📍 Livraria Lello — 4
+Come for the red staircase, carved shelves and stained glass. Book entry through the official site; this is a busy visitor attraction.
 
-📍 Clérigos Tower — add to your old-town walk
-Climb for a different view across the rooftops. Combine the area with nearby Livraria Lello if its ornate bookshop interior interests you; check current ticket and entry arrangements first.
+📍 São Bento — 5
+Step into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even if you aren’t catching a train.
 
-📍 Vila Nova de Gaia — port-wine cellars
-Book a cellar visit and tasting to understand the region’s signature fortified wine. Taylor’s is one option; plan the visit before your Jardim do Morro sunset.
+📍 Luís I Bridge → Jardim do Morro — 6
+Cross the upper deck towards Gaia for Porto’s skyline in the changing evening light. Metro trains also use this crossing.
 
-📍 Foz do Douro — slide 5, optional coast outing
-Head to Passeio Alegre and follow the Atlantic promenade towards Felgueiras lighthouse. Check the current historic-tram service before relying on it.
+📍 Taylor’s, Vila Nova de Gaia — 7
+Book a cellar visit and tasting to understand the region’s signature fortified wine. Pair Gaia with the bridge/viewpoint outing.
 
-Saturday: market, Clérigos area, São Bento and Ribeira. Sunday: Gaia and a cellar visit; choose Foz as an extra outing if time allows. Leave room for a long lunch—Porto’s hills make rushed checklists hard work.
+📍 Passeio Alegre → Foz do Douro — 8
+An optional Atlantic outing: follow the seafront towards Felgueiras lighthouse. Check the historic tram’s current service before relying on it.
 
-In June, the night of 23 June brings São João street celebrations; check the annual programme.
+A sensible split: Saturday for the market and old-town sights; Sunday for Gaia. Choose Foz if you have extra time—these are options, not a race through every stop. Porto is hilly.
 
-Save this for your first Porto weekend.
+For another visit, the night of 23 June brings São João street celebrations; check the annual programme.
 
-Photos: Jacek Urbanski, Rui Alves, Maxime Galliot, Gabriel Palma & Vitalii Kyktov / Unsplash.
+Save this for your Porto weekend.
+
+Photos: Jacek Urbanski, Rui Alves, Sasha Pleshco, Dmitri Zotov, Maxime Galliot, Gabriel Palma, John Cameron & Vitalii Kyktov / Unsplash.
 #YourTravelAtlas #Porto #PortugalTravel
 
 ## The French Riviera by train
 
-The French Riviera is more than a summer road trip. Take the coastal trains—and in February, add a carnival and a parade made of citrus. 🍋
+The French Riviera by rail: coastal towns, sea views—and February’s carnival and citrus parades. 🍋
 
 Use Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.
 
-📍 Menton — cover + slide 6
+📍 Menton — cover + slide 7
 Pastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.
 
-📍 Promenade des Anglais, Nice — slide 2
+📍 Promenade des Anglais, Nice — slide 3
 Walk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.
 
-📍 Villefranche-sur-Mer — slide 3
+📍 Villefranche-sur-Mer — slide 4
 Follow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.
 
-📍 Château Grimaldi, Antibes — slide 4
+📍 Château Grimaldi, Antibes — slide 5
 Pair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.
 
-📍 Nice Carnival — slide 5
+📍 Nice Carnival — slide 6
 February brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.
 
 Festival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.
 
 Save this for a car-free coast escape.
+
+Train photo: Villefranche-sur-Mer,2016; current trains vary. Patrick Janicek / CC BY2.0, cropped + text: https://creativecommons.org/licenses/by/2.0/
 
 Photos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.
 
