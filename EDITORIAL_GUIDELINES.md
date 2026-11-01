@@ -1,3 +1,5 @@
+**Autonomous publishing directive — 1 November 2026:** Ben delegates completion, internal editorial approval and scheduling, including the remaining Porto/Riviera revisions. Routine owner preview/sign-off is no longer a gate. Keep all factual, rights, visual and scheduling checks; resolve routine decisions independently. Notify Ben only for material outcomes or a blocker requiring his actual input. No music or public issue numbers.
+
 # Your Travel Atlas — Editorial Playbook v8
 
 Current owner-directed standard, 30 October 2026. The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.

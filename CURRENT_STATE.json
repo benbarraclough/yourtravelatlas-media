@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30",
+  "checked_at": "2026-11-01",
   "timezone": "Europe/London",
   "policy_version": 8,
   "automation": {
@@ -57,8 +57,7 @@
   ],
   "pending": [
     "Porto visual/editorial remake",
-    "French Riviera relevant train photograph",
-    "Owner preview of revised Porto/Riviera before enabling publication"
+    "French Riviera relevant train photograph"
   ],
   "completed": [
     "Iceland silent export imported to existing Reel UUID",
@@ -66,5 +65,6 @@
     "28 obsolete pilot/output files removed",
     "Iceland content and typography owner approval recorded"
   ],
-  "media_revision": "86e693e41d551114afc29db2bab959d0a2c902ba"
+  "media_revision": "86e693e41d551114afc29db2bab959d0a2c902ba",
+  "approval_mode": "delegated_internal_review_no_routine_owner_signoff"
 }
