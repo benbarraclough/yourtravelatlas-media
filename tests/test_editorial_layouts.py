@@ -31,7 +31,7 @@ class EditorialPublicationChecks(unittest.TestCase):
         for change in ("missing", "duplicate"):
             post = copy.deepcopy(self.post)
             if change == "missing":
-                post["slides"][-1]["layout"] = "story"
+                post["slides"][-1]["layout"] = "photo"
             else:
                 post["slides"][1]["layout"] = "cta"
             with self.assertRaisesRegex(ValueError, "closing card"):

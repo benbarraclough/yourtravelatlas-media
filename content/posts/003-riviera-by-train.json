@@ -9,7 +9,7 @@
   "editorial_intent": "Inspire coastal outings from Nice with concise place-led scenes and two February festival discoveries, putting rail orientation and dates in the caption rather than a brochure panel.",
   "share_reason": "A shareable car-free coastal idea with distinct old towns, Picasso’s seaside museum and a lemon festival that gives friends a specific reason to choose February.",
   "reader_scenario": "A pair or small group uses Nice as a base for several days, selecting one town per outing rather than rushing through all four in a day.",
-  "editorial_verdict": "Candidate for owner calibration: simpler rail discovery replacing brochure-heavy v5; not approved for scheduling.",
+  "editorial_verdict": "Relevant train added with explicit archive date and verified CC BY2.0 credit; actual final crop/review required.",
   "fact_sources": [
     "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
     "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
@@ -26,9 +26,10 @@
     "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum",
     "https://www.explorenicecotedazur.com/en/culture/la-chapelle-saint-pierre-cocteau/",
     "https://www.explorenicecotedazur.com/en/explore/unesco-and-heritage/nice-carnival/",
-    "https://www.menton-riviera-merveilles.co.uk/get-planning/schedule/major-events/lemon-festival/"
+    "https://www.menton-riviera-merveilles.co.uk/get-planning/schedule/major-events/lemon-festival/",
+    "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer"
   ],
-  "caption": "The French Riviera is more than a summer road trip. Take the coastal trains—and in February, add a carnival and a parade made of citrus. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 6\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 2\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 3\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 4\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 5\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
+  "caption": "The French Riviera by rail: coastal towns, sea views—and February’s carnival and citrus parades. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 7\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 3\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 4\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 5\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 6\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nTrain photo: Villefranche-sur-Mer,2016; current trains vary. Patrick Janicek / CC BY2.0, cropped + text: https://creativecommons.org/licenses/by/2.0/\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
   "slides": [
     {
       "image_url": "https://images.unsplash.com/photo-1758972574387-42373e89a092?auto=format&fit=crop&w=2000&q=88",
@@ -51,6 +52,33 @@
         "image_context": "Authentic Menton waterfront illustrates a named coastal destination, not a pictured train.",
         "specific_detail": "The caption identifies Menton and clearly explains the Nice-base rail concept.",
         "distinct_contribution": "Provides the colourful coastal hero before specific towns and seasonal spectacles."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "The coastal train",
+      "body": "Use Nice as a base for TER outings: west to Antibes, east to Villefranche-sur-Mer and Menton.",
+      "date_label": "ARCHIVE · 2016",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/GARE_DE_VILLEFRANCHE_SUR_MER_%2824676570344%29.jpg/2560px-GARE_DE_VILLEFRANCHE_SUR_MER_%2824676570344%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:GARE_DE_VILLEFRANCHE_SUR_MER_(24676570344).jpg",
+      "photographer": "Patrick Janicek",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit_line": "Patrick Janicek / CC BY 2.0 · cropped + text",
+      "changes": "Cropped to portrait; typography added.",
+      "subject": "A regional train at Villefranche-sur-Mer station, photographed in February 2016.",
+      "alt": "Archival photograph of a regional train at Villefranche-sur-Mer station in 2016; current rolling stock may differ.",
+      "activity_source": "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer",
+      "fact_checks": [
+        "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Shows an actual relevant regional train so the rail premise is visible rather than confined to the caption.",
+        "image_context": "Source identifies Villefranche-sur-Mer and provides station coordinates, photographer,2016 date and CC BY2.0 licence; clearly labelled archive.",
+        "specific_detail": "Nice is a base for separate rail outings west towards Antibes and east towards Villefranche-sur-Mer/Menton.",
+        "distinct_contribution": "Adds the missing transport experience and route orientation; not an unrelated scenic train from the Pyrenees."
       }
     },
     {
@@ -199,10 +227,10 @@
       }
     }
   ],
-  "editorial_version": 6,
+  "editorial_version": 7,
   "format": "rail-discovery-with-seasonal-highlights",
-  "slide_count_rationale": "Seven pages: Menton cover, Nice seafront, Villefranche lanes, Antibes ramparts, two genuine seasonal spectacles and scenic follow card. Cut the dense rail planning panel and generic market photo.",
-  "editorial_status": "awaiting_owner_approval",
+  "slide_count_rationale": "Eight purposeful pages: destination hook, real regional train, four coastal/festival discoveries and scenic follow card; transport is now visible.",
+  "editorial_status": "internal_review",
   "reviewed_sources_on": "2026-10-29",
   "caption_review": {
     "hook_candidates": [
@@ -214,5 +242,6 @@
     "verdict": "Awaiting owner approval of this exact new edition."
   },
   "evergreen_policy": "Month-led recurring inspiration; no specific upcoming edition dates in published copy. Reverify recurrence, closures and service recommendations before reuse.",
-  "public_numbers": false
+  "public_numbers": false,
+  "content_type": "discovery"
 }
