@@ -11,7 +11,8 @@ def main():
  session=requests.Session()
  session.headers["User-Agent"]="YourTravelAtlasEditorial/1.0 (public travel image research)"
  results=[]
- jobs=[("Porto essentials",{"titles":"File:Clérigos Church (Igreja dos Clérigos) Porto, horizontal.jpg|File:A Livraria Lello e Irmão-A ponte de encanto.jpg|File:Lello Bookshop 9 April 2026.jpg|File:Torre de los Clérigos, Oporto, Portugal, 2012-05-09, DD 01.JPG"}),("Riviera train",{"generator":"search","gsrsearch":"file: Villefranche train TER","gsrnamespace":6,"gsrlimit":8})]
+ jobs=[("Porto essentials",{"titles":"File:Clérigos Church (Igreja dos Clérigos) Porto, horizontal.jpg|File:A Livraria Lello e Irmão-A ponte de encanto.jpg|File:Lello Bookshop 9 April 2026.jpg|File:Torre de los Clérigos, Oporto, Portugal, 2012-05-09, DD 01.JPG"}),("Riviera train",{"generator":"search","gsrsearch":'file: "Villefranche-sur-Mer" train',"gsrnamespace":6,"gsrlimit":8})]
+ jobs += [("Gaia cellar",{"generator":"search","gsrsearch":'file: "Vila Nova de Gaia" wine cellar',"gsrnamespace":6,"gsrlimit":6}),("Porto cathedral",{"generator":"search","gsrsearch":'file: "Porto Cathedral" exterior',"gsrnamespace":6,"gsrlimit":4})]
  for label,query in jobs:
   try:
    r=session.get("https://commons.wikimedia.org/w/api.php",params={"action":"query","format":"json","formatversion":2,"prop":"imageinfo","iiprop":"url|size|extmetadata","iiurlwidth":1600,**query},timeout=35)
