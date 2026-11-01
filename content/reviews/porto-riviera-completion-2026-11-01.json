@@ -1,0 +1,940 @@
+{
+  "checked_at": "2026-11-01",
+  "policy_version": 8,
+  "status": "PASS_SCHEDULED_NOT_YET_PUBLISHED",
+  "reviewer": "Assistant internal editorial review and separate self-challenge; no fictional independent reviewer",
+  "authority": "Ben: continue until everything is sorted, scheduled and can proceed without him doing anything. Interpreted as delegated routine internal approval, including outstanding Porto/Riviera; previous preview holds superseded.",
+  "exact_media_commit": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
+  "render_validation": {
+    "workflow": 41259115825,
+    "script_tests": 3,
+    "unit_tests": 17,
+    "result": "PASS; intentional mocked429 log is a source-isolation test, not a production source failure",
+    "production_render_errors": []
+  },
+  "research_scope": "Existing commissioned revisions, not a new topic commission. Reused documented actual hospitality.guide inspection and previous primary research; inspected new official Porto/rail/rights pages on1 November. No fresh claim to have watched all competitor Reels or read travel books.",
+  "reference_evidence": {
+    "file": "EDITORIAL_BENCHMARKS.md",
+    "urls": [
+      "https://www.instagram.com/hospitality.guide/p/De-CHxKkct6/",
+      "https://www.alongdustyroads.com/posts/things-to-do-in-porto"
+    ],
+    "scope": "Historical actual carousel/article inspection recorded in benchmarks; inspirational clarity/variety only. Current factual verification uses primary sources."
+  },
+  "editorial_options": {
+    "porto": [
+      "Selected: essentials plus distinctive bookshop/tower/cellar, retaining optional coast; nine purposeful pages",
+      "Rejected: keep six photos and only lengthen caption; fails owner's visual-coverage request",
+      "Rejected: exhaustive monument checklist; redundant architecture and implausible weekend density"
+    ],
+    "riviera": [
+      "Selected: place-led rail outings plus actual corridor train and two optional winter spectacles",
+      "Rejected: scenic coastal towns with rail only in caption; fails premise",
+      "Rejected: generic picturesque railway from elsewhere; wrong geography"
+    ],
+    "hooks": {
+      "porto_alternative": "Eight Porto experiences for your next weekend",
+      "porto_selected": "How to spend a weekend in Porto",
+      "rivieraalternative": "A car-free escape along the French Riviera",
+      "rivieraselected": "The French Riviera by train",
+      "reason": "Clear original commissioned promises; no inflated exhaustive/best claim. Captions now open with concrete experiences and preserve route context."
+    }
+  },
+  "coverage_matrix": [
+    {
+      "place": "Ribeira",
+      "page": 1,
+      "role": "Riverside essential and hook"
+    },
+    {
+      "place": "Mercado do Bolhão",
+      "page": 2,
+      "role": "Working market/food experience; Saturday because Sunday closed"
+    },
+    {
+      "place": "Clérigos Tower",
+      "page": 3,
+      "role": "Added essential skyline/Baroque experience; real tower photograph"
+    },
+    {
+      "place": "Livraria Lello",
+      "page": 4,
+      "role": "Added dramatic red staircase/bookshelves; official booking guidance"
+    },
+    {
+      "place": "São Bento",
+      "page": 5,
+      "role": "Essential azulejo interior; visually different from street scenes"
+    },
+    {
+      "place": "Luís I Bridge / Gaia viewpoint",
+      "page": 6,
+      "role": "River crossing and panorama; note metro"
+    },
+    {
+      "place": "Taylor's Gaia cellars",
+      "page": 7,
+      "role": "Added signature port experience; sourced named cellar, not generic barrels"
+    },
+    {
+      "place": "Foz / Felgueiras",
+      "page": 8,
+      "role": "Optional Atlantic outing; not compulsory extra weekend day"
+    },
+    {
+      "place": "Follow card",
+      "page": 9,
+      "role": "Single scenic close; not counted as an extra destination"
+    },
+    {
+      "place": "Sé cathedral",
+      "page": null,
+      "role": "Omitted as a dedicated page: weekend selection is not exhaustive; tower/church already provides architecture. Retain room for bookshop, market and signature wine rather than another similar monument."
+    }
+  ],
+  "claim_source_ledger": [
+    {
+      "claims": "Clérigos city panorama and Baroque church; stairs",
+      "url": "https://www.torredosclerigos.pt/en/",
+      "result": "PASS; no price/hours asserted",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Lello crimson staircase, carved shelves, stained glass and advance entry",
+      "url": "https://livrarialello.pt/en/",
+      "result": "PASS",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Taylor's Gaia cellar visit and tasting",
+      "url": "https://www.taylor.pt/en/visit-taylors/port-cellars",
+      "result": "PASS",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Bolhão closed Sundays",
+      "url": "https://mercadobolhao.pt/en/",
+      "result": "PASS",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Tram1 Infante to Passeio Alegre",
+      "url": "https://stcp.pt/pt/stcp-ajusta-operacao-na-pascoa-e-reforca-linhas-com-horarios-de-verao",
+      "result": "PASS; official2026 route notice, no evergreen exact times copied",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Nice / Villefranche train link",
+      "url": "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer",
+      "result": "PASS; quoted short timings on that page are from NiceRiquier, so no NiceVille duration claimed",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Socca market stand Tue–Sun mornings",
+      "url": "https://chez-theresa.fr/",
+      "result": "PASS",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Picasso Museum closed Monday",
+      "url": "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum",
+      "result": "PASS; checked1November",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    },
+    {
+      "claims": "Existing screen/caption facts: SãoBento tiles, bridge, SãoJoão; Riviera places, art and annual festival windows",
+      "url": "See manifests.fact_sources and existing edition research retained in GitHub",
+      "result": "Retained earlier primary-source ledger and evergreen wording; not represented as every source newly opened on1November",
+      "checked_at": "2026-11-01 (retained earlier sources explicitly distinguished)"
+    }
+  ],
+  "new_asset_rights": [
+    {
+      "subject": "Clérigos",
+      "source": "https://unsplash.com/photos/a-clock-tower-on-a-building-ESEaSiPrB9A",
+      "author": "Sasha Pleshco",
+      "license": "Unsplash License",
+      "result": "Actual photo and free reuse/location page inspected"
+    },
+    {
+      "subject": "Lello",
+      "source": "https://unsplash.com/photos/a-spiral-staircase-in-a-building-aT86BBws-Z4",
+      "author": "Dmitri Zotov",
+      "license": "Unsplash License",
+      "result": "Actual red staircase photo and free reuse/location page inspected"
+    },
+    {
+      "subject": "Taylor's cellars",
+      "source": "https://unsplash.com/photos/a-long-row-of-wine-barrels-in-a-winery-Vi1ugNVy3Ew",
+      "author": "John Cameron",
+      "license": "Unsplash License",
+      "result": "Actual cellar image including Taylor context, free reuse/location page inspected"
+    },
+    {
+      "subject": "Villefranche-sur-Mer train",
+      "source": "https://commons.wikimedia.org/wiki/File:GARE_DE_VILLEFRANCHE_SUR_MER_(24676570344).jpg",
+      "original": "https://www.flickr.com/photos/marsupilami92/24676570344/",
+      "download": "https://live.staticflickr.com/1530/24676570344_399b77b5d5_b.jpg",
+      "author": "Patrick Janicek",
+      "license": "CC BY2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "source_dimensions": [
+        1024,
+        768
+      ],
+      "display_dimensions": [
+        1080,
+        810
+      ],
+      "changes": "Full landscape image resized; type below. No image crop.",
+      "result": "Original creator public oEmbed and Commons source confirm author/licence/title/location/date15Feb2016/GPS. Archive2016 visible; current trains vary in caption. Full title+original material+licence+changes credited. No unverified modern-rolling-stock claim."
+    }
+  ],
+  "failures_resolved": [
+    "Commons candidate trains from Villefranche-de-Conflent rejected: Pyrenees, not Riviera",
+    "Commons train download429/403 replaced by original creator's legitimate public Flickr asset; no proxy or auth bypass",
+    "Flickr1024 source kept full landscape with only5.5%upscale instead of poor portrait crop; quality guard remains >=1000px wide",
+    "Obsolete regression mutation story→photo corrected so closing-card test reaches its intended invariant",
+    "Source download exception isolated per edition; error ledger and freshness checks added",
+    "Riviera train caption corrected from cropped to resized and original material link added"
+  ],
+  "visual_review": {
+    "scope": "Every one of Porto9 and Riviera8 exact final images inspected full-size and phone-scale. Porto local files match remote hashes. Riviera local differences on02credit and08CTA were downloaded from final revision, inspected full-size and then all imported pages re-inspected at360px width. All17 imported files independently downloaded and hash-equal to reviewed outputs.",
+    "porto_weakest": "Clérigos' framed view shows less of the tower than a postcard panorama, but the tower is clear and the architectural framing contrasts with the market, red staircase and barrels. No claim that the photograph itself is the rooftop panorama.",
+    "riviera_weakest": "Train is older and less glamorous than the coastal hero. Date is explicit; it meaningfully establishes the actual transport experience. Full landscape preserves relevant train/station context and readable type; no filler page.",
+    "result": "PASS; no missing item, overflow, public issue number or dense planning card. Photo carousels contain no audio."
+  },
+  "gates": [
+    {
+      "gate": 1,
+      "result": "PASS",
+      "evidence": "Compared revision approaches; chosen promises are clear, varied and achievable."
+    },
+    {
+      "gate": 2,
+      "result": "PASS",
+      "evidence": "Primary facts/rights checked with retained ledger plus new named assets; archive/season caveats accurate."
+    },
+    {
+      "gate": 3,
+      "result": "PASS",
+      "evidence": "Porto coverage matrix and page reviews; Riviera adds actual relevant train. Each scene changes experience/scale; one closing card."
+    },
+    {
+      "gate": 4,
+      "result": "PASS",
+      "evidence": "Clear hooks, <=30 supporting words including labels, pinned captions1868/2068 characters; final credits fit."
+    },
+    {
+      "gate": 5,
+      "result": "PASS",
+      "evidence": "Full-size and phone-scale exact assets;20productiontests; all17importhashesequal."
+    },
+    {
+      "gate": 6,
+      "result": "PASS",
+      "evidence": "Separate self-challenge accepts explicit optional Foz and nonexhaustive weekend; resolves Riviera premise and train age/quality honestly."
+    },
+    {
+      "gate": 7,
+      "result": "PASS",
+      "evidence": "Fresh November queue before/after mutations; four entries only, replacement UUIDs retained, exact captions, nine/eight ordered imports, IGPOST, UKfuturetimes,PENDING,draftfalse,bothautoPublishtrue. No additional reservation or duplicate."
+    }
+  ],
+  "editions": [
+    {
+      "name": "Porto",
+      "manifest": {
+        "issue": 2,
+        "slug": "002-porto-slow-weekend",
+        "status": "rendered-not-published",
+        "editorial_version": 7,
+        "content_type": "discovery",
+        "collection_number": null,
+        "brief_sha256": "50c50221d3c96e76841ecebb6f3c2e118d4f1f73f786fde686f65cabc4808e6b",
+        "caption": "Porto is a tiled station, a bookshop with a crimson staircase, a tower above the rooftops—and a cellar visit across the river. Here’s a weekend worth saving. 🇵🇹\n\n📍 Ribeira — cover\nWalk the Douro waterfront below the colourful houses; connect it with the old-town lanes rather than treating it as a separate excursion.\n\n📍 Mercado do Bolhão — 2\nBegin Saturday with coffee and the produce stalls. The market closes on Sundays.\n\n📍 Clérigos Tower — 3\nClimb for the city panorama and explore the Baroque church. Check current entry arrangements; the climb involves stairs.\n\n📍 Livraria Lello — 4\nCome for the red staircase, carved shelves and stained glass. Book entry through the official site; this is a busy visitor attraction.\n\n📍 São Bento — 5\nStep into the entrance hall for Jorge Colaço’s blue-and-white tile panels, even if you aren’t catching a train.\n\n📍 Luís I Bridge → Jardim do Morro — 6\nCross the upper deck towards Gaia for Porto’s skyline in the changing evening light. Metro trains also use this crossing.\n\n📍 Taylor’s, Vila Nova de Gaia — 7\nBook a cellar visit and tasting to understand the region’s signature fortified wine. Pair Gaia with the bridge/viewpoint outing.\n\n📍 Passeio Alegre → Foz do Douro — 8\nAn optional Atlantic outing: follow the seafront towards Felgueiras lighthouse. Check the historic tram’s current service before relying on it.\n\nA sensible split: Saturday for the market and old-town sights; Sunday for Gaia. Choose Foz if you have extra time—these are options, not a race through every stop. Porto is hilly.\n\nFor another visit, the night of 23 June brings São João street celebrations; check the annual programme.\n\nSave this for your Porto weekend.\n\nPhotos: Jacek Urbanski, Rui Alves, Sasha Pleshco, Dmitri Zotov, Maxime Galliot, Gabriel Palma, John Cameron & Vitalii Kyktov / Unsplash.\n#YourTravelAtlas #Porto #PortugalTravel",
+        "fact_sources": [
+          "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
+          "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
+          "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
+          "https://backoffice.visitporto.travel/en-GB/foz",
+          "https://mercadobolhao.pt/en/",
+          "https://visitporto.travel/en-GB/poi/5cd04b4bf979e00001939090",
+          "https://www.museudocarroelectrico.pt/visitar/",
+          "https://stcp.pt/pt/horarios-de-verao-linhas-1-18-500",
+          "https://www.visitportugal.com/en/node/155969",
+          "https://www.agoraporto.pt/entretenimento/festas-de-sao-joao",
+          "https://www.torredosclerigos.pt/en/",
+          "https://www.taylor.pt/en/visit-taylors/port-cellars",
+          "https://livrarialello.pt/en/"
+        ],
+        "editorial_intent": "A first Porto weekend with signature city sights and a Gaia wine experience, plus an explicitly optional coast outing; each image shows a distinct worthwhile thing to do.",
+        "share_reason": "Send a friend a weekend idea that combines an extraordinary tiled station, a riverside sunset and an Atlantic tram outing, with exact places to save.",
+        "slides": [
+          {
+            "subject": "Traditional boats on the Douro below Porto's colourful Ribeira waterfront.",
+            "source_page": "https://unsplash.com/photos/boats-sit-on-water-in-front-of-a-city-7rPA1-E1X9A",
+            "photographer": "Jacek Urbanski",
+            "license": "Unsplash License",
+            "alt": "Traditional boats on the Douro below Porto's colourful Ribeira waterfront.",
+            "activity_source": "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
+            "file": "01.jpg",
+            "source_sha256": "48ed1c11d2247df69e60bf53ba5f5c205e3e8eaa1bc3ef79d0621ef323752d4d",
+            "output_sha256": "35deaf930b87fa72c74d9faa7c5fdb2fac58280635ad1df5e612eaf0f01f9f95",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "cover",
+            "review": {
+              "reader_value": "Sets a clear, achievable Porto-weekend promise over an authentic Ribeira hero.",
+              "image_context": "The Douro and Ribeira waterfront are the cover setting; caption pin identifies them.",
+              "specific_detail": "One simple weekend hook replaces the abstract title and subtitle stack.",
+              "distinct_contribution": "Introduces the riverside city before four different experiences."
+            },
+            "fact_checks": [
+              "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf",
+              "https://mercadobolhao.pt/en/",
+              "https://www.visitportugal.com/en/node/155969"
+            ]
+          },
+          {
+            "subject": "Fruit stalls and shoppers at Porto's Mercado do Bolhão.",
+            "source_page": "https://unsplash.com/photos/a-fruit-stand-with-bananas-from-the-ceiling-5LuSYK5WbkE",
+            "photographer": "Rui Alves",
+            "license": "Unsplash License",
+            "alt": "Fruit stalls and shoppers at Porto's Mercado do Bolhão.",
+            "activity_source": "https://mercadobolhao.pt/en/",
+            "file": "02.jpg",
+            "source_sha256": "71b31985a8a62ceb902195e15649f17b8fcb181c74fb284b65d62f57272717b4",
+            "output_sha256": "ce88eacdf11b9bcc61337edb57abd56568199124a4525302a568f8a3a1335864",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "A working produce market filled with fruit stalls, flowers and coffee counters. Start here on Saturday: the market closes on Sundays.",
+            "review": {
+              "reader_value": "Explains what the market is and the day choice that matters for a weekend.",
+              "image_context": "Authentic Bolhão fruit stalls visibly support the working produce market label.",
+              "specific_detail": "Saturday is recommended because the official market says Sunday closed.",
+              "distinct_contribution": "Adds local food and everyday life rather than another monument or skyline."
+            },
+            "fact_checks": [
+              "https://mercadobolhao.pt/en/",
+              "https://visitporto.travel/en-GB/poi/5cd04b4bf979e00001939090"
+            ]
+          },
+          {
+            "subject": "Clérigos Tower in Porto, photographed from below against the sky.",
+            "source_page": "https://unsplash.com/photos/a-clock-tower-on-a-building-ESEaSiPrB9A",
+            "photographer": "Sasha Pleshco",
+            "license": "Unsplash License",
+            "alt": "Clérigos Tower in Porto, photographed from below against the sky.",
+            "activity_source": "https://www.torredosclerigos.pt/en/",
+            "file": "03.jpg",
+            "source_sha256": "fea15cef2f9f8ae8b1f81ec0f6b7ce3de7362b5cc1ba9a4366b82526a01f9e2d",
+            "output_sha256": "855042c7e418d36ff89fa36462d17f89baee254db98a96fefd2126d249aa5608",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+            "review": {
+              "reader_value": "Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+              "image_context": "Clérigos Tower in Porto, photographed from below against the sky. Source page identifies this exact Porto-area subject.",
+              "specific_detail": "Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+              "distinct_contribution": "Adds a signature landmark and viewpoint omitted from the original four-stop selection."
+            },
+            "fact_checks": [
+              "https://www.torredosclerigos.pt/en/"
+            ]
+          },
+          {
+            "subject": "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above.",
+            "source_page": "https://unsplash.com/photos/a-spiral-staircase-in-a-building-aT86BBws-Z4",
+            "photographer": "Dmitri Zotov",
+            "license": "Unsplash License",
+            "alt": "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above.",
+            "activity_source": "https://livrarialello.pt/en/",
+            "file": "04.jpg",
+            "source_sha256": "0655b0a8403e2291d8691602ace7c9a3b28a68c41feb3232d18a88c6911ac696",
+            "output_sha256": "7d4389a9541850e6c97a12a979e55d5e4d0f6effd9f1567618a33e6f2633d429",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+            "review": {
+              "reader_value": "Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+              "image_context": "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above. Source page identifies this exact Porto-area subject.",
+              "specific_detail": "Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+              "distinct_contribution": "Shows the interior that makes this bookshop distinctive, rather than another exterior or caption-only mention."
+            },
+            "fact_checks": [
+              "https://livrarialello.pt/en/"
+            ]
+          },
+          {
+            "subject": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
+            "source_page": "https://unsplash.com/photos/a-blue-and-white-tile-mural-depicts-a-lively-scene-ciZmTEBCfZo",
+            "photographer": "Jacek Urbanski",
+            "license": "Unsplash License",
+            "alt": "Blue-and-white azulejo mural inside Porto's São Bento railway station.",
+            "activity_source": "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
+            "file": "05.jpg",
+            "source_sha256": "b46ff8f3965d4b0daa4c25ba3a85f224233eaedb77dd1dae4f4356207fcb1706",
+            "output_sha256": "5d85d1e80fbec2d3a0b930f16c5544f6a95f35ce34e3e502e1d01332e02797dc",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Its entrance hall is lined with Jorge Colaço’s blue-and-white tile panels, depicting Portuguese history. Step inside even if you’re not catching a train.",
+            "review": {
+              "reader_value": "Explains why a railway hall is worth visiting without taking a train.",
+              "image_context": "The actual São Bento tile mural is visible, not a generic azulejo example.",
+              "specific_detail": "Names Jorge Colaço and the Portuguese-history subject of the panels.",
+              "distinct_contribution": "Adds an exceptional interior and cultural detail between outdoor scenes."
+            },
+            "fact_checks": [
+              "https://visitporto.travel/en-GB/poi/5cd04b4ef979e00001fe480a",
+              "https://visitporto.travel/storage/01HRWD2GGEDZY75FC3ZZW3TAYR.pdf"
+            ]
+          },
+          {
+            "subject": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
+            "source_page": "https://unsplash.com/photos/city-skyline-and-bridge-at-sunset-with-orange-clouds-ONxCimFDCNY",
+            "photographer": "Maxime Galliot",
+            "license": "Unsplash License",
+            "alt": "Luís I Bridge and Porto's skyline beneath an orange evening sky.",
+            "activity_source": "https://backoffice.visitporto.travel/en-GB/porto-in-1-day",
+            "file": "06.jpg",
+            "source_sha256": "11f1d3a93516ddfc62833e6818ae2a5b88755229329f8a258dc25e64665c0341",
+            "output_sha256": "f453daef85a88543ce978501ce4882ef9c16c00fd5141f71a227214261fa11e5",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Cross the upper deck towards Jardim do Morro for a wide view over Porto’s riverside rooftops, especially as the evening light changes.",
+            "review": {
+              "reader_value": "Gives a recognisable crossing and viewpoint for an evening in Porto.",
+              "image_context": "Actual Luís I Bridge upper deck and skyline appear in changing evening light.",
+              "specific_detail": "Names the upper deck and Jardim do Morro across the river.",
+              "distinct_contribution": "Adds the Gaia-side perspective and a specific evening experience."
+            },
+            "fact_checks": [
+              "https://backoffice.visitporto.travel/en-GB/porto-in-1-day"
+            ]
+          },
+          {
+            "subject": "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia.",
+            "source_page": "https://unsplash.com/photos/a-long-row-of-wine-barrels-in-a-winery-Vi1ugNVy3Ew",
+            "photographer": "John Cameron",
+            "license": "Unsplash License",
+            "alt": "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia.",
+            "activity_source": "https://www.taylor.pt/en/visit-taylors/port-cellars",
+            "file": "07.jpg",
+            "source_sha256": "2d01f9f373f2c598e5d7b75eb2c73d8e2c8f3559e7b801c953d2fa7f3784117a",
+            "output_sha256": "0169bf1b3da0aea2c825323ad2262826500fff08ca1714f6385b29869c5700e9",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+            "review": {
+              "reader_value": "Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+              "image_context": "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia. Source page identifies this exact Porto-area subject.",
+              "specific_detail": "Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+              "distinct_contribution": "Adds Porto's signature wine experience with an identified Gaia cellar photograph and concrete visitor action."
+            },
+            "fact_checks": [
+              "https://www.taylor.pt/en/visit-taylors/port-cellars"
+            ]
+          },
+          {
+            "subject": "The Felgueiras lighthouse and Atlantic waves at Foz do Douro in daylight.",
+            "source_page": "https://unsplash.com/photos/a-lighthouse-on-a-pier-with-waves-crashing-in-the-background-5kmMDx_FalU",
+            "photographer": "Gabriel Palma",
+            "license": "Unsplash License",
+            "alt": "Felgueiras lighthouse beside the Atlantic at Foz do Douro in Porto.",
+            "activity_source": "https://www.museudocarroelectrico.pt/visitar/",
+            "file": "08.jpg",
+            "source_sha256": "374593c96097c8d829c3f909aa0a14a8e0c2010029f57f11f6e9c73d12a3a076",
+            "output_sha256": "c500007761ac9be3f6d95c953a28f69b3bd993f49365c371fff2b1464ebbafbd",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Where the Douro meets the Atlantic. Ride historic tram 1 to Passeio Alegre, then follow the seafront towards the Felgueiras lighthouse.",
+            "review": {
+              "reader_value": "Connects a city weekend to a distinctive Atlantic outing with the real tram endpoints.",
+              "image_context": "The photo shows Felgueiras lighthouse and Atlantic surf; no tram is claimed to be pictured.",
+              "specific_detail": "Tram1 to Passeio Alegre and the seafront towards Felgueiras make this specific.",
+              "distinct_contribution": "Adds coast and dramatic waves, unlike the market, interior and river skyline."
+            },
+            "fact_checks": [
+              "https://backoffice.visitporto.travel/en-GB/foz",
+              "https://www.museudocarroelectrico.pt/visitar/",
+              "https://stcp.pt/pt/horarios-de-verao-linhas-1-18-500"
+            ]
+          },
+          {
+            "subject": "A beachgoer silhouetted by the Atlantic and lighthouses at Foz do Douro.",
+            "source_page": "https://unsplash.com/photos/a-person-standing-on-a-beach-JNRMADXS7aA",
+            "photographer": "Rui Alves",
+            "license": "Unsplash License",
+            "alt": "A beachgoer silhouetted by the Atlantic and lighthouses at Foz do Douro.",
+            "activity_source": "https://backoffice.visitporto.travel/en-GB/foz",
+            "file": "09.jpg",
+            "source_sha256": "fa944894e707714bb452b0d65867c7b2acda5517f87b129bb4dd71873367e133",
+            "output_sha256": "4c531e90d9eaf0b2e79b9fc1080288ecd7e88d93c510b1352179e65603fc68d5",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "cta",
+            "review": {
+              "reader_value": "Invites following for beautiful places and the details for real plans.",
+              "image_context": "Authentic Foz sunset scene supports the coast ending and differs from the daytime lighthouse.",
+              "specific_detail": "Uses the fixed account handle and follow promise with no false urgency.",
+              "distinct_contribution": "One uncluttered closing card ends the story; it is not an extra itinerary stop."
+            },
+            "fact_checks": [
+              "https://backoffice.visitporto.travel/en-GB/foz"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "name": "French Riviera",
+      "manifest": {
+        "issue": 3,
+        "slug": "003-riviera-by-train",
+        "status": "rendered-not-published",
+        "editorial_version": 7,
+        "content_type": "discovery",
+        "collection_number": null,
+        "brief_sha256": "bb9bb0b77ca4a3d6d964acf5b27207755ad65dbe7de0b69c53388634e36930ff",
+        "caption": "The French Riviera by rail: coastal towns, sea views—and February’s carnival and citrus parades. 🍋\n\nUse Nice as a base for separate outings. Antibes is west; Villefranche-sur-Mer and Menton are east. These are choices across several days, not a single-day itinerary.\n\n📍 Menton — cover + slide 7\nPastel old-town buildings above the waterfront. For a different side of the town, visit in February for the annual Fête du Citron: elaborate citrus creations in the Biovès gardens and fruit-covered parade floats. Look for the Golden Fruit Parades or an evening parade.\n\n📍 Promenade des Anglais, Nice — slide 3\nWalk the seafront beside the Baie des Anges, then head into the old town. At Cours Saleya, try hot socca: a thin chickpea pancake. Chez Thérésa’s market stand serves it Tuesday–Sunday; Monday is antiques-market day.\n\n📍 Villefranche-sur-Mer — slide 4\nFollow the pastel lanes to Quai Courbet and Saint-Pierre chapel, painted inside by Jean Cocteau. Check its seasonal opening days before making the art stop your main reason to go.\n\n📍 Château Grimaldi, Antibes — slide 5\nPair the Picasso Museum and sea-facing sculpture terrace with the old-town ramparts. The museum closes on Mondays.\n\n📍 Nice Carnival — slide 6\nFebruary brings giant floats and flower battles, where costumed performers shower spectators with flowers. Check the organiser’s programme and tickets for the shows you want to see.\n\nFestival dates change each year and some editions extend into early March—check the current programmes before booking. Check TER departures and last trains too. Sunny coast photos show the locations; event photos show past editions.\n\nSave this for a car-free coast escape.\n\nTrain: “GARE DE VILLEFRANCHE SUR MER” (2016), Patrick Janicek / CC BY 2.0; resized + text. https://www.flickr.com/photos/marsupilami92/24676570344/ · https://creativecommons.org/licenses/by/2.0/ . Current trains vary.\n\nPhotos: Luna Wang, Nick Page, Chelsea Essig, Pix Tresa, Anatoli Nicolae & Leonardo Caetano / Unsplash.\n\n#YourTravelAtlas #FrenchRiviera #TrainTravel #NiceCarnival #Menton",
+        "fact_sources": [
+          "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
+          "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
+          "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
+          "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
+          "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/get-to-villefranche-sur-mer/",
+          "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
+          "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
+          "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+          "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
+          "https://www.explorenicecotedazur.com/en/culture/cours-saleya/",
+          "https://chez-theresa.fr/",
+          "https://www.explorenicecotedazur.com/explorer/art-de-vivre/gastronomie-et-terroir/recettes-de-cuisine-nicoise/la-socca/",
+          "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum",
+          "https://www.explorenicecotedazur.com/en/culture/la-chapelle-saint-pierre-cocteau/",
+          "https://www.explorenicecotedazur.com/en/explore/unesco-and-heritage/nice-carnival/",
+          "https://www.menton-riviera-merveilles.co.uk/get-planning/schedule/major-events/lemon-festival/",
+          "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer"
+        ],
+        "editorial_intent": "Inspire coastal outings from Nice with concise place-led scenes and two February festival discoveries, putting rail orientation and dates in the caption rather than a brochure panel.",
+        "share_reason": "A shareable car-free coastal idea with distinct old towns, Picasso’s seaside museum and a lemon festival that gives friends a specific reason to choose February.",
+        "slides": [
+          {
+            "subject": "Colourful old-town buildings above Menton's Mediterranean waterfront.",
+            "source_page": "https://unsplash.com/photos/colorful-buildings-line-a-beach-with-palm-trees-2R_dJAMF5Yg",
+            "photographer": "Luna Wang",
+            "license": "Unsplash License",
+            "alt": "Colourful old-town buildings above Menton's Mediterranean waterfront.",
+            "activity_source": "https://www.menton-riviera-merveilles.co.uk/menton-and-its-coastline/our-must-see-attractions/",
+            "file": "01.jpg",
+            "source_sha256": "9694cdafd195db368887f347b33630a98c427d8e1d8eaa6bd4bfd400f5015ba5",
+            "output_sha256": "86eb54f871cbad366766f051575f92a4c423fa70b9d765f476dd9b79710754cb",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "cover",
+            "review": {
+              "reader_value": "Makes the whole subject immediately clear: discovering the Riviera by train.",
+              "image_context": "Authentic Menton waterfront illustrates a named coastal destination, not a pictured train.",
+              "specific_detail": "The caption identifies Menton and clearly explains the Nice-base rail concept.",
+              "distinct_contribution": "Provides the colourful coastal hero before specific towns and seasonal spectacles."
+            },
+            "fact_checks": [
+              "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+              "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique"
+            ]
+          },
+          {
+            "subject": "A regional train at Villefranche-sur-Mer station, photographed in February 2016.",
+            "source_page": "https://commons.wikimedia.org/wiki/File:GARE_DE_VILLEFRANCHE_SUR_MER_(24676570344).jpg",
+            "photographer": "Patrick Janicek",
+            "license": "CC BY 2.0",
+            "alt": "Archival photograph of a regional train at Villefranche-sur-Mer station in 2016; current rolling stock may differ.",
+            "activity_source": "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer",
+            "file": "02.jpg",
+            "source_sha256": "2fc4f53b9ae4021181348f1f2b057c0e8ada850dd2711e6b9deea91aeb17c812",
+            "output_sha256": "d1120d2a16910559b138d98aed4df3a8d4b156b1f63a81b3f94875b2429cf7ea",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "landscape",
+            "body": "Use Nice as a base for TER outings: west to Antibes, east to Villefranche-sur-Mer and Menton.",
+            "date_label": "ARCHIVE · 2016",
+            "license_url": "https://creativecommons.org/licenses/by/2.0/",
+            "credit_line": "Patrick Janicek / CC BY 2.0 · resized + text",
+            "changes": "Full landscape photograph resized; typography added below it.",
+            "review": {
+              "reader_value": "Shows an actual relevant regional train so the rail premise is visible rather than confined to the caption.",
+              "image_context": "Source identifies Villefranche-sur-Mer and provides station coordinates, photographer,2016 date and CC BY2.0 licence; clearly labelled archive.",
+              "specific_detail": "Nice is a base for separate rail outings west towards Antibes and east towards Villefranche-sur-Mer/Menton.",
+              "distinct_contribution": "Adds the missing transport experience and route orientation; not an unrelated scenic train from the Pyrenees."
+            },
+            "fact_checks": [
+              "https://www.sncf-connect.com/en-en/train/timetables/nice/villefranche-sur-mer"
+            ]
+          },
+          {
+            "subject": "Film photograph of Nice's curving seafront and busy pebble beaches.",
+            "source_page": "https://unsplash.com/photos/a-beach-with-a-lot-of-people-on-it-M2u_fRfluME",
+            "photographer": "Nick Page",
+            "license": "Unsplash License",
+            "alt": "Film photograph of Nice's curving seafront and busy pebble beaches.",
+            "activity_source": "https://www.explorenicecotedazur.com/en/culture/promenade-des-anglais/",
+            "file": "03.jpg",
+            "source_sha256": "91461e348e0f7ee0a8913452e2d0b60248bbe15ea5b3e99ab49ba4d9537594fd",
+            "output_sha256": "6398e259b229ca03685058d95991468217445cf45b9a8bafffc8e2e5c7aab06c",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "The Promenade des Anglais follows the Baie des Anges: a long seafront walk beside pebble beaches and turquoise water.",
+            "review": {
+              "reader_value": "Identifies the famous Nice seafront and what the traveller would enjoy there.",
+              "image_context": "Real Nice film photograph shows the curve of the bay and beach, not February weather.",
+              "specific_detail": "Names the Promenade des Anglais and Baie des Anges, with pebble-beach context.",
+              "distinct_contribution": "Adds an open coastal sweep to contrast narrow lanes and town ramparts."
+            },
+            "fact_checks": [
+              "https://www.sncf-connect.com/en-en/train/timetables/menton/antibes",
+              "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/get-to-villefranche-sur-mer/",
+              "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+              "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique"
+            ]
+          },
+          {
+            "subject": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
+            "source_page": "https://unsplash.com/photos/a-narrow-street-with-a-few-buildings-on-both-sides-e801Lh5Htls",
+            "photographer": "Chelsea Essig",
+            "license": "Unsplash License",
+            "alt": "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town.",
+            "activity_source": "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
+            "file": "04.jpg",
+            "source_sha256": "c9171b413a8ced03d68eec1673b70980c9ac1be78fcd49aad3d134b16daa6df3",
+            "output_sha256": "621f2f8c627921f258031a8bb09d3137720333726e407b92c2d937aea12e43e5",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Pastel lanes wind down towards the harbour. On Quai Courbet, Saint-Pierre chapel hides an interior painted by Jean Cocteau.",
+            "review": {
+              "reader_value": "Adds a precise cultural discovery beyond the pastel lanes in the image.",
+              "image_context": "Actual Villefranche lanes are pictured; the separate chapel on Quai Courbet is described without claiming it is visible.",
+              "specific_detail": "Names Saint-Pierre chapel and Jean Cocteau’s painted interior.",
+              "distinct_contribution": "Offers intimate street-level colour and an art discovery distinct from the coast panorama."
+            },
+            "fact_checks": [
+              "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/",
+              "https://www.explorenicecotedazur.com/en/culture/la-chapelle-saint-pierre-cocteau/"
+            ]
+          },
+          {
+            "subject": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
+            "source_page": "https://unsplash.com/photos/coastal-town-with-ancient-walls-overlooking-the-sea-oZcroCg_JFw",
+            "photographer": "Luna Wang",
+            "license": "Unsplash License",
+            "alt": "Antibes' old stone ramparts and coastal buildings above the blue sea.",
+            "activity_source": "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
+            "file": "05.jpg",
+            "source_sha256": "a435c51b53cb57dde2d037a52ef50a6f16ff19a9099abd9761c8f6db7b4cb819",
+            "output_sha256": "9ec80fd3921b423399a0dc204d29fba332e92eb4faa0f2ec7b7a89057496a578",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Stone ramparts wrap around the old town above the sea. Inside Château Grimaldi, the Picasso Museum has a sea-facing sculpture terrace.",
+            "review": {
+              "reader_value": "Explains what lies inside the impressive sea-facing château and walls.",
+              "image_context": "Actual Antibes ramparts and Château Grimaldi appear; no museum interior is implied.",
+              "specific_detail": "Names the Picasso Museum and its sea-facing sculpture terrace.",
+              "distinct_contribution": "Adds a westbound art outing and fortified coastal town."
+            },
+            "fact_checks": [
+              "https://www.antibesjuanlespins.com/en/discover/the-must-sees/antibes-the-city-with-rampart-walls",
+              "https://www.antibesjuanlespins.com/en/discover/the-must-sees/picasso-museum"
+            ]
+          },
+          {
+            "subject": "An elaborate float from Nice Carnival 2026 at Place Masséna.",
+            "source_page": "https://unsplash.com/photos/a-colorful-float-with-a-woman-holding-a-frog-wWPGEX6t0tE",
+            "photographer": "Pix Tresa",
+            "license": "Unsplash License",
+            "alt": "An elaborate fantasy float at Nice Carnival 2026, illustrating the past-edition parade spectacle.",
+            "activity_source": "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+            "file": "06.jpg",
+            "source_sha256": "5cd208ab30f08d769b0bd17ae96aad3f42a3e9148c3873cf748fa26b1b734156",
+            "output_sha256": "f15636e0a3513f162445e42e0d3cbbfda2bf29cef210fc4834562a3ba4262cbc",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Giant carnival floats fill the streets. During flower battles, costumed performers shower spectators with flowers.",
+            "date_label": "FEBRUARY",
+            "event_status": "Recurring annual winter festival; February is a planning window, not confirmation of exact dates in every future year. Some editions extend into early March.",
+            "photo_note": "PAST EDITION",
+            "review": {
+              "reader_value": "Explains what a flower battle actually involves, instead of a vague event name.",
+              "image_context": "Real 2026 Nice Carnival float is labelled past edition; exact source edition stays in research.",
+              "specific_detail": "Recurring February context and costumed performers showering spectators with flowers are sourced.",
+              "distinct_contribution": "Adds a striking human-made spectacle and a seasonal reason to return."
+            },
+            "fact_checks": [
+              "https://www.explorenicecotedazur.com/en/nice-carnival-2027-vive-lamour/",
+              "https://www.explorenicecotedazur.com/en/explore/unesco-and-heritage/nice-carnival/"
+            ]
+          },
+          {
+            "subject": "Crowds beside a citrus-fruit sculpture at Menton's Lemon Festival, published March 2022.",
+            "source_page": "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-float-U19CSKBZQz8",
+            "photographer": "Anatoli Nicolae",
+            "license": "Unsplash License",
+            "alt": "Crowds beside a citrus-fruit sculpture at Menton's Lemon Festival, published March 2022.",
+            "activity_source": "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
+            "file": "07.jpg",
+            "source_sha256": "4f9191314a5d58f4c9f033bdacc0b2e4b66fee54b8e6f91c3338e83b75bfc8b0",
+            "output_sha256": "8e084dc6df3a7f8af8042072a967f8be7c6e42c5c2fc0989c86d890b56341a03",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "photo",
+            "body": "Citrus sculptures fill the Biovès gardens; fruit-covered floats parade through town during the Fête du Citron.",
+            "date_label": "FEBRUARY",
+            "event_status": "Recurring annual winter festival; February is a planning window, not confirmation of exact dates in every future year. Some editions extend into early March.",
+            "photo_note": "PAST EDITION",
+            "review": {
+              "reader_value": "Explains what makes this festival unusual: sculptures and floats built with citrus.",
+              "image_context": "Actual older Menton citrus-festival creation is visibly labelled past edition.",
+              "specific_detail": "Names the Biovès gardens and Fête du Citron with a recurring February window.",
+              "distinct_contribution": "Adds a very different festival spectacle, not another seafront or duplicate Nice event."
+            },
+            "fact_checks": [
+              "https://www.fete-du-citron.com/spip.php?id_rubrique=12&page=rubrique",
+              "https://www.menton-riviera-merveilles.co.uk/get-planning/schedule/major-events/lemon-festival/"
+            ]
+          },
+          {
+            "subject": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
+            "source_page": "https://unsplash.com/photos/a-body-of-water-filled-with-lots-of-boats-Wu8N7z9OWTQ",
+            "photographer": "Leonardo Caetano",
+            "license": "Unsplash License",
+            "alt": "Blue water, boats and the shoreline at Villefranche-sur-Mer bay.",
+            "activity_source": "https://www.france.fr/en/article/eight-best-beaches-nice-cote-dazur-france/",
+            "file": "08.jpg",
+            "source_sha256": "b3c7ce549b707c2fb4e57e25d78091e1059d98bab71d36275bcf9e2a1aab7325",
+            "output_sha256": "fbf1f195a5a1ed6581c4e8988760c59ff7ca17d4bb3e6781a8ef0a0e7c14579d",
+            "size": [
+              1080,
+              1350
+            ],
+            "layout": "cta",
+            "review": {
+              "reader_value": "Invites following for beautiful places and the details for real plans.",
+              "image_context": "Authentic Villefranche waterfront differs from its lane photo and the Menton cover.",
+              "specific_detail": "Uses the standard account promise with no weather or algorithmic guarantee.",
+              "distinct_contribution": "One scenic follow card concludes the coastal discovery without adding filler."
+            },
+            "fact_checks": [
+              "https://www.explorenicecotedazur.com/en/explore/towns-villages/coastal-area/villefranche-sur-mer/"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "schedule": [
+    {
+      "edition": "Iceland",
+      "id": 411509000,
+      "uuid": "5053010952195819165",
+      "publicationDate": {
+        "dateTime": "2026-11-05T09:00:00",
+        "timezone": "Europe/London"
+      },
+      "draft": false,
+      "autoPublish": true,
+      "instagramData": {
+        "autoPublish": true,
+        "type": "REEL",
+        "showReelOnFeed": true,
+        "isAiGenerated": false
+      },
+      "providers": [
+        {
+          "network": "instagram",
+          "status": "PENDING",
+          "detailedStatus": "Pending"
+        }
+      ],
+      "media": [
+        "https://static.metricool.com/planner/202610/7717708-file-1218705475331777552.mp4"
+      ],
+      "mediaAltText": [
+        "Silent five-shot Seljalandsfoss, Iceland travel Reel with small centred lower-middle text: behind-waterfall view, aerial scale, front view, spray and walking path."
+      ]
+    },
+    {
+      "edition": "Japan",
+      "id": 411509019,
+      "uuid": "-1638283085571405156",
+      "publicationDate": {
+        "dateTime": "2026-11-09T19:00:00",
+        "timezone": "Europe/London"
+      },
+      "draft": false,
+      "autoPublish": true,
+      "instagramData": {
+        "autoPublish": true,
+        "type": "POST",
+        "showReelOnFeed": true,
+        "isAiGenerated": false
+      },
+      "providers": [
+        {
+          "network": "instagram",
+          "status": "PENDING",
+          "detailedStatus": "Pending"
+        }
+      ],
+      "media": [
+        "https://static.metricool.com/planner/202610/7717708-file-11643153420696716444.jpeg",
+        "https://static.metricool.com/planner/202610/7717708-file-15061858830236139763.jpeg",
+        "https://static.metricool.com/planner/202610/7717708-file-16754134094187546058.jpeg",
+        "https://static.metricool.com/planner/202610/7717708-file-3528464028434317374.jpeg",
+        "https://static.metricool.com/planner/202610/7717708-file-3193091479055670568.jpeg",
+        "https://static.metricool.com/planner/202610/7717708-file-66386025425809701.jpeg"
+      ],
+      "mediaAltText": [
+        "A waterfall dropping into a narrow, green forested gorge in Takachiho, Miyazaki, Japan. On-image text: 5 places in Japan beyond the big cities",
+        "Wind-shaped sand dunes meeting the sea in Tottori, Japan. On-image text: Tottori Sand Dunes. Wind-shaped sand dunes rise beside the Sea of Japan. Walk the ridge for coastal views—this is not a desert.",
+        "Traditional steep thatched farmhouse with snow on its roof and a mountain backdrop in Shirakawa-go, Japan. On-image text: Shirakawa-go. A lived-in UNESCO village of gassho-zukuri farmhouses. Their steep thatched roofs were built for deep mountain snow.",
+        "Japanese snow monkey soaking in hot spring water with snow at Jigokudani, Nagano. On-image text: Jigokudani's snow monkeys. Wild Japanese macaques sometimes soak in the park's hot spring. Winter offers the best chance to witness their bathing behaviour.",
+        "Vivid turquoise water surrounding bare standing trees at Shirogane Blue Pond, Hokkaido. On-image text: Shirogane Blue Pond. A pond formed during volcanic mudflow-control works. Mineral particles scatter light, making the water appear blue—depending on conditions.",
+        "Kappa Bridge crossing a clear river below snow-dusted Japanese Alpine peaks in Kamikochi during autumn. On-image text: Fill your feed with wonder. Follow @yourtravelatlas for beautiful places and the details that turn them into real plans."
+      ]
+    },
+    {
+      "edition": "Porto",
+      "id": 412588501,
+      "uuid": "-1686861758455201569",
+      "publicationDate": {
+        "dateTime": "2026-11-02T19:00:00",
+        "timezone": "Europe/London"
+      },
+      "draft": false,
+      "autoPublish": true,
+      "instagramData": {
+        "autoPublish": true,
+        "type": "POST",
+        "showReelOnFeed": true,
+        "isAiGenerated": false
+      },
+      "providers": [
+        {
+          "network": "instagram",
+          "status": "PENDING",
+          "detailedStatus": "Pending"
+        }
+      ],
+      "media": [
+        "https://static.metricool.com/planner/202611/7717708-file-5547957070853405709.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-6526490975498769448.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-11591713489141817299.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-3626054242510201798.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-13323890139340720986.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-2400244826015910577.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-13442948740057922546.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-14037180256772122638.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-15098860670151102118.jpeg"
+      ],
+      "mediaAltText": [
+        "Traditional boats on the Douro below Porto's colourful Ribeira waterfront. How to spend a weekend in Porto.",
+        "Fruit stalls and shoppers at Porto's Mercado do Bolhão. Mercado do Bolhão. A working produce market filled with fruit stalls, flowers and coffee counters. Start here on Saturday: the market closes on Sundays.",
+        "Clérigos Tower in Porto, photographed from below against the sky. Clérigos Tower. Climb above Porto’s terracotta rooftops for a panoramic city view. Pair the tower with the Baroque church below.",
+        "Livraria Lello’s ornate red staircase and carved wooden bookshelves, seen from above. Livraria Lello. Follow the crimson staircase between bookshelves and stained glass. Reserve your entry before building the bookshop into your old-town walk.",
+        "Blue-and-white azulejo mural inside Porto's São Bento railway station. São Bento station. Its entrance hall is lined with Jorge Colaço’s blue-and-white tile panels, depicting Portuguese history. Step inside even if you’re not catching a train.",
+        "Luís I Bridge and Porto's skyline beneath an orange evening sky. Luís I Bridge. Cross the upper deck towards Jardim do Morro for a wide view over Porto’s riverside rooftops, especially as the evening light changes.",
+        "Rows of port barrels in Taylor’s cellars, Vila Nova de Gaia. Taylor’s port cellars. Cross to Gaia for a cellar visit and tasting. Rows of ageing port barrels reveal another side of the Douro.",
+        "Felgueiras lighthouse beside the Atlantic at Foz do Douro in Porto. Foz do Douro. Where the Douro meets the Atlantic. Ride historic tram 1 to Passeio Alegre, then follow the seafront towards the Felgueiras lighthouse.",
+        "A beachgoer silhouetted by the Atlantic and lighthouses at Foz do Douro. FILL YOUR FEED WITH WONDER. Follow @yourtravelatlas for beautiful places and the details that turn them into real plans."
+      ]
+    },
+    {
+      "edition": "French Riviera",
+      "id": 412588505,
+      "uuid": "-4032844728941590495",
+      "publicationDate": {
+        "dateTime": "2026-11-04T12:00:00",
+        "timezone": "Europe/London"
+      },
+      "draft": false,
+      "autoPublish": true,
+      "instagramData": {
+        "autoPublish": true,
+        "type": "POST",
+        "showReelOnFeed": true,
+        "isAiGenerated": false
+      },
+      "providers": [
+        {
+          "network": "instagram",
+          "status": "PENDING",
+          "detailedStatus": "Pending"
+        }
+      ],
+      "media": [
+        "https://static.metricool.com/planner/202611/7717708-file-15716480139308172721.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-6247523470976871680.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-13080271256459930859.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-5125741326778222115.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-9110417893418101504.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-3134995022862901508.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-6854317992439734724.jpeg",
+        "https://static.metricool.com/planner/202611/7717708-file-15475290757125154641.jpeg"
+      ],
+      "mediaAltText": [
+        "Colourful old-town buildings above Menton's Mediterranean waterfront. The French Riviera by train.",
+        "Archival photograph of a regional train at Villefranche-sur-Mer station in 2016; current rolling stock may differ. The coastal train. Use Nice as a base for TER outings: west to Antibes, east to Villefranche-sur-Mer and Menton. ARCHIVE · 2016.",
+        "Film photograph of Nice's curving seafront and busy pebble beaches. Nice. The Promenade des Anglais follows the Baie des Anges: a long seafront walk beside pebble beaches and turquoise water.",
+        "Pastel façades and a narrow lane in Villefranche-sur-Mer's old town. Villefranche-sur-Mer. Pastel lanes wind down towards the harbour. On Quai Courbet, Saint-Pierre chapel hides an interior painted by Jean Cocteau.",
+        "Antibes' old stone ramparts and coastal buildings above the blue sea. Antibes. Stone ramparts wrap around the old town above the sea. Inside Château Grimaldi, the Picasso Museum has a sea-facing sculpture terrace.",
+        "An elaborate fantasy float at Nice Carnival 2026, illustrating the past-edition parade spectacle. Nice Carnival. Giant carnival floats fill the streets. During flower battles, costumed performers shower spectators with flowers. FEBRUARY. PAST EDITION.",
+        "Crowds beside a citrus-fruit sculpture at Menton's Lemon Festival, published March 2022. Menton’s Lemon Festival. Citrus sculptures fill the Biovès gardens; fruit-covered floats parade through town during the Fête du Citron. FEBRUARY. PAST EDITION.",
+        "Blue water, boats and the shoreline at Villefranche-sur-Mer bay. FILL YOUR FEED WITH WONDER. Follow @yourtravelatlas for beautiful places and the details that turn them into real plans."
+      ]
+    }
+  ],
+  "monthly_budget": "Four reserved November entries after replacements, against internal ceiling16. No extra publication added; future commissions must recheck actual available whole-month published/manual counts and account entitlement.",
+  "publication_status": "Pending future platform execution. Sole Thursday task checks success/failures; not claimed published."
+}

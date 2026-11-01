@@ -72,7 +72,7 @@ Re-read the promise and assess the FINISHED post:
 
 Every answer needs evidence. Any unresolved failure means REVISE, REJECT or BLOCKED, never “mostly passes”. Identify the weakest element explicitly and resolve it. The self-review must not simply restate the brief.
 
-Routine editions may receive internal editorial approval after all gates pass, preserving the established unattended workflow. Owner approval applies when explicitly requested, including the current Istanbul replacement. Present the exact final video/images AND caption when asking for approval. Do not infer approval from silence, “not bad”, a framework decision or approval of an earlier revision. Material changes invalidate the affected approval evidence.
+Routine editions may receive internal editorial approval after all gates pass, preserving the established unattended workflow. Ben's1 November handover delegates routine internal approval, including Porto/Riviera; no routine owner sign-off remains. A subsequent explicit owner review request applies to its stated scope. Iceland's existing owner approval is historical exact-edition evidence. Present the exact final video/images AND caption when asking for approval. Do not infer approval from silence, “not bad”, a framework decision or approval of an earlier revision. Material changes invalidate the affected approval evidence.
 
 ## Gate 7 — scheduling and verification
 
@@ -96,3 +96,7 @@ Store the review beside the edition under content/reviews/, including:
 - final schedule/import verification and later publication confirmation separately.
 
 Never write a fictional reviewer, playback session, performance result or source check. Preserve old review history as superseded; it cannot approve a newer edition. Cleanup follows owner satisfaction with the final schedule and preserves live dependencies, provenance and recovery evidence.
+
+## Batch source failures and media freshness
+
+Inspect review/render-errors.json for the specific edition and compare its manifest brief_sha256 with the current brief. Independent editions continue when a source download fails; a green workflow can therefore leave an edition blocked with older output. Never import stale output or count workflow completion as approval. Landscape photographs may use the tested landscape layout when it preserves meaningful context better than portrait cropping; maintain source-quality guards, max30 editorial words and actual phone-size review.

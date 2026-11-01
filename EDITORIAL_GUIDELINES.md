@@ -2,7 +2,7 @@
 
 # Your Travel Atlas — Editorial Playbook v8
 
-Current owner-directed standard, 30 October 2026. The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.
+Current owner-directed standard, 1 November 2026. The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.
 
 ## Three permanent editorial formats
 
@@ -10,7 +10,7 @@ Current owner-directed standard, 30 October 2026. The complete format definition
 2. **Discovery carousels:** gripping honest hooks, exceptional images and concise specific descriptions, inspired by hospitality.guide's readability. Lists, facts, routes, animals, parks, villages, film locations and occasional weekend ideas. No public issue number on new editions. Full practical itineraries are not mandatory.
 3. **Travel Reels:** authentic video with a strong visual hook, coherent progression, useful information and silent exports. Minimum five genuinely different purposeful shots, normally 5–8. A short scenery montage with a title and CTA fails. No public issue or clip counter. The current five-shot Iceland edition and lower-middle centred typography received owner approval.
 
-Destination guides must visibly include essential sights/signature experiences as well as discoveries. Record essentials included, omitted and why. Better captions do not replace missing places or photography. A rail/road/activity premise must visibly show its transport/activity in a meaningful asset. Porto and Riviera remain visual revisions; Japan is a positive editorial reference.
+Destination guides must visibly include essential sights/signature experiences as well as discoveries. Record essentials included, omitted and why. Better captions do not replace missing places or photography. A rail/road/activity premise must visibly show its transport/activity in a meaningful asset. Porto's nine-page revision and Riviera's eight-page rail edition completed internal approval on1 November; Japan is a positive editorial reference.
 
 Every new brief declares content_type, reader promise, scope, distinctive angle, save/share reason and effort/accessibility where relevant. The format must match the reader's need. Keep one recognisable publication, with different editorial jobs and appropriate presentation.
 
@@ -34,7 +34,7 @@ Retain approximately three weekly publishing slots: Monday 19:00, Wednesday 12:0
 
 ## Approval and stability
 
-Routine posts use the calibrated autonomous internal review. Explicit owner review requests remain binding; the current Istanbul replacement requires owner approval of the exact finished video and caption. “Not bad … could definitely be improved” is revision feedback, not approval. New framework documentation is not asset approval.
+Routine posts use the calibrated autonomous internal review. Ben's1 November handover delegates completion and scheduling, including Porto/Riviera, with no routine owner sign-off. A later explicit owner review request applies to its stated scope. The Iceland replacement's content and typography were already owner approved; its silent export is scheduled. “Not bad … could definitely be improved” is revision feedback, not approval. New framework documentation is not asset approval.
 
 Apply PASS / REVISE / REJECT with evidence at every mandatory gate. Inspect exact final assets, retain revision/hash/source records and resolve all blockers. A checklist, attractive cover or technical success cannot approve an uninspiring post. Schedule pinned reviewed media; re-fetch Metricool to verify the full result. Never describe PENDING as published.
 

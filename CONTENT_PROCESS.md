@@ -122,7 +122,7 @@ flowchart TD
 
 The detailed evidence, stop conditions and review record are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). No technical success, attractive cover, aggregate score or completed checklist can compensate for a wrong fact, weak story, bad crop or missing licence. A separate critical review pass must challenge the creator's choices; do not call it independent human review or multi-reviewer approval unless that actually happened.
 
-**Approval ownership:** preserve the established autonomous internal review for routine posts. Owner approval is required when Ben explicitly requests it, for the current Istanbul replacement, or when an owner-approved edition is materially changed under an active owner-review agreement. This document is not approval of any unfinished asset. Later owner feedback approved the five-shot Iceland content and final typography; the no-music direction removes its soundtrack. Use exact-edition evidence, not the superseded four-shot review.
+**Approval ownership:** Ben's1 November instruction delegates routine internal editorial approval and scheduling, including Porto/Riviera. Keep every review gate; no routine owner sign-off remains. A later explicit owner review request applies to its stated scope. Iceland's five-shot content and final typography were already owner approved; no music is permitted. Exact-edition evidence is required.
 
 ## Repeatability without sameness
 
@@ -139,8 +139,12 @@ Read [CURRENT_STATE.json](CURRENT_STATE.json) and [outstanding work](OUTSTANDING
 
 Implemented: Collection/Discovery photo routing; formal Collection identity; discreet Discovery handle; 30-word supporting overlays; scenic follow cards; no public issue numbers; minimum five distinct Reel shots; smaller centred lower-middle discovery overlays; silent exports with zero-audio validation. Photo pipeline supports 5–10 total pages. Test/inspect unsupported changes before use.
 
-Porto's broader visual selection and Riviera's train image remain priority revisions. Their old queued versions are held as drafts. Never pass either from a caption-only change or an irrelevant stock image. Destination guides record a coverage matrix of main sights, signature experiences, worthwhile discoveries, photographed subjects and justified omissions. Transport-led ideas visibly show the transport.
+Porto's broader nine-page visual selection and Riviera's eight-page edition with a real relevant train completed review and scheduling on1 November. Their old drafts were replaced in the same UUIDs. This illustrates why caption-only changes or irrelevant stock images cannot pass. Destination guides record a coverage matrix of main sights, signature experiences, worthwhile discoveries, photographed subjects and justified omissions. Transport-led ideas visibly show the transport.
 
 Iceland replaces Istanbul in its existing slot after the owner's content/typography approval and no-music instruction. Japan preserves its successful content with public numbering removed. Published Faroe is frozen. The 28 obsolete pilot/output files were removed with recovery in Git history; preserve active media and rights evidence.
 
 The Thursday automation handles outstanding work before new commissioning, verifies the queue, learns from available analytics, plans future slots and reports only material results/blockers. GitHub's render/photo-audit workflows are event/manual triggered helpers, not recurring editorial jobs.
+
+## Unattended operation
+
+The sole Thursday task owns routine research, internal approval, scheduling, publication checks, analytics and state reconciliation. Aim for roughly two weeks of approved upcoming content, subject to quality and actual monthly allowance. Save previews and evidence without requiring Ben to approve each routine edition. Notify only material outcomes or blockers needing his input. Check per-edition render-errors and brief hashes before importing. No new recurring job is needed.

@@ -1,14 +1,16 @@
 # Your Travel Atlas
 
-Current policy v8 ·30 October2026. @yourtravelatlas uses existing GitHub and Metricool connections at £0 additional cost.
+Current policy v8 ·1 November2026. @yourtravelatlas uses existing GitHub and Metricool connections at £0 additional cost.
 
 Read in order: [current state](CURRENT_STATE.json), [outstanding work](OUTSTANDING_WORK.md), [creation flows](CONTENT_PROCESS.md), [guidelines](EDITORIAL_GUIDELINES.md), [approval gates](EDITORIAL_REVIEW.md). [Audit](PROJECT_AUDIT.md) maps project decisions to implementation and weekly ownership. Current policy supersedes historical snapshots.
 
 Three formats coexist: formal Faroe-style Travel Discovery Collection guides, hook-led Discovery carousels, and informative authentic-video Reels. No public issue numbers on any format. No music on any content. Keep internal IDs, small handle, clear hooks, concise useful overlays and rich specific captions. Destination guides need meaningful essential-place imagery, not caption-only expansion.
 
-## Live status verified30 October
+## Live status verified1 November
 
-- Porto and Riviera: held as drafts, auto-publishing off, pending visual revisions and owner preview.
+- Porto: nine-page visual remake,2 November19:00 UK; automatic publishing enabled.
+- Riviera: eight-page rail edition including a real 2016 archive train,4 November12:00 UK; automatic publishing enabled.
+- All four scheduled entries are PENDING with draft=false;17 revised imported carousel files exactly match reviewed SHA-256 hashes.
 - Iceland: silent23-second five-shot Reel replaces Istanbul at5 November09:00 UK.
 - Japan: successful six-image content retained; public numbers removed;9 November19:00 UK.
 - Faroe: published design reference, frozen.
@@ -22,7 +24,7 @@ One enabled ChatGPT task found: Your Travel Atlas Publishing, Thursday15:00 Euro
 
 The repository has three GitHub helper workflows: render.yml, reels.yml and photo-audit.yml. They run on matching pushes/manual dispatch, with no cron schedules. They render/research; they do not schedule Instagram posts. Metricool executes individual approved publication dates.
 
-The weekly task reads current policy/backlog, resolves outstanding work first, verifies the whole month's publishing allowance, researches and creates varied content, applies review gates, schedules only approved editions, re-fetches imports/status, learns from available real analytics and reports material outcomes/blockers. Held posts never become publishable merely because their date arrives.
+The weekly task reads current policy/backlog, resolves outstanding work first, verifies the whole month's publishing allowance, researches and creates varied content, applies review gates, schedules only approved editions, re-fetches imports/status, learns from available real analytics and reports material outcomes/blockers. Ben delegates routine internal approval and scheduling; no routine owner sign-off remains. Maintain a roughly two-week rolling buffer where quality and monthly allowance permit. Check publication outcomes; scheduling success is not publication. See [completion evidence](content/reviews/porto-riviera-completion-2026-11-01.json).
 
 ## Production
 

@@ -1,25 +1,18 @@
-**Autonomous publishing directive — 1 November 2026:** Ben delegates completion, internal editorial approval and scheduling, including the remaining Porto/Riviera revisions. Routine owner preview/sign-off is no longer a gate. Keep all factual, rights, visual and scheduling checks; resolve routine decisions independently. Notify Ben only for material outcomes or a blocker requiring his actual input. No music or public issue numbers.
+# Outstanding work — 1 November 2026
 
-# Outstanding work — 30 October 2026
+No unresolved one-off editorial revisions or routine owner approvals remain.
 
-Read with CURRENT_STATE.json and re-fetch live queue. This is a real backlog, not a claim of completion.
+Porto's nine-page visual remake is scheduled for 2 November 19:00 UK, replacing the old six-page draft in its existing UUID. Added actual photographs of Clérigos, Livraria Lello and Taylor's cellars; Foz is optional rather than a rushed extra. Riviera's eight-page edition is scheduled for 4 November 12:00 UK, adding a real Villefranche-sur-Mer regional train, explicitly labelled 2016 archive, with original-author CC BY2.0 attribution. Both passed internal review and all17 imported JPEG hashes match pinned reviewed files. See [completion evidence](content/reviews/porto-riviera-completion-2026-11-01.json).
 
-## Priority 1: Porto visual remake — REVISE, held draft
+Iceland remains the approved silent five-shot Reel on 5 November 09:00; Japan remains six images on 9 November 19:00. All four are PENDING, draft=false and automatic publishing enabled. Scheduled is not published. Exact current IDs are in CURRENT_STATE.json; re-fetch before changes.
 
-The longer caption does not satisfy Ben. Broaden the actual selection of places and photographs. Compare essential experiences (Ribeira, São Bento, Bolhão, Luís I/Gaia viewpoint, Clérigos, Lello, a Gaia cellar, Sé) and the optional Foz outing. Check current primary evidence and photograph quality before selecting. This is a researched shortlist, not a demand to squeeze every name in. Record a coverage matrix and justified omissions. Up to10 worthwhile pages are currently supported, including scenic follow card; never add filler or shrink text. Obtain and inspect licensed exact-location photos for added places. Save finished pages plus caption and complete internal review, then update existing UUID -1686861758455201569 after internal approval.
+## Ongoing work owned by the single Thursday task
 
-Existing slot2 November19:00 is held draft with auto-publishing off. If approval misses it, choose a later free slot; never revive the old incomplete version or backdate. Next Thursday is5 November, so that weekly run cannot repair a missed2 November deadline.
+- Check actual publication/failures, reconcile the whole-month allowance and archive, repair real delivery problems.
+- Extend the queue beyond9 November towards a rolling roughly two-week buffer, preserving quality, variety and monthly ceiling. The buffer is a target, not an already completed fortnight or quota.
+- Research concepts, create the three established formats, verify facts and rights, inspect exact rendered media, challenge editorial quality, schedule internally approved work and verify imports.
+- Learn from available real analytics; record evidence/limitations. Notify Ben for material outcomes or a genuine blocker needing his input.
 
-## Priority 2: French Riviera — REVISE, held draft
+Ben's1 November instruction delegates routine internal approval and scheduling, including Porto/Riviera. No routine preview/sign-off is required. This supersedes earlier holds without removing quality gates. No music, public issue numbers or Wander Further.
 
-Add a meaningful photograph of an actual relevant coastal train on the served Riviera corridor; verify location, author, rights and portrait crop. Do not use a generic Alpine train or personal-only Mixkit footage. Explain the experience of the rail leg with concise accurate detail; keep caption pins and evergreen festival framing. Re-render without public numbers and review every affected page/caption. Internal editorial approval before replacing UUID -4032844728941590495. Old4 November12:00 slot held draft; choose a later slot if missed.
-
-## Completed / cancelled
-
-Iceland content and typography approved. Silent five-shot23-second edition imported to the existing Reel UUID for5 November09:00, replacing Istanbul; full caption, cover and alt text updated. Japan's six-image number-free edition imported for9 November19:00; content retained. Music research, auditions and clearance are CANCELLED by owner direction. Istanbul silent file remains recovery history, not a second queued Reel.28 obsolete pilot/output files removed and recoverable through Git history.
-
-## Source access and weekly ownership
-
-Local source/search requests returned errors; never manufacture rights or use unrelated imagery. The existing event-triggered photo-audit workflow now researches a small specific Commons candidate slate and records results at review/candidates/porto-riviera/manifest.json. Read its actual result; a queued run is not success. Stop on explicit access blocks and use another legitimate free source when available; no proxies/auth bypass or paid tools. Retrieved candidates are not approved until actual visual/rights review.
-
-The single Thursday task must read this backlog first, retry legitimate available sourcing, complete review previews, complete delegated internal reviews, repair source/document/queue mismatches, then commission routine new content. Report unresolved blockers and held slots; do not silently defer forever or ask Ben for routine administration. Source blockage remains incomplete work.
+The28 obsolete files already removed remain recoverable through Git history. Preserve active files and provenance. Earlier blocked image endpoints were replaced with legitimate available sources; the Pyrenees train candidates were rejected as geographically irrelevant. Do not retry bypasses. Always inspect review/render-errors.json and current brief/manifest hashes before trusting batch outputs: successful independent editions can coexist with a blocked one.

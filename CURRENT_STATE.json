@@ -16,23 +16,25 @@
   "queue": [
     {
       "uuid": "-1686861758455201569",
-      "id": 411506748,
+      "id": 412588501,
       "date": "2026-11-02T19:00:00",
-      "draft": true,
-      "auto_publish": false,
+      "draft": false,
+      "auto_publish": true,
       "format": "POST",
-      "media_count": 6,
-      "edition": "Porto"
+      "media_count": 9,
+      "edition": "Porto",
+      "provider_status": "PENDING"
     },
     {
       "uuid": "-4032844728941590495",
-      "id": 411506805,
+      "id": 412588505,
       "date": "2026-11-04T12:00:00",
-      "draft": true,
-      "auto_publish": false,
+      "draft": false,
+      "auto_publish": true,
       "format": "POST",
-      "media_count": 7,
-      "edition": "French Riviera"
+      "media_count": 8,
+      "edition": "French Riviera",
+      "provider_status": "PENDING"
     },
     {
       "uuid": "5053010952195819165",
@@ -42,7 +44,8 @@
       "auto_publish": true,
       "format": "REEL",
       "media_count": 1,
-      "edition": "Iceland / Seljalandsfoss"
+      "edition": "Iceland / Seljalandsfoss",
+      "provider_status": "PENDING"
     },
     {
       "uuid": "-1638283085571405156",
@@ -52,19 +55,26 @@
       "auto_publish": true,
       "format": "POST",
       "media_count": 6,
-      "edition": "Japan"
+      "edition": "Japan",
+      "provider_status": "PENDING"
     }
   ],
-  "pending": [
-    "Porto visual/editorial remake",
-    "French Riviera relevant train photograph"
-  ],
+  "pending": [],
   "completed": [
     "Iceland silent export imported to existing Reel UUID",
     "Japan number-free six-image edition imported",
     "28 obsolete pilot/output files removed",
-    "Iceland content and typography owner approval recorded"
+    "Iceland content and typography owner approval recorded",
+    "Porto nine-page visual remake imported and verified",
+    "Riviera eight-page edition with real archive coastal train imported and verified",
+    "All 17 imported carousel JPEG hashes match approved files",
+    "Delegated internal approval and rolling buffer assigned to sole Thursday task"
   ],
-  "media_revision": "86e693e41d551114afc29db2bab959d0a2c902ba",
-  "approval_mode": "delegated_internal_review_no_routine_owner_signoff"
+  "media_revision": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
+  "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
+  "buffer": {
+    "scheduled_through": "2026-11-09",
+    "target": "roughly two weeks, quality and monthly allowance permitting",
+    "next_weekly_run_priority": "Check Nov2/4 publication outcomes and extend eligible future slots after Nov9"
+  }
 }

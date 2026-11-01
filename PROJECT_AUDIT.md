@@ -1,3 +1,5 @@
+> Historical30 October audit below. The1 November completion update is current and supersedes its open Porto/Riviera and owner-preview status.
+
 # Your Travel Atlas project audit
 30 October 2026 · policy v8
 
@@ -59,3 +61,11 @@ Only enabled ChatGPT task found: Your Travel Atlas Publishing, ID6ae251260af8819
 The weekly task must read current state/backlog, finish held visual revisions before new commissioning, record real source access failures, present required previews, reslot missed draft dates, enforce budget, publish only reviewed content, check results and update state. Porto/Riviera are not marked finished or solved merely by this assignment. Next Thursday5 November is after their old2/4 November dates, so they are held rather than left to auto-publish. No extra recurring task was created.
 
 Brand/logo concept artifacts are not treated as a final logo approval. Additional unseen preferences would need incorporation if later surfaced. Routine weekly runs must not repeatedly redesign the account.
+
+## 1 November completion and autonomous handover
+
+Ben's latest instruction delegates completion, internal approval and scheduling without routine involvement. Porto now contains nine finished pages, including actual Clérigos, Lello and Taylor's cellar photography. Riviera now contains eight pages including a CC BY2.0 Villefranche-sur-Mer train, explicitly labelled archive2016. Both replaced existing UUIDs and all17 imported image hashes exactly match reviewed media at a9040394f1b31178af8c9f5d3b3f4e1f1f75c221. Full captions, credits, matched alt text, future dates, PENDING, draft=false and both automatic-publishing flags verified. No duplicate entries were added.
+
+README, process, guidelines, review gates, backlog and machine state now reflect this completed state. Source/download failures are isolated by edition with an explicit error ledger and stale-output checks. GitHub's full renderer run passed3 layout tests plus17 unit tests; visual review remains separate. Evidence: [final review](content/reviews/porto-riviera-completion-2026-11-01.json).
+
+One enabled ChatGPT automation re-verified: same Thursday15:00 Europe/London flexible schedule and ID. Its prompt now treats these revisions as complete, delegates routine approval, checks blocked/stale renders, and targets a rolling roughly two-week buffer. Current queue runs through9 November; extending it is ongoing weekly work. No new ChatGPT task was created. Historical research scope/limits above still apply; no claim of a new full competitor video audit or word-for-word export of every chat.
