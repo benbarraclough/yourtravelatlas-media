@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-01",
+  "checked_at": "2026-11-05T15:48:10+00:00",
   "timezone": "Europe/London",
   "policy_version": 8,
   "automation": {
@@ -23,7 +23,8 @@
       "format": "POST",
       "media_count": 9,
       "edition": "Porto",
-      "provider_status": "PENDING"
+      "provider_status": "PUBLISHED",
+      "public_url": "https://www.instagram.com/p/DfQBIKgFR1A/"
     },
     {
       "uuid": "-4032844728941590495",
@@ -34,7 +35,8 @@
       "format": "POST",
       "media_count": 8,
       "edition": "French Riviera",
-      "provider_status": "PENDING"
+      "provider_status": "PUBLISHED",
+      "public_url": "https://www.instagram.com/p/DfUaeHrCF26/"
     },
     {
       "uuid": "5053010952195819165",
@@ -45,7 +47,8 @@
       "format": "REEL",
       "media_count": 1,
       "edition": "Iceland / Seljalandsfoss",
-      "provider_status": "PENDING"
+      "provider_status": "PUBLISHED",
+      "public_url": "https://www.instagram.com/reel/DfWqrW0nJ8b/"
     },
     {
       "uuid": "-1638283085571405156",
@@ -75,6 +78,26 @@
   "buffer": {
     "scheduled_through": "2026-11-09",
     "target": "roughly two weeks, quality and monthly allowance permitting",
-    "next_weekly_run_priority": "Check Nov2/4 publication outcomes and extend eligible future slots after Nov9"
+    "status": "Below target; no unreviewed content was scheduled",
+    "next_weekly_run_priority": "Research at least three ideas, produce and fully inspect a new eligible edition; extend buffer without sacrificing gates."
+  },
+  "publication_reconciliation": {
+    "checked_at": "2026-11-05T15:48:10+00:00",
+    "source": "Metricool getScheduledPosts full November date range (returns historical scheduled entries with provider status)",
+    "confirmed_published": [
+      "Porto 2026-11-02",
+      "French Riviera 2026-11-04",
+      "Iceland Reel 2026-11-05"
+    ],
+    "confirmed_pending": [
+      "Japan 2026-11-09"
+    ],
+    "november_known_publications_and_reservations": 4,
+    "internal_monthly_ceiling": 16,
+    "remaining_ceiling_before_unseen_manual_posts": 12,
+    "manual_or_untracked_content": "Not independently enumerable from available Metricool tools; conservative check required before additions",
+    "analytics_note": "Metricool daily account metrics returned early low counts and null saves; insufficient to attribute creative performance or infer post-level saves/shares.",
+    "render_errors": "review/render-errors.json was [] at inspection",
+    "new_post_scheduled_this_run": false
   }
 }
