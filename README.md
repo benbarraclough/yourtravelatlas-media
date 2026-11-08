@@ -20,7 +20,7 @@ Always re-fetch Metricool; this is a dated snapshot. Updates change post IDs; UU
 
 ## Automation — operations v9
 
-Four specialised ChatGPT jobs coordinate through the documented GitHub stage ledger: Research & Commission; Media Production; Quality, Revision & Scheduling; and Recovery, Capacity & Learning. Their precise task IDs/schedules are logged in CURRENT_STATE.json and [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md). Each task must deliver actual stage artefacts or a concrete technical fix; a completed status-only run does not count as publishing success. First catch-up prioritises the empty 11 and 13 November slots after Japan.
+Four **enabled** specialised ChatGPT jobs coordinate through the [GitHub production-stage ledger](content/production-queue.json): Research & Commission; Media Production; Quality, Revision & Scheduling; and Recovery, Capacity & Learning. Their precise task IDs/schedules are logged in [CURRENT_STATE.json](CURRENT_STATE.json) and [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md). Each task must deliver actual stage artefacts or a concrete technical fix; a completed status-only run does not count as publishing success. First catch-up prioritises the empty 11 and 13 November slots after Japan.
 
 The repository's GitHub helper workflows render media but do not themselves schedule Instagram; Metricool publishes approved content after scheduling. Owner approval is delegated for routine editions, with all quality and rights gates retained.
 
