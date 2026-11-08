@@ -1,6 +1,6 @@
 # Your Travel Atlas
 
-Current policy v8 ·1 November2026. @yourtravelatlas uses existing GitHub and Metricool connections at £0 additional cost.
+Editorial standards v8 (1 November 2026); **autonomous operations v9 (8 November 2026)**. @yourtravelatlas uses existing GitHub and Metricool connections at £0 additional cost. **Read [the live multi-job production pipeline](AUTOMATION_PIPELINE.md) first for operating cadence, handoffs, catch-up, 20-post monthly ceiling, tasks and delivery checks.** It supersedes older single-Thursday/three-posts-per-week/16-post policy. All existing editorial standards and approvals remain in force.
 
 Read in order: [current state](CURRENT_STATE.json), [outstanding work](OUTSTANDING_WORK.md), [creation flows](CONTENT_PROCESS.md), [guidelines](EDITORIAL_GUIDELINES.md), [approval gates](EDITORIAL_REVIEW.md). [Audit](PROJECT_AUDIT.md) maps project decisions to implementation and weekly ownership. Current policy supersedes historical snapshots.
 
@@ -18,13 +18,12 @@ Three formats coexist: formal Faroe-style Travel Discovery Collection guides, ho
 
 Always re-fetch Metricool; this is a dated snapshot. Updates change post IDs; UUIDs remain stable.
 
-## Automation
+## Automation — operations v9
 
-One enabled ChatGPT task found: Your Travel Atlas Publishing, Thursday15:00 Europe/London, ID6ae251260af881919e1d2042f46e1ff2. Its service timing mode is flexible_schedule, so15:00 is configured timing rather than a minute-exact guarantee. No second ChatGPT task was found.
+Four specialised ChatGPT jobs coordinate through the documented GitHub stage ledger: Research & Commission; Media Production; Quality, Revision & Scheduling; and Recovery, Capacity & Learning. Their precise task IDs/schedules are logged in CURRENT_STATE.json and [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md). Each task must deliver actual stage artefacts or a concrete technical fix; a completed status-only run does not count as publishing success. First catch-up prioritises the empty 11 and 13 November slots after Japan.
 
-The repository has three GitHub helper workflows: render.yml, reels.yml and photo-audit.yml. They run on matching pushes/manual dispatch, with no cron schedules. They render/research; they do not schedule Instagram posts. Metricool executes individual approved publication dates.
+The repository's GitHub helper workflows render media but do not themselves schedule Instagram; Metricool publishes approved content after scheduling. Owner approval is delegated for routine editions, with all quality and rights gates retained.
 
-The weekly task reads current policy/backlog, resolves outstanding work first, verifies the whole month's publishing allowance, researches and creates varied content, applies review gates, schedules only approved editions, re-fetches imports/status, learns from available real analytics and reports material outcomes/blockers. Ben delegates routine internal approval and scheduling; no routine owner sign-off remains. Maintain a roughly two-week rolling buffer where quality and monthly allowance permit. Check publication outcomes; scheduling success is not publication. See [completion evidence](content/reviews/porto-riviera-completion-2026-11-01.json).
 
 ## Production
 
@@ -34,4 +33,4 @@ Reel briefs: content/reels/; scripts/render_reel.py;1080×1920 H.264 MP4 without
 
 Evidence: content/research/, content/reviews/, media manifests. Pin reviewed commits and hashes; keep full caption/rights/alt text. Appropriate renderer checks: python scripts/test_editorial_renderer.py and python -m unittest discover -s tests. Tests are not visual approval.
 
-Approximately three publishing slots/week: Monday19:00, Wednesday12:00, Thursday09:00 UK; a fortnightly Reel replaces a carousel. Internal ceiling16 monthly publications across networks/formats, subject to actual free account constraints. Skip weak/unapproved content; no compensatory volume. Never store credentials in this public repo.
+Operations v9: aim for four strong evenly spread posts per week, with a fifth only where quality and remaining monthly capacity permit; maximum 20 known calendar-month publications/reservations and any stricter free account constraints. Monday 19:00, Wednesday 12:00, Friday 19:00, Sunday 17:00 UK are default candidate slots; previously scheduled posts are preserved. A Reel replaces a slot; weak content is rejected, never filled for quota. Never store credentials in this public repo.
