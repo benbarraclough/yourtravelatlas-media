@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-08",
+  "comment": "New multi-job pipeline ledger: no editions may be promoted without linked stage evidence. Existing Metricool published/scheduled entries are tracked in CURRENT_STATE.json, not duplicated here.",
+  "editions": []
+}
