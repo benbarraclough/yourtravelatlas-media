@@ -4,6 +4,10 @@ Editorial version 8 · 30 October 2026 · Owner-directed framework. Autonomous p
 
 One travel publication, three distinct editorial jobs. Choose the idea and the reader's need first; then select the right format. This supersedes the former rule that every carousel must use the same discovery treatment. Read with [Editorial Guidelines](EDITORIAL_GUIDELINES.md), the [approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md).
 
+## Strategy versus renderer format
+
+The audience-facing mix is **Destination Discovery** ~40% (includes the formal Faroe Collection, Porto and the approachable Japan discovery-carousel style), **attention-grabbing thematic lists/trends** ~40% (typically the Discovery carousel renderer), and **authentic silent-video Reels** ~20%. These strategy labels are separate from the original technical `content_type` used by the renderer. See [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md); do not mistake Japan for a thematic list purely because its design used the Discovery renderer. The proportions are flexible and may be evidence-tested, not fixed quotas.
+
 ## The three formats
 
 | Format | Reader promise | Presentation | Information | Numbering |
