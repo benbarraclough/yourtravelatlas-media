@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T08:34:00+00:00",
+  "updated_at": "2026-11-08T14:30:00+00:00",
   "comment": "Current stage ledger; existing published and Japan pending entries live separately in CURRENT_STATE.json. COMMISSIONED is NOT an approved or scheduled post.",
   "editions": [
     {
@@ -8,7 +8,7 @@
       "title": "Namibia has dunes that touch the ocean. That's only the beginning.",
       "content_type": "discovery",
       "country": "Namibia",
-      "stage": "COMMISSIONED",
+      "stage": "IN_PROGRESS",
       "stage_updated_on": "2026-11-08",
       "brief_path": "content/research/namibia-contrasts-commission-2026-11-08.md",
       "comparison": {
@@ -30,12 +30,37 @@
         "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214"
       ],
       "rights_status": "candidate Wikimedia file pages identified; exact final file, crop, licences/derivatives and CTA NOT approved",
-      "render_status": "NOT_STARTED",
+      "render_status": "NOT_STARTED_MEDIA_REVISE",
       "visual_review_status": "NOT_STARTED",
       "qa_status": "NOT_APPROVED",
       "metricool_status": "NOT_SCHEDULED",
-      "next_stage": "Media Production: source and visually inspect exact licensed high-quality photos; select distinct CTA; create valid content/posts/005-namibia-contrasts.json and complete render, source/asset ledgers and manifest checks. Do not mark rendered without actual outputs.",
-      "priority": "Earliest genuinely available future vacancy after Japan, ideally Wed 11 Nov 12:00 UK if QA passes in time; otherwise next available spaced slot."
+      "next_stage": "Stage 2 resume: replace rejected original images, verify real pixels and licences, source distinct scenic CTA, then write exact valid seven-image manifest, render, check hashes and hand to QA. Do not claim output until rendered.",
+      "priority": "First eligible future slot after Japan only if real render and independent QA pass; 11 Nov and 13 Nov currently unfilled.",
+      "strategy": "destination_discovery",
+      "stage_updated_at": "2026-11-08T14:30:00+00:00",
+      "production_path": "content/production/005-namibia-contrasts-production-2026-11-08.md",
+      "media_audit": {
+        "original_file_pages_checked": 8,
+        "actual_original_pixels_viewed": 5,
+        "visually_rejected": [
+          "Sandwich Harbour 08.jpg (does not show ocean, cover premise false)",
+          "Kolmanskop hospital, Lüderitz (Namibia).jpg (exterior, not sand-filled room)",
+          "Seals at Cape Cross, Namibia (3045814005).jpg (weak flat foggy scene)",
+          "Namibia Etosha-Nationalpark Elefanten 1.jpg (tiny elephant, weak)"
+        ],
+        "promising_but_blocked": [
+          "Deadvlei Tree (49186683317).jpg (CC BY-SA 2.0 unsupported by current renderer)"
+        ],
+        "unresolved": [
+          "Spitzkoppe final actual original/portrait visual",
+          "Sandwich Harbour real dunes-and-sea cover",
+          "Kolmanskop sand-filled interior",
+          "Cape Cross impactful seal photo",
+          "Etosha prominent wildlife photo",
+          "distinct Namibia scenic CTA",
+          "licence compatibility and derivative credits"
+        ]
+      }
     },
     {
       "id": "006-europe-wildlife-encounters",
