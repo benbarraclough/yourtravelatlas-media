@@ -153,6 +153,16 @@
       "configured_time": "18:00",
       "timing_mode": "flexible_schedule",
       "enabled": true
+    },
+    {
+      "id": "Automation_ea7a3b584a348191af3838dae6ac5ac9",
+      "title": "Atlas Growth & Strategy",
+      "days": [
+        "MO"
+      ],
+      "configured_time": "18:00",
+      "timing_mode": "flexible_schedule",
+      "enabled": true
     }
   ],
   "pipeline_configured_on": "2026-11-08",
@@ -161,5 +171,18 @@
   "weekly_target_posts": "4, up to 5 only with actual allowance and mandatory approvals",
   "eligibility_note": "Metricool API-visible November entries at 8 November: 3 PUBLISHED, 1 PENDING. User reports allowance UI usage 3; counter semantics unverified. Enforce stricter actual cap conservatively.",
   "live_metricool_checked_on": "2026-11-08",
-  "manual_approval_requirement": "none for routine fully reviewed editions"
+  "manual_approval_requirement": "none for routine fully reviewed editions",
+  "notification_policy": {
+    "owner_requests_each_run_report": true,
+    "all_jobs_prompts_updated": "2026-11-08",
+    "delivery_note": "Completion reports are requested each time; actual push/email requires ChatGPT Settings > Notifications and device permissions. Delivery not independently verified."
+  },
+  "strategy_mix": {
+    "destination_discovery": 0.4,
+    "curated_lists_and_trends": 0.4,
+    "authentic_silent_reels": 0.2,
+    "policy": "flexible editorial starting point, not quota",
+    "note": "Japan destination discovery despite underlying Discovery renderer"
+  },
+  "growth_log": "GROWTH_LOG.md"
 }
