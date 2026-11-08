@@ -4,7 +4,7 @@
 
 Current owner-directed editorial standard, 1 November 2026. **For autonomous task design, cadence and post ceilings, [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md) operations v9 (8 November 2026) supersedes the older single-task and 16-post/three-weekly wording.** The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.
 
-## Three audience-facing editorial strategies (operations v10)
+## Three audience-facing editorial strategies (operations v9 extension)
 
 The **user-facing strategies** are (1) inspiring **destination discoveries** (approx. 40%, includes formal Faroe Islands and the more playful Japan presentation, even when Japan uses Discovery carousel renderer); (2) engaging, truthful **curated lists/trends** (approx. 40%, e.g. best fairytale villages, snowboarding, national parks, seasonal travel opportunities, compelling unusual facts), with original sourcing, selection criteria and fully delivered promises; (3) **authentic-video silent Reels** (approx. 20%). This is a flexible testable starting allocation across actually approved published content, not a quota. In a hypothetical fully used 20-post month, approximately 8/8/4. Log content strategy separate from renderer/content_type. Distinguish quality click-worthy hooks from misleading clickbait. Always check actual sources and visual value first. See [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md) for live strategy, growth audits and run-completion reports.
 
