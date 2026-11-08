@@ -1,8 +1,8 @@
-**Autonomous publishing directive — 1 November 2026:** Ben delegates completion, internal editorial approval and scheduling, including the remaining Porto/Riviera revisions. Routine owner preview/sign-off is no longer a gate. Keep all factual, rights, visual and scheduling checks; resolve routine decisions independently. Notify Ben only for material outcomes or a blocker requiring his actual input. No music or public issue numbers.
+**Autonomous publishing directive — 1 November 2026; operating cadence superseded 8 November 2026:** Ben delegates completion, internal editorial approval and scheduling, including the remaining Porto/Riviera revisions. Routine owner preview/sign-off is no longer a gate. Keep all factual, rights, visual and scheduling checks; resolve routine decisions independently. Notify Ben only for material outcomes or a blocker requiring his actual input. No music or public issue numbers.
 
-# Your Travel Atlas — Editorial Playbook v8
+# Your Travel Atlas — Editorial Playbook v8 (operations v9)
 
-Current owner-directed standard, 1 November 2026. The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.
+Current owner-directed editorial standard, 1 November 2026. **For autonomous task design, cadence and post ceilings, [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md) operations v9 (8 November 2026) supersedes the older single-task and 16-post/three-weekly wording.** The complete format definitions and flows are in [CONTENT_PROCESS.md](CONTENT_PROCESS.md). Mandatory approval gates are in [EDITORIAL_REVIEW.md](EDITORIAL_REVIEW.md). These three documents supersede v6's single-format discovery-first policy. Historical files are evidence of decisions, not competing current instructions.
 
 ## Three permanent editorial formats
 
@@ -28,9 +28,9 @@ Every new brief declares content_type, reader promise, scope, distinctive angle,
 
 ## Variety, cadence and cost
 
-Keep a flexible long-run travel-energy mix of roughly 40% easy exploration, 35% journeys/approachable experiences and 25% demanding adventure. Rotate continents, environments, trip scale and intention. A suggested two-week format balance is two Collections, three Discoveries and one Reel, within the established cadence; it is not a quota. Skip weak content.
+Keep a flexible long-run travel-energy mix of roughly 40% easy exploration, 35% journeys/approachable experiences and 25% demanding adventure. Rotate continents, environments, trip scale and intention. Vary Collection guides, hook-led discoveries and roughly fortnightly Reels in a flexible mix. Do not make the distribution a quota. Skip weak content.
 
-Retain approximately three weekly publishing slots: Monday 19:00, Wednesday 12:00, Thursday 09:00 Europe/London. A Reel approximately once a fortnight replaces a carousel slot. Never increase volume to compensate for rejection. £0 additional cost, no paid APIs/upgrades/new integrations without authorisation. Internal hard cap16 monthly publications across networks and formats; do not rely on the previously recorded Metricool Free 20 entitlement staying unchanged—check account constraints if uncertain. Count published, pending and manual posts across the entire target month before scheduling.
+Operations v9: target four exceptional evenly spaced posts/week (Monday 19:00, Wednesday 12:00, Friday 19:00, Sunday 17:00 Europe/London), and a fifth where verified capacity and quality permit. Up to 20 posts in a calendar month across published/scheduled/known manual entries, or any stricter actual Metricool account constraint. Count all observed entries conservatively and verify the account counter; no reliance on provider rejection. Reels usually about fortnightly, replacing—not adding to—a planned slot. Never publish weak material to meet volume. £0 extra spend; no paid APIs, upgrades or integrations without authorisation.
 
 ## Approval and stability
 
