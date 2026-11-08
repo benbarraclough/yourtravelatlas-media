@@ -1,6 +1,41 @@
 {
   "version": 1,
   "updated_at": "2026-11-08",
-  "comment": "New multi-job pipeline ledger: no editions may be promoted without linked stage evidence. Existing Metricool published/scheduled entries are tracked in CURRENT_STATE.json, not duplicated here.",
-  "editions": []
+  "comment": "Current stage ledger; existing published and Japan pending entries live separately in CURRENT_STATE.json. COMMISSIONED is NOT an approved or scheduled post.",
+  "editions": [
+    {
+      "id": "005-namibia-contrasts",
+      "title": "Namibia has dunes that touch the ocean. That's only the beginning.",
+      "content_type": "discovery",
+      "country": "Namibia",
+      "stage": "COMMISSIONED",
+      "stage_updated_on": "2026-11-08",
+      "brief_path": "content/research/namibia-contrasts-commission-2026-11-08.md",
+      "comparison": {
+        "concepts_considered": [
+          "Namibia contrasts",
+          "Yucatan cenotes",
+          "Slovenia Bohinj rail"
+        ],
+        "winner": "Namibia contrasts",
+        "competitor_inspection_scope": "Existing EDITORIAL_BENCHMARKS.md actual/partial visual inspection, not re-viewed today."
+      },
+      "planned_pages": 7,
+      "planned_media": [],
+      "verified_source_examples": [
+        "https://nfc.na/locations/sandwich-harbour",
+        "https://nfc.na/locations/spitzkoppe",
+        "https://nfc.na/locations/kolmanskop",
+        "https://nfc.na/locations/etosha-national-park",
+        "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214"
+      ],
+      "rights_status": "candidate Wikimedia file pages identified; exact final file, crop, licences/derivatives and CTA NOT approved",
+      "render_status": "NOT_STARTED",
+      "visual_review_status": "NOT_STARTED",
+      "qa_status": "NOT_APPROVED",
+      "metricool_status": "NOT_SCHEDULED",
+      "next_stage": "Media Production: source and visually inspect exact licensed high-quality photos; select distinct CTA; create valid content/posts/005-namibia-contrasts.json and complete render, source/asset ledgers and manifest checks. Do not mark rendered without actual outputs.",
+      "priority": "Earliest genuinely available future vacancy after Japan, ideally Wed 11 Nov 12:00 UK if QA passes in time; otherwise next available spaced slot."
+    }
+  ]
 }
