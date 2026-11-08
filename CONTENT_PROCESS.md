@@ -1,6 +1,6 @@
-# Your Travel Atlas — three-format creation process
+# Your Travel Atlas — three-format creation process (editorial v8, operations v9)
 
-Version 8 · 30 October 2026 · Owner-directed framework
+Editorial version 8 · 30 October 2026 · Owner-directed framework. Autonomous production stages, cadence and usage budget are governed by [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md), operations v9 (8 November 2026).
 
 One travel publication, three distinct editorial jobs. Choose the idea and the reader's need first; then select the right format. This supersedes the former rule that every carousel must use the same discovery treatment. Read with [Editorial Guidelines](EDITORIAL_GUIDELINES.md), the [approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md).
 
@@ -127,7 +127,7 @@ The detailed evidence, stop conditions and review record are in [EDITORIAL_REVIE
 ## Repeatability without sameness
 
 - Keep the three editorial jobs stable. Improve research, photographs, clarity and editing within them; do not redesign the whole publication after feedback on one format.
-- Retain the approximate three weekly slots and one Reel per fortnight replacing a carousel slot. Within the five carousel slots in a two-week cycle, a useful starting balance is two Collection guides and three Discovery posts. This is a planning default, not a quota or a new frequency. Quality can leave a slot empty.
+- Retain the approximate operations-v9 (see AUTOMATION_PIPELINE.md) three weekly (superseded) slots and one Reel per fortnight replacing a carousel slot. Within the five carousel slots in a two-week cycle, a useful starting balance is two Collection guides and three Discovery posts. This is a planning default, not a quota or a new frequency. Quality can leave a slot empty.
 - Continue the separate, flexible effort mix: about 40% easy exploration, 35% journeys/approachable experiences and 25% demanding adventure over time. Do not confuse this with the mix of publishing formats.
 - Compare recent geography, activities, angle, effort and visual composition before commissioning. Do not force a festival, a weekend, an adventure or a particular number of pages into every idea.
 - Keep reusable series design, the 30-word supporting-slide ceiling, standard scenic carousel follow card, source evidence and approval records. Vary story structure, selection, images, depth and duration according to intention.
