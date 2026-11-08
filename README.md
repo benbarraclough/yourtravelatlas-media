@@ -4,6 +4,8 @@ Editorial standards v8 (1 November 2026); **autonomous operations v9 (8 November
 
 Read in order: [current state](CURRENT_STATE.json), [outstanding work](OUTSTANDING_WORK.md), [creation flows](CONTENT_PROCESS.md), [guidelines](EDITORIAL_GUIDELINES.md), [approval gates](EDITORIAL_REVIEW.md). [Audit](PROJECT_AUDIT.md) maps project decisions to implementation and weekly ownership. Current policy supersedes historical snapshots.
 
+Three audience-facing strategies coexist in a flexible initial ~40/40/20 mix: destination discovery (Faroe, Japan, Porto), compelling honest list/trend posts, and silent real-video Reels. These use the technical renderers below, but strategy and renderer category are distinct. An additional weekly growth-insights job audits opportunities, experiments and account value. Every scheduled job now returns a brief completion report, including when it made no schedule changes (push/email alert delivery requires user notification settings).
+
 Three formats coexist: formal Faroe-style Travel Discovery Collection guides, hook-led Discovery carousels, and informative authentic-video Reels. No public issue numbers on any format. No music on any content. Keep internal IDs, small handle, clear hooks, concise useful overlays and rich specific captions. Destination guides need meaningful essential-place imagery, not caption-only expansion.
 
 ## Live status verified1 November
