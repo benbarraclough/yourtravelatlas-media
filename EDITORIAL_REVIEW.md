@@ -1,4 +1,4 @@
-# Mandatory editorial approval — v8
+# Mandatory editorial approval — editorial v8 / operations v9
 
 Applies to Collection guides, Discovery carousels and Reels. Read [CONTENT_PROCESS.md](CONTENT_PROCESS.md) for each format's job and flow, plus [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md). All gates are mandatory. A technical pass cannot compensate for an editorial failure.
 
@@ -76,7 +76,7 @@ Routine editions may receive internal editorial approval after all gates pass, p
 
 ## Gate 7 — scheduling and verification
 
-Immediately before mutation, fetch the whole target month's planned content and available published/manual counts. Enforce the 16-publication internal ceiling across formats/networks and current account constraints. Recheck volatile practical claims. Reuse the existing UUID for replacements. Import pinned reviewed media with the full caption, rights attribution and matching alt text; keep the exact approved version.
+Immediately before mutation, fetch the whole target month's planned content and available published/manual counts. Enforce the operations-v9 ceiling of 20 posts in a calendar month across observed published, scheduled and known manual entries, and any stricter actual provider/free-account limit. See AUTOMATION_PIPELINE.md. Count conservatively; do not confuse the owner's allowance counter with API-visible month entries. Recheck volatile practical claims. Reuse the existing UUID for replacements. Import pinned reviewed media with the full caption, rights attribution and matching alt text; keep the exact approved version.
 
 After mutation, re-fetch and compare media count/order, final text, type POST/REEL, date/timezone, PENDING, draft=false, autoPublish=true and no duplicate. Verify that the media imported successfully. Record new IDs when updates change them. A passed scheduled time requires a future slot, never backdating. Do not claim published until the platform confirms it.
 
