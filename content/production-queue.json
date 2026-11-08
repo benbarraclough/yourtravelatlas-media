@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-08T08:34:00+00:00",
   "comment": "Current stage ledger; existing published and Japan pending entries live separately in CURRENT_STATE.json. COMMISSIONED is NOT an approved or scheduled post.",
   "editions": [
     {
@@ -36,6 +36,39 @@
       "metricool_status": "NOT_SCHEDULED",
       "next_stage": "Media Production: source and visually inspect exact licensed high-quality photos; select distinct CTA; create valid content/posts/005-namibia-contrasts.json and complete render, source/asset ledgers and manifest checks. Do not mark rendered without actual outputs.",
       "priority": "Earliest genuinely available future vacancy after Japan, ideally Wed 11 Nov 12:00 UK if QA passes in time; otherwise next available spaced slot."
+    },
+    {
+      "id": "006-europe-wildlife-encounters",
+      "title": "4 wildlife encounters worth travelling for in Europe",
+      "strategy": "curated_lists_trends",
+      "content_type": "discovery",
+      "country": "Wales / Slovenia / Finland / Spain",
+      "stage": "COMMISSIONED",
+      "previous_stage": null,
+      "stage_updated_at": "2026-11-08T08:34:00+00:00",
+      "brief_path": "content/research/006-europe-wildlife-encounters-commission-2026-11-08.md",
+      "planned_pages": 6,
+      "claim_source_count": 4,
+      "media_leads_count": 3,
+      "rights_status": "CANDIDATES_ONLY; two subjects and cover/CTA not yet sourced; no pixel review",
+      "render_status": "NOT_STARTED",
+      "qa_status": "NOT_APPROVED",
+      "metricool_status": "NOT_SCHEDULED",
+      "next_stage": "Media Production: verify exact high-quality real licensed location-specific images and CC derivative obligations, write content/posts/006-europe-wildlife-encounters.json, render; if no strong bear/seal image pivot or reject.",
+      "priority": "Next available November vacancy after older Namibia commission, potentially Fri 13 Nov; never preempt without QA",
+      "evidence": {
+        "research_path": "content/research/006-europe-wildlife-encounters-commission-2026-11-08.md",
+        "metricool_checked_at": "2026-11-08T08:34:00+00:00",
+        "metricool_visible_november_posts": 4,
+        "metricool_published": 3,
+        "metricool_pending": 1,
+        "source_urls": [
+          "https://www.welshwildlife.org/visit/skomer-island",
+          "https://postojnsko.si/en/poi/bear-watching/",
+          "https://www.visitfinland.com/en/product/40dab70c-4f31-40a1-8940-81b3c80e3b98/sunset-seal-safari/",
+          "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/"
+        ]
+      }
     }
   ]
 }
