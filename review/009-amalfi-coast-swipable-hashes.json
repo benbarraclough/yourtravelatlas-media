@@ -1,0 +1,14 @@
+{
+  "issue": 9,
+  "slug": "009-amalfi-coast-swipable",
+  "brief_sha256": "f9892949c2c876d88dccc1925227dd7373a1518b0db1376fc53a6d9d75f761d2",
+  "caption_sha256": "afd550a83b5b5658bd8d547cc144efc6bb22e395e034bb051ab60251007c5925",
+  "image_sha256": {
+    "media/009-amalfi-coast-swipable/01.jpg": "89755c9354ff354b8013de444a86461e1ef0f52ce429730c783b000ea0bd03a2",
+    "media/009-amalfi-coast-swipable/02.jpg": "804b194dcf7218296f85c852857f7173a897e637d9e10c301ef9be61c7adc5c5",
+    "media/009-amalfi-coast-swipable/03.jpg": "0578a817695a44a1efebd22855ea854fe7211c16f8c7c3680c9210f9755e4eb6",
+    "media/009-amalfi-coast-swipable/04.jpg": "d4f3cbcf67a8d4ad4497566c343fd701a2c13ed48ee0ca0ef11af196f5dc2279",
+    "media/009-amalfi-coast-swipable/05.jpg": "7d7016abc028cac493ad4738a423d1b11041bb68deaf2c18afd1e9e8412151a0",
+    "media/009-amalfi-coast-swipable/06.jpg": "d59b769355686876a2903d431cfb53069679a9c93936962375db804622fafe36"
+  }
+}

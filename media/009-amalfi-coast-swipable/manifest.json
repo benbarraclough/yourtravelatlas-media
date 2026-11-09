@@ -1,0 +1,178 @@
+{
+  "issue": 9,
+  "slug": "009-amalfi-coast-swipable",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "f9892949c2c876d88dccc1925227dd7373a1518b0db1376fc53a6d9d75f761d2",
+  "caption": "Six scenes that'll make you fall for the Amalfi Coast. 🍋🇮🇹\n\n📍 Positano — layers of pastel houses and bougainvillea.\n📍 Ravello — dreamy gardens above the Mediterranean.\n📍 Fiordo di Furore — a tiny beach beneath a soaring stone bridge.\n📍 Amalfi — beach umbrellas and afternoons by the water.\n📍 Path of the Gods — hike above the spectacular coastline.\n📍 Positano by night — the whole hillside begins to glow.\n\nWhich one would you see first? Save this for your Italian escape.\n\nPhotos: Ian Mackey, nella n., Milan Hamel, Margo Evardson, Sekwang Chia & Sebastian Leonhardt / Unsplash.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
+  "fact_sources": [
+    "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+    "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+    "https://unsplash.com/photos/a-group-of-people-on-a-beach-with-a-bridge-in-the-background-IM4VwH_IcYc",
+    "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+    "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+    "https://unsplash.com/photos/positano-village-on-amalfi-coast-PkWac9CLWVA"
+  ],
+  "editorial_intent": "Original six-photo manually swipeable carousel correcting user criticism that a silent still-photo video was not a carousel. A varied Italian coast story with more striking daylight and blue-hour images.",
+  "share_reason": "Six location-specific, photographically diverse Amalfi Coast scenes with meaningful names, ideal for saving or sharing.",
+  "slides": [
+    {
+      "subject": "Hillside buildings in Positano framed by vivid purple bougainvillea",
+      "source_page": "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+      "photographer": "Ian Mackey",
+      "license": "Unsplash License",
+      "alt": "Hillside buildings in Positano framed by vivid purple bougainvillea",
+      "activity_source": "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+      "file": "01.jpg",
+      "source_sha256": "a4c122fabe87faa95ba4127b0c6262c64f0e2b073bf2c3348b7ce328f3f2e59f",
+      "output_sha256": "89755c9354ff354b8013de444a86461e1ef0f52ce429730c783b000ea0bd03a2",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "body": "Pastel houses tumble down the hills towards the sea.",
+      "review": {
+        "reader_value": "This exact real freely licensed photo depicts a distinctive memorable Amalfi Coast place worth saving.",
+        "image_context": "Original photo page identifies Positano, Italy and photographer Ian Mackey.",
+        "specific_detail": "Hillside buildings in Positano framed by vivid purple bougainvillea. Real source photographer and location are matched to the page's heading, without implying the six scenes comprise an itinerary.",
+        "distinct_contribution": "A colourful flowering iconic town immediately anchors the coastal hook."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs"
+      ]
+    },
+    {
+      "subject": "Terraced flower gardens and umbrella pine tree overlooking the blue sea in Ravello",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+      "photographer": "nella n.",
+      "license": "Unsplash License",
+      "alt": "Terraced flower gardens and umbrella pine tree overlooking the blue sea in Ravello",
+      "activity_source": "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+      "file": "02.jpg",
+      "source_sha256": "c395b5cee48da8dba7dd75a81235f7b3e90d81940c217dd3e5885b4cecfb02c4",
+      "output_sha256": "804b194dcf7218296f85c852857f7173a897e637d9e10c301ef9be61c7adc5c5",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Gardens with extraordinary views over the Mediterranean.",
+      "review": {
+        "reader_value": "This exact real freely licensed photo depicts a distinctive memorable Amalfi Coast place worth saving.",
+        "image_context": "Original photo page identifies Ravello, Italy and photographer nella n..",
+        "specific_detail": "Terraced flower gardens and umbrella pine tree overlooking the blue sea in Ravello. Real source photographer and location are matched to the page's heading, without implying the six scenes comprise an itinerary.",
+        "distinct_contribution": "A geometric garden composition with high sea view contrasts crowded Positano."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI"
+      ]
+    },
+    {
+      "subject": "Small coastal beach beneath tall arched bridge between steep cliff walls at Fiordo di Furore Amalfi Coast",
+      "source_page": "https://unsplash.com/photos/a-group-of-people-on-a-beach-with-a-bridge-in-the-background-IM4VwH_IcYc",
+      "photographer": "Milan Hamel",
+      "license": "Unsplash License",
+      "alt": "Small coastal beach beneath tall arched bridge between steep cliff walls at Fiordo di Furore Amalfi Coast",
+      "activity_source": "https://unsplash.com/photos/a-group-of-people-on-a-beach-with-a-bridge-in-the-background-IM4VwH_IcYc",
+      "file": "03.jpg",
+      "source_sha256": "1fc2ea77c118cbf92448970e00d9b5c6b7ff4368962bac08dd6bf0bfc24b917d",
+      "output_sha256": "0578a817695a44a1efebd22855ea854fe7211c16f8c7c3680c9210f9755e4eb6",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A tiny beach beneath a bridge spanning dramatic cliffs.",
+      "review": {
+        "reader_value": "This exact real freely licensed photo depicts a distinctive memorable Amalfi Coast place worth saving.",
+        "image_context": "Original photo page identifies Fiordo di Furore, Italy and photographer Milan Hamel.",
+        "specific_detail": "Small coastal beach beneath tall arched bridge between steep cliff walls at Fiordo di Furore Amalfi Coast. Real source photographer and location are matched to the page's heading, without implying the six scenes comprise an itinerary.",
+        "distinct_contribution": "Dramatic narrow gorge and famous bridge bring architectural/wild beach visual contrast."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-group-of-people-on-a-beach-with-a-bridge-in-the-background-IM4VwH_IcYc"
+      ]
+    },
+    {
+      "subject": "Colourful parasols over the pebbly Amalfi beach at the foot of tall coastal buildings",
+      "source_page": "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+      "photographer": "Margo Evardson",
+      "license": "Unsplash License",
+      "alt": "Colourful parasols over the pebbly Amalfi beach at the foot of tall coastal buildings",
+      "activity_source": "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+      "file": "04.jpg",
+      "source_sha256": "87b4de805d1c9746a41f72f9f3f639c7b6e7284b6dfc59e97bea0a10520b360c",
+      "output_sha256": "d4f3cbcf67a8d4ad4497566c343fd701a2c13ed48ee0ca0ef11af196f5dc2279",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Colourful parasols and warm days beside the water.",
+      "review": {
+        "reader_value": "This exact real freely licensed photo depicts a distinctive memorable Amalfi Coast place worth saving.",
+        "image_context": "Original photo page identifies Amalfi, Italy and photographer Margo Evardson.",
+        "specific_detail": "Colourful parasols over the pebbly Amalfi beach at the foot of tall coastal buildings. Real source photographer and location are matched to the page's heading, without implying the six scenes comprise an itinerary.",
+        "distinct_contribution": "Busy colourful umbrellas by the water bring a human and summer beach scene."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4"
+      ]
+    },
+    {
+      "subject": "Positano's colourful hillside above the sea viewed from Path of the Gods",
+      "source_page": "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+      "photographer": "Sekwang Chia",
+      "license": "Unsplash License",
+      "alt": "Positano's colourful hillside above the sea viewed from Path of the Gods",
+      "activity_source": "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+      "file": "05.jpg",
+      "source_sha256": "610e8aa4490f56e3679c6820978ab61c4445c9fb786e3b6ffd83d314341d4b4a",
+      "output_sha256": "7d7016abc028cac493ad4738a423d1b11041bb68deaf2c18afd1e9e8412151a0",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Mountain trails overlooking the coast and Positano.",
+      "review": {
+        "reader_value": "This exact real freely licensed photo depicts a distinctive memorable Amalfi Coast place worth saving.",
+        "image_context": "Original photo page identifies Agerola / Positano, Italy and photographer Sekwang Chia.",
+        "specific_detail": "Positano's colourful hillside above the sea viewed from Path of the Gods. Real source photographer and location are matched to the page's heading, without implying the six scenes comprise an itinerary.",
+        "distinct_contribution": "Sweeping hike-elevation landscape adds active discovery."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ"
+      ]
+    },
+    {
+      "subject": "Long exposure of glowing lights across Positano cliffside buildings after dark on the Amalfi Coast",
+      "source_page": "https://unsplash.com/photos/positano-village-on-amalfi-coast-PkWac9CLWVA",
+      "photographer": "Sebastian Leonhardt",
+      "license": "Unsplash License",
+      "alt": "Long exposure of glowing lights across Positano cliffside buildings after dark on the Amalfi Coast",
+      "activity_source": "https://unsplash.com/photos/positano-village-on-amalfi-coast-PkWac9CLWVA",
+      "file": "06.jpg",
+      "source_sha256": "57790ffedf1158b4d5f601c7e5fa8ad4da63d139b2293e10cb40047bfd5c4fbd",
+      "output_sha256": "d59b769355686876a2903d431cfb53069679a9c93936962375db804622fafe36",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "The pastel town turns golden after sunset.",
+      "review": {
+        "reader_value": "This exact real freely licensed photo depicts a distinctive memorable Amalfi Coast place worth saving.",
+        "image_context": "Original photo page identifies Positano, Italy and photographer Sebastian Leonhardt.",
+        "specific_detail": "Long exposure of glowing lights across Positano cliffside buildings after dark on the Amalfi Coast. Real source photographer and location are matched to the page's heading, without implying the six scenes comprise an itinerary.",
+        "distinct_contribution": "Warm blue-hour architecture closes with a different mood and lighting."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/positano-village-on-amalfi-coast-PkWac9CLWVA"
+      ]
+    }
+  ]
+}
