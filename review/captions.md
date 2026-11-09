@@ -96,3 +96,20 @@ Which one would you go out of your way for?
 Photos: Daniel Newman, Shino Nakamura, Chloe Evans & Georgios Kaleadis / Unsplash. Shirakawa-go: Qian2007 / Wikimedia Commons, CC BY-SA 4.0 (cropped, text added): https://commons.wikimedia.org/wiki/File:Shirakawa_2024.jpg · https://creativecommons.org/licenses/by-sa/4.0 . Kamikochi: lumoplank / Wikimedia Commons, CC0.
 
 #YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido
+
+## Namibia has dunes that meet the sea
+
+Somewhere in Namibia, dunes tumble into the Atlantic, ghost towns fill with sand and elephants gather at desert waterholes. This country is wild. 🇳🇦
+
+📍 Sandwich Harbour — the desert meets the ocean.
+📍 Deadvlei — dark trees against a white clay pan and towering dunes.
+📍 Spitzkoppe — walk beneath sculptural granite arches.
+📍 Kolmanskop — explore a ghost town reclaimed by sand.
+📍 Cape Cross — see its extraordinary fur seal colony.
+📍 Etosha National Park — wildlife watching around the waterholes.
+
+Which one would you want to see first?
+
+Photos: NIR HIMI, Francesco Ungaro, Wietse Jongsma, Nadine Marfurt & Nathalie Lays / Unsplash.
+
+#YourTravelAtlas #Namibia #VisitNamibia #TravelInspiration

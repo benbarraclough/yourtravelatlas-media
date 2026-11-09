@@ -28,8 +28,8 @@
       "alt": "A waterfall dropping into a narrow, green forested gorge in Takachiho, Miyazaki, Japan.",
       "activity_source": "https://www.kanko-miyazaki.jp/en/sightseeing/1001",
       "file": "01.jpg",
-      "source_sha256": "0d64f0658e586a48b1511e0ac535efe1332ed6745107326b27ec4b5953ae8140",
-      "output_sha256": "b3e73d1b0a8bb151de97deddf53a0b64ffd7a2977fff1e93d93a840831d372d1",
+      "source_sha256": "f5ad660a8988cff4171f863e146a842c5ccbde05c9e3d0edfefe683c931aa933",
+      "output_sha256": "cb2ae87dd393cb2cb80cd6fcdcf5d0d1c2b9d1bcb70bb4171ae7f75fb23ab1b2",
       "size": [
         1080,
         1350
@@ -135,8 +135,8 @@
       "alt": "Vivid turquoise water surrounding bare standing trees at Shirogane Blue Pond, Hokkaido.",
       "activity_source": "https://www.biei-hokkaido.jp/en/shirogane-blue-pond",
       "file": "05.jpg",
-      "source_sha256": "ba6cbdc76f03a43bc9bacec156795e10549b0658273de8d44e029c5afdd63dff",
-      "output_sha256": "ff43fec679b4252276a0fc388c70335e8c9a7b15ea315609ed93a1f8243e3fb1",
+      "source_sha256": "f9bc2b6c68aa9a05bd6f9645159f69ce5f5a5baa5925316557bc4de1236f4d9f",
+      "output_sha256": "0f84ac9642910541f0834cfac21d91365951fd828e8ec0d85c892aedc7a32423",
       "size": [
         1080,
         1350
