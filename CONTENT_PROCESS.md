@@ -1,5 +1,7 @@
 # Your Travel Atlas — three-format creation process (editorial v8, operations v9)
 
+> **Public caption priority (owner correction, 9 November 2026):** Inspiration first, not travel admin. Short hook, exact 📍 places, an exciting specific reason to go, compact essential credits. Keep long research, cross-season notes, contingencies, booking and directions in private production/source records; publish an access/season detail only if truly essential to avoid deceiving travellers. Do not add disclosures like “these are separate places/not a route” unless the headline falsely claims a route (fix the headline instead). The 2200-character ceiling is not a target. This overrides older instructions below to fill captions with practical travel advice; substantive essential places should be shown by imagery, not compensated for by caption length.
+
 Editorial version 8 · 30 October 2026 · Owner-directed framework. Autonomous production stages, cadence and usage budget are governed by [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md), operations v9 (8 November 2026).
 
 One travel publication, three distinct editorial jobs. Choose the idea and the reader's need first; then select the right format. This supersedes the former rule that every carousel must use the same discovery treatment. Read with [Editorial Guidelines](EDITORIAL_GUIDELINES.md), the [approval gates](EDITORIAL_REVIEW.md), [reference evidence](EDITORIAL_BENCHMARKS.md) and, for video, [Footage Sources](FOOTAGE_SOURCES.md).
