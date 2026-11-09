@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T20:48:00+00:00",
-  "comment": "Current stage ledger; existing published and Japan pending entries live separately in CURRENT_STATE.json. COMMISSIONED is NOT an approved or scheduled post.",
+  "updated_at": "2026-11-09T21:00:00+00:00",
+  "comment": "Single shared stage ledger; do not rebuild/schedule published or PENDING assets. Check live Metricool before any transition. Stage ID 005 scheduled, ID 006 currently production in progress.",
   "editions": [
     {
       "id": "005-namibia-contrasts",
       "title": "Namibia has dunes that touch the ocean. That's only the beginning.",
       "content_type": "discovery",
       "country": "Namibia",
-      "stage": "RENDERED_PENDING_QA",
+      "stage": "SCHEDULED",
       "stage_updated_on": "2026-11-08",
       "brief_path": "content/research/namibia-contrasts-commission-2026-11-08.md",
       "comparison": {
@@ -39,13 +39,13 @@
       ],
       "rights_status": "All seven exact source pages identify free Unsplash License images with photographers, named Namibia locations; final verification required in QA.",
       "render_status": "SUCCESS: GitHub render.yml run 42696283143; seven JPEG files and manifest committed, render-errors empty",
-      "visual_review_status": "Production has seen all seven final JPEGs; independent 7-gate QA pending",
-      "qa_status": "PENDING_INDEPENDENT_REVIEW",
-      "metricool_status": "NOT_SCHEDULED",
-      "next_stage": "Stage 3 independent QA must inspect seven actual final rendered slides, phone-size readability, rights, facts, hashes and caption; if PASS schedule earliest empty date and reconfirm live Metricool. If REVISE record specific faults and execute correction/fallback loop.",
-      "priority": "First eligible future slot after Japan only if real render and independent QA pass; 11 Nov and 13 Nov currently unfilled.",
+      "visual_review_status": "PASS: seven exact 1080x1350 final images inspected",
+      "qa_status": "QA_APPROVED",
+      "metricool_status": "PENDING",
+      "next_stage": "Verify provider PUBLISHED after 11 November; never reproduce candidate 005.",
+      "priority": "Scheduled 11 November. No longer eligible for production or QA.",
       "strategy": "destination_discovery",
-      "stage_updated_at": "2026-11-09T20:48:00+00:00",
+      "stage_updated_at": "2026-11-09T20:52:00+00:00",
       "production_path": "content/production/005-namibia-contrasts-production-2026-11-09.md",
       "media_audit": {
         "original_file_pages_checked": 8,
@@ -69,10 +69,16 @@
           "licence compatibility and derivative credits"
         ]
       },
-      "previous_stage": "IN_PROGRESS",
+      "previous_stage": "RENDERED_PENDING_QA",
       "render_workflow_url": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42696283143",
       "media_manifest": "media/005-namibia-contrasts/manifest.json",
-      "brief_sha256": "6913a7d0e1c643d475cbb6afe52b78c981753f0b3ba06c88c7f29f74da9b4ea5"
+      "brief_sha256": "6913a7d0e1c643d475cbb6afe52b78c981753f0b3ba06c88c7f29f74da9b4ea5",
+      "metricool_id": 422387671,
+      "metricool_uuid": "3887494480871441074",
+      "metricool_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074",
+      "publishing_date": "2026-11-11T12:00:00+00:00",
+      "review_path": "content/reviews/2026-11-09-namibia-005-critical-qa.md",
+      "unresolved": []
     },
     {
       "id": "006-europe-wildlife-encounters",
@@ -80,18 +86,18 @@
       "strategy": "curated_lists_trends",
       "content_type": "discovery",
       "country": "Wales / Slovenia / Finland / Spain",
-      "stage": "COMMISSIONED",
-      "previous_stage": null,
-      "stage_updated_at": "2026-11-08T08:34:00+00:00",
+      "stage": "IN_PROGRESS",
+      "previous_stage": "COMMISSIONED",
+      "stage_updated_at": "2026-11-09T21:00:00+00:00",
       "brief_path": "content/research/006-europe-wildlife-encounters-commission-2026-11-08.md",
-      "planned_pages": 6,
+      "planned_pages": 5,
       "claim_source_count": 4,
       "media_leads_count": 3,
-      "rights_status": "CANDIDATES_ONLY; two subjects and cover/CTA not yet sourced; no pixel review",
-      "render_status": "NOT_STARTED",
+      "rights_status": "5 exact free Unsplash License image pages located and credited; preview/rights validation via renderer + QA outstanding",
+      "render_status": "GitHub Actions render run 42698084873 started from brief f1199fb9891b1c657a72bd5e0f0de15b10c55df4",
       "qa_status": "NOT_APPROVED",
       "metricool_status": "NOT_SCHEDULED",
-      "next_stage": "Media Production: verify exact high-quality real licensed location-specific images and CC derivative obligations, write content/posts/006-europe-wildlife-encounters.json, render; if no strong bear/seal image pivot or reject.",
+      "next_stage": "Review exact render run 42698084873. If green compare manifest SHA and visually inspect full 5 images; fix failed candidates and rerender if needed. QA only after PASS. Finland seal idea was rejected for weak low-contrast imagery; substituted distinct Camargue flamingos with explicit official site and free licensed source.",
       "priority": "Next available November vacancy after older Namibia commission, potentially Fri 13 Nov; never preempt without QA",
       "evidence": {
         "research_path": "content/research/006-europe-wildlife-encounters-commission-2026-11-08.md",
@@ -105,7 +111,16 @@
           "https://www.visitfinland.com/en/product/40dab70c-4f31-40a1-8940-81b3c80e3b98/sunset-seal-safari/",
           "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/"
         ]
-      }
+      },
+      "production_path": "content/posts/006-europe-wildlife-encounters.json",
+      "revision_history": [
+        {
+          "at": "2026-11-09",
+          "from": "Finland Saimaa seal",
+          "to": "Camargue flamingos",
+          "reason": "Only weak, dark seal images verifiably reusable; substitute a distinct strong species/experience and licensed location photo without compromising list intent."
+        }
+      ]
     }
   ]
 }
