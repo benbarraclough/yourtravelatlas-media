@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09 after wildlife 006 scheduling",
+  "updated_at": "2026-11-09 after preflight regression and scheduled 006 confirmation",
   "meaning": "Shared reusable QA and technical failures with proven repairs; recording insights is not model training.",
   "lessons": [
     {
@@ -92,6 +92,19 @@
       "preventive_check": "Require exact current brief-to-manifest caption match, exact source locations and SHA after EVERY copy edit or asset change, including minor credit fixes; never schedule stale assets",
       "status": "RESOLVED",
       "proof": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42699403303",
+      "attempt_count": 2
+    },
+    {
+      "id": "L-008",
+      "edition_id": "006-europe-wildlife-encounters",
+      "stage": "RENDER_PREFLIGHT",
+      "failure_class": "STALE_PUBLIC_PHOTOGRAPHER_CREDIT",
+      "affected_slide_or_field": "caption + photo photographer",
+      "specific_problem": "During replacement of a former Unsplash final slide with Pexels sunset, public caption retained the old author even though source metadata was corrected.",
+      "remedy_attempted": "Corrected public caption to Eclipse Chasers / Pexels and added code-level v7 validator verifying every slide photographer appears in caption, preserving 2200-character test priority.",
+      "preventive_check": "Preflight contributor attribution across every v7 slide; run offline editorial renderer tests and full GitHub workflow before QA PASS.",
+      "status": "RESOLVED",
+      "proof": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42699904701",
       "attempt_count": 2
     }
   ],
