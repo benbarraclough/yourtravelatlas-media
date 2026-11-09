@@ -1,0 +1,178 @@
+{
+  "issue": 9,
+  "slug": "009-amalfi-coast-swipe-carousel",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "43b01d5ac5e16206be87f12702ba92325dc7e31156b76cabeed1dde72dd436ac",
+  "caption": "Cliffside towns, secret coves and that impossible blue sea. The Amalfi Coast really is something else. 🍋\n\n📍 Positano — colourful houses stacked above the water.\n📍 Ravello — peaceful gardens and a panorama of the coast.\n📍 Amalfi Beach — umbrellas, Italian summer and the sea.\n📍 Fiordo di Furore — a little cove beneath an iconic bridge.\n📍 Path of the Gods — breathtaking coastal viewpoints.\n📍 Amalfi waterfront — wander down to the boats.\n\nSave this for an Italian escape.\n\nPhotos: Ian Mackey, nella n., Margo Evardson, Rolands Varsbergs, Sekwang Chia & Barbora Dostálová / Unsplash.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
+  "fact_sources": [
+    "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+    "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+    "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+    "https://unsplash.com/photos/a-view-of-a-bridge-over-a-body-of-water-jvUsgKk2hmQ",
+    "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+    "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M"
+  ],
+  "editorial_intent": "Replace an earlier passive still-photo Reel with a true swipe-controlled Instagram carousel combining six distinctive faithfully sourced Amalfi Coast scenes, including the dramatic Fiordo di Furore.",
+  "share_reason": "An approachable Amalfi photo wishlist that includes a spectacular bridge cove, not only generic repeated Positano town shots.",
+  "slides": [
+    {
+      "subject": "Positano",
+      "source_page": "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+      "photographer": "Ian Mackey",
+      "license": "Unsplash License",
+      "alt": "Positano",
+      "activity_source": "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+      "file": "01.jpg",
+      "source_sha256": "e3bea545fe994483b9509c20a04a5e5524e44302b796fec199d123bad39fe3d5",
+      "output_sha256": "2a844a3a4077c2662d9d91b30e487d590c4ad547bb24e4248e9ae82c60b53f24",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "body": "Colourful houses tumble down the cliffs towards the sea.",
+      "review": {
+        "reader_value": "This authentic place-specific visual adds a memorable distinct reason to experience and save the Amalfi Coast, with a clear truthful focus.",
+        "image_context": "The selected original photographer image page identifies Positano in the Amalfi Coast Italy; original free image content and full-size final crop still require visual review.",
+        "specific_detail": "The real location and precise photographer/rights are traceable to the original free photo page, without speculative travel timing or visitor guarantees.",
+        "distinct_contribution": "Colourful hillside houses against bright water introduce the coast and its architecture"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs"
+      ]
+    },
+    {
+      "subject": "Ravello gardens",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+      "photographer": "nella n.",
+      "license": "Unsplash License",
+      "alt": "Ravello gardens",
+      "activity_source": "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+      "file": "02.jpg",
+      "source_sha256": "616ed846b4494b4505e86dcdb9baa124bea085a6f53093703b4b2209ae8f6586",
+      "output_sha256": "b50572ad2122ba2677d6723514220d3e84f8737eeb4eeeb2739b3dc8d0a87452",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Gardens and endless Mediterranean views high above the coast.",
+      "review": {
+        "reader_value": "This authentic place-specific visual adds a memorable distinct reason to experience and save the Amalfi Coast, with a clear truthful focus.",
+        "image_context": "The selected original photographer image page identifies Ravello in the Amalfi Coast Italy; original free image content and full-size final crop still require visual review.",
+        "specific_detail": "The real location and precise photographer/rights are traceable to the original free photo page, without speculative travel timing or visitor guarantees.",
+        "distinct_contribution": "A terrace garden with coastal views contrasts the busy hillside town"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI"
+      ]
+    },
+    {
+      "subject": "Amalfi beach",
+      "source_page": "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+      "photographer": "Margo Evardson",
+      "license": "Unsplash License",
+      "alt": "Amalfi beach",
+      "activity_source": "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+      "file": "03.jpg",
+      "source_sha256": "5445c26ee8057da0438045878672861c06393f8dc097e2e345e7b2f2d65c5e93",
+      "output_sha256": "5e9aedfb3d47879b4c9b6d96370ae02f5feafc0e87efe762498a97cf2a916a7b",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Beach umbrellas, old town buildings and a sea-facing afternoon.",
+      "review": {
+        "reader_value": "This authentic place-specific visual adds a memorable distinct reason to experience and save the Amalfi Coast, with a clear truthful focus.",
+        "image_context": "The selected original photographer image page identifies Amalfi Beach in the Amalfi Coast Italy; original free image content and full-size final crop still require visual review.",
+        "specific_detail": "The real location and precise photographer/rights are traceable to the original free photo page, without speculative travel timing or visitor guarantees.",
+        "distinct_contribution": "A lively beach with umbrellas offers an easy fun summer scene"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4"
+      ]
+    },
+    {
+      "subject": "Fiordo di Furore beach and bridge, Amalfi Coast",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-bridge-over-a-body-of-water-jvUsgKk2hmQ",
+      "photographer": "Rolands Varsbergs",
+      "license": "Unsplash License",
+      "alt": "Fiordo di Furore beach and bridge, Amalfi Coast",
+      "activity_source": "https://unsplash.com/photos/a-view-of-a-bridge-over-a-body-of-water-jvUsgKk2hmQ",
+      "file": "04.jpg",
+      "source_sha256": "4798385fe278fd987c55c2a34dc4136a6400762687636e482009fed91167f07d",
+      "output_sha256": "1f15d6f89e6b1c34723f0cc4acde00c3cc635bfe03c47c4f14933789b8b743a3",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A beach tucked beneath a bridge between towering cliffs.",
+      "review": {
+        "reader_value": "This authentic place-specific visual adds a memorable distinct reason to experience and save the Amalfi Coast, with a clear truthful focus.",
+        "image_context": "The selected original photographer image page identifies Fiordo di Furore in the Amalfi Coast Italy; original free image content and full-size final crop still require visual review.",
+        "specific_detail": "The real location and precise photographer/rights are traceable to the original free photo page, without speculative travel timing or visitor guarantees.",
+        "distinct_contribution": "Distinctive Fiordo coastal bridge and steep cliffs offer a striking novel dramatic landscape"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-view-of-a-bridge-over-a-body-of-water-jvUsgKk2hmQ"
+      ]
+    },
+    {
+      "subject": "Path of the Gods",
+      "source_page": "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+      "photographer": "Sekwang Chia",
+      "license": "Unsplash License",
+      "alt": "Path of the Gods",
+      "activity_source": "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+      "file": "05.jpg",
+      "source_sha256": "a82ad8577212b2cdfd80089e70a2dc69077a2053e3bdf4d00ac8ce1cd610851b",
+      "output_sha256": "5a3275b0ad3d527d853aee6112a6986927d3cca03ee2bc0977fa6c31a9b6f25e",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Take in the winding coast from the mountain paths.",
+      "review": {
+        "reader_value": "This authentic place-specific visual adds a memorable distinct reason to experience and save the Amalfi Coast, with a clear truthful focus.",
+        "image_context": "The selected original photographer image page identifies Path of the Gods in the Amalfi Coast Italy; original free image content and full-size final crop still require visual review.",
+        "specific_detail": "The real location and precise photographer/rights are traceable to the original free photo page, without speculative travel timing or visitor guarantees.",
+        "distinct_contribution": "High viewpoint captures the coastal towns and winding water below"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ"
+      ]
+    },
+    {
+      "subject": "Boats on the Amalfi Coast",
+      "source_page": "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M",
+      "photographer": "Barbora Dostálová",
+      "license": "Unsplash License",
+      "alt": "Boats on the Amalfi Coast",
+      "activity_source": "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M",
+      "file": "06.jpg",
+      "source_sha256": "fe3c587c3d07bab20e69ed79ed4e18a9a9687a1ba6c1777406e7ead94fd79c8a",
+      "output_sha256": "4e2f46530fa041e32ab255ebd9e04038534c49483b05fab7b5e86d97cdc90fa2",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cta",
+      "body": "Watch the boats drift across the bay at golden hour.",
+      "review": {
+        "reader_value": "This authentic place-specific visual adds a memorable distinct reason to experience and save the Amalfi Coast, with a clear truthful focus.",
+        "image_context": "The selected original photographer image page identifies Amalfi Waterfront in the Amalfi Coast Italy; original free image content and full-size final crop still require visual review.",
+        "specific_detail": "The real location and precise photographer/rights are traceable to the original free photo page, without speculative travel timing or visitor guarantees.",
+        "distinct_contribution": "A quiet bay with boats provides a calm closing visual"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M"
+      ]
+    }
+  ]
+}

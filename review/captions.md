@@ -160,3 +160,20 @@ Which one would you go for first?
 Photos: Jared Rice, Omri D. Cohen, Jaanus Jagomägi, Jake Irish & Florian Delée / Unsplash.
 
 #YourTravelAtlas #Philippines #IslandTravel #TravelInspiration
+
+## Six scenes worth falling for
+
+Cliffside towns, secret coves and that impossible blue sea. The Amalfi Coast really is something else. 🍋
+
+📍 Positano — colourful houses stacked above the water.
+📍 Ravello — peaceful gardens and a panorama of the coast.
+📍 Amalfi Beach — umbrellas, Italian summer and the sea.
+📍 Fiordo di Furore — a little cove beneath an iconic bridge.
+📍 Path of the Gods — breathtaking coastal viewpoints.
+📍 Amalfi waterfront — wander down to the boats.
+
+Save this for an Italian escape.
+
+Photos: Ian Mackey, nella n., Margo Evardson, Rolands Varsbergs, Sekwang Chia & Barbora Dostálová / Unsplash.
+
+#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
