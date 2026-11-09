@@ -101,11 +101,13 @@ def render(path):
     folder=OUT/brief["slug"]
     folder.mkdir(parents=True,exist_ok=True)
     records=[]
+    previews=[]
     with tempfile.TemporaryDirectory() as td:
         tmp=Path(td); pieces=[]
         for i,s in enumerate(images):
             pic,rawhash=download_image(s)
             img=frame_from_photo(pic,s,brief,i==0)
+            previews.append(img.resize((360,640),Image.Resampling.LANCZOS))
             frame=tmp/f"{i:02d}.png";img.save(frame)
             if i==0:img.save(folder/"cover.jpg",quality=91)
             piece=tmp/f"piece{i:02d}.mp4"
@@ -123,6 +125,9 @@ def render(path):
         file=folder/"reel.mp4"
         command("ffmpeg","-hide_banner","-loglevel","error","-y","-f","concat","-safe","0","-i",listing,
                 "-map","0:v:0","-an","-c","copy","-movflags","+faststart",file)
+    sheet=Image.new("RGB",(1080,640*((len(previews)+2)//3)),(24,24,24))
+    for k,small in enumerate(previews):sheet.paste(small,((k%3)*360,(k//3)*640))
+    sheet.save(folder/"storyboard.jpg",quality=87,optimize=True)
     stream=json.loads(command("ffprobe","-v","error","-show_streams","-show_format","-of","json",file))
     if any(s.get("codec_type")=="audio" for s in stream["streams"]):raise ValueError("Unexpected audio stream")
     video=[s for s in stream["streams"] if s.get("codec_type")=="video"]
