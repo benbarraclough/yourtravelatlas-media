@@ -320,6 +320,13 @@ def validate_editorial(post):
             raise ValueError("V7 requires explicit collection or discovery content_type")
         if any(s.get("layout") not in ("cover", "photo", "cta", "landscape") for s in post["slides"]):
             raise ValueError("V7 uses cover, photo, landscape and cta layouts; dense itinerary panels are unsupported")
+        # Closed-loop QA preflight: every contributor must be credited in the final public caption.
+        # Unsplash/Pexels may not require it by licence, but Atlas editorial standards do.
+        public_caption = post.get("caption", "").casefold()
+        for i, slide in enumerate(post["slides"]):
+            photographer = slide.get("photographer", "").strip()
+            if not photographer or photographer.casefold() not in public_caption:
+                raise ValueError(f"Slide {i+1} photographer is missing from public caption credits")
     if post.get("editorial_version", 0) < 6:
         if post.get("issue") == 1:
             return  # Preserve the already published, frozen launch issue.
