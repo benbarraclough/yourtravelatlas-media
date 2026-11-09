@@ -128,3 +128,19 @@ Which one belongs on your travel wishlist?
 Photos: Tim Morgan, Federico Di Dio, Melina Kiefer & Roberto Navarro / Unsplash. Sunset: Eclipse Chasers / Pexels.
 
 #YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration
+
+## Five places that barely look real
+
+This is one island. And somehow all five of these places exist. 🇳🇿
+
+📍 Milford Sound — drift between rainforest-clad cliffs and a deep blue fjord.
+📍 Lake Tekapo — turquoise water and beautiful lupins.
+📍 Tasman Lake — icy mountain reflections beneath Aoraki/Mount Cook.
+📍 Lake Wānaka — its famous lone tree in the water.
+📍 Glenorchy — wild mountain scenery and lush green high-country pastures.
+
+Save the South Island for a future New Zealand adventure.
+
+Photos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & loloscott / Unsplash.
+
+#YourTravelAtlas #NewZealand #SouthIsland #TravelInspiration
