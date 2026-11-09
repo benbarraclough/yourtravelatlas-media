@@ -267,8 +267,8 @@ if __name__=="__main__":
         if brief.get("editorial_status")=="approved_scheduled":
             print(f"PRESERVE APPROVED SCHEDULED REEL: {p.name}",flush=True)
             continue
-        if brief.get("slug")=="004-behind-the-waterfall":
-            print(f"PRESERVE PUBLISHED ICELAND REEL: {p.name}",flush=True)
+        if brief.get("slug") in ("003-istanbul-between-continents","004-behind-the-waterfall"):
+            print(f"PRESERVE HISTORIC/ALREADY-PUBLISHED REEL: {p.name}",flush=True)
             continue
         if brief.get("editorial_status") in ("rejected", "revision_required"):
             print(f"SKIP {brief['editorial_status'].upper()} REEL: {p.name}",flush=True)
