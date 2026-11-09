@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-08T14:30:00+00:00",
+  "updated_at": "2026-11-09T20:48:00+00:00",
   "comment": "Current stage ledger; existing published and Japan pending entries live separately in CURRENT_STATE.json. COMMISSIONED is NOT an approved or scheduled post.",
   "editions": [
     {
@@ -8,7 +8,7 @@
       "title": "Namibia has dunes that touch the ocean. That's only the beginning.",
       "content_type": "discovery",
       "country": "Namibia",
-      "stage": "IN_PROGRESS",
+      "stage": "RENDERED_PENDING_QA",
       "stage_updated_on": "2026-11-08",
       "brief_path": "content/research/namibia-contrasts-commission-2026-11-08.md",
       "comparison": {
@@ -21,7 +21,15 @@
         "competitor_inspection_scope": "Existing EDITORIAL_BENCHMARKS.md actual/partial visual inspection, not re-viewed today."
       },
       "planned_pages": 7,
-      "planned_media": [],
+      "planned_media": [
+        "media/005-namibia-contrasts/01.jpg",
+        "media/005-namibia-contrasts/02.jpg",
+        "media/005-namibia-contrasts/03.jpg",
+        "media/005-namibia-contrasts/04.jpg",
+        "media/005-namibia-contrasts/05.jpg",
+        "media/005-namibia-contrasts/06.jpg",
+        "media/005-namibia-contrasts/07.jpg"
+      ],
       "verified_source_examples": [
         "https://nfc.na/locations/sandwich-harbour",
         "https://nfc.na/locations/spitzkoppe",
@@ -29,16 +37,16 @@
         "https://nfc.na/locations/etosha-national-park",
         "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214"
       ],
-      "rights_status": "candidate Wikimedia file pages identified; exact final file, crop, licences/derivatives and CTA NOT approved",
-      "render_status": "NOT_STARTED_MEDIA_REVISE",
-      "visual_review_status": "NOT_STARTED",
-      "qa_status": "NOT_APPROVED",
+      "rights_status": "All seven exact source pages identify free Unsplash License images with photographers, named Namibia locations; final verification required in QA.",
+      "render_status": "SUCCESS: GitHub render.yml run 42696283143; seven JPEG files and manifest committed, render-errors empty",
+      "visual_review_status": "Production has seen all seven final JPEGs; independent 7-gate QA pending",
+      "qa_status": "PENDING_INDEPENDENT_REVIEW",
       "metricool_status": "NOT_SCHEDULED",
-      "next_stage": "Stage 2 resume: replace rejected original images, verify real pixels and licences, source distinct scenic CTA, then write exact valid seven-image manifest, render, check hashes and hand to QA. Do not claim output until rendered.",
+      "next_stage": "Stage 3 independent QA must inspect seven actual final rendered slides, phone-size readability, rights, facts, hashes and caption; if PASS schedule earliest empty date and reconfirm live Metricool. If REVISE record specific faults and execute correction/fallback loop.",
       "priority": "First eligible future slot after Japan only if real render and independent QA pass; 11 Nov and 13 Nov currently unfilled.",
       "strategy": "destination_discovery",
-      "stage_updated_at": "2026-11-08T14:30:00+00:00",
-      "production_path": "content/production/005-namibia-contrasts-production-2026-11-08.md",
+      "stage_updated_at": "2026-11-09T20:48:00+00:00",
+      "production_path": "content/production/005-namibia-contrasts-production-2026-11-09.md",
       "media_audit": {
         "original_file_pages_checked": 8,
         "actual_original_pixels_viewed": 5,
@@ -60,7 +68,11 @@
           "distinct Namibia scenic CTA",
           "licence compatibility and derivative credits"
         ]
-      }
+      },
+      "previous_stage": "IN_PROGRESS",
+      "render_workflow_url": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42696283143",
+      "media_manifest": "media/005-namibia-contrasts/manifest.json",
+      "brief_sha256": "6913a7d0e1c643d475cbb6afe52b78c981753f0b3ba06c88c7f29f74da9b4ea5"
     },
     {
       "id": "006-europe-wildlife-encounters",
