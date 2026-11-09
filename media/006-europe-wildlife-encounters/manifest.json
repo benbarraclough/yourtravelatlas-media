@@ -5,14 +5,14 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "1086d1b009dd586805e25ac89288223af0d4695c894cd986e52d09344c035491",
-  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Julien DI MAJO / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
+  "brief_sha256": "796cd61cfe2a18e9581ef97c849205f8a73fb8a544070c71e117e46670d34a1a",
+  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Daniel Morris / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
   "fact_sources": [
     "https://www.welshwildlife.org/visit/skomer-island",
     "https://postojnsko.si/en/poi/bear-watching/",
     "https://www.parcornithologique.com/",
     "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
-    "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk"
+    "https://www.pexels.com/photo/flamingos-at-sunset-20703283/"
   ],
   "editorial_intent": "Original researched list of four distinct real wildlife watching experiences across Europe featuring different species and habitats.",
   "share_reason": "Four specific places for unforgettable wildlife moments, with photos grounded at exact real locations and different habitats.",
@@ -121,28 +121,28 @@
       ]
     },
     {
-      "subject": "Wild bird flying low above a Camargue lagoon in early sunlight in France",
-      "source_page": "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk",
-      "photographer": "Julien DI MAJO",
-      "license": "Unsplash License",
-      "alt": "A bird spreads its wings above a peaceful Camargue lagoon under a pale morning sky",
-      "activity_source": "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk",
+      "subject": "Flamingos reflected on a still wetland lagoon during vivid orange sunset at Camargue France",
+      "source_page": "https://www.pexels.com/photo/flamingos-at-sunset-20703283/",
+      "photographer": "Eclipse Chasers",
+      "license": "Pexels License",
+      "alt": "Silhouettes of flamingos wading across a sunset-lit lagoon in Camargue, France",
+      "activity_source": "https://www.pexels.com/photo/flamingos-at-sunset-20703283/",
       "file": "05.jpg",
-      "source_sha256": "3801412df8462f1ac0130403979e745833751a03b6d6e882de0ff6a37bde57fb",
-      "output_sha256": "30e2ace3c0b5783aab3e3e3b3bef1079f320b03ff34e2e78a4582bc70a7ea66d",
+      "source_sha256": "675980c22020e4202872bc382bd8a18eaa99c20d53f7e8212c4f7bb700257d92",
+      "output_sha256": "cb1a7aded12f708af300ce2a88277bcc37c662016ae4bf5e0313aca20be656fa",
       "size": [
         1080,
         1350
       ],
       "layout": "cta",
       "review": {
-        "reader_value": "A soft, expansive Camargue lagoon scene with a flying wild bird offers a peaceful closing invitation after four close-up wildlife portraits.",
-        "image_context": "Photographer Julien DI MAJO labels the free original as a large bird flying over water in Camargue, France, at sunrise.",
-        "specific_detail": "No wildlife promise is attached to the CTA; the accurately attributed scene is a quiet visual invitation to explore more.",
-        "distinct_contribution": "The wide bright lagoon, distant horizon and moving bird provide visual breathing room, distinct from the prior close portraits."
+        "reader_value": "A sunset wetland scene with multiple visible flamingos and clear water reflections gives the carousel an emotional closing payoff, not empty scenery.",
+        "image_context": "Original Pexels free photo page specifies a Camargue lagoon in Arles, France, shows flamingos at orange sunset, credited to Eclipse Chasers; inspect new final crop after render.",
+        "specific_detail": "This original landscape ties wildlife to place and is independently marked Free on the source image licensing page with 6927 by 4618 pixels.",
+        "distinct_contribution": "A wide sunset reflecting multiple real wetland birds deliberately contrasts the four earlier close-up animal portraits and signals a memorable ending."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk"
+        "https://www.pexels.com/photo/flamingos-at-sunset-20703283/"
       ]
     }
   ]
