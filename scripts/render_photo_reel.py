@@ -49,6 +49,11 @@ def frame_from_photo(photo,shot,brief,first):
     d=ImageDraw.Draw(im)
     d.text((72,155),"@yourtravelatlas",font=ImageFont.truetype(REG,29),fill="white",stroke_width=1,stroke_fill="#25313a")
     heading=brief["hook"] if first else shot["overlay"]
+    # A subtle country label prevents regional titles from hiding the destination country.
+    country=str(brief.get("country_label","")).strip().upper()
+    if first and country:
+        if len(country)>34: raise ValueError("Country label too long")
+        d.text((76,1362),country,font=ImageFont.truetype(REG,32),fill="white",stroke_width=1,stroke_fill="#333333")
     # Match the actual size of words rather than killing the render for an ordinary sentence.
     wrapped=None
     for size in ((72,67,62,58) if first else (65,60,56,52,48)):
