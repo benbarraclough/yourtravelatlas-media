@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09T20:55:00+00:00",
+  "updated_at": "2026-11-09T21:10:00+00:00",
   "meaning": "Shared reusable QA and technical failures with proven repairs; recording insights is not model training.",
   "lessons": [
     {
@@ -54,6 +54,45 @@
       "status": "POLICY_UPDATED_AWAITING_MORE_POSTS",
       "proof": "EDITORIAL_GUIDELINES.md; EDITORIAL_REVIEW.md",
       "attempt_count": 1
+    },
+    {
+      "id": "L-005",
+      "edition_id": "006-europe-wildlife-encounters",
+      "stage": "EDITORIAL_QA",
+      "failure_class": "PHOTO_TEXT_MISMATCH",
+      "affected_slide_or_field": "Camargue / Monfragüe supporting overlays",
+      "specific_problem": "Claimed whole Camargue wetlands turned pink though image showed individual pale birds, and claimed vulture soaring though photographed perched",
+      "remedy_attempted": "Simplified overlays to real pictured activity: flamingos wading; vultures to look for in the park; re-rendered exact new copy and reviewed real output",
+      "preventive_check": "For EVERY slide at QA explicitly compare action verbs, numbers and visual subject to photo; if a pictured bird is perched do not claim flying",
+      "status": "RESOLVED",
+      "proof": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md; media/006-europe-wildlife-encounters/manifest.json",
+      "attempt_count": 2
+    },
+    {
+      "id": "L-006",
+      "edition_id": "006-europe-wildlife-encounters",
+      "stage": "EDITORIAL_QA",
+      "failure_class": "WEAK_CLOSING_IMAGE",
+      "affected_slide_or_field": "05 CTA",
+      "specific_problem": "Generic bland horizon with too little visible wildlife was not compelling enough as the final saveable visual",
+      "remedy_attempted": "Several sourced replacement attempts, final actual Pexels-licensed Camargue flamingo group silhouettes in orange sunset, inspected full size",
+      "preventive_check": "Last CTA must include an expressive actual place/subject scene and be visually distinctive rather than generic dusk stock photo; if weak, reject and replace before scheduling",
+      "status": "RESOLVED",
+      "proof": "https://www.pexels.com/photo/flamingos-at-sunset-20703283/; media/006-europe-wildlife-encounters/05.jpg",
+      "attempt_count": 3
+    },
+    {
+      "id": "L-007",
+      "edition_id": "006-europe-wildlife-encounters",
+      "stage": "RENDER_VERSION",
+      "failure_class": "STALE_MANIFEST_CAPTION",
+      "affected_slide_or_field": "manifest caption/brief SHA",
+      "specific_problem": "One intermediate reviewer read manifest while brief's photo credits had changed; initial manifest had stale credit line",
+      "remedy_attempted": "Updated correctly separated Unsplash and Pexels credit in source brief, renderer rerun 42699403303 succeeded, re-fetched exact current manifest and confirmed caption equality before scheduling",
+      "preventive_check": "Require exact current brief-to-manifest caption match, exact source locations and SHA after EVERY copy edit or asset change, including minor credit fixes; never schedule stale assets",
+      "status": "RESOLVED",
+      "proof": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42699403303",
+      "attempt_count": 2
     }
   ]
 }
