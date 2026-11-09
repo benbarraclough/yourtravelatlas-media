@@ -267,7 +267,14 @@ if __name__=="__main__":
         if brief.get("editorial_status")=="approved_scheduled":
             print(f"PRESERVE APPROVED SCHEDULED REEL: {p.name}",flush=True)
             continue
+        if brief.get("slug")=="004-behind-the-waterfall":
+            print(f"PRESERVE PUBLISHED ICELAND REEL: {p.name}",flush=True)
+            continue
         if brief.get("editorial_status") in ("rejected", "revision_required"):
             print(f"SKIP {brief['editorial_status'].upper()} REEL: {p.name}",flush=True)
             continue
-        main(p)
+        if brief.get("treatment")=="photo_slideshow_v1":
+            from render_photo_reel import render as render_photo_slideshow
+            render_photo_slideshow(p)
+        else:
+            main(p)
