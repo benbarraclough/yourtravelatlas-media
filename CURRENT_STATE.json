@@ -1,16 +1,15 @@
 {
-  "checked_at": "2026-11-09 21:15 Europe/London (two Metricool PENDING posts verified; actual automation schedules reconciled)",
+  "checked_at": "2026-11-09 (weekly simplification; original two posts converted to drafts/non-auto-publish; not deleted)",
   "timezone": "Europe/London",
-  "policy_version": 10,
+  "policy_version": "weekly-v1",
   "automation": {
     "id": "6ae251260af881919e1d2042f46e1ff2",
-    "title": "Atlas Editorial Research",
-    "only_chatgpt_automation_found": false,
-    "day": "Sunday Tuesday Thursday Saturday",
+    "title": "Atlas Weekly Publisher",
+    "day": "Thursday",
     "configured_time": "08:00",
     "timing_mode": "flexible_schedule",
     "enabled": true,
-    "operating_policy": "OPERATING_FEEDBACK_LOOP.md / AUTOMATION_PIPELINE.md (9 November)"
+    "operating_policy": "ATLAS_WEEKLY.md"
   },
   "public_numbers": false,
   "music": false,
@@ -68,25 +67,27 @@
       "uuid": "3887494480871441074",
       "edition": "Namibia",
       "date": "2026-11-11T12:00:00",
-      "draft": false,
-      "auto_publish": true,
+      "draft": true,
+      "auto_publish": false,
       "format": "POST",
       "media_count": 7,
-      "provider_status": "PENDING",
-      "metricool_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074"
+      "provider_status": "PENDING_DRAFT_NON_AUTO_PUBLISHING",
+      "metricool_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074",
+      "note": "Retired test post. Metricool update returned draft=true and autoPublish=false; API still labels provider PENDING. Manual deletion remains needed to remove from calendar."
     },
     {
       "uuid": "7327149549031803495",
       "id": 422405937,
       "date": "2026-11-13T19:00:00",
-      "draft": false,
-      "auto_publish": true,
+      "draft": true,
+      "auto_publish": false,
       "format": "POST",
       "media_count": 5,
       "edition": "European wildlife",
-      "provider_status": "PENDING",
+      "provider_status": "PENDING_DRAFT_NON_AUTO_PUBLISHING",
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495",
-      "qa_review": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md"
+      "qa_review": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md",
+      "note": "Retired test post. Metricool update returned draft=true and autoPublish=false; API still labels provider PENDING. Manual deletion remains needed to remove from calendar."
     }
   ],
   "pending": [],
@@ -103,10 +104,9 @@
   "media_revision": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
   "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
   "buffer": {
-    "scheduled_through": "2026-11-13",
-    "target": "14+ days of already QA-approved and actually scheduled future posts; preferably plan rest of month; not a publication-frequency cap",
-    "status": "BELOW 14-DAY TARGET: two future posts now confirmed PENDING: Wed 11 Nov 12:00 Namibia and Fri 13 Nov 19:00 European wildlife.",
-    "next_pipeline_priority": "Earliest vacancy Sun 15 Nov 17:00; production daily 10, review daily 15, recovery daily 19 UK, research SU/TU/TH/SA 08; ensure genuinely scheduled 14-day buffer."
+    "target": "Four exceptional original pieces next publication week: two 5+ image carousels and two genuine 5+ scene Reels (still-photo motion or stronger real motion); within up to 20/month.",
+    "status": "Older Namibia and European wildlife entries retained as Metricool drafts with autoPublish=false but provider still marks PENDING; they are NOT suitable for publishing. User may delete them manually. No newly verified weekly replacement posts yet.",
+    "next_pipeline_priority": "Thursday single weekly automation 08:00 UK should research→build→QA→schedule and re-fetch. Do not treat old paused drafts as valid future auto-publishing."
   },
   "publication_reconciliation": {
     "checked_at": "2026-11-09 evening (live November Metricool: four PUBLISHED, two PENDING)",
@@ -132,16 +132,13 @@
     "monthly_visible_published": 4,
     "monthly_visible_pending": 2
   },
-  "operating_policy": "AUTOMATION_PIPELINE.md (v9, 8 November 2026), with existing editorial v8 standards",
+  "operating_policy": "ATLAS_WEEKLY.md (single active creative/process document; older multi-stage documents historical)",
   "pipeline_tasks": [
     {
       "id": "6ae251260af881919e1d2042f46e1ff2",
-      "title": "Atlas Editorial Research",
+      "title": "Atlas Weekly Publisher",
       "days": [
-        "SU",
-        "TU",
-        "TH",
-        "SA"
+        "TH"
       ],
       "configured_time": "08:00",
       "timing_mode": "flexible_schedule",
@@ -161,7 +158,7 @@
       ],
       "configured_time": "10:00",
       "timing_mode": "flexible_schedule",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "6aefc8e40f2c8191be4b8491d7ea6e2b",
@@ -177,7 +174,7 @@
       ],
       "configured_time": "15:00",
       "timing_mode": "flexible_schedule",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "6aefc8e626348191b17a225c004b4ce2",
@@ -193,7 +190,7 @@
       ],
       "configured_time": "19:00",
       "timing_mode": "flexible_schedule",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "Automation_ea7a3b584a348191af3838dae6ac5ac9",
@@ -203,13 +200,13 @@
       ],
       "configured_time": "18:00",
       "timing_mode": "flexible_schedule",
-      "enabled": true
+      "enabled": false
     }
   ],
-  "pipeline_configured_on": "2026-11-09",
+  "pipeline_configured_on": "2026-11-09 weekly consolidation",
   "cost_ceiling_gbp_additional": 0,
   "monthly_calendar_posts_ceiling": 20,
-  "weekly_target_posts": "4, up to 5 only with actual allowance and mandatory approvals",
+  "weekly_target_posts": 4,
   "eligibility_note": "Metricool API-visible November entries at 8 November: 3 PUBLISHED, 1 PENDING. User reports allowance UI usage 3; counter semantics unverified. Enforce stricter actual cap conservatively.",
   "live_metricool_checked_on": "2026-11-09 21:10 Europe/London",
   "manual_approval_requirement": "none for routine fully reviewed editions",
@@ -218,14 +215,8 @@
     "all_jobs_prompts_updated": "2026-11-08",
     "delivery_note": "Four scheduled jobs' latest results are available in their ChatGPT task conversations. Actual push/email notification delivery is unknown; enable and verify via ChatGPT Settings > Notifications."
   },
-  "strategy_mix": {
-    "destination_discovery": 0.4,
-    "curated_lists_and_trends": 0.4,
-    "authentic_silent_reels": 0.2,
-    "policy": "flexible editorial starting point, not quota",
-    "note": "Japan destination discovery despite underlying Discovery renderer"
-  },
+  "strategy_mix": "Two image carousels + two 5+ scene Instagram Reels weekly, photo Reels default but real motion preferred when genuinely stronger.",
   "growth_log": "GROWTH_LOG.md",
-  "feedback_loop_policy": "OPERATING_FEEDBACK_LOOP.md",
+  "feedback_loop_policy": "Single task self-revises within same execution, rather than separate jobs. ATLAS_WEEKLY.md",
   "qa_lessons_log": "content/qa-lessons.json"
 }
