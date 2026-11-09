@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09 after first silent photo Reel Metricool confirmed PENDING",
+  "checked_at": "2026-11-09 (live Metricool re-fetch: three replaced six-photo auto-publishing carousels confirmed PENDING)",
   "timezone": "Europe/London",
   "policy_version": "weekly-v1",
   "automation": {
@@ -63,44 +63,43 @@
       "public_url": "https://www.instagram.com/p/DfiCYkjjdVI/"
     },
     {
-      "id": 422387671,
       "uuid": "3887494480871441074",
-      "edition": "Namibia",
+      "id": 422519506,
+      "edition": "New Zealand South Island — Five places that barely look real",
       "date": "2026-11-11T12:00:00",
-      "draft": true,
-      "auto_publish": false,
       "format": "POST",
-      "media_count": 7,
-      "provider_status": "PENDING_DRAFT_NON_AUTO_PUBLISHING",
-      "metricool_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074",
-      "note": "Retired test post. Metricool update returned draft=true and autoPublish=false; API still labels provider PENDING. Manual deletion remains needed to remove from calendar."
+      "media_count": 6,
+      "draft": false,
+      "auto_publish": true,
+      "provider_status": "PENDING",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074",
+      "note": "New six-image swipeable gallery, fully overwrote old scheduled content with live Metricool update; correct country on cover."
     },
     {
       "uuid": "7327149549031803495",
-      "id": 422405937,
+      "id": 422519542,
+      "edition": "Philippines — It's so much more than beaches",
       "date": "2026-11-13T19:00:00",
-      "draft": true,
-      "auto_publish": false,
       "format": "POST",
-      "media_count": 5,
-      "edition": "European wildlife",
-      "provider_status": "PENDING_DRAFT_NON_AUTO_PUBLISHING",
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495",
-      "qa_review": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md",
-      "note": "Retired test post. Metricool update returned draft=true and autoPublish=false; API still labels provider PENDING. Manual deletion remains needed to remove from calendar."
-    },
-    {
-      "id": 422484908,
-      "uuid": "-2079661561940328338",
-      "edition": "Amalfi Coast photo Reel",
-      "date": "2026-11-16T19:00:00",
+      "media_count": 6,
       "draft": false,
       "auto_publish": true,
-      "format": "REEL",
-      "media_count": 1,
-      "source_still_count": 6,
       "provider_status": "PENDING",
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-2079661561940328338"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495",
+      "note": "New six-image swipeable gallery, fully overwrote old scheduled content with live Metricool update; correct country on cover."
+    },
+    {
+      "uuid": "-2079661561940328338",
+      "id": 422523873,
+      "edition": "Italy — Amalfi Coast six-scene swipe carousel",
+      "date": "2026-11-16T19:00:00",
+      "format": "POST",
+      "media_count": 6,
+      "draft": false,
+      "auto_publish": true,
+      "provider_status": "PENDING",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-2079661561940328338",
+      "note": "New six-image swipeable gallery, fully overwrote old scheduled content with live Metricool update; correct country on cover."
     }
   ],
   "pending": [],
@@ -117,9 +116,10 @@
   "media_revision": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
   "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
   "buffer": {
-    "target": "Four exceptional original pieces next publication week: two 5+ image carousels and two genuine 5+ scene Reels (still-photo motion or stronger real motion); within up to 20/month.",
-    "status": "ONE active new-format auto-publishing Reel confirmed 16 November, plus two older non-auto-publishing drafts (11/13 Nov) still listed as PENDING by provider.",
-    "next_pipeline_priority": "Thursday weekly task produces TWO carousels and ONE additional Reel for 16–22 Nov (four total including booked Amalfi Reel), verifying each exact media and provider."
+    "target": "Four genuinely good publications per week using one Thursday 08:00 UK task; aim three swipeable carousels plus one authentic video Reel if viable, otherwise four swipeable carousels.",
+    "status": "New Zealand 11 Nov, Philippines 13 Nov, Amalfi Coast 16 Nov all confirmed auto-publishing POST PENDING; historical Namibia/wildlife and passive Amalfi photo-video no longer scheduled as those contents.",
+    "scheduled_through": "2026-11-16",
+    "next_pipeline_priority": "At Thursday 12 Nov 08:00 UK inspect live Metricool and complete the remaining three publications for 16–22 Nov: two more swipeable carousels plus one genuine 5-clip video Reel if footage genuinely strong, otherwise three more swipeable carousels. Existing Italy Amalfi 16 Nov counts as one."
   },
   "publication_reconciliation": {
     "checked_at": "2026-11-09 evening (live November Metricool: four PUBLISHED, two PENDING)",
@@ -131,19 +131,20 @@
       "Japan 2026-11-09"
     ],
     "confirmed_pending": [
-      "Namibia 2026-11-11T12:00:00",
-      "European wildlife 2026-11-13T19:00:00"
+      "New Zealand 11 Nov 12:00 POST 6 images",
+      "Philippines 13 Nov 19:00 POST 6 images",
+      "Italy Amalfi 16 Nov 19:00 POST 6 images"
     ],
     "november_known_publications_and_reservations": 6,
     "internal_monthly_ceiling": 20,
-    "remaining_ceiling_before_unseen_manual_posts": 14,
+    "remaining_ceiling_before_unseen_manual_posts": 13,
     "manual_or_untracked_content": "Live November API check confirmed four PUBLISHED and two PENDING, including Namibia 11 Nov and European wildlife 13 Nov; manual/third-party posts beyond provider-visible set are not independently enumerable. Maintain conservative 20/month limit.",
     "analytics_note": "Metricool daily account metrics returned early low counts and null saves; insufficient to attribute creative performance or infer post-level saves/shares.",
     "render_errors": "review/render-errors.json was [] at inspection",
     "new_post_scheduled_this_run": true,
-    "monthly_visible_entries": 6,
+    "monthly_visible_entries": 7,
     "monthly_visible_published": 4,
-    "monthly_visible_pending": 2
+    "monthly_visible_pending": 3
   },
   "operating_policy": "ATLAS_WEEKLY.md (single active creative/process document; older multi-stage documents historical)",
   "pipeline_tasks": [
@@ -221,15 +222,16 @@
   "monthly_calendar_posts_ceiling": 20,
   "weekly_target_posts": 4,
   "eligibility_note": "Metricool API-visible November entries at 8 November: 3 PUBLISHED, 1 PENDING. User reports allowance UI usage 3; counter semantics unverified. Enforce stricter actual cap conservatively.",
-  "live_metricool_checked_on": "2026-11-09 21:10 Europe/London",
+  "live_metricool_checked_on": "2026-11-09 after all 3 completed replacements",
   "manual_approval_requirement": "none for routine fully reviewed editions",
   "notification_policy": {
     "owner_requests_each_run_report": true,
     "all_jobs_prompts_updated": "2026-11-08",
     "delivery_note": "Four scheduled jobs' latest results are available in their ChatGPT task conversations. Actual push/email notification delivery is unknown; enable and verify via ChatGPT Settings > Notifications."
   },
-  "strategy_mix": "Two image carousels + two 5+ scene Instagram Reels weekly, photo Reels default but real motion preferred when genuinely stronger.",
+  "strategy_mix": "Three swipeable image carousels plus one authentic video Reel if five excellent legal motion shots exist; otherwise four carousels. No slideshow MP4 standing in for swipe.",
   "growth_log": "GROWTH_LOG.md",
   "feedback_loop_policy": "Single task self-revises within same execution, rather than separate jobs. ATLAS_WEEKLY.md",
-  "qa_lessons_log": "content/qa-lessons.json"
+  "qa_lessons_log": "content/qa-lessons.json",
+  "current_creative_brief": "ATLAS_WEEKLY.md"
 }
