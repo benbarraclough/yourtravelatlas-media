@@ -11,9 +11,10 @@ All research, production, QA/revision/scheduling, recovery and growth tasks MUST
 1. Live Metricool next 30 days + month count and the current GitHub pipeline.
 2. `content/production-queue.json` (shared exact-edition state).
 3. `content/qa-lessons.json` (concrete reusable failures, fixes, whether a fix was proved).
-4. This document and the quality/copy standards.
+4. `content/quality-feedback.json` (event-level failed gates, exact repairs, results and unresolved work; preserve evidence and link to reusable qa-lessons).
+5. This document and the quality/copy standards.
 
-Every rejection or technical failure MUST persist a machine-readable or reliably parseable feedback entry: `edition_id`, `stage`, `observed_at`, `failure_class`, `affected_slide_or_field`, `evidence_url_or_asset_hash`, `specific_problem`, `remedy_attempted`, `next_action`, `owner_stage`, `attempt_count`, `status`. Avoid overwriting past history. When a replacement succeeds, mark the linked failure `RESOLVED` with commit/workflow/QA evidence; lessons must name the actual preventive check for FUTURE work. Do not infer performance-driven lessons from sparse engagement numbers.
+Every rejection or technical failure MUST persist an entry in `content/quality-feedback.json`, and promote the proven prevention check to `content/qa-lessons.json`; each entry must be machine-readable: `edition_id`, `stage`, `observed_at`, `failure_class`, `affected_slide_or_field`, `evidence_url_or_asset_hash`, `specific_problem`, `remedy_attempted`, `next_action`, `owner_stage`, `attempt_count`, `status`. Avoid overwriting past history. When a replacement succeeds, mark the linked failure `RESOLVED` with commit/workflow/QA evidence; lessons must name the actual preventive check for FUTURE work. Do not infer performance-driven lessons from sparse engagement numbers.
 
 Feedback flows immediately in GitHub: QA rejection becomes the top production input; source failures become research's sourceability filter; renderer failures become schema/preflight tests; eventual publication and engagement become Growth's experiment evidence. Compare every new brief against relevant failure classes so the same failure is not repeated silently. Growth reviews the log weekly, promotes a recurring issue into a concrete template/check/test instead of rewriting style on intuition.
 
