@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-09T20:55:00+00:00",
+  "meaning": "Shared reusable QA and technical failures with proven repairs; recording insights is not model training.",
+  "lessons": [
+    {
+      "id": "L-001",
+      "edition_id": "005-namibia-contrasts",
+      "stage": "SOURCE_SELECTION",
+      "failure_class": "PHOTO_PROMISE_MISMATCH",
+      "affected_slide_or_field": "01 cover",
+      "specific_problem": "Original Sandwich Harbour 08.jpg does not show ocean though copy promised dunes meet ocean",
+      "remedy_attempted": "Replaced with free photographer-labelled Sandwich Harbour aerial showing both sand and sea",
+      "preventive_check": "Before accepting cover, inspect original pixel content and compare image with headline noun/verb",
+      "status": "RESOLVED",
+      "proof": "media/005-namibia-contrasts/01.jpg; content/reviews/2026-11-09-namibia-005-critical-qa.md",
+      "attempt_count": 2
+    },
+    {
+      "id": "L-002",
+      "edition_id": "005-namibia-contrasts",
+      "stage": "SOURCE_SELECTION",
+      "failure_class": "SUBJECT_NOT_VISIBLE",
+      "affected_slide_or_field": "04 Kolmanskop",
+      "specific_problem": "Original image of exterior could not show sand-filled room claimed by overlay",
+      "remedy_attempted": "Replaced with Francesco Ungaro free Kolmanskop interior with sand occupying room",
+      "preventive_check": "For each page require image subject visibly matches the actual strongest specific experience; never rely on caption to fix mismatch",
+      "status": "RESOLVED",
+      "proof": "media/005-namibia-contrasts/04.jpg",
+      "attempt_count": 2
+    },
+    {
+      "id": "L-003",
+      "edition_id": "005-namibia-contrasts",
+      "stage": "RENDER_PREFLIGHT",
+      "failure_class": "SCHEMA_REQUIRED_FIELD_MISSING",
+      "affected_slide_or_field": "activity_source for all slides",
+      "specific_problem": "GitHub render run 42696108756 failed because activity_source was omitted",
+      "remedy_attempted": "Added activity_source URLs listed in fact_sources for all slides; rerender 42696283143 passed",
+      "preventive_check": "Run manifest validation and require all slides activity_source (and membership in fact_sources) before triggering GitHub rendering",
+      "status": "RESOLVED",
+      "proof": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42696283143",
+      "attempt_count": 2
+    },
+    {
+      "id": "L-004",
+      "edition_id": "004-japan-beyond-the-cities",
+      "stage": "CAPTION_QA",
+      "failure_class": "PUBLIC_COPY_EXCESS_DETAIL",
+      "affected_slide_or_field": "caption",
+      "specific_problem": "Published Japan caption contained many nonessential caveats, multiple seasons, logistical detail and negative guarantees",
+      "remedy_attempted": "Changed canonical editorial and review instructions to short, fun, inspiring captions with essential place/reward only",
+      "preventive_check": "Reject copy dominated by disclaimers or lengthy directions, except for material access facts necessary to avoid misleading the visitor",
+      "status": "POLICY_UPDATED_AWAITING_MORE_POSTS",
+      "proof": "EDITORIAL_GUIDELINES.md; EDITORIAL_REVIEW.md",
+      "attempt_count": 1
+    }
+  ]
+}
