@@ -1,4 +1,9 @@
-# Outstanding work — 8 November 2026 recovery and operations v9
+# Outstanding work — 9 November 2026 recovery and operations v9
+
+## Stage 3 review — 9 November 2026 morning (LIVE)
+
+Independent review recorded at [content/reviews/2026-11-09-stage3-unrendered-candidates.md](content/reviews/2026-11-09-stage3-unrendered-candidates.md). **No exact rendered candidate exists:** Namibia 005 is IN_PROGRESS / MEDIA_REVISE with untruthful ocean cover, missing strong landmark/animal/CTA photos and incompatible licence types; Europe wildlife 006 is only COMMISSIONED, missing location-specific bear/seal images, cover/CTA. Stage 3 verdict **BLOCKED**, no final media or hashes available to inspect, **0 QA passes, 0 new posts scheduled**. Live Metricool 9 Nov recheck: 3 PUBLISHED (Porto, Riviera, Iceland), Japan PENDING 9 Nov 19:00, no 11/13 Nov bookings. **Production action required next:** resolve 005 exact image/rights/renderer issues and actually render with verified output SHA; otherwise pivot to fully sourceable concept. Never mark either edition PASS or schedule without full final-image visual QA. Next vacancies 11 Nov 12:00 and 13 Nov 19:00, subject to fresh check.
+
 
 ## Stage 2 production finding — 8 November afternoon
 
