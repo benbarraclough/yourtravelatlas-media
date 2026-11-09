@@ -7,7 +7,7 @@
   "content_type": "discovery",
   "strategy": "curated_lists_trends",
   "editorial_version": 7,
-  "editorial_status": "production_candidate_pending_QA",
+  "editorial_status": "REVISION_PENDING_REVIEW",
   "public_numbers": false,
   "format": "four-location-wildlife-wishlist",
   "effort_level": "varied",
@@ -112,21 +112,21 @@
     {
       "layout": "cta",
       "heading": "Fill your feed with wonder.",
-      "image_url": "https://images.unsplash.com/photo-1575651187115-d6cd2d608310?auto=format&fit=crop&w=2000&q=85",
-      "source_page": "https://unsplash.com/photos/rocky-and-grass-mountains-island-during-day-lv2UVOfHDHo",
-      "photographer": "Daniel Morris",
-      "license": "Unsplash License",
-      "subject": "Sunset over the craggy coast at Pwll Deri, Pembrokeshire Wales",
-      "alt": "Soft peach sunset above steep rocky green coastal cliffs at Pwll Deri in Wales",
-      "activity_source": "https://unsplash.com/photos/rocky-and-grass-mountains-island-during-day-lv2UVOfHDHo",
+      "image_url": "https://images.pexels.com/photos/20703283/pexels-photo-20703283/free-photo-of-flamingos-at-sunset.jpeg",
+      "source_page": "https://www.pexels.com/photo/flamingos-at-sunset-20703283/",
+      "photographer": "Eclipse Chasers",
+      "license": "Pexels License",
+      "subject": "Flamingos reflected on a still wetland lagoon during vivid orange sunset at Camargue France",
+      "alt": "Silhouettes of flamingos wading across a sunset-lit lagoon in Camargue, France",
+      "activity_source": "https://www.pexels.com/photo/flamingos-at-sunset-20703283/",
       "fact_checks": [
-        "https://unsplash.com/photos/rocky-and-grass-mountains-island-during-day-lv2UVOfHDHo"
+        "https://www.pexels.com/photo/flamingos-at-sunset-20703283/"
       ],
       "review": {
-        "reader_value": "A compelling sunset over the Welsh sea cliffs offers both a sense of scale and a tranquil closing invitation to future exploration.",
-        "image_context": "Original public Unsplash photo by Daniel Morris explicitly labelled Pwll Deri Sunset, YHA Pwll Deri Goodwick UK, and the visible original shows rugged sea cliffs.",
-        "specific_detail": "This is a scenic CTA without a wildlife claim; it is a named and honestly credited site in the same Welsh coast region as the cover.",
-        "distinct_contribution": "A sweeping pink sky and rocky Wales coastline give visual space after the four detailed animal portraits and create a strong destination finish."
+        "reader_value": "A sunset wetland scene with multiple visible flamingos and clear water reflections gives the carousel an emotional closing payoff, not empty scenery.",
+        "image_context": "Original Pexels free photo page specifies a Camargue lagoon in Arles, France, shows flamingos at orange sunset, credited to Eclipse Chasers; inspect new final crop after render.",
+        "specific_detail": "This original landscape ties wildlife to place and is independently marked Free on the source image licensing page with 6927 by 4618 pixels.",
+        "distinct_contribution": "A wide sunset reflecting multiple real wetland birds deliberately contrasts the four earlier close-up animal portraits and signals a memorable ending."
       },
       "focus_x": 0.5,
       "focus_y": 0.5
@@ -137,7 +137,7 @@
     "https://postojnsko.si/en/poi/bear-watching/",
     "https://www.parcornithologique.com/",
     "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
-    "https://unsplash.com/photos/rocky-and-grass-mountains-island-during-day-lv2UVOfHDHo"
+    "https://www.pexels.com/photo/flamingos-at-sunset-20703283/"
   ],
   "reviewed_sources_on": "2026-11-09",
   "caption_review": {
@@ -149,7 +149,7 @@
     "save_value": "Exact site pins and one memorable animal reason to explore each.",
     "verdict": "Unapproved: render and exact visual QA pending."
   },
-  "editorial_verdict": "PRODUCTION CANDIDATE — full rendered and independently checked media still required",
+  "editorial_verdict": "New CTA image selected after original lagoon image failed emotional visual distinction; exact rendered QA still required.",
   "final_visual_review_on": null,
   "qa_notes": [
     "Initial actual-render review REVISE: flamingo copy referenced a flock turning wetlands pink when photo showed a pale close pair; vulture copy claimed soaring but photograph showed a perched bird; previous sunset CTA was a dark generic stripe and too weak.",
