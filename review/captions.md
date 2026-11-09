@@ -125,6 +125,6 @@ Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩
 
 Which one belongs on your travel wishlist?
 
-Photos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Lucas Gallone / Unsplash.
+Photos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Julien DI MAJO / Unsplash.
 
 #YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration

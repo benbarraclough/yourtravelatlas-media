@@ -5,14 +5,14 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "eabc4d1d79d83dff8fc846eb9f84ee9f2f21fbf085ca82c77793dd64a3b69b78",
-  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Lucas Gallone / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
+  "brief_sha256": "1086d1b009dd586805e25ac89288223af0d4695c894cd986e52d09344c035491",
+  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Julien DI MAJO / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
   "fact_sources": [
     "https://www.welshwildlife.org/visit/skomer-island",
     "https://postojnsko.si/en/poi/bear-watching/",
     "https://www.parcornithologique.com/",
     "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
-    "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+    "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk"
   ],
   "editorial_intent": "Original researched list of four distinct real wildlife watching experiences across Europe featuring different species and habitats.",
   "share_reason": "Four specific places for unforgettable wildlife moments, with photos grounded at exact real locations and different habitats.",
@@ -77,13 +77,13 @@
       "activity_source": "https://www.parcornithologique.com/",
       "file": "03.jpg",
       "source_sha256": "1b4718c551a52736e164f441ff67053aaee9922376d1e837005e557e796d0881",
-      "output_sha256": "c04d627f1134624527cfe31c9625482a1139d8642a2b0219cf4cfc5133561b57",
+      "output_sha256": "7da04167b4da953fd129f378aee5791e74123668ed9be4b909bfaf4604cd8c28",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "See flocks of flamingos turning the southern French wetlands pink.",
+      "body": "See flamingos wading in the shallow lagoons of southern France.",
       "review": {
         "reader_value": "The accessible spectacle of flamingos in Camargue offers a colourful wetland wildlife outing and is an excellent trip inspiration for France.",
         "image_context": "Original Unsplash photographer explicitly tagged these freely licensed flamingos as photographed in Camargue, France.",
@@ -103,13 +103,13 @@
       "activity_source": "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
       "file": "04.jpg",
       "source_sha256": "ee86449da43621e8463ff3b59bb6c9757b1b1c4d217e05b614cd858ed0bb5434",
-      "output_sha256": "aa165b316a64904c38b92c0564424c87dd6021c8472fdc39ee9bd8263afa7065",
+      "output_sha256": "f461b13b3143797f2ac2d1f636a73cfd6422e4e4dc71e2e7df67deaf69b68bce",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Look up to huge birds of prey soaring over Spain's rugged national park.",
+      "body": "Look out for magnificent vultures in Spain's rugged Monfragüe National Park.",
       "review": {
         "reader_value": "Monfragüe offers enormous vultures and a dramatic Spanish park landscape, a different outdoor adventure from European forest and wetland wildlife.",
         "image_context": "Roberto Navarro's freely licensed Unsplash photograph is explicitly labelled vulture perched on a tree, Monfragüe Spain.",
@@ -121,28 +121,28 @@
       ]
     },
     {
-      "subject": "Sunset beach at Saintes-Maries-de-la-Mer in Camargue France",
-      "source_page": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
-      "photographer": "Lucas Gallone",
+      "subject": "Wild bird flying low above a Camargue lagoon in early sunlight in France",
+      "source_page": "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk",
+      "photographer": "Julien DI MAJO",
       "license": "Unsplash License",
-      "alt": "One person on a wide Camargue beach at sunset beneath a colourful sky",
-      "activity_source": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
+      "alt": "A bird spreads its wings above a peaceful Camargue lagoon under a pale morning sky",
+      "activity_source": "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk",
       "file": "05.jpg",
-      "source_sha256": "f6964fe236258fc7a5dbaf2a1fa1e1afef56c391f056c39e4d71a4423d3707ac",
-      "output_sha256": "fd6ffd5a542234bc5510875152d544af6bd7e671a319434632462ae2c0a5d865",
+      "source_sha256": "3801412df8462f1ac0130403979e745833751a03b6d6e882de0ff6a37bde57fb",
+      "output_sha256": "30e2ace3c0b5783aab3e3e3b3bef1079f320b03ff34e2e78a4582bc70a7ea66d",
       "size": [
         1080,
         1350
       ],
       "layout": "cta",
       "review": {
-        "reader_value": "A calming coastal sunset offers a spacious closing image and a sense of wanderlust after the four vivid European animal encounters.",
-        "image_context": "The freely licensed source photo from Lucas Gallone is labelled Saintes-Maries-de-la-Mer, France and depicts a person on beach at sunset.",
-        "specific_detail": "The closing card makes no species or access claim; the accurate identified location and photographer still remain traceable.",
-        "distinct_contribution": "An atmospheric human-scale beach sunset ends the sequence visually without adding a misleading fifth wildlife destination."
+        "reader_value": "A soft, expansive Camargue lagoon scene with a flying wild bird offers a peaceful closing invitation after four close-up wildlife portraits.",
+        "image_context": "Photographer Julien DI MAJO labels the free original as a large bird flying over water in Camargue, France, at sunrise.",
+        "specific_detail": "No wildlife promise is attached to the CTA; the accurately attributed scene is a quiet visual invitation to explore more.",
+        "distinct_contribution": "The wide bright lagoon, distant horizon and moving bird provide visual breathing room, distinct from the prior close portraits."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+        "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk"
       ]
     }
   ]
