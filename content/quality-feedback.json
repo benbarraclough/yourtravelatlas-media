@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-09",
+  "updated_at": "2026-11-09 after European wildlife 006 PENDING confirmation",
   "purpose": "Shared structured rejections, remedies, and reusable prevention lessons across all Atlas automations. This is persisted feedback, not model weight training.",
   "events": [
     {
@@ -63,7 +63,8 @@
       "status": "RESOLVED",
       "what_failed": "Closing Camargue beach strip sunset weak; substitute Camargue flying-bird image still too pale, tiny bird and little visual impact.",
       "remedy": "Replace with stronger real licence-cleared location-specific sunset photo; after alternative comparison, Camargue flamingos at sunset by Eclipse Chasers offers vivid sky, visible animals and readable overlay.",
-      "result": "Pexels sunset replacement rendered; pending final updated caption/hash QA."
+      "result": "Strong Camargue sunset flamingo CTA rendered in current five-slide 006 edition; independently visually QA-approved 9 Nov and Metricool PENDING for 13 Nov at 19:00 UK.",
+      "evidence_url": "https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md"
     },
     {
       "id": "qf-006-03",
@@ -75,7 +76,8 @@
       "status": "RESOLVED",
       "what_failed": "Source image changed to Eclipse Chasers / Pexels but caption retained Daniel Morris / Unsplash.",
       "remedy": "Update public photo credits and re-render exact corrected brief; add an automated v7 credit consistency preflight.",
-      "result": "Caption updated in GitHub brief commit 2928e10a9477f40bddda6838dda475d5cfc1b296; actual new rendered hash verification required."
+      "result": "Photographer credits corrected; renderer preflight now verifies all v7 photographers appear in final caption; matching manifest and five final assets QA-PASS and Metricool PENDING for 13 Nov 19:00 UK.",
+      "evidence_url": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42699403303"
     }
   ],
   "lessons": [
