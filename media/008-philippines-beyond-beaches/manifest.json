@@ -1,0 +1,178 @@
+{
+  "issue": 8,
+  "slug": "008-philippines-beyond-beaches",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "9bcc5bcffeaa2732a88ea669417026354978fd2cbf8bcf7acd112b68a099ac44",
+  "caption": "The Philippines isn't just white sand and blue water. It's so much more. 🇵🇭\n\n📍 El Nido — kayak between limestone cliffs and turquoise lagoons.\n📍 Batad Rice Terraces — green mountains sculpted into incredible steps.\n📍 Chocolate Hills, Bohol — hundreds of surreal rounded hills.\n📍 Siargao — palm-lined roads begging for a slow island ride.\n📍 Kawasan Falls, Cebu — jungle waterfalls and vibrant blue pools.\n\nWhich one would you go for first?\n\nPhotos: Jared Rice, Omri D. Cohen, Zed Benson, Jake Irish & Florian Delée / Unsplash.\n\n#YourTravelAtlas #Philippines #IslandTravel #TravelInspiration",
+  "fact_sources": [
+    "https://unsplash.com/photos/lush-green-islands-in-clear-turquoise-water-with-boats-1qzCPVGxO94",
+    "https://unsplash.com/photos/a-view-of-a-rice-field-in-the-mountains-pozDysoeJ9Y",
+    "https://unsplash.com/photos/chocolate-hills-bohol-philippines-tyMVaFXcksU",
+    "https://unsplash.com/photos/a-long-straight-road-through-a-dense-palm-tree-forest-bXH46tuPgeY",
+    "https://unsplash.com/photos/woman-in-blue-bikini-swimming-on-water-LmCthCQW6Mg",
+    "https://unsplash.com/photos/aerial-view-of-lush-green-islands-and-blue-lagoons-AJ9OkhyXRNY"
+  ],
+  "editorial_intent": "Uncover five accurately identifiable varied experiences in the Philippines to demonstrate more than beaches, from limestone lagoons to rice terraces, rounded hills, palm roads and waterfalls.",
+  "share_reason": "Distinctive landscape variety across a country of islands makes a surprising and beautiful reel-worthy photographic travel discovery.",
+  "slides": [
+    {
+      "subject": "Aerial shot of electric turquoise water and jungle-covered limestone islands at El Nido",
+      "source_page": "https://unsplash.com/photos/lush-green-islands-in-clear-turquoise-water-with-boats-1qzCPVGxO94",
+      "photographer": "Jared Rice",
+      "license": "Unsplash License",
+      "alt": "Aerial shot of electric turquoise water and jungle-covered limestone islands at El Nido",
+      "activity_source": "https://unsplash.com/photos/lush-green-islands-in-clear-turquoise-water-with-boats-1qzCPVGxO94",
+      "file": "01.jpg",
+      "source_sha256": "3c18be88bb80fdacbf9cba577fcc0d902849107035c42d9734d6ee9957de63b3",
+      "output_sha256": "1e32a0b8d5bc8d2a438534b33bd22089ff3f24a5517f4653fc677dd11705f850",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "body": "Kayak through emerald limestone islands and luminous blue water.",
+      "review": {
+        "reader_value": "A compelling accurately named travel experience with a unique picture and a specific reason worth saving for a future trip, not a generic unrelated stock image.",
+        "image_context": "Exact original Unsplash free photo page labels El Nido's Big Lagoon in the Philippines and photographer Jared Rice; full final output still requires visual inspection.",
+        "specific_detail": "The source location and visible experience match the heading, with no promise of guaranteed weather, available activities, transport or time-sensitive logistics.",
+        "distinct_contribution": "Electric blue lagoon and sheer emerald islands provide a visually stunning opening"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/lush-green-islands-in-clear-turquoise-water-with-boats-1qzCPVGxO94"
+      ]
+    },
+    {
+      "subject": "Mountain amphitheatre of rice terraces at Batad in Ifugao Philippines",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-rice-field-in-the-mountains-pozDysoeJ9Y",
+      "photographer": "Omri D. Cohen",
+      "license": "Unsplash License",
+      "alt": "Mountain amphitheatre of rice terraces at Batad in Ifugao Philippines",
+      "activity_source": "https://unsplash.com/photos/a-view-of-a-rice-field-in-the-mountains-pozDysoeJ9Y",
+      "file": "02.jpg",
+      "source_sha256": "def862685e7e3ca918224fba70a77045fbf65a0ea15bd479a6c9e8caf1d6f16b",
+      "output_sha256": "3c83c45c4266d2f219f68a4230f62eea3e0c421a0102a5de27b3514b90300f5a",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Walk through dramatic green terraces carved into the mountains.",
+      "review": {
+        "reader_value": "A compelling accurately named travel experience with a unique picture and a specific reason worth saving for a future trip, not a generic unrelated stock image.",
+        "image_context": "Exact original Unsplash free photo page labels Batad Rice Terraces in the Philippines and photographer Omri D. Cohen; full final output still requires visual inspection.",
+        "specific_detail": "The source location and visible experience match the heading, with no promise of guaranteed weather, available activities, transport or time-sensitive logistics.",
+        "distinct_contribution": "Contoured green rice landscapes and farm terraces contrast tropical ocean imagery"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-view-of-a-rice-field-in-the-mountains-pozDysoeJ9Y"
+      ]
+    },
+    {
+      "subject": "Clusters of unusual rounded green and brown Chocolate Hills in Bohol",
+      "source_page": "https://unsplash.com/photos/chocolate-hills-bohol-philippines-tyMVaFXcksU",
+      "photographer": "Zed Benson",
+      "license": "Unsplash License",
+      "alt": "Clusters of unusual rounded green and brown Chocolate Hills in Bohol",
+      "activity_source": "https://unsplash.com/photos/chocolate-hills-bohol-philippines-tyMVaFXcksU",
+      "file": "03.jpg",
+      "source_sha256": "4bcd5732affb210fb4e616b44dfea2d3d0705cb2f98bb91bbd85885f08e0863e",
+      "output_sha256": "632b8a348deab91b540c1770bb8739bf4fac3cdd052f788fe4bd5365d855e361",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A landscape filled with strange, almost perfectly rounded hills.",
+      "review": {
+        "reader_value": "A compelling accurately named travel experience with a unique picture and a specific reason worth saving for a future trip, not a generic unrelated stock image.",
+        "image_context": "Exact original Unsplash free photo page labels Chocolate Hills in the Philippines and photographer Zed Benson; full final output still requires visual inspection.",
+        "specific_detail": "The source location and visible experience match the heading, with no promise of guaranteed weather, available activities, transport or time-sensitive logistics.",
+        "distinct_contribution": "Repeating rounded brown green landforms are unlike the other features"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/chocolate-hills-bohol-philippines-tyMVaFXcksU"
+      ]
+    },
+    {
+      "subject": "A straight road through dense emerald palm forest on Siargao Island",
+      "source_page": "https://unsplash.com/photos/a-long-straight-road-through-a-dense-palm-tree-forest-bXH46tuPgeY",
+      "photographer": "Jared Rice",
+      "license": "Unsplash License",
+      "alt": "A straight road through dense emerald palm forest on Siargao Island",
+      "activity_source": "https://unsplash.com/photos/a-long-straight-road-through-a-dense-palm-tree-forest-bXH46tuPgeY",
+      "file": "04.jpg",
+      "source_sha256": "5a026b7b3553017355d4b1e14b86d666b6d934dedb71d4971de4dc36160fd8ee",
+      "output_sha256": "f5170784a5b6c4b8f526ad39ca4f8708de071c6c21cde9f665bd777e61cb795a",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Follow palm-lined roads through a lush tropical island.",
+      "review": {
+        "reader_value": "A compelling accurately named travel experience with a unique picture and a specific reason worth saving for a future trip, not a generic unrelated stock image.",
+        "image_context": "Exact original Unsplash free photo page labels Siargao Island in the Philippines and photographer Jared Rice; full final output still requires visual inspection.",
+        "specific_detail": "The source location and visible experience match the heading, with no promise of guaranteed weather, available activities, transport or time-sensitive logistics.",
+        "distinct_contribution": "An overhead straight palm road adds movement and travel imagination"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-long-straight-road-through-a-dense-palm-tree-forest-bXH46tuPgeY"
+      ]
+    },
+    {
+      "subject": "Tropical turquoise waters with swimmer at Kawasan Falls in Badian Cebu",
+      "source_page": "https://unsplash.com/photos/woman-in-blue-bikini-swimming-on-water-LmCthCQW6Mg",
+      "photographer": "Jake Irish",
+      "license": "Unsplash License",
+      "alt": "Tropical turquoise waters with swimmer at Kawasan Falls in Badian Cebu",
+      "activity_source": "https://unsplash.com/photos/woman-in-blue-bikini-swimming-on-water-LmCthCQW6Mg",
+      "file": "05.jpg",
+      "source_sha256": "9c67357224420c0d34e5a454716a41c7b6bdd5c730b415e4ef32deb8e1b1a4bc",
+      "output_sha256": "4e07459e05cf38eec8981485ad104c47cec1296199485278a4759293a4af63ff",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Swim in impossibly blue pools beneath a jungle waterfall.",
+      "review": {
+        "reader_value": "A compelling accurately named travel experience with a unique picture and a specific reason worth saving for a future trip, not a generic unrelated stock image.",
+        "image_context": "Exact original Unsplash free photo page labels Kawasan Falls in the Philippines and photographer Jake Irish; full final output still requires visual inspection.",
+        "specific_detail": "The source location and visible experience match the heading, with no promise of guaranteed weather, available activities, transport or time-sensitive logistics.",
+        "distinct_contribution": "Blue freshwater canyon and cascading waterfall add active tropical nature"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/woman-in-blue-bikini-swimming-on-water-LmCthCQW6Mg"
+      ]
+    },
+    {
+      "subject": "Aerial view of vivid blue lagoons threaded between green limestone islands in Coron",
+      "source_page": "https://unsplash.com/photos/aerial-view-of-lush-green-islands-and-blue-lagoons-AJ9OkhyXRNY",
+      "photographer": "Florian Delée",
+      "license": "Unsplash License",
+      "alt": "Aerial view of vivid blue lagoons threaded between green limestone islands in Coron",
+      "activity_source": "https://unsplash.com/photos/aerial-view-of-lush-green-islands-and-blue-lagoons-AJ9OkhyXRNY",
+      "file": "06.jpg",
+      "source_sha256": "64ab5839f33bd185e0c02b98085c2d807fbbf68407cb13a8ca2a494f5780f498",
+      "output_sha256": "125d4559033c0fb8ef7c38a749025bbaff23c499f6beb59e1a79f85b265935ae",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cta",
+      "body": "Save these extraordinary islands for another adventure.",
+      "review": {
+        "reader_value": "A compelling accurately named travel experience with a unique picture and a specific reason worth saving for a future trip, not a generic unrelated stock image.",
+        "image_context": "Exact original Unsplash free photo page labels Coron's Blue Lagoons in the Philippines and photographer Florian Delée; full final output still requires visual inspection.",
+        "specific_detail": "The source location and visible experience match the heading, with no promise of guaranteed weather, available activities, transport or time-sensitive logistics.",
+        "distinct_contribution": "An aerial labyrinth of islands and bright open sea closes with scale and wonder"
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/aerial-view-of-lush-green-islands-and-blue-lagoons-AJ9OkhyXRNY"
+      ]
+    }
+  ]
+}

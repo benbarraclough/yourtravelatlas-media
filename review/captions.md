@@ -144,3 +144,19 @@ Save the South Island for a future New Zealand adventure.
 Photos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & loloscott / Unsplash.
 
 #YourTravelAtlas #NewZealand #SouthIsland #TravelInspiration
+
+## It's so much more than beaches
+
+The Philippines isn't just white sand and blue water. It's so much more. 🇵🇭
+
+📍 El Nido — kayak between limestone cliffs and turquoise lagoons.
+📍 Batad Rice Terraces — green mountains sculpted into incredible steps.
+📍 Chocolate Hills, Bohol — hundreds of surreal rounded hills.
+📍 Siargao — palm-lined roads begging for a slow island ride.
+📍 Kawasan Falls, Cebu — jungle waterfalls and vibrant blue pools.
+
+Which one would you go for first?
+
+Photos: Jared Rice, Omri D. Cohen, Zed Benson, Jake Irish & Florian Delée / Unsplash.
+
+#YourTravelAtlas #Philippines #IslandTravel #TravelInspiration
