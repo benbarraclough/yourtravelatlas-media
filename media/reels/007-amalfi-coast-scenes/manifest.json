@@ -1,0 +1,69 @@
+{
+  "status": "rendered-not-scheduled",
+  "type": "photo_slideshow_v1",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "source_brief": "content/reels/007-amalfi-coast-scenes.json",
+  "brief_sha256": "289b148398cdef9510f14ace885225538f5281313c1e2fffa68ffcf3183ed731",
+  "video_sha256": "27c75076f8ee464b79c16d2ba1712bf96a2bd6bfb4e46fe7bf7ac5fc3bfa5396",
+  "audio_streams": 0,
+  "image_count": 6,
+  "duration_seconds": 17.4,
+  "caption": "Six little scenes from the Amalfi Coast that make you want to book a window seat. 🍋🇮🇹\n\n📍 Positano — pastel houses tumbling down the hillside.\n📍 Ravello — gardens with views stretching to the sea.\n📍 Amalfi — sunny afternoons among the beach umbrellas.\n📍 Ravello — old stone lanes made for wandering.\n📍 Path of the Gods — incredible views across the coast.\n📍 Amalfi waterfront — slow down by the boats.\n\nSave this for your next Italian escape.\n\nPhotos: Ian Mackey, nella n., Margo Evardson, Emran Yousof, Sekwang Chia & Chloé Lefleur / Unsplash.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
+  "images": [
+    {
+      "source_page": "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
+      "photographer": "Ian Mackey",
+      "license": "Unsplash License",
+      "subject": "Positano",
+      "overlay": "Colourful Positano above the sea",
+      "source_sha256": "e3bea545fe994483b9509c20a04a5e5524e44302b796fec199d123bad39fe3d5",
+      "location_evidence": "Positano, SA, Italy named on the original free Unsplash photograph by Ian Mackey, showing the characteristic colour-stacked seaside town"
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
+      "photographer": "nella n.",
+      "license": "Unsplash License",
+      "subject": "Ravello gardens",
+      "overlay": "Ravello's gardens above the sea",
+      "source_sha256": "616ed846b4494b4505e86dcdb9baa124bea085a6f53093703b4b2209ae8f6586",
+      "location_evidence": "Original free Unsplash photo by nella n. geolocated by the photographer to Ravello, Salerno Italy with a garden and water view"
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
+      "photographer": "Margo Evardson",
+      "license": "Unsplash License",
+      "subject": "Amalfi beach",
+      "overlay": "Summer colours on Amalfi beach",
+      "source_sha256": "5445c26ee8057da0438045878672861c06393f8dc097e2e345e7b2f2d65c5e93",
+      "location_evidence": "Original free Unsplash photograph by Margo Evardson explicitly describes Amalfi Beach, umbrellas and coastal buildings in Amalfi Italy"
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-cobblestone-street-with-an-archway-leading-to-a-restaurant-pCTKrU_Q3w4",
+      "photographer": "Emran Yousof",
+      "license": "Unsplash License",
+      "subject": "Ravello lanes",
+      "overlay": "Stone lanes in Ravello",
+      "source_sha256": "22c6b75a5348eb514118d9891bf1486ce1b90641c039f043ca587ba749027924",
+      "location_evidence": "Original free Unsplash photograph by Emran Yousof explicitly captioned as a street in Ravello Italy, depicting a cobblestone alley and arch"
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
+      "photographer": "Sekwang Chia",
+      "license": "Unsplash License",
+      "subject": "Path of the Gods",
+      "overlay": "Path of the Gods, above the sea",
+      "source_sha256": "a82ad8577212b2cdfd80089e70a2dc69077a2053e3bdf4d00ac8ce1cd610851b",
+      "location_evidence": "Original free Unsplash photograph by Sekwang Chia labelled as a view of Positano from the Path of the Gods, Agerola Italy"
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-large-body-of-water-with-a-bunch-of-buildings-on-top-of-it-eyp70h20xDY",
+      "photographer": "Chloé Lefleur",
+      "license": "Unsplash License",
+      "subject": "Amalfi waterfront",
+      "overlay": "Boats along Amalfi's waterfront",
+      "source_sha256": "c64110c481631dc44626935f5c15a93111051b0de59ed2dc41d5d1eb8a5a30a9",
+      "location_evidence": "Original free Unsplash image by Chloé Lefleur identifies Amalfi Salerno Italy and depicts boats in the water in front of town buildings"
+    }
+  ]
+}
