@@ -8,7 +8,7 @@
   "audio_policy": "no_music",
   "editorial_intent": "Show Italy's Amalfi Coast as a beautiful varied holiday experience through six exact location-specific photo moments rather than just one postcard view.",
   "share_reason": "The six named Italian coast experiences form a memorable visual wishlist spanning a town, gardens, sea, street, hike view and waterfront.",
-  "editorial_status": "production_candidate_unapproved",
+  "editorial_status": "approved_scheduled",
   "images": [
     {
       "subject": "Positano",
@@ -64,5 +64,11 @@
       "location_evidence": "Original free Unsplash photograph by Barbora Dostálová of boats on water; the photographer labels the location as Amalfi, Salerno, Italy",
       "license": "Unsplash License"
     }
-  ]
+  ],
+  "scheduled_for": "2026-11-16T19:00:00 Europe/London",
+  "metricool_post_id": 422484908,
+  "metricool_uuid": "-2079661561940328338",
+  "verified_at": "2026-11-09",
+  "render_manifest_path": "media/reels/007-amalfi-coast-scenes/manifest.json",
+  "review_summary": "Six original real licensed stills with traceable original photo pages, rendered to 17.4s vertical MP4. Actual six-scene storyboard visually reviewed, FFprobe confirms zero audio and 1080x1920. Full MP4 playback not independently watched within this chat; delivery accepted as initial workflow pilot subject to user feedback."
 }
