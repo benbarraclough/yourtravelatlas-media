@@ -161,19 +161,19 @@ Photos: Jared Rice, Omri D. Cohen, Jaanus Jagomägi, Jake Irish & Florian Delée
 
 #YourTravelAtlas #Philippines #IslandTravel #TravelInspiration
 
-## The Amalfi Coast in six scenes
+## Six scenes worth falling for
 
-Six scenes that'll make you fall for the Amalfi Coast. 🍋🇮🇹
+Cliffside towns, secret coves and that impossible blue sea. The Amalfi Coast really is something else. 🍋
 
-📍 Positano — layers of pastel houses and bougainvillea.
-📍 Ravello — dreamy gardens above the Mediterranean.
-📍 Fiordo di Furore — a tiny beach beneath a soaring stone bridge.
-📍 Amalfi — beach umbrellas and afternoons by the water.
-📍 Path of the Gods — hike above the spectacular coastline.
-📍 Positano by night — the whole hillside begins to glow.
+📍 Positano — colourful houses stacked above the water.
+📍 Ravello — peaceful gardens and a panorama of the coast.
+📍 Amalfi Beach — umbrellas, Italian summer and the sea.
+📍 Fiordo di Furore — a little cove beneath an iconic bridge.
+📍 Path of the Gods — breathtaking coastal viewpoints.
+📍 Amalfi waterfront — wander down to the boats.
 
-Which one would you see first? Save this for your Italian escape.
+Save this for an Italian escape.
 
-Photos: Ian Mackey, nella n., Milan Hamel, Margo Evardson, Sekwang Chia & Sebastian Leonhardt / Unsplash.
+Photos: Ian Mackey, nella n., Margo Evardson, Rolands Varsbergs, Sekwang Chia & Barbora Dostálová / Unsplash.
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
