@@ -1,0 +1,154 @@
+{
+  "issue": 6,
+  "slug": "006-europe-wildlife-encounters",
+  "category": "EUROPE / WILDLIFE",
+  "headline": "4 wild encounters worth travelling for in Europe",
+  "dek": "Wildlife travel ideas",
+  "content_type": "discovery",
+  "strategy": "curated_lists_trends",
+  "editorial_version": 7,
+  "editorial_status": "production_candidate_pending_QA",
+  "public_numbers": false,
+  "format": "four-location-wildlife-wishlist",
+  "effort_level": "varied",
+  "accessibility_angle": "An inspirational multi-country list, not a single continuous itinerary; site visits and responsible guide options vary.",
+  "editorial_intent": "Original researched list of four distinct real wildlife watching experiences across Europe featuring different species and habitats.",
+  "reader_scenario": "Curious travellers looking to save an enticing array of specific, legitimate animal experiences for future trips.",
+  "share_reason": "Four specific places for unforgettable wildlife moments, with photos grounded at exact real locations and different habitats.",
+  "slide_count_rationale": "Five slides: cover Skomer puffin as first numbered experience, three distinct species/location supports, and a separately photographed scenic closing CTA.",
+  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Lucas Gallone / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Skomer Island",
+      "image_url": "https://images.unsplash.com/photo-1713000873146-a7b9ac7acfa5?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/a-black-and-white-bird-with-an-orange-beak-dvJ6garOqw8",
+      "photographer": "Tim Morgan",
+      "license": "Unsplash License",
+      "subject": "Atlantic puffin standing on Skomer Island in Wales",
+      "alt": "Close-up of a black-and-white puffin with brightly coloured beak on Skomer Island",
+      "activity_source": "https://www.welshwildlife.org/visit/skomer-island",
+      "fact_checks": [
+        "https://www.welshwildlife.org/visit/skomer-island"
+      ],
+      "review": {
+        "reader_value": "An instantly appealing close-up of a wild Atlantic puffin anchors four compelling wildlife destinations that people can save for later.",
+        "image_context": "Tim Morgan labels this original freely licensed photograph as Skomer Island, Haverfordwest UK, and describes a puffin with orange beak.",
+        "specific_detail": "Welsh Wildlife Trust identifies Skomer Island as a place to see puffins during their breeding season, which supports the wildlife location.",
+        "distinct_contribution": "A vivid, charismatic British seabird opens the carousel; following places introduce mammals, wetland birds and large raptors."
+      },
+      "focus_x": 0.5,
+      "focus_y": 0.5
+    },
+    {
+      "layout": "photo",
+      "heading": "Slovenia's Bears",
+      "body": "Join a guided forest hide experience to look for Europe's magnificent brown bears.",
+      "image_url": "https://images.unsplash.com/photo-1604429850508-43ed3b7f952c?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/brown-bear-on-green-grass-during-daytime-l7hqBPW6Mbo",
+      "photographer": "Federico Di Dio",
+      "license": "Unsplash License",
+      "subject": "Wild brown bear in a Slovenian forest",
+      "alt": "A wild brown bear standing among green vegetation in a Slovenian forest",
+      "activity_source": "https://postojnsko.si/en/poi/bear-watching/",
+      "fact_checks": [
+        "https://postojnsko.si/en/poi/bear-watching/"
+      ],
+      "review": {
+        "reader_value": "Watching a real wild brown bear from a responsibly guided forest hide is a memorable, clearly defined experience unlike the seabird coast.",
+        "image_context": "Federico Di Dio original free Unsplash image caption explicitly describes a beautiful wild bear in a Slovenian forest.",
+        "specific_detail": "The Postojna local tourism site describes guided bear-watching opportunities and their appropriate forest setting in Slovenia.",
+        "distinct_contribution": "A large woodland mammal introduces an immersive forest habitat and a very different kind of European wildlife experience."
+      },
+      "focus_x": 0.5,
+      "focus_y": 0.5
+    },
+    {
+      "layout": "photo",
+      "heading": "Camargue Flamingos",
+      "body": "See flocks of flamingos turning the southern French wetlands pink.",
+      "image_url": "https://images.unsplash.com/photo-1624355819073-e21026dceb74?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/white-flamingos-on-water-during-daytime-vHQMe3gugww",
+      "photographer": "Melina Kiefer",
+      "license": "Unsplash License",
+      "subject": "Flamingos wading in the Camargue wetlands, France",
+      "alt": "Flamingos standing together in shallow wetland water in Camargue France",
+      "activity_source": "https://www.parcornithologique.com/",
+      "fact_checks": [
+        "https://www.parcornithologique.com/"
+      ],
+      "review": {
+        "reader_value": "The accessible spectacle of flamingos in Camargue offers a colourful wetland wildlife outing and is an excellent trip inspiration for France.",
+        "image_context": "Original Unsplash photographer explicitly tagged these freely licensed flamingos as photographed in Camargue, France.",
+        "specific_detail": "Parc Ornithologique du Pont de Gau is a wetland birdwatching attraction in the Camargue known for flamingos and other birds.",
+        "distinct_contribution": "Bright, graphic wetland birds and reflective water contrast the dark forest bear and windswept Skomer seabird."
+      },
+      "focus_x": 0.5,
+      "focus_y": 0.5
+    },
+    {
+      "layout": "photo",
+      "heading": "Monfragüe Vultures",
+      "body": "Look up to huge birds of prey soaring over Spain's rugged national park.",
+      "image_url": "https://images.unsplash.com/photo-1592820634676-703a6e015802?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/brown-and-white-bird-on-green-tree-during-daytime-8leADP9XdG8",
+      "photographer": "Roberto Navarro",
+      "license": "Unsplash License",
+      "subject": "Vulture perched at Monfragüe National Park in Spain",
+      "alt": "Large vulture perched on a branch in Monfragüe Spain",
+      "activity_source": "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
+      "fact_checks": [
+        "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/"
+      ],
+      "review": {
+        "reader_value": "Monfragüe offers enormous vultures and a dramatic Spanish park landscape, a different outdoor adventure from European forest and wetland wildlife.",
+        "image_context": "Roberto Navarro's freely licensed Unsplash photograph is explicitly labelled vulture perched on a tree, Monfragüe Spain.",
+        "specific_detail": "Regional tourism identifies Monfragüe as a destination for watching large birds of prey including vultures across its cliff and river landscapes.",
+        "distinct_contribution": "A big bird of prey in Spain provides a striking finale of cliff-country wildlife and visually distinct brown feather textures."
+      },
+      "focus_x": 0.5,
+      "focus_y": 0.5
+    },
+    {
+      "layout": "cta",
+      "heading": "Fill your feed with wonder.",
+      "image_url": "https://images.unsplash.com/photo-1734631768635-6154adf9ee50?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
+      "photographer": "Lucas Gallone",
+      "license": "Unsplash License",
+      "subject": "Sunset beach at Saintes-Maries-de-la-Mer in Camargue France",
+      "alt": "One person on a wide Camargue beach at sunset beneath a colourful sky",
+      "activity_source": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+      ],
+      "review": {
+        "reader_value": "A calming coastal sunset offers a spacious closing image and a sense of wanderlust after the four vivid European animal encounters.",
+        "image_context": "The freely licensed source photo from Lucas Gallone is labelled Saintes-Maries-de-la-Mer, France and depicts a person on beach at sunset.",
+        "specific_detail": "The closing card makes no species or access claim; the accurate identified location and photographer still remain traceable.",
+        "distinct_contribution": "An atmospheric human-scale beach sunset ends the sequence visually without adding a misleading fifth wildlife destination."
+      },
+      "focus_x": 0.5,
+      "focus_y": 0.5
+    }
+  ],
+  "fact_sources": [
+    "https://www.welshwildlife.org/visit/skomer-island",
+    "https://postojnsko.si/en/poi/bear-watching/",
+    "https://www.parcornithologique.com/",
+    "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
+    "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+  ],
+  "reviewed_sources_on": "2026-11-09",
+  "caption_review": {
+    "hook_candidates": [
+      "4 wild encounters worth travelling for in Europe",
+      "Four places to see Europe's remarkable wildlife"
+    ],
+    "chosen_hook": "The more energetic truthful numbered promise that all four actual wildlife locations visibly fulfil.",
+    "save_value": "Exact site pins and one memorable animal reason to explore each.",
+    "verdict": "Unapproved: render and exact visual QA pending."
+  },
+  "editorial_verdict": "PRODUCTION CANDIDATE — full rendered and independently checked media still required",
+  "final_visual_review_on": null
+}
