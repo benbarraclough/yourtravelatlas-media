@@ -169,5 +169,7 @@
     "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
     "https://unsplash.com/photos/positano-village-on-amalfi-coast-PkWac9CLWVA"
   ],
-  "editorial_verdict": "RENDER_PENDING_VISUAL_REVIEW"
+  "editorial_verdict": "RENDER_PENDING_VISUAL_REVIEW",
+  "format": "six-scene-swipable-destination",
+  "no_cta": true
 }
