@@ -5,18 +5,18 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "c6a1342f82bc1620cc9d79cd5ef5a8e1a4ebd496fdee8d07424ae447a39d26a8",
-  "caption": "This is one island. And somehow all five of these places exist. 🇳🇿\n\n📍 Milford Sound — drift between rainforest-clad cliffs and a deep blue fjord.\n📍 Lake Tekapo — turquoise water and beautiful lupins.\n📍 Tasman Lake — icy mountain reflections beneath Aoraki/Mount Cook.\n📍 Lake Wānaka — its famous lone tree in the water.\n📍 Glenorchy — wild mountain scenery and lush green high-country pastures.\n\nSave the South Island for a future New Zealand adventure.\n\nPhotos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & loloscott / Unsplash.\n\n#YourTravelAtlas #NewZealand #SouthIsland #TravelInspiration",
+  "brief_sha256": "d04e6aca091d07541c258f39ff65018af08bd082db126dae7ac0bd25d346bf47",
+  "caption": "This is one island. And somehow all five of these places exist. 🇳🇿\n\n📍 Milford Sound — drift between rainforest-clad cliffs and a deep blue fjord.\n📍 Lake Tekapo — turquoise water and beautiful lupins.\n📍 Tasman Lake — icy mountain reflections beneath Aoraki/Mount Cook.\n📍 Lake Wānaka — its famous lone tree in the water.\n📍 Blue Pools — vivid turquoise water winding through native forest.\n\nSave the South Island for a future New Zealand adventure.\n\nPhotos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & Kathleen Banks / Unsplash.\n\n#YourTravelAtlas #NewZealand #SouthIsland #TravelInspiration",
   "fact_sources": [
     "https://unsplash.com/photos/mountains-surround-a-calm-lake-under-a-bright-sky-l3aIo1ntD2o",
     "https://unsplash.com/photos/turquoise-lake-with-purple-and-white-lupins-in-foreground-JUx3hPMNXLg",
     "https://unsplash.com/photos/a-snow-covered-mountain-with-a-lake-in-front-of-it-6X8QuPSr2UE",
     "https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-lake-ZeJKU995Zbc",
-    "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ",
+    "https://unsplash.com/photos/turquoise-river-flowing-through-a-rocky-forested-gorge-lo3FdteSJ7Q",
     "https://unsplash.com/photos/a-view-of-a-mountain-range-from-above-the-clouds-LzAzsrV_-mc"
   ],
   "editorial_intent": "Five extraordinary real photographed landscapes on New Zealand's South Island showing meaningful geographic variety beyond one hero mountain photo.",
-  "share_reason": "The combined natural contrast of fjord, wildflower lake, glacier reflection, iconic tree and pastoral alpine high-country makes a memorable travel shortlist.",
+  "share_reason": "The combined natural contrast of fjord, wildflower lake, glacier reflection, iconic tree and turquoise forest pools makes a memorable travel shortlist.",
   "slides": [
     {
       "subject": "Original Unsplash photo by NIR HIMI explicitly identifies Milford Sound Southland NZ; exact free photo page la",
@@ -123,29 +123,29 @@
       ]
     },
     {
-      "subject": "The free original Unsplash image from loloscott names Glenorchy New Zealand and specifically shows sheep on ve",
-      "source_page": "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ",
-      "photographer": "loloscott",
+      "subject": "Turquoise river flowing through a lush green rocky gorge at the Blue Pools near Wānaka New Zealand",
+      "source_page": "https://unsplash.com/photos/turquoise-river-flowing-through-a-rocky-forested-gorge-lo3FdteSJ7Q",
+      "photographer": "Kathleen Banks",
       "license": "Unsplash License",
-      "alt": "Sheep grazing on emerald green fields with huge Glenorchy mountains behind",
-      "activity_source": "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ",
+      "alt": "Vivid blue-green water flowing below mossy forest and rocks at the Blue Pools in New Zealand",
+      "activity_source": "https://unsplash.com/photos/turquoise-river-flowing-through-a-rocky-forested-gorge-lo3FdteSJ7Q",
       "file": "05.jpg",
-      "source_sha256": "e6dbeb146995d706c27eb76cb5b7a2b57845bc8bbf8d9153d6b982dbcd5af25c",
-      "output_sha256": "d5c84429b602037bb78260f1373bbda753fd713b5f70f7211749b5ab7b638148",
+      "source_sha256": "e46face030772f427146fa64b9bc44fefa697428574ccc5db4d5532aad349d46",
+      "output_sha256": "51aa211d095b8746c6cf257adc55cafc3d623ccfdd82a433d33cb215de9e2343",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Green high-country pastures, sheep and towering mountains.",
+      "body": "Follow the forest track to impossibly clear turquoise water.",
       "review": {
         "reader_value": "This distinctive scene adds an accurate location-specific travel idea, with a visual contrast to the preceding landscape and an immediate visual reward.",
-        "image_context": "The free original Unsplash image from loloscott names Glenorchy New Zealand and specifically shows sheep on verdant pasture with large mountains.",
+        "image_context": "Kathleen Banks free Unsplash original identifies the Blue Pools and Wānaka, New Zealand with the actual turquoise river in a wooded gorge.",
         "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
-        "distinct_contribution": "Mountain-backed green pastoral landscape adds an approachable rural experience"
+        "distinct_contribution": "Brilliant blue-green river through a forested rock gorge, distinct from previous lake and mountain scenes."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ"
+        "https://unsplash.com/photos/turquoise-river-flowing-through-a-rocky-forested-gorge-lo3FdteSJ7Q"
       ]
     },
     {

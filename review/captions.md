@@ -137,11 +137,11 @@ This is one island. And somehow all five of these places exist. 🇳🇿
 📍 Lake Tekapo — turquoise water and beautiful lupins.
 📍 Tasman Lake — icy mountain reflections beneath Aoraki/Mount Cook.
 📍 Lake Wānaka — its famous lone tree in the water.
-📍 Glenorchy — wild mountain scenery and lush green high-country pastures.
+📍 Blue Pools — vivid turquoise water winding through native forest.
 
 Save the South Island for a future New Zealand adventure.
 
-Photos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & loloscott / Unsplash.
+Photos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & Kathleen Banks / Unsplash.
 
 #YourTravelAtlas #NewZealand #SouthIsland #TravelInspiration
 
@@ -157,6 +157,6 @@ The Philippines isn't just white sand and blue water. It's so much more. 🇵�
 
 Which one would you go for first?
 
-Photos: Jared Rice, Omri D. Cohen, Zed Benson, Jake Irish & Florian Delée / Unsplash.
+Photos: Jared Rice, Omri D. Cohen, Jaanus Jagomägi, Jake Irish & Florian Delée / Unsplash.
 
 #YourTravelAtlas #Philippines #IslandTravel #TravelInspiration

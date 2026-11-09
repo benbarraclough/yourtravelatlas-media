@@ -1,14 +1,14 @@
 {
   "issue": 7,
   "slug": "007-new-zealand-south-island",
-  "brief_sha256": "c6a1342f82bc1620cc9d79cd5ef5a8e1a4ebd496fdee8d07424ae447a39d26a8",
-  "caption_sha256": "9cb43eba6b692ee2e48614e62f77ee0cde22be9c91f1f15354a2f1de63493904",
+  "brief_sha256": "d04e6aca091d07541c258f39ff65018af08bd082db126dae7ac0bd25d346bf47",
+  "caption_sha256": "b44cd3198ec573c1347d9bf835b9221698910d6740cc1139d0794f0fc0c07e48",
   "image_sha256": {
     "media/007-new-zealand-south-island/01.jpg": "61876f5395f1a1720b1577ee65ee41cc15d4645a18c3ecc5d6807bd9c44a1c74",
     "media/007-new-zealand-south-island/02.jpg": "b468ac362449ba305a0482d245a480a9a0b2771a79b5990ded09b93c1bd4643b",
     "media/007-new-zealand-south-island/03.jpg": "b16495dd62885b980ec1379ebc8c285e271cc9390c6ed2bea0d427384a57771e",
     "media/007-new-zealand-south-island/04.jpg": "cff417565d024fc35490b07234790f0ae5c99e27a22ef16a0044d43103989857",
-    "media/007-new-zealand-south-island/05.jpg": "d5c84429b602037bb78260f1373bbda753fd713b5f70f7211749b5ab7b638148",
+    "media/007-new-zealand-south-island/05.jpg": "51aa211d095b8746c6cf257adc55cafc3d623ccfdd82a433d33cb215de9e2343",
     "media/007-new-zealand-south-island/06.jpg": "09984740f8d64c7de9f8da97a56a956044dd9627679c6c2dddcbf9dbe69e35a1"
   }
 }
