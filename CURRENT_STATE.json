@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-08 (Metricool and automation configuration verified; some historical evidence still dated November 5)",
+  "checked_at": "2026-11-09 20:30 Europe/London (live Metricool check, account brand 7717708)",
   "timezone": "Europe/London",
   "policy_version": 9,
   "automation": {
@@ -59,7 +59,8 @@
       "format": "POST",
       "media_count": 6,
       "edition": "Japan",
-      "provider_status": "PENDING"
+      "provider_status": "PUBLISHED",
+      "public_url": "https://www.instagram.com/p/DfiCYkjjdVI/"
     }
   ],
   "pending": [],
@@ -76,32 +77,31 @@
   "media_revision": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
   "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
   "buffer": {
-    "scheduled_through": "2026-11-09",
+    "scheduled_through": "2026-11-09 (last published; no future scheduled posts)",
     "target": "14+ days of already QA-approved and actually scheduled future posts; preferably plan rest of month; not a publication-frequency cap",
-    "status": "BELOW TARGET (latest 8 November Metricool check: only Japan remains pending)",
-    "next_pipeline_priority": "Sun 8 Nov stage-1 research then production; Mon 9 Nov QA to target Wed 11 Nov and Fri 13 Nov vacant slots. Do not schedule before actual approval."
+    "status": "EMPTY FUTURE SCHEDULE (verified 9 November 20:30 Europe/London)",
+    "next_pipeline_priority": "Urgently complete/visually QA one truthful exceptional licensed-media post for Wed 11 Nov and build 14-day buffer. If Namibia is still media-blocked, pivot to a faster viable concept. Do not bypass QA."
   },
   "publication_reconciliation": {
-    "checked_at": "2026-11-08 (local date, current Metricool API recheck)",
+    "checked_at": "2026-11-09 20:30 Europe/London (Metricool live getScheduledPosts 9 Nov–9 Dec)",
     "source": "Metricool getScheduledPosts full November date range",
     "confirmed_published": [
       "Porto 2026-11-02",
       "French Riviera 2026-11-04",
-      "Iceland Reel 2026-11-05"
-    ],
-    "confirmed_pending": [
+      "Iceland Reel 2026-11-05",
       "Japan 2026-11-09"
     ],
+    "confirmed_pending": [],
     "november_known_publications_and_reservations": 4,
     "internal_monthly_ceiling": 20,
     "remaining_ceiling_before_unseen_manual_posts": 16,
-    "manual_or_untracked_content": "Not independently enumerable from getScheduledPosts. User reports allowance UI 3; do not equate it with calendar month totals.",
+    "manual_or_untracked_content": "The API interval from Nov 9 onward returned one PUBLISHED (Japan) and zero future PENDING. Three earlier November posts are independently confirmed published in prior checks. Cannot independently enumerate manual/untracked content.",
     "analytics_note": "Metricool daily account metrics returned early low counts and null saves; insufficient to attribute creative performance or infer post-level saves/shares.",
     "render_errors": "review/render-errors.json was [] at inspection",
     "new_post_scheduled_this_run": false,
     "monthly_visible_entries": 4,
-    "monthly_visible_published": 3,
-    "monthly_visible_pending": 1
+    "monthly_visible_published": 4,
+    "monthly_visible_pending": 0
   },
   "operating_policy": "AUTOMATION_PIPELINE.md (v9, 8 November 2026), with existing editorial v8 standards",
   "pipeline_tasks": [
@@ -170,12 +170,12 @@
   "monthly_calendar_posts_ceiling": 20,
   "weekly_target_posts": "4, up to 5 only with actual allowance and mandatory approvals",
   "eligibility_note": "Metricool API-visible November entries at 8 November: 3 PUBLISHED, 1 PENDING. User reports allowance UI usage 3; counter semantics unverified. Enforce stricter actual cap conservatively.",
-  "live_metricool_checked_on": "2026-11-08",
+  "live_metricool_checked_on": "2026-11-09 20:30 Europe/London",
   "manual_approval_requirement": "none for routine fully reviewed editions",
   "notification_policy": {
     "owner_requests_each_run_report": true,
     "all_jobs_prompts_updated": "2026-11-08",
-    "delivery_note": "Completion reports are requested each time; actual push/email requires ChatGPT Settings > Notifications and device permissions. Delivery not independently verified."
+    "delivery_note": "Four scheduled jobs' latest results are available in their ChatGPT task conversations. Actual push/email notification delivery is unknown; enable and verify via ChatGPT Settings > Notifications."
   },
   "strategy_mix": {
     "destination_discovery": 0.4,
