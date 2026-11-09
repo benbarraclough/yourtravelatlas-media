@@ -231,6 +231,12 @@ def draw_discovery(source, post, item, index, count):
         a,b = face.getmetrics(); h=a+b+5
         y=1198-len(rows)*h
         if y < 800: raise ValueError("Cover hook obscures too much of the photograph")
+        # Optional small country label, requested after the first Amalfi pilot.
+        # Only new source briefs set this; do not silently change already-published archives.
+        country = str(post.get("cover_country", "")).strip().upper()
+        if country:
+            if len(country)>35: raise ValueError("Cover country label is too long")
+            editorial_text(d,country,(74,y-58),font(28,REGULAR),936,cream,1,3)
         editorial_text(d,title,(72,y),face,936,cream,3,5)
     elif item.get("layout") == "cta":
         y=editorial_text(d,"Fill your feed with wonder.",(72,885),font(74,SERIF),936,cream,2,5)
