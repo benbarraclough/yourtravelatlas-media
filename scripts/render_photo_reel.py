@@ -49,12 +49,21 @@ def frame_from_photo(photo,shot,brief,first):
     d=ImageDraw.Draw(im)
     d.text((72,155),"@yourtravelatlas",font=ImageFont.truetype(REG,29),fill="white",stroke_width=1,stroke_fill="#25313a")
     heading=brief["hook"] if first else shot["overlay"]
-    f=ImageFont.truetype(SERIF,72 if first else 65)
-    wrapped=lines(d,heading,f,936,3 if first else 2)
-    y=1425 if first else 1515
+    # Match the actual size of words rather than killing the render for an ordinary sentence.
+    wrapped=None
+    for size in ((72,67,62,58) if first else (65,60,56,52,48)):
+        f=ImageFont.truetype(SERIF,size)
+        try:
+            wrapped=lines(d,heading,f,936,3)
+            break
+        except ValueError:
+            continue
+    if wrapped is None: raise ValueError("Overlay cannot fit legibly at minimum font size")
+    step=size+13
+    y=1430 if first else 1510
     for line in wrapped:
         d.text((72,y),line,font=f,fill="white",stroke_width=2,stroke_fill="#333333")
-        y+=90
+        y+=step
     if first:
         caption=brief["destination"]
         d.text((76,1762),caption[:45],font=ImageFont.truetype(REG,37),fill="white",stroke_width=1,stroke_fill="#333333")
