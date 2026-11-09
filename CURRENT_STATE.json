@@ -1,7 +1,7 @@
 {
   "checked_at": "2026-11-09 21:15 Europe/London (two Metricool PENDING posts verified; actual automation schedules reconciled)",
   "timezone": "Europe/London",
-  "policy_version": 9,
+  "policy_version": 10,
   "automation": {
     "id": "6ae251260af881919e1d2042f46e1ff2",
     "title": "Atlas Editorial Research",
@@ -9,7 +9,8 @@
     "day": "Sunday Tuesday Thursday Saturday",
     "configured_time": "08:00",
     "timing_mode": "flexible_schedule",
-    "enabled": true
+    "enabled": true,
+    "operating_policy": "OPERATING_FEEDBACK_LOOP.md / AUTOMATION_PIPELINE.md (9 November)"
   },
   "public_numbers": false,
   "music": false,
@@ -105,10 +106,10 @@
     "scheduled_through": "2026-11-13",
     "target": "14+ days of already QA-approved and actually scheduled future posts; preferably plan rest of month; not a publication-frequency cap",
     "status": "BELOW 14-DAY TARGET: two future posts now confirmed PENDING: Wed 11 Nov 12:00 Namibia and Fri 13 Nov 19:00 European wildlife.",
-    "next_pipeline_priority": "Next open Sunday 15 Nov 17:00 UK; daily production, daily review/scheduling, daily recovery to prioritise filling actual verified 14-day lead, using both QA logs and sourceable fallbacks."
+    "next_pipeline_priority": "Earliest vacancy Sun 15 Nov 17:00; production daily 10, review daily 15, recovery daily 19 UK, research SU/TU/TH/SA 08; ensure genuinely scheduled 14-day buffer."
   },
   "publication_reconciliation": {
-    "checked_at": "2026-11-09 21:10 Europe/London (full November live Metricool getScheduledPosts)",
+    "checked_at": "2026-11-09 evening (live November Metricool: four PUBLISHED, two PENDING)",
     "source": "Metricool getScheduledPosts full November date range",
     "confirmed_published": [
       "Porto 2026-11-02",
@@ -123,7 +124,7 @@
     "november_known_publications_and_reservations": 6,
     "internal_monthly_ceiling": 20,
     "remaining_ceiling_before_unseen_manual_posts": 14,
-    "manual_or_untracked_content": "The API interval from Nov 9 onward returned one PUBLISHED (Japan) and zero future PENDING. Three earlier November posts are independently confirmed published in prior checks. Cannot independently enumerate manual/untracked content.",
+    "manual_or_untracked_content": "Live November API check confirmed four PUBLISHED and two PENDING, including Namibia 11 Nov and European wildlife 13 Nov; manual/third-party posts beyond provider-visible set are not independently enumerable. Maintain conservative 20/month limit.",
     "analytics_note": "Metricool daily account metrics returned early low counts and null saves; insufficient to attribute creative performance or infer post-level saves/shares.",
     "render_errors": "review/render-errors.json was [] at inspection",
     "new_post_scheduled_this_run": true,
@@ -205,7 +206,7 @@
       "enabled": true
     }
   ],
-  "pipeline_configured_on": "2026-11-09 (actual automations verified)",
+  "pipeline_configured_on": "2026-11-09",
   "cost_ceiling_gbp_additional": 0,
   "monthly_calendar_posts_ceiling": 20,
   "weekly_target_posts": "4, up to 5 only with actual allowance and mandatory approvals",
