@@ -1,0 +1,195 @@
+{
+  "issue": 5,
+  "slug": "005-namibia-contrasts",
+  "category": "NAMIBIA",
+  "headline": "Namibia has dunes that meet the sea",
+  "dek": "Six extraordinary places across Namibia",
+  "content_type": "discovery",
+  "strategy": "destination_discovery",
+  "effort_level": "varied",
+  "editorial_intent": "A fresh visually striking destination wishlist of six verified experiences across Namibia, without suggesting a short itinerary.",
+  "reader_scenario": "A curious follower exploring underrepresented places for a memorable long-form future journey rather than planning a precise single-day route.",
+  "share_reason": "Contrasting landscapes and close wildlife on one swipeable list with the actual named experiences to save.",
+  "accessibility_angle": "Inspiration about different regions of a very large country; transport access and any material restrictions are verified privately and may be supplied in followup when relevant.",
+  "format": "six-place-destination-discovery",
+  "editorial_version": 7,
+  "editorial_status": "production_candidate_pending_qa",
+  "reviewed_sources_on": "2026-11-09",
+  "public_numbers": false,
+  "slide_count_rationale": "Seven pages: opening Sandwich Harbour is first of six distinct featured places, plus five distinct places and one independent sunset CTA; no fillers and no public issue numbers.",
+  "caption": "Somewhere in Namibia, dunes tumble into the Atlantic, ghost towns fill with sand and elephants gather at desert waterholes. This country is wild. 🇳🇦\n\n📍 Sandwich Harbour — the desert meets the ocean.\n📍 Deadvlei — dark trees against a white clay pan and towering dunes.\n📍 Spitzkoppe — walk beneath sculptural granite arches.\n📍 Kolmanskop — explore a ghost town reclaimed by sand.\n📍 Cape Cross — see its extraordinary fur seal colony.\n📍 Etosha National Park — wildlife watching around the waterholes.\n\nWhich one would you want to see first?\n\nPhotos: NIR HIMI, Francesco Ungaro, Wietse Jongsma, Nadine Marfurt & Nathalie Lays / Unsplash.\n\n#YourTravelAtlas #Namibia #VisitNamibia #TravelInspiration",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Sandwich Harbour",
+      "image_url": "https://images.unsplash.com/photo-1772289495944-93871457d92f?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "Dunes meeting the Atlantic Ocean at Sandwich Harbour, Namibia",
+      "alt": "Aerial view of tawny Namib dunes running along the deep-blue Atlantic coastline at Sandwich Harbour",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://nfc.na/locations/sandwich-harbour"
+      ],
+      "review": {
+        "reader_value": "A truthful, instantly distinctive visual introduction to the desert meeting the Atlantic coastline, which anchors the caption's promise.",
+        "image_context": "The photographer's exact free Unsplash image page labels Sandwich harbour, Anichab Namibia and describes dunes meeting the ocean; full final crop requires QA.",
+        "specific_detail": "The Namibia Film Commission independently names Sandwich Harbour as an ocean-edge desert dune landscape, not a generic inland dune.",
+        "distinct_contribution": "The opening coast has warm sand and bright blue ocean; the next slide changes to dead trees against a white clay pan."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Deadvlei",
+      "body": "Walk between dark tree silhouettes, a white clay pan and towering rust-red dunes.",
+      "image_url": "https://images.unsplash.com/photo-1772289326068-8767138607c6?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/a-solitary-dead-tree-in-a-vast-desert-landscape-mLt7b8QuQc8",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "Lone dark dead tree in Deadvlei, Sossusvlei Namibia",
+      "alt": "Solitary dead tree set against a pale dry basin and red dunes in Deadvlei",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://unsplash.com/photos/a-solitary-dead-tree-in-a-vast-desert-landscape-mLt7b8QuQc8"
+      ],
+      "review": {
+        "reader_value": "The extraordinary negative-space tree silhouette creates a strong saveable visual moment and explains the country's unusually contrasting landscapes.",
+        "image_context": "The original photographer's Unsplash page specifically locates this dead-tree landscape in Deadvlei, Sossusvlei Namibia; full crop awaits QA.",
+        "specific_detail": "A bare dead tree standing against desert sand presents the Deadvlei attraction without speculative ages or geological explanations.",
+        "distinct_contribution": "A stark skeletal tree and clay-pan visual gives a contrast to the water-lined, sweeping coastal opening image."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Spitzkoppe",
+      "body": "Step beneath a natural rock arch for an unforgettable frame of the desert peaks.",
+      "image_url": "https://images.unsplash.com/photo-1772289935965-10e9558d852c?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/natural-rock-arch-framing-desert-mountains-and-sky-ssA-63h1c4o",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "Natural rock arch framing distant mountains at Spitzkoppe Namibia",
+      "alt": "A natural granite arch framing desert mountains and blue sky at Spitzkoppe",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://nfc.na/locations/spitzkoppe"
+      ],
+      "review": {
+        "reader_value": "The visitor's perspective through a distinct natural arch is a concrete activity rather than another scenic superlative.",
+        "image_context": "Photographer's Unsplash page calls the subject a natural rock arch framing desert mountains and locates it in Spitzkoppe Namibia.",
+        "specific_detail": "Namibia Film Commission describes Spitzkoppe's granite rock formations; this specific image source names the natural arch.",
+        "distinct_contribution": "The rocky arch frames a view and replaces the coast and trees with a visually different geological experience."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Kolmanskop",
+      "body": "Explore a ghost town where desert sand has swept through the empty rooms.",
+      "image_url": "https://images.unsplash.com/photo-1751783901329-6e962273c4d9?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/sand-floods-an-abandoned-room-with-sunlight-LfymQDuUXoc",
+      "photographer": "Francesco Ungaro",
+      "license": "Unsplash License",
+      "subject": "Sand-filled abandoned interior at Kolmanskop Namibia",
+      "alt": "Sunlit abandoned room in the Kolmanskop ghost town partly filled with desert sand",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://nfc.na/locations/kolmanskop"
+      ],
+      "review": {
+        "reader_value": "The immersive human history of an abandoned town slowly reclaimed by dunes offers a striking and specific contrast to natural scenery.",
+        "image_context": "Photographer labels the image as a sunlit abandoned room at Kolmanskop Namibia, not an unrelated building exterior.",
+        "specific_detail": "Namibia Film Commission records Kolmanskop's diamond-era deserted settlement and the desert's reclamation of buildings.",
+        "distinct_contribution": "Warm indoor light and derelict architecture change the experience from natural landscapes to history and exploration."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Cape Cross",
+      "body": "Meet the enormous Cape fur seal colony along the Atlantic coast.",
+      "image_url": "https://images.unsplash.com/photo-1724564511258-d4cd78636eaf?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/a-large-group-of-animals-laying-on-top-of-a-beach-eolDN8CCeso",
+      "photographer": "Wietse Jongsma",
+      "license": "Unsplash License",
+      "subject": "Group of Cape fur seals on the beach at Cape Cross Namibia",
+      "alt": "A large gathered colony of brown fur seals at Cape Cross on Namibia's Atlantic coast",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214"
+      ],
+      "review": {
+        "reader_value": "An unexpected mass of wildlife beside the ocean is vivid and distinctive after the empty, sand-filled rooms of Kolmanskop.",
+        "image_context": "Exact Unsplash original is captioned Fur seals at Cape Cross Namibia by the photographer and free to use under Unsplash License.",
+        "specific_detail": "Namibian ministry names Cape Cross as a breeding colony reserve of Cape fur seals, making the wildlife description grounded.",
+        "distinct_contribution": "Living wildlife introduces a close-packed organic pattern contrasting geometric dunes and abandoned interiors."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Etosha National Park",
+      "body": "Watch elephants gather around the waterholes in one of Africa's great wildlife landscapes.",
+      "image_url": "https://images.unsplash.com/photo-1761076738719-7a5cc724a0e6?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/a-herd-of-elephants-gathered-at-a-watering-hole-a1ifB4-gECQ",
+      "photographer": "Nadine Marfurt",
+      "license": "Unsplash License",
+      "subject": "African elephants at a waterhole at Etosha National Park Namibia",
+      "alt": "Herd of elephants gathering and splashing in a waterhole at Etosha National Park",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://nfc.na/locations/etosha-national-park"
+      ],
+      "review": {
+        "reader_value": "The possibility of seeing elephants interacting at a waterhole adds a powerful wildlife experience to a visually varied destination wish list.",
+        "image_context": "Original free Unsplash image by Nadine Marfurt explicitly places the photographed elephant herd at an Etosha National Park waterhole.",
+        "specific_detail": "Official Namibia Film Commission Etosha location page explains the national park's wildlife and dramatic salt-pan setting.",
+        "distinct_contribution": "Close-up large land animals in water contrast with the coastal seals before the final closing scenic photograph."
+      }
+    },
+    {
+      "layout": "cta",
+      "heading": "Fill your feed with wonder.",
+      "image_url": "https://images.unsplash.com/photo-1761205930562-e176cfa86e64?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/people-walking-on-sand-dunes-at-sunset-WrVcWCADrtY",
+      "photographer": "Nathalie Lays",
+      "license": "Unsplash License",
+      "subject": "People ascending dunes at golden hour in Sandwich Harbour Namibia",
+      "alt": "Small silhouettes walking up coastal sand dunes into orange-gold sunset light at Sandwich Harbour",
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "fact_checks": [
+        "https://unsplash.com/photos/people-walking-on-sand-dunes-at-sunset-WrVcWCADrtY"
+      ],
+      "review": {
+        "reader_value": "An emotional, scale-filled closing image invites travel curiosity and completes the visual journey with people silhouetted on golden dunes.",
+        "image_context": "Nathalie Lays explicitly describes the sunset image as four children climbing a dune at Sandwich Harbour with water visible in the scene.",
+        "specific_detail": "Closing follow invitation carries no uncertain travel facts, and its image source is independently named and confirmed as free Unsplash imagery.",
+        "distinct_contribution": "Human silhouettes in warm sunset light form a unique mood/scale ending, unlike the aerial blue-ocean cover."
+      }
+    }
+  ],
+  "fact_sources": [
+    "https://nfc.na/locations/sandwich-harbour",
+    "https://nfc.na/locations/spitzkoppe",
+    "https://nfc.na/locations/kolmanskop",
+    "https://nfc.na/locations/etosha-national-park",
+    "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214",
+    "https://unsplash.com/photos/a-solitary-dead-tree-in-a-vast-desert-landscape-mLt7b8QuQc8",
+    "https://unsplash.com/photos/people-walking-on-sand-dunes-at-sunset-WrVcWCADrtY"
+  ],
+  "caption_review": {
+    "hook_candidates": [
+      "Namibia has dunes that meet the sea",
+      "Six wildly different places to discover in Namibia"
+    ],
+    "chosen_hook": "The unusual ocean/desert premise, supported directly by exact cover photo location and official claim evidence.",
+    "save_value": "Six named locations and one simple memorable reason to explore each, no overlong caveats or logistics.",
+    "verdict": "COPY DRAFT only; do not mark approved until actual rendered photos, visual and factual QA passed."
+  },
+  "editorial_verdict": "PENDING: source/rights page review completed, asset download/actual full-size and crop review not yet executed. Do not schedule.",
+  "final_visual_review_on": null
+}
