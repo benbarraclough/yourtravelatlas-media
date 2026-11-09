@@ -1,4 +1,6 @@
 # Atlas Closed-Loop Publishing — Operations v10
+
+**Implementation authority:** [OPERATING_FEEDBACK_LOOP.md](OPERATING_FEEDBACK_LOOP.md) and [AUTOMATION_PIPELINE.md](AUTOMATION_PIPELINE.md) are canonical for recurring task behaviour and schedules. This document provides detailed supplementary recovery cases; when requirements overlap, follow the latest owner's instructions and the canonical files. `content/quality-feedback.json` is the complete incident log; `content/qa-lessons.json` holds promoted reusable prevention rules. Both are required inputs.
 **Owner directive, 9 November 2026.** Read this with `AUTOMATION_PIPELINE.md`, `EDITORIAL_GUIDELINES.md`, `EDITORIAL_REVIEW.md`, `CONTENT_PROCESS.md`, `CURRENT_STATE.json`, `content/production-queue.json`, and `content/quality-feedback.json` **before each job run**. This file adds reliability mechanics without reducing image, copyright, factual or editorial quality checks. £0 additional spend, 20 known posts/calendar month maximum and any stricter Metricool account limit, no routine owner approval, four great posts/week when possible, 14 days of genuinely scheduled buffer preferred. No music. Public copy is inspiring and concise. Not a claim of guaranteed 100% posting uptime; no external source/licence/API can be guaranteed.
 
 ## Governing success condition
