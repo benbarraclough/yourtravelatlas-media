@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09 evening — Namibia confirmed Metricool PENDING; wildlife work in progress",
+  "checked_at": "2026-11-09 21:10 Europe/London (live Metricool confirms both Namibia and European wildlife PENDING)",
   "timezone": "Europe/London",
   "policy_version": 9,
   "automation": {
@@ -73,6 +73,19 @@
       "media_count": 7,
       "provider_status": "PENDING",
       "metricool_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074"
+    },
+    {
+      "uuid": "7327149549031803495",
+      "id": 422405937,
+      "date": "2026-11-13T19:00:00",
+      "draft": false,
+      "auto_publish": true,
+      "format": "POST",
+      "media_count": 5,
+      "edition": "European wildlife",
+      "provider_status": "PENDING",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495",
+      "qa_review": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md"
     }
   ],
   "pending": [],
@@ -89,13 +102,13 @@
   "media_revision": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
   "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
   "buffer": {
-    "scheduled_through": "2026-11-11",
+    "scheduled_through": "2026-11-13",
     "target": "14+ days of already QA-approved and actually scheduled future posts; preferably plan rest of month; not a publication-frequency cap",
-    "status": "BELOW TARGET: next approved Metricool post on 11 Nov; Fri 13 Nov and later unfilled",
-    "next_pipeline_priority": "Wildlife 006 render, exact visual QA and schedule for Fri 13 Nov if truly passes, then fill 14-day buffer."
+    "status": "BELOW 14-DAY TARGET: two future posts now confirmed PENDING: Wed 11 Nov 12:00 Namibia and Fri 13 Nov 19:00 European wildlife.",
+    "next_pipeline_priority": "Earliest open target Sun 15 Nov 17:00; daily production/review + alternate-day recovery must complete verified real 14-day buffer, with sourceability-first fallback and prescriptive QA lessons."
   },
   "publication_reconciliation": {
-    "checked_at": "2026-11-09 20:30 Europe/London (Metricool live getScheduledPosts 9 Nov–9 Dec)",
+    "checked_at": "2026-11-09 21:10 Europe/London (full November live Metricool getScheduledPosts)",
     "source": "Metricool getScheduledPosts full November date range",
     "confirmed_published": [
       "Porto 2026-11-02",
@@ -104,18 +117,19 @@
       "Japan 2026-11-09"
     ],
     "confirmed_pending": [
-      "Namibia 2026-11-11 12:00"
+      "Namibia 2026-11-11T12:00:00",
+      "European wildlife 2026-11-13T19:00:00"
     ],
-    "november_known_publications_and_reservations": 4,
+    "november_known_publications_and_reservations": 6,
     "internal_monthly_ceiling": 20,
-    "remaining_ceiling_before_unseen_manual_posts": 15,
+    "remaining_ceiling_before_unseen_manual_posts": 14,
     "manual_or_untracked_content": "The API interval from Nov 9 onward returned one PUBLISHED (Japan) and zero future PENDING. Three earlier November posts are independently confirmed published in prior checks. Cannot independently enumerate manual/untracked content.",
     "analytics_note": "Metricool daily account metrics returned early low counts and null saves; insufficient to attribute creative performance or infer post-level saves/shares.",
     "render_errors": "review/render-errors.json was [] at inspection",
     "new_post_scheduled_this_run": true,
-    "monthly_visible_entries": 5,
+    "monthly_visible_entries": 6,
     "monthly_visible_published": 4,
-    "monthly_visible_pending": 1
+    "monthly_visible_pending": 2
   },
   "operating_policy": "AUTOMATION_PIPELINE.md (v9, 8 November 2026), with existing editorial v8 standards",
   "pipeline_tasks": [
@@ -184,7 +198,7 @@
   "monthly_calendar_posts_ceiling": 20,
   "weekly_target_posts": "4, up to 5 only with actual allowance and mandatory approvals",
   "eligibility_note": "Metricool API-visible November entries at 8 November: 3 PUBLISHED, 1 PENDING. User reports allowance UI usage 3; counter semantics unverified. Enforce stricter actual cap conservatively.",
-  "live_metricool_checked_on": "2026-11-09",
+  "live_metricool_checked_on": "2026-11-09 21:10 Europe/London",
   "manual_approval_requirement": "none for routine fully reviewed editions",
   "notification_policy": {
     "owner_requests_each_run_report": true,
@@ -198,5 +212,7 @@
     "policy": "flexible editorial starting point, not quota",
     "note": "Japan destination discovery despite underlying Discovery renderer"
   },
-  "growth_log": "GROWTH_LOG.md"
+  "growth_log": "GROWTH_LOG.md",
+  "feedback_loop_policy": "OPERATING_FEEDBACK_LOOP.md",
+  "qa_lessons_log": "content/qa-lessons.json"
 }
