@@ -16,7 +16,7 @@
   "reader_scenario": "Curious travellers looking to save an enticing array of specific, legitimate animal experiences for future trips.",
   "share_reason": "Four specific places for unforgettable wildlife moments, with photos grounded at exact real locations and different habitats.",
   "slide_count_rationale": "Five slides: cover Skomer puffin as first numbered experience, three distinct species/location supports, and a separately photographed scenic closing CTA.",
-  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Lucas Gallone / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
+  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Julien DI MAJO / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
   "slides": [
     {
       "layout": "cover",
@@ -66,7 +66,7 @@
     {
       "layout": "photo",
       "heading": "Camargue Flamingos",
-      "body": "See flocks of flamingos turning the southern French wetlands pink.",
+      "body": "See flamingos wading in the shallow lagoons of southern France.",
       "image_url": "https://images.unsplash.com/photo-1624355819073-e21026dceb74?auto=format&fit=crop&w=2000&q=85",
       "source_page": "https://unsplash.com/photos/white-flamingos-on-water-during-daytime-vHQMe3gugww",
       "photographer": "Melina Kiefer",
@@ -89,7 +89,7 @@
     {
       "layout": "photo",
       "heading": "Monfragüe Vultures",
-      "body": "Look up to huge birds of prey soaring over Spain's rugged national park.",
+      "body": "Look out for magnificent vultures in Spain's rugged Monfragüe National Park.",
       "image_url": "https://images.unsplash.com/photo-1592820634676-703a6e015802?auto=format&fit=crop&w=2000&q=85",
       "source_page": "https://unsplash.com/photos/brown-and-white-bird-on-green-tree-during-daytime-8leADP9XdG8",
       "photographer": "Roberto Navarro",
@@ -112,21 +112,21 @@
     {
       "layout": "cta",
       "heading": "Fill your feed with wonder.",
-      "image_url": "https://images.unsplash.com/photo-1734631768635-6154adf9ee50?auto=format&fit=crop&w=2000&q=85",
-      "source_page": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
-      "photographer": "Lucas Gallone",
+      "image_url": "https://images.unsplash.com/photo-1642269444234-7bfada8a4ae3?auto=format&fit=crop&w=2000&q=85",
+      "source_page": "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk",
+      "photographer": "Julien DI MAJO",
       "license": "Unsplash License",
-      "subject": "Sunset beach at Saintes-Maries-de-la-Mer in Camargue France",
-      "alt": "One person on a wide Camargue beach at sunset beneath a colourful sky",
-      "activity_source": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
+      "subject": "Wild bird flying low above a Camargue lagoon in early sunlight in France",
+      "alt": "A bird spreads its wings above a peaceful Camargue lagoon under a pale morning sky",
+      "activity_source": "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk",
       "fact_checks": [
-        "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+        "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk"
       ],
       "review": {
-        "reader_value": "A calming coastal sunset offers a spacious closing image and a sense of wanderlust after the four vivid European animal encounters.",
-        "image_context": "The freely licensed source photo from Lucas Gallone is labelled Saintes-Maries-de-la-Mer, France and depicts a person on beach at sunset.",
-        "specific_detail": "The closing card makes no species or access claim; the accurate identified location and photographer still remain traceable.",
-        "distinct_contribution": "An atmospheric human-scale beach sunset ends the sequence visually without adding a misleading fifth wildlife destination."
+        "reader_value": "A soft, expansive Camargue lagoon scene with a flying wild bird offers a peaceful closing invitation after four close-up wildlife portraits.",
+        "image_context": "Photographer Julien DI MAJO labels the free original as a large bird flying over water in Camargue, France, at sunrise.",
+        "specific_detail": "No wildlife promise is attached to the CTA; the accurately attributed scene is a quiet visual invitation to explore more.",
+        "distinct_contribution": "The wide bright lagoon, distant horizon and moving bird provide visual breathing room, distinct from the prior close portraits."
       },
       "focus_x": 0.5,
       "focus_y": 0.5
@@ -137,7 +137,7 @@
     "https://postojnsko.si/en/poi/bear-watching/",
     "https://www.parcornithologique.com/",
     "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
-    "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+    "https://unsplash.com/photos/a-large-bird-flying-over-a-large-body-of-water-3wmLvxfcjOk"
   ],
   "reviewed_sources_on": "2026-11-09",
   "caption_review": {
@@ -150,5 +150,9 @@
     "verdict": "Unapproved: render and exact visual QA pending."
   },
   "editorial_verdict": "PRODUCTION CANDIDATE — full rendered and independently checked media still required",
-  "final_visual_review_on": null
+  "final_visual_review_on": null,
+  "qa_notes": [
+    "Initial actual-render review REVISE: flamingo copy referenced a flock turning wetlands pink when photo showed a pale close pair; vulture copy claimed soaring but photograph showed a perched bird; previous sunset CTA was a dark generic stripe and too weak.",
+    "Correction: word both overlays to match visible subjects; replace CTA with real sourced Camargue bird-in-flight lagoon scene. Re-render and inspect actual pixels; no approval implied."
+  ]
 }
