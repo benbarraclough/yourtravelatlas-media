@@ -4,12 +4,12 @@
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "source_brief": "content/reels/007-amalfi-coast-scenes.json",
-  "brief_sha256": "289b148398cdef9510f14ace885225538f5281313c1e2fffa68ffcf3183ed731",
-  "video_sha256": "af1e44a46a04e14efe7058d00ceb373221911a8b040346b20322d007c91221c4",
+  "brief_sha256": "a219c497b92c94cd0d254d0e74f3a8f1df534a9c56570348e1fd17661c840aa7",
+  "video_sha256": "6a139aa14da74d33cfa4d0458352a8ec0e1ff471101cd84a4292eef149fc0a64",
   "audio_streams": 0,
   "image_count": 6,
   "duration_seconds": 17.4,
-  "caption": "Six little scenes from the Amalfi Coast that make you want to book a window seat. 🍋🇮🇹\n\n📍 Positano — pastel houses tumbling down the hillside.\n📍 Ravello — gardens with views stretching to the sea.\n📍 Amalfi — sunny afternoons among the beach umbrellas.\n📍 Ravello — old stone lanes made for wandering.\n📍 Path of the Gods — incredible views across the coast.\n📍 Amalfi waterfront — slow down by the boats.\n\nSave this for your next Italian escape.\n\nPhotos: Ian Mackey, nella n., Margo Evardson, Emran Yousof, Sekwang Chia & Chloé Lefleur / Unsplash.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
+  "caption": "Six little scenes from the Amalfi Coast that make you want to book a window seat. 🍋🇮🇹\n\n📍 Positano — pastel houses tumbling down the hillside.\n📍 Ravello — gardens with views stretching to the sea.\n📍 Amalfi — sunny afternoons among the beach umbrellas.\n📍 Ravello — old stone lanes made for wandering.\n📍 Path of the Gods — incredible views across the coast.\n📍 Amalfi — watch the boats drift along the coast.\n\nSave this for your next Italian escape.\n\nPhotos: Ian Mackey, nella n., Margo Evardson, Emran Yousof, Sekwang Chia & Barbora Dostálová / Unsplash.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
   "images": [
     {
       "source_page": "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
@@ -57,13 +57,13 @@
       "location_evidence": "Original free Unsplash photograph by Sekwang Chia labelled as a view of Positano from the Path of the Gods, Agerola Italy"
     },
     {
-      "source_page": "https://unsplash.com/photos/a-large-body-of-water-with-a-bunch-of-buildings-on-top-of-it-eyp70h20xDY",
-      "photographer": "Chloé Lefleur",
+      "source_page": "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M",
+      "photographer": "Barbora Dostálová",
       "license": "Unsplash License",
-      "subject": "Amalfi waterfront",
-      "overlay": "Boats along Amalfi's waterfront",
-      "source_sha256": "c64110c481631dc44626935f5c15a93111051b0de59ed2dc41d5d1eb8a5a30a9",
-      "location_evidence": "Original free Unsplash image by Chloé Lefleur identifies Amalfi Salerno Italy and depicts boats in the water in front of town buildings"
+      "subject": "Boats on the Amalfi Coast",
+      "overlay": "Boats on the Amalfi blue",
+      "source_sha256": "fe3c587c3d07bab20e69ed79ed4e18a9a9687a1ba6c1777406e7ead94fd79c8a",
+      "location_evidence": "Original free Unsplash photograph by Barbora Dostálová of boats on water; the photographer labels the location as Amalfi, Salerno, Italy"
     }
   ]
 }
