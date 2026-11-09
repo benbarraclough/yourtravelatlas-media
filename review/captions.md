@@ -113,3 +113,18 @@ Which one would you want to see first?
 Photos: NIR HIMI, Francesco Ungaro, Wietse Jongsma, Nadine Marfurt & Nathalie Lays / Unsplash.
 
 #YourTravelAtlas #Namibia #VisitNamibia #TravelInspiration
+
+## 4 wild encounters worth travelling for in Europe
+
+Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩
+
+📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.
+📍 Slovenia — watch for wild brown bears from a guided forest hide.
+📍 Camargue, France — explore wetlands packed with flamingos.
+📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.
+
+Which one belongs on your travel wishlist?
+
+Photos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Lucas Gallone / Unsplash.
+
+#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration

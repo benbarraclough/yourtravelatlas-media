@@ -1,0 +1,149 @@
+{
+  "issue": 6,
+  "slug": "006-europe-wildlife-encounters",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "eabc4d1d79d83dff8fc846eb9f84ee9f2f21fbf085ca82c77793dd64a3b69b78",
+  "caption": "Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩\n\n📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.\n📍 Slovenia — watch for wild brown bears from a guided forest hide.\n📍 Camargue, France — explore wetlands packed with flamingos.\n📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.\n\nWhich one belongs on your travel wishlist?\n\nPhotos: Tim Morgan, Federico Di Dio, Melina Kiefer, Roberto Navarro & Lucas Gallone / Unsplash.\n\n#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration",
+  "fact_sources": [
+    "https://www.welshwildlife.org/visit/skomer-island",
+    "https://postojnsko.si/en/poi/bear-watching/",
+    "https://www.parcornithologique.com/",
+    "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
+    "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+  ],
+  "editorial_intent": "Original researched list of four distinct real wildlife watching experiences across Europe featuring different species and habitats.",
+  "share_reason": "Four specific places for unforgettable wildlife moments, with photos grounded at exact real locations and different habitats.",
+  "slides": [
+    {
+      "subject": "Atlantic puffin standing on Skomer Island in Wales",
+      "source_page": "https://unsplash.com/photos/a-black-and-white-bird-with-an-orange-beak-dvJ6garOqw8",
+      "photographer": "Tim Morgan",
+      "license": "Unsplash License",
+      "alt": "Close-up of a black-and-white puffin with brightly coloured beak on Skomer Island",
+      "activity_source": "https://www.welshwildlife.org/visit/skomer-island",
+      "file": "01.jpg",
+      "source_sha256": "8d8ca2df68acadb787bc3eaaef605c0c5b01c08199f5ad609f73b79655aac6fd",
+      "output_sha256": "73b29a17f9cae28fbcccf5707e083407dedb9f5da8b217703abfe6ee52af267f",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "review": {
+        "reader_value": "An instantly appealing close-up of a wild Atlantic puffin anchors four compelling wildlife destinations that people can save for later.",
+        "image_context": "Tim Morgan labels this original freely licensed photograph as Skomer Island, Haverfordwest UK, and describes a puffin with orange beak.",
+        "specific_detail": "Welsh Wildlife Trust identifies Skomer Island as a place to see puffins during their breeding season, which supports the wildlife location.",
+        "distinct_contribution": "A vivid, charismatic British seabird opens the carousel; following places introduce mammals, wetland birds and large raptors."
+      },
+      "fact_checks": [
+        "https://www.welshwildlife.org/visit/skomer-island"
+      ]
+    },
+    {
+      "subject": "Wild brown bear in a Slovenian forest",
+      "source_page": "https://unsplash.com/photos/brown-bear-on-green-grass-during-daytime-l7hqBPW6Mbo",
+      "photographer": "Federico Di Dio",
+      "license": "Unsplash License",
+      "alt": "A wild brown bear standing among green vegetation in a Slovenian forest",
+      "activity_source": "https://postojnsko.si/en/poi/bear-watching/",
+      "file": "02.jpg",
+      "source_sha256": "d1fd252c50e081a34b7cfc487e1b14af82797b3d41f81cee87de68791f11033c",
+      "output_sha256": "b3273734463eec4d1cd0f027ae8b05faaaf36cc918ac080489786c83d8e3ec69",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Join a guided forest hide experience to look for Europe's magnificent brown bears.",
+      "review": {
+        "reader_value": "Watching a real wild brown bear from a responsibly guided forest hide is a memorable, clearly defined experience unlike the seabird coast.",
+        "image_context": "Federico Di Dio original free Unsplash image caption explicitly describes a beautiful wild bear in a Slovenian forest.",
+        "specific_detail": "The Postojna local tourism site describes guided bear-watching opportunities and their appropriate forest setting in Slovenia.",
+        "distinct_contribution": "A large woodland mammal introduces an immersive forest habitat and a very different kind of European wildlife experience."
+      },
+      "fact_checks": [
+        "https://postojnsko.si/en/poi/bear-watching/"
+      ]
+    },
+    {
+      "subject": "Flamingos wading in the Camargue wetlands, France",
+      "source_page": "https://unsplash.com/photos/white-flamingos-on-water-during-daytime-vHQMe3gugww",
+      "photographer": "Melina Kiefer",
+      "license": "Unsplash License",
+      "alt": "Flamingos standing together in shallow wetland water in Camargue France",
+      "activity_source": "https://www.parcornithologique.com/",
+      "file": "03.jpg",
+      "source_sha256": "1b4718c551a52736e164f441ff67053aaee9922376d1e837005e557e796d0881",
+      "output_sha256": "c04d627f1134624527cfe31c9625482a1139d8642a2b0219cf4cfc5133561b57",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "See flocks of flamingos turning the southern French wetlands pink.",
+      "review": {
+        "reader_value": "The accessible spectacle of flamingos in Camargue offers a colourful wetland wildlife outing and is an excellent trip inspiration for France.",
+        "image_context": "Original Unsplash photographer explicitly tagged these freely licensed flamingos as photographed in Camargue, France.",
+        "specific_detail": "Parc Ornithologique du Pont de Gau is a wetland birdwatching attraction in the Camargue known for flamingos and other birds.",
+        "distinct_contribution": "Bright, graphic wetland birds and reflective water contrast the dark forest bear and windswept Skomer seabird."
+      },
+      "fact_checks": [
+        "https://www.parcornithologique.com/"
+      ]
+    },
+    {
+      "subject": "Vulture perched at Monfragüe National Park in Spain",
+      "source_page": "https://unsplash.com/photos/brown-and-white-bird-on-green-tree-during-daytime-8leADP9XdG8",
+      "photographer": "Roberto Navarro",
+      "license": "Unsplash License",
+      "alt": "Large vulture perched on a branch in Monfragüe Spain",
+      "activity_source": "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/",
+      "file": "04.jpg",
+      "source_sha256": "ee86449da43621e8463ff3b59bb6c9757b1b1c4d217e05b614cd858ed0bb5434",
+      "output_sha256": "aa165b316a64904c38b92c0564424c87dd6021c8472fdc39ee9bd8263afa7065",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Look up to huge birds of prey soaring over Spain's rugged national park.",
+      "review": {
+        "reader_value": "Monfragüe offers enormous vultures and a dramatic Spanish park landscape, a different outdoor adventure from European forest and wetland wildlife.",
+        "image_context": "Roberto Navarro's freely licensed Unsplash photograph is explicitly labelled vulture perched on a tree, Monfragüe Spain.",
+        "specific_detail": "Regional tourism identifies Monfragüe as a destination for watching large birds of prey including vultures across its cliff and river landscapes.",
+        "distinct_contribution": "A big bird of prey in Spain provides a striking finale of cliff-country wildlife and visually distinct brown feather textures."
+      },
+      "fact_checks": [
+        "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/"
+      ]
+    },
+    {
+      "subject": "Sunset beach at Saintes-Maries-de-la-Mer in Camargue France",
+      "source_page": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
+      "photographer": "Lucas Gallone",
+      "license": "Unsplash License",
+      "alt": "One person on a wide Camargue beach at sunset beneath a colourful sky",
+      "activity_source": "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs",
+      "file": "05.jpg",
+      "source_sha256": "f6964fe236258fc7a5dbaf2a1fa1e1afef56c391f056c39e4d71a4423d3707ac",
+      "output_sha256": "fd6ffd5a542234bc5510875152d544af6bd7e671a319434632462ae2c0a5d865",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cta",
+      "review": {
+        "reader_value": "A calming coastal sunset offers a spacious closing image and a sense of wanderlust after the four vivid European animal encounters.",
+        "image_context": "The freely licensed source photo from Lucas Gallone is labelled Saintes-Maries-de-la-Mer, France and depicts a person on beach at sunset.",
+        "specific_detail": "The closing card makes no species or access claim; the accurate identified location and photographer still remain traceable.",
+        "distinct_contribution": "An atmospheric human-scale beach sunset ends the sequence visually without adding a misleading fifth wildlife destination."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-person-standing-on-a-beach-at-sunset-mCCsND1mWrs"
+      ]
+    }
+  ]
+}

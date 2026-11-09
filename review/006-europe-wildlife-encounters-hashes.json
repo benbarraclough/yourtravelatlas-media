@@ -1,0 +1,13 @@
+{
+  "issue": 6,
+  "slug": "006-europe-wildlife-encounters",
+  "brief_sha256": "eabc4d1d79d83dff8fc846eb9f84ee9f2f21fbf085ca82c77793dd64a3b69b78",
+  "caption_sha256": "ba8970c6d93ca7d0270c207cee7bc5a1a961358875d58ba1e931751a134f3b92",
+  "image_sha256": {
+    "media/006-europe-wildlife-encounters/01.jpg": "73b29a17f9cae28fbcccf5707e083407dedb9f5da8b217703abfe6ee52af267f",
+    "media/006-europe-wildlife-encounters/02.jpg": "b3273734463eec4d1cd0f027ae8b05faaaf36cc918ac080489786c83d8e3ec69",
+    "media/006-europe-wildlife-encounters/03.jpg": "c04d627f1134624527cfe31c9625482a1139d8642a2b0219cf4cfc5133561b57",
+    "media/006-europe-wildlife-encounters/04.jpg": "aa165b316a64904c38b92c0564424c87dd6021c8472fdc39ee9bd8263afa7065",
+    "media/006-europe-wildlife-encounters/05.jpg": "fd6ffd5a542234bc5510875152d544af6bd7e671a319434632462ae2c0a5d865"
+  }
+}
