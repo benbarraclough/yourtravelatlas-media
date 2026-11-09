@@ -338,6 +338,10 @@ def validate_editorial(post):
         for field in ("reader_value", "image_context", "specific_detail", "distinct_contribution"):
             if len(slide.get("review", {}).get(field, "").strip()) < 35:
                 raise ValueError(f"Slide {i+1} lacks substantive {field} review")
+        # Rejection-loop preflight: catch absent/untraceable activity sources before any network downloads.
+        activity = slide.get("activity_source", "")
+        if not activity.startswith("https://") or activity not in post.get("fact_sources", []):
+            raise ValueError(f"Slide {i+1} lacks a traceable activity_source included in fact_sources")
         refs = slide.get("fact_checks", [])
         if not refs or any(ref not in post["fact_sources"] for ref in refs):
             raise ValueError(f"Slide {i+1} has no valid claim-source ledger")
