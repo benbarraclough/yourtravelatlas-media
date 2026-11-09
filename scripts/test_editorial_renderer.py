@@ -29,7 +29,7 @@ class EditorialRendererTests(unittest.TestCase):
             render.draw_slide(self.photo, post, slide, 1, len(post["slides"]))
 
     def test_no_final_card_or_no_source_ledger_fails(self):
-        for mutation in ("cta", "source", "activity", "review", "version", "caption"):
+        for mutation in ("cta", "source", "activity", "review", "version", "caption", "photographer_credit"):
             post = copy.deepcopy(self.posts[0])
             if mutation == "cta": post["slides"][-1]["layout"] = "story"
             if mutation == "source": post["slides"][1]["fact_checks"] = []
@@ -37,6 +37,7 @@ class EditorialRendererTests(unittest.TestCase):
             if mutation == "review": post["slides"][1]["review"] = {}
             if mutation == "version": post.pop("editorial_version")
             if mutation == "caption": post["caption"] = "x" * 2201
+            if mutation == "photographer_credit": post["caption"] = post["caption"].replace(post["slides"][0]["photographer"], "")
             with self.subTest(mutation=mutation), self.assertRaises(ValueError):
                 render.validate_editorial(post)
 
