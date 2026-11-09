@@ -345,8 +345,11 @@ def validate_editorial(post):
             if not photographer or photographer.casefold() not in public_caption:
                 raise ValueError(f"Slide {i+1} photographer is missing from public caption credits")
 
-    if post["slides"][-1].get("layout") != "cta" or sum(s.get("layout") == "cta" for s in post["slides"]) != 1:
-        raise ValueError("Exactly one standard closing card must finish the carousel")
+    ctas=sum(s.get("layout") == "cta" for s in post["slides"])
+    if post.get("no_cta") is True:
+        if ctas: raise ValueError("No filler CTA requested; use meaningful visual pages")
+    elif post["slides"][-1].get("layout") != "cta" or ctas != 1:
+        raise ValueError("Exactly one standard closing card must finish legacy carousels")
     for i, slide in enumerate(post["slides"]):
         if 0 < i < len(post["slides"])-1 and len(visible_words(slide)) > 30:
             raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
