@@ -38,7 +38,8 @@
         "image_context": "The photographer's exact free Unsplash image page labels Sandwich harbour, Anichab Namibia and describes dunes meeting the ocean; full final crop requires QA.",
         "specific_detail": "The Namibia Film Commission independently names Sandwich Harbour as an ocean-edge desert dune landscape, not a generic inland dune.",
         "distinct_contribution": "The opening coast has warm sand and bright blue ocean; the next slide changes to dead trees against a white clay pan."
-      }
+      },
+      "activity_source": "https://nfc.na/locations/sandwich-harbour"
     },
     {
       "layout": "photo",
@@ -60,7 +61,8 @@
         "image_context": "The original photographer's Unsplash page specifically locates this dead-tree landscape in Deadvlei, Sossusvlei Namibia; full crop awaits QA.",
         "specific_detail": "A bare dead tree standing against desert sand presents the Deadvlei attraction without speculative ages or geological explanations.",
         "distinct_contribution": "A stark skeletal tree and clay-pan visual gives a contrast to the water-lined, sweeping coastal opening image."
-      }
+      },
+      "activity_source": "https://unsplash.com/photos/a-solitary-dead-tree-in-a-vast-desert-landscape-mLt7b8QuQc8"
     },
     {
       "layout": "photo",
@@ -82,7 +84,8 @@
         "image_context": "Photographer's Unsplash page calls the subject a natural rock arch framing desert mountains and locates it in Spitzkoppe Namibia.",
         "specific_detail": "Namibia Film Commission describes Spitzkoppe's granite rock formations; this specific image source names the natural arch.",
         "distinct_contribution": "The rocky arch frames a view and replaces the coast and trees with a visually different geological experience."
-      }
+      },
+      "activity_source": "https://nfc.na/locations/spitzkoppe"
     },
     {
       "layout": "photo",
@@ -104,7 +107,8 @@
         "image_context": "Photographer labels the image as a sunlit abandoned room at Kolmanskop Namibia, not an unrelated building exterior.",
         "specific_detail": "Namibia Film Commission records Kolmanskop's diamond-era deserted settlement and the desert's reclamation of buildings.",
         "distinct_contribution": "Warm indoor light and derelict architecture change the experience from natural landscapes to history and exploration."
-      }
+      },
+      "activity_source": "https://nfc.na/locations/kolmanskop"
     },
     {
       "layout": "photo",
@@ -126,7 +130,8 @@
         "image_context": "Exact Unsplash original is captioned Fur seals at Cape Cross Namibia by the photographer and free to use under Unsplash License.",
         "specific_detail": "Namibian ministry names Cape Cross as a breeding colony reserve of Cape fur seals, making the wildlife description grounded.",
         "distinct_contribution": "Living wildlife introduces a close-packed organic pattern contrasting geometric dunes and abandoned interiors."
-      }
+      },
+      "activity_source": "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214"
     },
     {
       "layout": "photo",
@@ -148,7 +153,8 @@
         "image_context": "Original free Unsplash image by Nadine Marfurt explicitly places the photographed elephant herd at an Etosha National Park waterhole.",
         "specific_detail": "Official Namibia Film Commission Etosha location page explains the national park's wildlife and dramatic salt-pan setting.",
         "distinct_contribution": "Close-up large land animals in water contrast with the coastal seals before the final closing scenic photograph."
-      }
+      },
+      "activity_source": "https://nfc.na/locations/etosha-national-park"
     },
     {
       "layout": "cta",
@@ -169,7 +175,8 @@
         "image_context": "Nathalie Lays explicitly describes the sunset image as four children climbing a dune at Sandwich Harbour with water visible in the scene.",
         "specific_detail": "Closing follow invitation carries no uncertain travel facts, and its image source is independently named and confirmed as free Unsplash imagery.",
         "distinct_contribution": "Human silhouettes in warm sunset light form a unique mood/scale ending, unlike the aerial blue-ocean cover."
-      }
+      },
+      "activity_source": "https://unsplash.com/photos/people-walking-on-sand-dunes-at-sunset-WrVcWCADrtY"
     }
   ],
   "fact_sources": [
