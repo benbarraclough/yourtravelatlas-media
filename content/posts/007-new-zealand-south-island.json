@@ -1,0 +1,177 @@
+{
+  "issue": 7,
+  "slug": "007-new-zealand-south-island",
+  "category": "SOUTH ISLAND",
+  "cover_country": "NEW ZEALAND",
+  "headline": "Five places that barely look real",
+  "dek": "The South Island, one incredible landscape after another",
+  "content_type": "discovery",
+  "strategy": "destination_discovery",
+  "editorial_version": 7,
+  "editorial_status": "production_pending_QA",
+  "public_numbers": false,
+  "format": "five-stops-landscape-discovery",
+  "effort_level": "varied",
+  "editorial_intent": "Five extraordinary real photographed landscapes on New Zealand's South Island showing meaningful geographic variety beyond one hero mountain photo.",
+  "reader_scenario": "Travellers who love dramatic nature and want a short saveable map of where such different South Island experiences can be found.",
+  "share_reason": "The combined natural contrast of fjord, wildflower lake, glacier reflection, iconic tree and pastoral alpine high-country makes a memorable travel shortlist.",
+  "slide_count_rationale": "Five exact named featured places across five photos plus a distinct scenic Roys Peak sunset as an emotional closing frame.",
+  "caption": "This is one island. And somehow all five of these places exist. 🇳🇿\n\n📍 Milford Sound — drift between rainforest-clad cliffs and a deep blue fjord.\n📍 Lake Tekapo — turquoise water and beautiful lupins.\n📍 Tasman Lake — icy mountain reflections beneath Aoraki/Mount Cook.\n📍 Lake Wānaka — its famous lone tree in the water.\n📍 Glenorchy — wild mountain scenery and lush green high-country pastures.\n\nSave the South Island for a future New Zealand adventure.\n\nPhotos: NIR HIMI, Look Up Look Down Photography, Nick Da Fonseca & loloscott / Unsplash.\n\n#YourTravelAtlas #NewZealand #SouthIsland #TravelInspiration",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Milford Sound",
+      "body": "A fjord cut between sheer mountains and rainforest.",
+      "image_url": "https://images.unsplash.com/photo-1741619779416-5d5c720f2120?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/mountains-surround-a-calm-lake-under-a-bright-sky-l3aIo1ntD2o",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "Original Unsplash photo by NIR HIMI explicitly identifies Milford Sound Southland NZ; exact free photo page la",
+      "alt": "Wide calm blue-green Milford Sound framed by tall mountain faces",
+      "activity_source": "https://unsplash.com/photos/mountains-surround-a-calm-lake-under-a-bright-sky-l3aIo1ntD2o",
+      "fact_checks": [
+        "https://unsplash.com/photos/mountains-surround-a-calm-lake-under-a-bright-sky-l3aIo1ntD2o"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "An unforgettable lake-and-cliff cover makes a clear visual promise of unreal scenery, with a real specific location to save.",
+        "image_context": "Original Unsplash photo by NIR HIMI explicitly identifies Milford Sound Southland NZ; exact free photo page labels mountains surrounding calm fjord water.",
+        "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
+        "distinct_contribution": "A calm green fjord opening image with immense vertical cliff scale"
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Lake Tekapo",
+      "body": "Lupins beside turquoise water, with mountain views beyond.",
+      "image_url": "https://images.unsplash.com/photo-1765912312502-880f25907089?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/turquoise-lake-with-purple-and-white-lupins-in-foreground-JUx3hPMNXLg",
+      "photographer": "Look Up Look Down Photography",
+      "license": "Unsplash License",
+      "subject": "Exact original free Unsplash image page labels Lake Tekapo New Zealand and photographer Look Up Look Down Phot",
+      "alt": "Vivid purple and white lupins beside bright turquoise Lake Tekapo",
+      "activity_source": "https://unsplash.com/photos/turquoise-lake-with-purple-and-white-lupins-in-foreground-JUx3hPMNXLg",
+      "fact_checks": [
+        "https://unsplash.com/photos/turquoise-lake-with-purple-and-white-lupins-in-foreground-JUx3hPMNXLg"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "This distinctive scene adds an accurate location-specific travel idea, with a visual contrast to the preceding landscape and an immediate visual reward.",
+        "image_context": "Exact original free Unsplash image page labels Lake Tekapo New Zealand and photographer Look Up Look Down Photography, showing turquoise lake and lupins.",
+        "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
+        "distinct_contribution": "Intensely turquoise lake and purple flowers bring colour and contrast"
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Tasman Lake",
+      "body": "A glacier-fed lake beneath the peaks of Aoraki/Mount Cook.",
+      "image_url": "https://images.unsplash.com/photo-1706820642477-c7049e15876c?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-snow-covered-mountain-with-a-lake-in-front-of-it-6X8QuPSr2UE",
+      "photographer": "Nick Da Fonseca",
+      "license": "Unsplash License",
+      "subject": "Original free Unsplash image by Nick Da Fonseca specifies Tasman Lake, Canterbury and Aoraki Mount Cook reflec",
+      "alt": "Snow-covered Aoraki mountain landscape mirrored in Tasman Lake",
+      "activity_source": "https://unsplash.com/photos/a-snow-covered-mountain-with-a-lake-in-front-of-it-6X8QuPSr2UE",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-snow-covered-mountain-with-a-lake-in-front-of-it-6X8QuPSr2UE"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "This distinctive scene adds an accurate location-specific travel idea, with a visual contrast to the preceding landscape and an immediate visual reward.",
+        "image_context": "Original free Unsplash image by Nick Da Fonseca specifies Tasman Lake, Canterbury and Aoraki Mount Cook reflections in the photographer description.",
+        "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
+        "distinct_contribution": "Snowy alpine peaks and mirrored glacial lake bring a different colder mood"
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "The Wānaka Tree",
+      "body": "A solitary tree in the water, framed by mountain twilight.",
+      "image_url": "https://images.unsplash.com/photo-1737174665860-40c234d4eb65?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-lake-ZeJKU995Zbc",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "NIR HIMI's exact free Unsplash photo page labels #ThatWanakaTree on Roys Bay Wānaka, with distinct purple dusk",
+      "alt": "Lone Lake Wānaka tree below a purple twilight sky",
+      "activity_source": "https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-lake-ZeJKU995Zbc",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-lake-ZeJKU995Zbc"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "This distinctive scene adds an accurate location-specific travel idea, with a visual contrast to the preceding landscape and an immediate visual reward.",
+        "image_context": "NIR HIMI's exact free Unsplash photo page labels #ThatWanakaTree on Roys Bay Wānaka, with distinct purple dusk and starry sky.",
+        "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
+        "distinct_contribution": "A single silhouetted tree against violet twilight creates strong negative space"
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Glenorchy",
+      "body": "Green high-country pastures, sheep and towering mountains.",
+      "image_url": "https://images.unsplash.com/photo-1779089692996-989bc59cdb53?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ",
+      "photographer": "loloscott",
+      "license": "Unsplash License",
+      "subject": "The free original Unsplash image from loloscott names Glenorchy New Zealand and specifically shows sheep on ve",
+      "alt": "Sheep grazing on emerald green fields with huge Glenorchy mountains behind",
+      "activity_source": "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ",
+      "fact_checks": [
+        "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "This distinctive scene adds an accurate location-specific travel idea, with a visual contrast to the preceding landscape and an immediate visual reward.",
+        "image_context": "The free original Unsplash image from loloscott names Glenorchy New Zealand and specifically shows sheep on verdant pasture with large mountains.",
+        "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
+        "distinct_contribution": "Mountain-backed green pastoral landscape adds an approachable rural experience"
+      }
+    },
+    {
+      "layout": "cta",
+      "heading": "Roys Peak",
+      "body": "A pink mountain sunrise above the cloud line.",
+      "image_url": "https://images.unsplash.com/photo-1738996674608-3d2d9d8450a0?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-mountain-range-from-above-the-clouds-LzAzsrV_-mc",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "Original free Unsplash page by NIR HIMI explicitly locates dramatic pink sky and snowy mountain landscape at R",
+      "alt": "Pink and orange sunrise above jagged mountain tops at Roys Peak",
+      "activity_source": "https://unsplash.com/photos/a-view-of-a-mountain-range-from-above-the-clouds-LzAzsrV_-mc",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-view-of-a-mountain-range-from-above-the-clouds-LzAzsrV_-mc"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "This distinctive scene adds an accurate location-specific travel idea, with a visual contrast to the preceding landscape and an immediate visual reward.",
+        "image_context": "Original free Unsplash page by NIR HIMI explicitly locates dramatic pink sky and snowy mountain landscape at Roys Peak Wānaka NZ.",
+        "specific_detail": "Specific location and visible subject are verified by the photographer's original free licensed page; no unsupported claim about transport, access or seasons is made.",
+        "distinct_contribution": "Pink mountaintop sunset brings a vivid, emotionally satisfying scenic finale"
+      }
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/mountains-surround-a-calm-lake-under-a-bright-sky-l3aIo1ntD2o",
+    "https://unsplash.com/photos/turquoise-lake-with-purple-and-white-lupins-in-foreground-JUx3hPMNXLg",
+    "https://unsplash.com/photos/a-snow-covered-mountain-with-a-lake-in-front-of-it-6X8QuPSr2UE",
+    "https://unsplash.com/photos/a-lone-tree-in-the-middle-of-a-lake-ZeJKU995Zbc",
+    "https://unsplash.com/photos/sheep-grazing-in-a-green-field-with-large-mountains-behind-nTkMWk3h6yQ",
+    "https://unsplash.com/photos/a-view-of-a-mountain-range-from-above-the-clouds-LzAzsrV_-mc"
+  ],
+  "caption_review": {
+    "hook_candidates": [
+      "Five places that barely look real",
+      "New Zealand's South Island is a different world"
+    ],
+    "chosen_hook": "Clear country tag plus an emotionally gripping five-stop headline with photos delivering all five featured places.",
+    "save_value": "Five real matching map-able places with one concise memorable reason to see each."
+  },
+  "editorial_verdict": "RENDER_AND_VISUAL_QA_REQUIRED"
+}
