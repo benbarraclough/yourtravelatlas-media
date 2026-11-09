@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09 (weekly simplification; original two posts converted to drafts/non-auto-publish; not deleted)",
+  "checked_at": "2026-11-09 after first silent photo Reel Metricool confirmed PENDING",
   "timezone": "Europe/London",
   "policy_version": "weekly-v1",
   "automation": {
@@ -88,6 +88,19 @@
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495",
       "qa_review": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md",
       "note": "Retired test post. Metricool update returned draft=true and autoPublish=false; API still labels provider PENDING. Manual deletion remains needed to remove from calendar."
+    },
+    {
+      "id": 422484908,
+      "uuid": "-2079661561940328338",
+      "edition": "Amalfi Coast photo Reel",
+      "date": "2026-11-16T19:00:00",
+      "draft": false,
+      "auto_publish": true,
+      "format": "REEL",
+      "media_count": 1,
+      "source_still_count": 6,
+      "provider_status": "PENDING",
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-2079661561940328338"
     }
   ],
   "pending": [],
@@ -105,8 +118,8 @@
   "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
   "buffer": {
     "target": "Four exceptional original pieces next publication week: two 5+ image carousels and two genuine 5+ scene Reels (still-photo motion or stronger real motion); within up to 20/month.",
-    "status": "Older Namibia and European wildlife entries retained as Metricool drafts with autoPublish=false but provider still marks PENDING; they are NOT suitable for publishing. User may delete them manually. No newly verified weekly replacement posts yet.",
-    "next_pipeline_priority": "Thursday single weekly automation 08:00 UK should research→build→QA→schedule and re-fetch. Do not treat old paused drafts as valid future auto-publishing."
+    "status": "ONE active new-format auto-publishing Reel confirmed 16 November, plus two older non-auto-publishing drafts (11/13 Nov) still listed as PENDING by provider.",
+    "next_pipeline_priority": "Thursday weekly task produces TWO carousels and ONE additional Reel for 16–22 Nov (four total including booked Amalfi Reel), verifying each exact media and provider."
   },
   "publication_reconciliation": {
     "checked_at": "2026-11-09 evening (live November Metricool: four PUBLISHED, two PENDING)",
