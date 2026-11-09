@@ -330,13 +330,14 @@ def validate_editorial(post):
         raise ValueError("New carousels need 5–10 intentional pages including a closing card")
     if len(post["caption"]) > 2200:
         raise ValueError("Instagram caption exceeds 2200 characters")
-            # Closed-loop QA preflight: every contributor must be credited in the final public caption.
-            # Unsplash/Pexels may not require it by licence, but Atlas editorial standards do.
-            public_caption = post.get("caption", "").casefold()
-            for i, slide in enumerate(post["slides"]):
-                photographer = slide.get("photographer", "").strip()
-                if not photographer or photographer.casefold() not in public_caption:
-                    raise ValueError(f"Slide {i+1} photographer is missing from public caption credits")
+    # Closed-loop QA preflight: every contributor must be credited in the final public caption.
+    # Unsplash/Pexels may not require it by licence, but Atlas editorial standards do.
+    if post.get("editorial_version", 0) >= 7:
+        public_caption = post.get("caption", "").casefold()
+        for i, slide in enumerate(post["slides"]):
+            photographer = slide.get("photographer", "").strip()
+            if not photographer or photographer.casefold() not in public_caption:
+                raise ValueError(f"Slide {i+1} photographer is missing from public caption credits")
 
     if post["slides"][-1].get("layout") != "cta" or sum(s.get("layout") == "cta" for s in post["slides"]) != 1:
         raise ValueError("Exactly one standard closing card must finish the carousel")
