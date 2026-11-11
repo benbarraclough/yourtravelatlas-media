@@ -1,0 +1,133 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-09T21:09:00+00:00",
+  "comment": "Single shared stage ledger; do not rebuild/schedule published or PENDING assets. Check live Metricool before any transition. Stage ID 005 scheduled, ID 006 currently production in progress.",
+  "editions": [
+    {
+      "id": "005-namibia-contrasts",
+      "title": "Namibia has dunes that touch the ocean. That's only the beginning.",
+      "content_type": "discovery",
+      "country": "Namibia",
+      "stage": "SCHEDULED",
+      "stage_updated_on": "2026-11-08",
+      "brief_path": "content/research/namibia-contrasts-commission-2026-11-08.md",
+      "comparison": {
+        "concepts_considered": [
+          "Namibia contrasts",
+          "Yucatan cenotes",
+          "Slovenia Bohinj rail"
+        ],
+        "winner": "Namibia contrasts",
+        "competitor_inspection_scope": "Existing EDITORIAL_BENCHMARKS.md actual/partial visual inspection, not re-viewed today."
+      },
+      "planned_pages": 7,
+      "planned_media": [
+        "media/005-namibia-contrasts/01.jpg",
+        "media/005-namibia-contrasts/02.jpg",
+        "media/005-namibia-contrasts/03.jpg",
+        "media/005-namibia-contrasts/04.jpg",
+        "media/005-namibia-contrasts/05.jpg",
+        "media/005-namibia-contrasts/06.jpg",
+        "media/005-namibia-contrasts/07.jpg"
+      ],
+      "verified_source_examples": [
+        "https://nfc.na/locations/sandwich-harbour",
+        "https://nfc.na/locations/spitzkoppe",
+        "https://nfc.na/locations/kolmanskop",
+        "https://nfc.na/locations/etosha-national-park",
+        "https://meft.gov.na/national-parks/cape-cross-seal-reserve/214"
+      ],
+      "rights_status": "All seven exact source pages identify free Unsplash License images with photographers, named Namibia locations; final verification required in QA.",
+      "render_status": "SUCCESS: GitHub render.yml run 42696283143; seven JPEG files and manifest committed, render-errors empty",
+      "visual_review_status": "PASS: seven exact 1080x1350 final images inspected",
+      "qa_status": "QA_APPROVED",
+      "metricool_status": "PENDING",
+      "next_stage": "Verify provider PUBLISHED after 11 November; never reproduce candidate 005.",
+      "priority": "Scheduled 11 November. No longer eligible for production or QA.",
+      "strategy": "destination_discovery",
+      "stage_updated_at": "2026-11-09T20:52:00+00:00",
+      "production_path": "content/production/005-namibia-contrasts-production-2026-11-09.md",
+      "media_audit": {
+        "original_file_pages_checked": 8,
+        "actual_original_pixels_viewed": 5,
+        "visually_rejected": [
+          "Sandwich Harbour 08.jpg (does not show ocean, cover premise false)",
+          "Kolmanskop hospital, Lüderitz (Namibia).jpg (exterior, not sand-filled room)",
+          "Seals at Cape Cross, Namibia (3045814005).jpg (weak flat foggy scene)",
+          "Namibia Etosha-Nationalpark Elefanten 1.jpg (tiny elephant, weak)"
+        ],
+        "promising_but_blocked": [
+          "Deadvlei Tree (49186683317).jpg (CC BY-SA 2.0 unsupported by current renderer)"
+        ],
+        "unresolved": [
+          "Spitzkoppe final actual original/portrait visual",
+          "Sandwich Harbour real dunes-and-sea cover",
+          "Kolmanskop sand-filled interior",
+          "Cape Cross impactful seal photo",
+          "Etosha prominent wildlife photo",
+          "distinct Namibia scenic CTA",
+          "licence compatibility and derivative credits"
+        ]
+      },
+      "previous_stage": "RENDERED_PENDING_QA",
+      "render_workflow_url": "https://github.com/benbarraclough/yourtravelatlas-media/actions/runs/42696283143",
+      "media_manifest": "media/005-namibia-contrasts/manifest.json",
+      "brief_sha256": "6913a7d0e1c643d475cbb6afe52b78c981753f0b3ba06c88c7f29f74da9b4ea5",
+      "metricool_id": 422387671,
+      "metricool_uuid": "3887494480871441074",
+      "metricool_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074",
+      "publishing_date": "2026-11-11T12:00:00+00:00",
+      "review_path": "content/reviews/2026-11-09-namibia-005-critical-qa.md",
+      "unresolved": []
+    },
+    {
+      "id": "006-europe-wildlife-encounters",
+      "title": "4 wildlife encounters worth travelling for in Europe",
+      "strategy": "curated_lists_trends",
+      "content_type": "discovery",
+      "country": "Wales / Slovenia / Finland / Spain",
+      "stage": "SCHEDULED",
+      "previous_stage": "IN_PROGRESS",
+      "stage_updated_at": "2026-11-09T21:09:00+00:00",
+      "brief_path": "content/research/006-europe-wildlife-encounters-commission-2026-11-08.md",
+      "planned_pages": 5,
+      "claim_source_count": 4,
+      "media_leads_count": 3,
+      "rights_status": "Four independently source-labelled Unsplash free photos at named locations plus licensed Pexels Camargue flamingos sunset CTA; correct photographer attribution",
+      "render_status": "SUCCESS on GitHub Actions run 42699403303 with five inspected current 1080x1350 JPEGs, caption matches current manifest, errors empty",
+      "qa_status": "PASS",
+      "metricool_status": "PENDING",
+      "next_stage": "Verify Instagram provider actually PUBLISHED 13 November; do not duplicate; next unscheduled target Sun 15 Nov 17:00 UK subject to new researched/rendered/QA pass.",
+      "priority": "Next available November vacancy after older Namibia commission, potentially Fri 13 Nov; never preempt without QA",
+      "evidence": {
+        "research_path": "content/research/006-europe-wildlife-encounters-commission-2026-11-08.md",
+        "metricool_checked_at": "2026-11-08T08:34:00+00:00",
+        "metricool_visible_november_posts": 4,
+        "metricool_published": 3,
+        "metricool_pending": 1,
+        "source_urls": [
+          "https://www.welshwildlife.org/visit/skomer-island",
+          "https://postojnsko.si/en/poi/bear-watching/",
+          "https://www.visitfinland.com/en/product/40dab70c-4f31-40a1-8940-81b3c80e3b98/sunset-seal-safari/",
+          "https://turismocoria.es/turismo/en/explore-the-surroundings/monfrague-national-park/"
+        ]
+      },
+      "production_path": "content/posts/006-europe-wildlife-encounters.json",
+      "revision_history": [
+        {
+          "at": "2026-11-09",
+          "from": "Finland Saimaa seal",
+          "to": "Camargue flamingos",
+          "reason": "Only weak, dark seal images verifiably reusable; substitute a distinct strong species/experience and licensed location photo without compromising list intent."
+        }
+      ],
+      "qa_review_path": "content/reviews/2026-11-09-europe-wildlife-006-critical-qa.md",
+      "media_manifest": "media/006-europe-wildlife-encounters/manifest.json",
+      "visual_review_status": "All five exact final photos viewed full-size and phone-scale after latest caption/revision pass",
+      "metricool_id": 422405937,
+      "metricool_uuid": "7327149549031803495",
+      "metricool_slot": "2026-11-13T19:00:00 Europe/London",
+      "metricool_planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495"
+    }
+  ]
+}

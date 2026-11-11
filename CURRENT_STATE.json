@@ -1,237 +1,85 @@
 {
-  "checked_at": "2026-11-09 (live Metricool re-fetch: three replaced six-photo auto-publishing carousels confirmed PENDING)",
+  "snapshot_date": "2026-11-11 (morning UK; use live Metricool for current status)",
   "timezone": "Europe/London",
-  "policy_version": "weekly-v1",
+  "source_of_truth": {
+    "operating_policy": "ATLAS_WEEKLY.md",
+    "publishing_status": "Metricool brand 7717708",
+    "note": "This file is a dated snapshot, never proof of future publishing."
+  },
   "automation": {
     "id": "6ae251260af881919e1d2042f46e1ff2",
     "title": "Atlas Weekly Publisher",
-    "day": "Thursday",
-    "configured_time": "08:00",
-    "timing_mode": "flexible_schedule",
     "enabled": true,
-    "operating_policy": "ATLAS_WEEKLY.md"
+    "schedule": "Thursday 08:00 Europe/London",
+    "timing_mode": "flexible_schedule",
+    "target": "Four excellent completed posts per following week, including those booked"
   },
-  "public_numbers": false,
-  "music": false,
-  "queue": [
+  "editorial": {
+    "formats": "Three real swipeable photo carousels and one 5+-clip genuine video Reel if appropriate, otherwise four carousels",
+    "mix": "Keep destination discoveries; target two specific curiosity-led thematic/activity/experience posts per week",
+    "rights": "Exact licensed source verification required",
+    "music": false,
+    "public_issue_numbers": false,
+    "owner_routine_approval": false
+  },
+  "known_published": [
     {
-      "uuid": "-1686861758455201569",
-      "id": 412588501,
-      "date": "2026-11-02T19:00:00",
-      "draft": false,
-      "auto_publish": true,
-      "format": "POST",
-      "media_count": 9,
-      "edition": "Porto",
-      "provider_status": "PUBLISHED",
-      "public_url": "https://www.instagram.com/p/DfQBIKgFR1A/"
+      "name": "Faroe Islands",
+      "date": "2026-10-29"
     },
     {
-      "uuid": "-4032844728941590495",
-      "id": 412588505,
-      "date": "2026-11-04T12:00:00",
-      "draft": false,
-      "auto_publish": true,
-      "format": "POST",
-      "media_count": 8,
-      "edition": "French Riviera",
-      "provider_status": "PUBLISHED",
-      "public_url": "https://www.instagram.com/p/DfUaeHrCF26/"
+      "name": "Porto",
+      "date": "2026-11-02"
     },
     {
-      "uuid": "5053010952195819165",
-      "id": 411509000,
-      "date": "2026-11-05T09:00:00",
-      "draft": false,
-      "auto_publish": true,
-      "format": "REEL",
-      "media_count": 1,
-      "edition": "Iceland / Seljalandsfoss",
-      "provider_status": "PUBLISHED",
-      "public_url": "https://www.instagram.com/reel/DfWqrW0nJ8b/"
+      "name": "French Riviera",
+      "date": "2026-11-04"
     },
     {
-      "uuid": "-1638283085571405156",
-      "id": 411509019,
-      "date": "2026-11-09T19:00:00",
-      "draft": false,
-      "auto_publish": true,
-      "format": "POST",
-      "media_count": 6,
-      "edition": "Japan",
-      "provider_status": "PUBLISHED",
-      "public_url": "https://www.instagram.com/p/DfiCYkjjdVI/"
+      "name": "Iceland waterfall Reel",
+      "date": "2026-11-05"
     },
     {
-      "uuid": "3887494480871441074",
-      "id": 422519506,
-      "edition": "New Zealand South Island — Five places that barely look real",
+      "name": "Japan",
+      "date": "2026-11-09"
+    }
+  ],
+  "known_pending_at_snapshot": [
+    {
+      "name": "New Zealand South Island",
       "date": "2026-11-11T12:00:00",
       "format": "POST",
-      "media_count": 6,
-      "draft": false,
-      "auto_publish": true,
-      "provider_status": "PENDING",
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=3887494480871441074",
-      "note": "New six-image swipeable gallery, fully overwrote old scheduled content with live Metricool update; correct country on cover."
+      "photo_count": 6,
+      "uuid": "3887494480871441074"
     },
     {
-      "uuid": "7327149549031803495",
-      "id": 422519542,
-      "edition": "Philippines — It's so much more than beaches",
+      "name": "Philippines beyond beaches",
       "date": "2026-11-13T19:00:00",
       "format": "POST",
-      "media_count": 6,
-      "draft": false,
-      "auto_publish": true,
-      "provider_status": "PENDING",
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=7327149549031803495",
-      "note": "New six-image swipeable gallery, fully overwrote old scheduled content with live Metricool update; correct country on cover."
+      "photo_count": 6,
+      "uuid": "7327149549031803495"
     },
     {
-      "uuid": "-2079661561940328338",
-      "id": 422523873,
-      "edition": "Italy — Amalfi Coast six-scene swipe carousel",
+      "name": "Amalfi Coast Italy",
       "date": "2026-11-16T19:00:00",
       "format": "POST",
-      "media_count": 6,
-      "draft": false,
-      "auto_publish": true,
-      "provider_status": "PENDING",
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-2079661561940328338",
-      "note": "New six-image swipeable gallery, fully overwrote old scheduled content with live Metricool update; correct country on cover."
+      "photo_count": 6,
+      "uuid": "-2079661561940328338"
     }
   ],
-  "pending": [],
-  "completed": [
-    "Iceland silent export imported to existing Reel UUID",
-    "Japan number-free six-image edition imported",
-    "28 obsolete pilot/output files removed",
-    "Iceland content and typography owner approval recorded",
-    "Porto nine-page visual remake imported and verified",
-    "Riviera eight-page edition with real archive coastal train imported and verified",
-    "All 17 imported carousel JPEG hashes match approved files",
-    "Delegated internal approval and rolling buffer assigned to sole Thursday task"
-  ],
-  "media_revision": "a9040394f1b31178af8c9f5d3b3f4e1f1f75c221",
-  "approval_mode": "delegated_internal_review_no_routine_owner_signoff",
-  "buffer": {
-    "target": "Four genuinely good publications per week using one Thursday 08:00 UK task; aim three swipeable carousels plus one authentic video Reel if viable, otherwise four swipeable carousels.",
-    "status": "New Zealand 11 Nov, Philippines 13 Nov, Amalfi Coast 16 Nov all confirmed auto-publishing POST PENDING; historical Namibia/wildlife and passive Amalfi photo-video no longer scheduled as those contents.",
-    "scheduled_through": "2026-11-16",
-    "next_pipeline_priority": "At Thursday 12 Nov 08:00 UK inspect live Metricool and complete the remaining three publications for 16–22 Nov: two more swipeable carousels plus one genuine 5-clip video Reel if footage genuinely strong, otherwise three more swipeable carousels. Existing Italy Amalfi 16 Nov counts as one."
+  "next_run_priority": {
+    "week": "2026-11-16 to 2026-11-22",
+    "already_booked": 1,
+    "remaining_to_schedule": 3,
+    "requested_mix": "Two distinct scroll-stopping thematic carousels and one genuine video Reel if suitable licensed clips exist; otherwise three strong carousels"
   },
-  "publication_reconciliation": {
-    "checked_at": "2026-11-09 evening (live November Metricool: four PUBLISHED, two PENDING)",
-    "source": "Metricool getScheduledPosts full November date range",
-    "confirmed_published": [
-      "Porto 2026-11-02",
-      "French Riviera 2026-11-04",
-      "Iceland Reel 2026-11-05",
-      "Japan 2026-11-09"
-    ],
-    "confirmed_pending": [
-      "New Zealand 11 Nov 12:00 POST 6 images",
-      "Philippines 13 Nov 19:00 POST 6 images",
-      "Italy Amalfi 16 Nov 19:00 POST 6 images"
-    ],
-    "november_known_publications_and_reservations": 6,
-    "internal_monthly_ceiling": 20,
-    "remaining_ceiling_before_unseen_manual_posts": 13,
-    "manual_or_untracked_content": "Live November API check confirmed four PUBLISHED and two PENDING, including Namibia 11 Nov and European wildlife 13 Nov; manual/third-party posts beyond provider-visible set are not independently enumerable. Maintain conservative 20/month limit.",
-    "analytics_note": "Metricool daily account metrics returned early low counts and null saves; insufficient to attribute creative performance or infer post-level saves/shares.",
-    "render_errors": "review/render-errors.json was [] at inspection",
-    "new_post_scheduled_this_run": true,
-    "monthly_visible_entries": 7,
-    "monthly_visible_published": 4,
-    "monthly_visible_pending": 3
+  "capacity": {
+    "max_calendar_month": 20,
+    "known_november_published_at_snapshot": 4,
+    "known_november_pending_at_snapshot": 3,
+    "untracked_manual_posts": "Unknown; verify live before scheduling"
   },
-  "operating_policy": "ATLAS_WEEKLY.md (single active creative/process document; older multi-stage documents historical)",
-  "pipeline_tasks": [
-    {
-      "id": "6ae251260af881919e1d2042f46e1ff2",
-      "title": "Atlas Weekly Publisher",
-      "days": [
-        "TH"
-      ],
-      "configured_time": "08:00",
-      "timing_mode": "flexible_schedule",
-      "enabled": true
-    },
-    {
-      "id": "6aefc8e1e2508191b83377b7c0597a06",
-      "title": "Atlas Content Production",
-      "days": [
-        "MO",
-        "TU",
-        "WE",
-        "TH",
-        "FR",
-        "SA",
-        "SU"
-      ],
-      "configured_time": "10:00",
-      "timing_mode": "flexible_schedule",
-      "enabled": false
-    },
-    {
-      "id": "6aefc8e40f2c8191be4b8491d7ea6e2b",
-      "title": "Atlas Review & Scheduling",
-      "days": [
-        "MO",
-        "TU",
-        "WE",
-        "TH",
-        "FR",
-        "SA",
-        "SU"
-      ],
-      "configured_time": "15:00",
-      "timing_mode": "flexible_schedule",
-      "enabled": false
-    },
-    {
-      "id": "6aefc8e626348191b17a225c004b4ce2",
-      "title": "Atlas Publishing Recovery",
-      "days": [
-        "MO",
-        "TU",
-        "WE",
-        "TH",
-        "FR",
-        "SA",
-        "SU"
-      ],
-      "configured_time": "19:00",
-      "timing_mode": "flexible_schedule",
-      "enabled": false
-    },
-    {
-      "id": "Automation_ea7a3b584a348191af3838dae6ac5ac9",
-      "title": "Atlas Growth & Strategy",
-      "days": [
-        "MO"
-      ],
-      "configured_time": "18:00",
-      "timing_mode": "flexible_schedule",
-      "enabled": false
-    }
-  ],
-  "pipeline_configured_on": "2026-11-09 weekly consolidation",
-  "cost_ceiling_gbp_additional": 0,
-  "monthly_calendar_posts_ceiling": 20,
-  "weekly_target_posts": 4,
-  "eligibility_note": "Metricool API-visible November entries at 8 November: 3 PUBLISHED, 1 PENDING. User reports allowance UI usage 3; counter semantics unverified. Enforce stricter actual cap conservatively.",
-  "live_metricool_checked_on": "2026-11-09 after all 3 completed replacements",
-  "manual_approval_requirement": "none for routine fully reviewed editions",
-  "notification_policy": {
-    "owner_requests_each_run_report": true,
-    "all_jobs_prompts_updated": "2026-11-08",
-    "delivery_note": "Four scheduled jobs' latest results are available in their ChatGPT task conversations. Actual push/email notification delivery is unknown; enable and verify via ChatGPT Settings > Notifications."
-  },
-  "strategy_mix": "Three swipeable image carousels plus one authentic video Reel if five excellent legal motion shots exist; otherwise four carousels. No slideshow MP4 standing in for swipe.",
-  "growth_log": "GROWTH_LOG.md",
-  "feedback_loop_policy": "Single task self-revises within same execution, rather than separate jobs. ATLAS_WEEKLY.md",
-  "qa_lessons_log": "content/qa-lessons.json",
-  "current_creative_brief": "ATLAS_WEEKLY.md"
+  "retired_material": "See content/archive/ and docs/history/; never reactivate old Namibia/wildlife or still-photo Reel.",
+  "test_status": "One-job automation enabled and brief updated; first full production-to-Metricool execution remains unproven as of this snapshot",
+  "extra_cost_gbp": 0
 }
