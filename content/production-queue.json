@@ -36,9 +36,11 @@
     "expected_existing_post": "Amalfi Coast POST 2026-11-16 19:00 Europe/London",
     "remaining_at_snapshot": 3,
     "priorities": [
-      "2 distinct curiosity-led thematic carousel POSTS",
-      "1 real moving-footage REEL if feasible, else carousel"
-    ]
+      "1 distinctive curiosity-led carousel POST (plus already booked Amalfi makes 2 carousels total)",
+      "1 purpose-built still-photo slideshow REEL from 5–10 licensed photographs",
+      "1 real moving-footage REEL with 5+ distinct clips when feasible, otherwise second slideshow REEL"
+    ],
+    "target_mix": "2 carousel POSTS + 1 slideshow REEL + 1 genuine video REEL (fallback 2 slideshow REELS)"
   },
   "checks": [
     "Read ATLAS_WEEKLY.md",

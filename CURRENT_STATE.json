@@ -15,7 +15,7 @@
     "target": "Four excellent completed posts per following week, including those booked"
   },
   "editorial": {
-    "formats": "Three real swipeable photo carousels and one 5+-clip genuine video Reel if appropriate, otherwise four carousels",
+    "formats": "2 manually swipeable 4:5 carousel POSTS + 1 9:16 still-photo slideshow REEL + 1 9:16 genuine moving-footage REEL (if footage impractical substitute second slideshow REEL)",
     "mix": "Keep destination discoveries; target two specific curiosity-led thematic/activity/experience posts per week",
     "rights": "Exact licensed source verification required",
     "music": false,
@@ -71,7 +71,7 @@
     "week": "2026-11-16 to 2026-11-22",
     "already_booked": 1,
     "remaining_to_schedule": 3,
-    "requested_mix": "Two distinct scroll-stopping thematic carousels and one genuine video Reel if suitable licensed clips exist; otherwise three strong carousels"
+    "requested_mix": "1 additional strong thematic swipeable carousel POST, 1 photo-slideshow REEL, 1 genuine moving-footage REEL if feasible, otherwise second slideshow REEL; Amalfi already fulfils the other carousel"
   },
   "capacity": {
     "max_calendar_month": 20,
@@ -79,7 +79,7 @@
     "known_november_pending_at_snapshot": 3,
     "untracked_manual_posts": "Unknown; verify live before scheduling"
   },
-  "retired_material": "See content/archive/ and docs/history/; never reactivate old Namibia/wildlife or still-photo Reel.",
+  "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
   "test_status": "One-job automation enabled and brief updated; first full production-to-Metricool execution remains unproven as of this snapshot",
   "extra_cost_gbp": 0
 }
