@@ -97,38 +97,6 @@ Photos: Daniel Newman, Shino Nakamura, Chloe Evans & Georgios Kaleadis / Unsplas
 
 #YourTravelAtlas #JapanTravel #TakachihoGorge #TottoriSandDunes #ShirakawaGo #SnowMonkeys #Hokkaido
 
-## Namibia has dunes that meet the sea
-
-Somewhere in Namibia, dunes tumble into the Atlantic, ghost towns fill with sand and elephants gather at desert waterholes. This country is wild. 🇳🇦
-
-📍 Sandwich Harbour — the desert meets the ocean.
-📍 Deadvlei — dark trees against a white clay pan and towering dunes.
-📍 Spitzkoppe — walk beneath sculptural granite arches.
-📍 Kolmanskop — explore a ghost town reclaimed by sand.
-📍 Cape Cross — see its extraordinary fur seal colony.
-📍 Etosha National Park — wildlife watching around the waterholes.
-
-Which one would you want to see first?
-
-Photos: NIR HIMI, Francesco Ungaro, Wietse Jongsma, Nadine Marfurt & Nathalie Lays / Unsplash.
-
-#YourTravelAtlas #Namibia #VisitNamibia #TravelInspiration
-
-## 4 wild encounters worth travelling for in Europe
-
-Wildlife encounters worth travelling for — and they're all in Europe. 🐻🦩
-
-📍 Skomer Island, Wales — meet Atlantic puffins on flower-filled coastal cliffs.
-📍 Slovenia — watch for wild brown bears from a guided forest hide.
-📍 Camargue, France — explore wetlands packed with flamingos.
-📍 Monfragüe, Spain — scan dramatic skies for magnificent vultures.
-
-Which one belongs on your travel wishlist?
-
-Photos: Tim Morgan, Federico Di Dio, Melina Kiefer & Roberto Navarro / Unsplash. Sunset: Eclipse Chasers / Pexels.
-
-#YourTravelAtlas #EuropeTravel #WildlifeTravel #TravelInspiration
-
 ## Five places that barely look real
 
 This is one island. And somehow all five of these places exist. 🇳🇿
