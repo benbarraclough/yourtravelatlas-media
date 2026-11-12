@@ -35,3 +35,28 @@ Editorial concern: Alpine scenery may feel repetitive unless the story offers a 
 5. Only after passing review, create in Metricool and immediately re-fetch PENDING, draft=false, autoPublish=true. Never reuse occupied Amalfi UUID or duplicate any post.
 
 The only actual inspection performed here was search-result-level photo-page text and the live Metricool queue, not full-size photos, original downloaded binaries or completed reels. No claim of visual approval or publication.
+
+
+## Continuation — 12 November 2026 evening (editorial development, not approval)
+Live Metricool recheck for 16–22 November returned exactly one pending item: Amalfi Coast, 16 Nov 19:00 Europe/London, UUID -2079661561940328338, id 422523873, POST, six images, draft=false, autoPublish=true. Remaining format mix: one carousel POST and two REELS (at least one photo slideshow; the other genuine motion only if five verified clips can be sourced, otherwise a second photo slideshow).
+
+### Developed thematic carousel treatment (DRAFT — photo and facts gates open)
+Working headline: **Alpine views without a summit hike**. Geographic kicker: **THE ALPS** (do not label Lake Bled as in the Alps without verifying geographic context; alternative **EUROPE** is safest). Editorial promise is views reachable via village/rail/lakeside outings rather than strenuous summit climbs; it does **not** promise step-free access, zero walking, year-round trains or universal suitability.
+
+- Cover: Wengen and its mountain railway. Cover text: “Alpine views without a summit hike”. Choose a genuinely dramatic railway-and-peaks photo, not an ordinary village landscape.
+- Wengen, Switzerland: “Arrive by mountain railway to a car-free village above the Lauterbrunnen valley.” Confirm service and car-free status from official railway/tourism source before publication.
+- Mürren, Switzerland: “A mountain village perched above the valley, with the Bernese peaks filling the skyline.” Confirm official access and whether the specific photo shows Mürren.
+- Lake Bled, Slovenia: “Walk the lake shore for island-church views beneath the mountains.” Confirm shore access and avoid implying the island is walkable.
+- Hallstatt, Austria: “Lakeside houses and mountain reflections make this a slow waterfront stop.” Confirm the original photo is Hallstatt rather than another Salzkammergut village.
+- Kleine Scheidegg, Switzerland: “Ride into a mountain pass beneath the Eiger, Mönch and Jungfrau.” Verify official railway operation and correct exact vantage point.
+
+Potential caption opening A: “You don't need to climb a summit to find mountain views worth travelling for.”
+Potential caption opening B: “Five mountain-side experiences where the journey is part of the view.”
+
+📍 Wengen — arrive by mountain railway for views over the Lauterbrunnen valley.
+📍 Mürren — slow down in a high-altitude village framed by Bernese peaks.
+📍 Lake Bled — follow the shore for views towards the island church.
+📍 Hallstatt — wander beside the lake beneath the surrounding mountains.
+📍 Kleine Scheidegg — ride the railway towards the great peaks of the Bernese Oberland.
+
+**Rights and QA status:** Existing research above contains six actual Unsplash page URLs and attribution candidates; exact full-size original image URLs, rights per exact download, visual quality/crops, facts, and rendering remain UNVERIFIED. This is editorial development only. Do not feed it to the renderer or schedule it until each gate passes. The reel slots still require distinct original stills/clips, finished MP4s, zero-audio verification, and visual review. No new scheduled posts resulted from this continuation.
