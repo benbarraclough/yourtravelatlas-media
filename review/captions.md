@@ -145,3 +145,23 @@ Save this for an Italian escape.
 Photos: Ian Mackey, nella n., Margo Evardson, Rolands Varsbergs, Sekwang Chia & Barbora Dostálová / Unsplash.
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
+
+## Mountain views without the summit hike
+
+Not every mountain view requires a summit climb. 🏔️
+
+Five beautiful places where the journey, village or lakeshore is part of the reward:
+
+📍 Wengen, Switzerland — mountain railway to a car-free village.
+📍 Mürren, Switzerland — chalet rooftops beneath enormous peaks.
+📍 Lake Bled, Slovenia — a lakeside island church framed by mountains.
+📍 Hallstatt, Austria — colourful lakeside houses and reflections.
+📍 Kleine Scheidegg, Switzerland — a mountain railway pass beneath the Bernese Alps.
+
+These are separate destinations, not a single itinerary. Some walks and streets are steep; no summit hike is needed for the featured views.
+
+Save this for a mountain escape.
+
+Photos: Joshua Doherty, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.
+
+#YourTravelAtlas #MountainTravel #EuropeanAlps #TrainTravel #LakeBled

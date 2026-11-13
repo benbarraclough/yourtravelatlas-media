@@ -78,8 +78,8 @@
       "alt": "Amalfi beach",
       "activity_source": "https://unsplash.com/photos/a-crowded-beach-with-umbrellas-and-buildings-on-a-hill-KrOXHB001B4",
       "file": "03.jpg",
-      "source_sha256": "5445c26ee8057da0438045878672861c06393f8dc097e2e345e7b2f2d65c5e93",
-      "output_sha256": "5e9aedfb3d47879b4c9b6d96370ae02f5feafc0e87efe762498a97cf2a916a7b",
+      "source_sha256": "ebb5c558124f5ea78ba56606c89a535a55dbfe065d62e93299fb60128b0bf6ce",
+      "output_sha256": "135d1fa6edc6a5e9eca08394a0b0dac552194071b2f4743b187a8b1ba80425b5",
       "size": [
         1080,
         1350
@@ -156,8 +156,8 @@
       "alt": "Boats on the Amalfi Coast",
       "activity_source": "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M",
       "file": "06.jpg",
-      "source_sha256": "fe3c587c3d07bab20e69ed79ed4e18a9a9687a1ba6c1777406e7ead94fd79c8a",
-      "output_sha256": "4e2f46530fa041e32ab255ebd9e04038534c49483b05fab7b5e86d97cdc90fa2",
+      "source_sha256": "b4d8875d621c2cf887d3de734809927c26be4328e0eaa866b1bcd677517a387b",
+      "output_sha256": "fb9f262c654e09ea1a34b8b50f5200427c4d8c8b1ad22d6cee4eb556dbf4e4f2",
       "size": [
         1080,
         1350
