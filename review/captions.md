@@ -157,7 +157,7 @@ It's not always about the climb — sometimes the railway, cable car or lakeside
 📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.
 📍 Aiguille du Midi, France — take the cable car high above Chamonix.
 📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.
-📍 Lake Bled, Slovenia — island-church views from the lakeshore.
+📍 Lake Bled, Slovenia — an island church framed by dramatic sunset mountains.
 📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.
 
 Which one would you go for?
