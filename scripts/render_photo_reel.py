@@ -90,6 +90,8 @@ def download_image(shot):
 def render(path):
     brief=json.loads(path.read_text(encoding="utf-8"))
     images=brief.get("images",[])
+    frames_per_image=int(brief.get("frames_per_image",87))
+    if not 75<=frames_per_image<=135: raise ValueError("Invalid slideshow scene length")
     if brief.get("treatment")!="photo_slideshow_v1": raise ValueError("Not a photo Reel brief")
     if len(images)<5 or len(images)>10: raise ValueError("Photo Reels require 5-10 real different photographs")
     if len(brief.get("caption",""))>2200: raise ValueError("Caption too long")
@@ -119,7 +121,7 @@ def render(path):
             # Slow Ken Burns crop creates genuine video from stills, not a mislabeled image carousel.
             filt="scale=1200:2134,zoompan=z='min(pzoom+0.00045,1.055)':d=1:x='(iw-iw/zoom)/2':y='(ih-ih/zoom)/2':s=1080x1920:fps=30,format=yuv420p"
             command("ffmpeg","-hide_banner","-loglevel","error","-y","-loop","1","-framerate","30","-i",frame,
-                    "-frames:v","87","-vf",filt,"-an","-c:v","libx264","-threads","2","-preset","veryfast","-crf","23",
+                    "-frames:v",str(frames_per_image),"-vf",filt,"-an","-c:v","libx264","-threads","2","-preset","veryfast","-crf","23",
                     "-pix_fmt","yuv420p","-movflags","+faststart",piece)
             pieces.append(piece)
             records.append({"source_page":s["source_page"],"photographer":s["photographer"],"license":s["license"],
