@@ -5,10 +5,10 @@
   "destination": "Winter places around the world",
   "country_label": "WORLDWIDE",
   "hook": "8 Real Places That Look Like a Winter Film Set",
-  "caption": "Eight real places that look like scenes from a winter film. ❄️\n\n📍 Rovaniemi, Finland — aurora above the snow forest.\n📍 Shirakawa-go, Japan — traditional farmhouses under a blanket of snow.\n📍 Reine, Norway — red cabins beneath Arctic peaks.\n📍 Colmar, France — festive lights in the old town.\n📍 Jigokudani, Japan — snow monkeys warming up in hot springs.\n📍 Tallinn, Estonia — medieval rooftops in the snow.\n📍 Lake Louise, Canada — the grand hotel beneath winter mountains.\n📍 Québec City, Canada — Château Frontenac rising above the river.\n\nWhich winter scene would you travel for?\n\nPhotos: Dylan Shaw, Luo Jin Hong, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Vincent Y @USA & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterEscapes #TravelReels",
+  "caption": "Eight real places that look like scenes from a winter film. ❄️\n\n📍 Rovaniemi, Finland — aurora above the snow forest.\n📍 Shirakawa-go, Japan — traditional farmhouses beneath a blanket of snow.\n📍 Reine, Norway — red fishing cabins below Arctic peaks.\n📍 Colmar, France — festive lights in the old town.\n📍 Jigokudani, Japan — snow monkeys soaking in hot springs.\n📍 Tallinn, Estonia — medieval rooftops in the snow.\n📍 Vatnajökull, Iceland — a luminous blue cave inside the glacier.\n📍 Québec City, Canada — Château Frontenac in winter.\n\nWhich winter scene would you travel for?\n\nPhotos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Davide Cantelli & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterEscapes #TravelReels",
   "audio_policy": "no_music",
-  "editorial_intent": "Eight compelling winter scenes, each from a real identifiable destination, with more visual variety and a longer 28.8-second portrait slideshow treatment.",
-  "share_reason": "Eight specific real scenes spanning aurora, snowy villages, northern cabins, Christmas lights, wildlife in thermal pools and château skylines.",
+  "editorial_intent": "Eight distinct visually powerful verified real winter destinations: aurora, snowy Japanese village, Lofoten cabins, Alsatian festive streets, hot spring snow monkeys, medieval Tallinn, Iceland's blue ice cave and Quebec's Château Frontenac.",
+  "share_reason": "A long 28.8-second cinematic photo story with eight real contrasting winter experiences; includes warm lighting, snowy architecture, wildlife and electric-blue glacier ice.",
   "editorial_status": "production_pending_QA",
   "images": [
     {
@@ -22,11 +22,11 @@
     },
     {
       "subject": "Shirakawa-go, Japan",
-      "image_url": "https://images.unsplash.com/photo-1768039354436-6b7eaa2386e5?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/traditional-japanese-houses-covered-in-snow-during-winter-q89YrjF54qY",
-      "photographer": "Luo Jin Hong",
-      "location_evidence": "The photographer identifies snow-covered traditional houses in Shirakawa-go, Gifu, Japan.",
-      "overlay": "SHIRAKAWA-GO, JAPAN — storybook snowy farmhouses",
+      "image_url": "https://images.unsplash.com/photo-1682595796206-e904e1e7c07e?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-snow-covered-village-surrounded-by-mountains-and-trees-4U1PeoPVZjU",
+      "photographer": "Da-shika",
+      "overlay": "SHIRAKAWA-GO, JAPAN — snow-covered village",
+      "location_evidence": "Original free Unsplash image by Da-shika, photographed from Shiroyama Tenshukaku observation deck overlooking traditional Shirakawa-go in Ogimachi, Gifu, Japan; photographer location and Japanese description explicitly state this.",
       "license": "Unsplash License"
     },
     {
@@ -66,12 +66,12 @@
       "license": "Unsplash License"
     },
     {
-      "subject": "Lake Louise, Canada",
-      "image_url": "https://images.unsplash.com/photo-1776551764321-c09a0403df1b?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/grand-hotel-nestled-in-snowy-mountains-under-cloudy-sky-sbF37aGoorE",
-      "photographer": "Vincent Y @USA",
-      "location_evidence": "The photographer's free Unsplash page locates a grand hotel in snow-covered mountains at Lake Louise, Alberta Canada.",
-      "overlay": "LAKE LOUISE, CANADA — château below snowy peaks",
+      "subject": "Vatnajökull, Iceland",
+      "image_url": "https://images.unsplash.com/photo-1474710820418-dd5406ee35d5?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/person-standing-in-ice-cave-at-daytime-r0q06hjTgOc",
+      "photographer": "Davide Cantelli",
+      "overlay": "VATNAJÖKULL, ICELAND — inside a blue ice cave",
+      "location_evidence": "Original freely reusable Unsplash photo by Davide Cantelli, titled glacier-cave-man-iceland, location specifically Vatnajökull National Park, Iceland, depicting a real person in the blue ice tunnel. Image also deposited CC0 on Wikimedia Commons.",
       "license": "Unsplash License"
     },
     {
