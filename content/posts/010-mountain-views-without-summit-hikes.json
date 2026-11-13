@@ -1,0 +1,157 @@
+{
+  "issue": 10,
+  "slug": "010-mountain-views-without-summit-hikes",
+  "category": "EUROPE / MOUNTAINS",
+  "cover_country": "EUROPE",
+  "headline": "Mountain views without the summit hike",
+  "dek": "Five incredible places to savour the view",
+  "content_type": "discovery",
+  "strategy": "curiosity_led_travel_ideas",
+  "editorial_version": 7,
+  "editorial_status": "production_pending_QA",
+  "public_numbers": false,
+  "no_cta": true,
+  "format": "five-accessible-mountain-moments",
+  "effort_level": "varied",
+  "editorial_intent": "Curate five mountain landscapes reachable from public rail, car-free villages or lakeshores without requiring a summit climb, avoiding misleading promises about step-free access.",
+  "reader_scenario": "A traveller who loves extraordinary mountain scenery but does not want an intensive summit trek.",
+  "share_reason": "Show that dramatic alpine scenery can be enjoyed through iconic rail journeys and lakeside or village stays, appealing beyond hardcore hikers.",
+  "slide_count_rationale": "Five real named destinations and experiences in five visually different photographs; no filler CTA.",
+  "caption": "Not every mountain view requires a summit climb. 🏔️\n\nFive beautiful places where the journey, village or lakeshore is part of the reward:\n\n📍 Wengen, Switzerland — mountain railway to a car-free village.\n📍 Mürren, Switzerland — chalet rooftops beneath enormous peaks.\n📍 Lake Bled, Slovenia — a lakeside island church framed by mountains.\n📍 Hallstatt, Austria — colourful lakeside houses and reflections.\n📍 Kleine Scheidegg, Switzerland — a mountain railway pass beneath the Bernese Alps.\n\nThese are separate destinations, not a single itinerary. Some walks and streets are steep; no summit hike is needed for the featured views.\n\nSave this for a mountain escape.\n\nPhotos: Joshua Doherty, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeanAlps #TrainTravel #LakeBled",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Wengen",
+      "body": "Arrive by mountain railway in this car-free village above Lauterbrunnen.",
+      "image_url": "https://images.unsplash.com/photo-1747435438767-5343373a8efa?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/scenic-view-of-a-mountainous-valley-with-a-train-cDy9vVMkyMk",
+      "photographer": "Joshua Doherty",
+      "license": "Unsplash License",
+      "subject": "Wengen mountain railway",
+      "alt": "Swiss mountain rail and dramatic peaks near Wengen",
+      "activity_source": "https://www.jungfrau.ch/en-gb/wengen/",
+      "fact_checks": [
+        "https://unsplash.com/photos/scenic-view-of-a-mountainous-valley-with-a-train-cDy9vVMkyMk",
+        "https://www.jungfrau.ch/en-gb/wengen/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "A distinctive real travel moment in Wengen, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
+        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Wengen location and the actual landscape visible in the frame.",
+        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
+        "distinct_contribution": "Wengen offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Mürren",
+      "body": "A car-free mountain village framed by the Bernese peaks.",
+      "image_url": "https://images.unsplash.com/photo-1667836697850-c0f866224abb?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-group-of-buildings-in-front-of-mountains-jaOK3VJI79M",
+      "photographer": "Shalev Cohen",
+      "license": "Unsplash License",
+      "subject": "Mürren mountainside village",
+      "alt": "Wooden rooftops of Mürren below enormous snowy Swiss Alps",
+      "activity_source": "https://www.jungfrau.ch/en-gb/muerren/",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-group-of-buildings-in-front-of-mountains-jaOK3VJI79M",
+        "https://www.jungfrau.ch/en-gb/muerren/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "A distinctive real travel moment in Mürren, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
+        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Mürren location and the actual landscape visible in the frame.",
+        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
+        "distinct_contribution": "Mürren offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Lake Bled",
+      "body": "Take in the island church from the shore beneath the mountains.",
+      "image_url": "https://images.unsplash.com/photo-1660342831703-f27ab3f32278?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
+      "photographer": "Robert Hrovat",
+      "license": "Unsplash License",
+      "subject": "Lake Bled sunrise",
+      "alt": "Sunrise over turquoise Lake Bled and its island church in Slovenia",
+      "activity_source": "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
+        "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "A distinctive real travel moment in Lake Bled, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
+        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Lake Bled location and the actual landscape visible in the frame.",
+        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
+        "distinct_contribution": "Lake Bled offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Hallstatt",
+      "body": "A lakeside town beneath the peaks with picture-perfect reflections.",
+      "image_url": "https://images.unsplash.com/photo-1665945203723-d823de195bf4?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
+      "photographer": "Daniel Seßler",
+      "license": "Unsplash License",
+      "subject": "Hallstatt lakeside town",
+      "alt": "Historic Hallstatt houses beside a mountain lake at sunset",
+      "activity_source": "https://www.hallstatt.net/",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
+        "https://www.hallstatt.net/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "A distinctive real travel moment in Hallstatt, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
+        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Hallstatt location and the actual landscape visible in the frame.",
+        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
+        "distinct_contribution": "Hallstatt offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Kleine Scheidegg",
+      "body": "Reach the mountain pass by train beneath the great Swiss peaks.",
+      "image_url": "https://images.unsplash.com/photo-1667030916865-96ebd74498fe?auto=format&fit=crop&w=2100&q=85",
+      "source_page": "https://unsplash.com/photos/a-landscape-with-mountains-and-trees--B2sN0OFDFE",
+      "photographer": "Shalev Cohen",
+      "license": "Unsplash License",
+      "subject": "Kleine Scheidegg mountain pass",
+      "alt": "Alpine slopes and mountains at Kleine Scheidegg in Switzerland",
+      "activity_source": "https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/kleine-scheidegg-railway-station/",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-landscape-with-mountains-and-trees--B2sN0OFDFE",
+        "https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/kleine-scheidegg-railway-station/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "A distinctive real travel moment in Kleine Scheidegg, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
+        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Kleine Scheidegg location and the actual landscape visible in the frame.",
+        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
+        "distinct_contribution": "Kleine Scheidegg offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+      }
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/scenic-view-of-a-mountainous-valley-with-a-train-cDy9vVMkyMk",
+    "https://www.jungfrau.ch/en-gb/wengen/",
+    "https://unsplash.com/photos/a-group-of-buildings-in-front-of-mountains-jaOK3VJI79M",
+    "https://www.jungfrau.ch/en-gb/muerren/",
+    "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
+    "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
+    "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
+    "https://www.hallstatt.net/",
+    "https://unsplash.com/photos/a-landscape-with-mountains-and-trees--B2sN0OFDFE",
+    "https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/kleine-scheidegg-railway-station/"
+  ],
+  "caption_review": "Individual location sources and photo credits checked against original pages; final visual render and cropping remain pending.",
+  "editorial_verdict": "Research verified; render and final visual QA mandatory before scheduling."
+}
