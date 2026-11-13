@@ -1,0 +1,60 @@
+{
+  "status": "rendered-not-scheduled",
+  "type": "photo_slideshow_v1",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "source_brief": "content/reels/011-five-winter-fairytale-places.json",
+  "brief_sha256": "8af035c2bd0ab2efcd2ea14b9bdf88f2007c9fe9f0a67b496f8d35d5fdcc663e",
+  "video_sha256": "0defd65beb8d3fb3f78b9e0f1af3394dadc76e75a239646d63200aaee72a9a50",
+  "audio_streams": 0,
+  "image_count": 5,
+  "duration_seconds": 14.5,
+  "caption": "Five places that look like a winter fairytale. ❄️\n\n🌌 Rovaniemi, Finland — a snow forest under the northern lights.\n🏘 Reine, Norway — red cabins framed by Arctic mountains.\n✨ Colmar, France — glowing streets on a festive winter evening.\n🏰 Tallinn, Estonia — a medieval skyline beneath snow.\n🌨 Québec City, Canada — a real-life château in a winter cityscape.\n\nWould you choose the northern lights or the old-town lights?\n\nPhotos: Dylan Shaw, Marianne Gay, Jametlene Reskp, Ilya Orehov & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterWonderland #BucketListTravel",
+  "images": [
+    {
+      "source_page": "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc",
+      "photographer": "Dylan Shaw",
+      "license": "Unsplash License",
+      "subject": "Rovaniemi, Finnish Lapland",
+      "overlay": "Aurora above snow-covered Lapland",
+      "source_sha256": "0bc8b5395b65e15f2ee325e67637bf636cd4205db988f0adb26bdd71138afc03",
+      "location_evidence": "Photographer Dylan Shaw labels this original free-licence aurora and snow-forest image as Rovaniemi, Finland."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U",
+      "photographer": "Marianne Gay",
+      "license": "Unsplash License",
+      "subject": "Reine, Lofoten, Norway",
+      "overlay": "Red fishing cabins beneath Arctic mountains",
+      "source_sha256": "5bfe016ef5a5ef590a5d90e37f7bacd2eb5fc42cc0d567e6f36fd7c91e9225cb",
+      "location_evidence": "Photographer Marianne Gay identifies the original free Unsplash photo as Reine in Lofoten, Norway, showing red cabins beneath snow-covered peaks."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/people-walking-through-a-festive-town-square-at-night-fFrEVKdEra0",
+      "photographer": "Jametlene Reskp",
+      "license": "Unsplash License",
+      "subject": "Colmar, France",
+      "overlay": "Festive lights in Colmar's old streets",
+      "source_sha256": "2a45c08e32855c3ec3a793e7049f486ca569b82a3c06a727d53c64d865e6f1a5",
+      "location_evidence": "Photographer Jametlene Reskp locates this free Unsplash photo of a festive town square at night in Colmar, France."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/snow-covered-brown-white-and-gray-concrete-castle-under-cloudy-skies-2OSEWkQHiGI",
+      "photographer": "Ilya Orehov",
+      "license": "Unsplash License",
+      "subject": "Tallinn Old Town, Estonia",
+      "overlay": "Medieval towers beneath fresh snow",
+      "source_sha256": "dc1fa8dae181f7ed8fa6fb8601ea96d0151a6207aab5246a41c8f7588394fce2",
+      "location_evidence": "Photographer Ilya Orehov identifies the original free Unsplash snow-covered medieval town panorama as Tallinn Old Town, Estonia."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE",
+      "photographer": "Lianhao Qu",
+      "license": "Unsplash License",
+      "subject": "Old Québec, Canada",
+      "overlay": "Québec City's snow-covered château skyline",
+      "source_sha256": "aec840b3756debc4fdeb760408fa495d38653e92e6863dffaacd9620b3c82c35",
+      "location_evidence": "Photographer Lianhao Qu locates the original free Unsplash winter Château Frontenac photo to Old Québec City in Canada."
+    }
+  ]
+}
