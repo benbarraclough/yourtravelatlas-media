@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-13 (task configuration and GitHub render status; live Metricool always authoritative)",
+  "snapshot_date": "2026-11-13 (after manual improved Nov18/20 Metricool bookings; live Metricool authoritative)",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -65,32 +65,33 @@
   ],
   "known_pending_at_snapshot": [
     {
-      "name": "New Zealand South Island",
-      "date": "2026-11-11T12:00:00",
-      "format": "POST",
-      "photo_count": 6,
-      "uuid": "3887494480871441074"
-    },
-    {
-      "name": "Philippines beyond beaches",
-      "date": "2026-11-13T19:00:00",
-      "format": "POST",
-      "photo_count": 6,
-      "uuid": "7327149549031803495"
-    },
-    {
       "name": "Amalfi Coast Italy",
       "date": "2026-11-16T19:00:00",
       "format": "POST",
       "photo_count": 6,
-      "uuid": "-2079661561940328338"
+      "metricool_post_id": 422523873
+    },
+    {
+      "name": "Seven Mountain Views Without the Summit Hike",
+      "date": "2026-11-18T19:00:00",
+      "format": "POST",
+      "photo_count": 7,
+      "metricool_post_id": 427230845
+    },
+    {
+      "name": "Eight Real Places That Look Like a Winter Film Set",
+      "date": "2026-11-20T19:00:00",
+      "format": "REEL",
+      "video_duration_seconds": 28.8,
+      "still_photo_count": 8,
+      "metricool_post_id": 427232781
     }
   ],
   "next_run_priority": {
     "week": "2026-11-16 to 2026-11-22",
-    "already_booked": 1,
-    "remaining_to_schedule": 3,
-    "requested_mix": "Recover week 16–22: QA five rendered Alpine carousel JPGs and winter slideshow MP4 (both currently unapproved), schedule only if source/visual checks pass; research, render and approve a separate genuine video Reel or second slideshow Reel."
+    "already_booked": 3,
+    "remaining_to_schedule": 1,
+    "requested_mix": "One separate genuine moving-footage Reel when viable or second unique licensed photo slideshow Reel, preferably Sunday Nov 22. Do not recreate three existing bookings."
   },
   "capacity": {
     "max_calendar_month": 20,
@@ -99,6 +100,6 @@
     "untracked_manual_posts": "Unknown; verify live before scheduling"
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "No new posts booked by Thursday 12 Nov job; two new assets rendered Fri 13 Nov with GitHub Actions, but not source/visual-QA approved nor scheduled. Daily staged automation begins 14 Nov.",
+  "test_status": "Two completed enhanced posts manually scheduled Nov 13 and verified PENDING in Metricool; one daily automation remains enabled but end-to-end unattended publication still unproven.",
   "extra_cost_gbp": 0
 }
