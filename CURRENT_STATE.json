@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-11 (morning UK; use live Metricool for current status)",
+  "snapshot_date": "2026-11-13 (task configuration and GitHub render status; live Metricool always authoritative)",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -8,11 +8,30 @@
   },
   "automation": {
     "id": "6ae251260af881919e1d2042f46e1ff2",
-    "title": "Atlas Weekly Publisher",
+    "title": "Atlas Publisher",
     "enabled": true,
-    "schedule": "Thursday 08:00 Europe/London",
-    "timing_mode": "flexible_schedule",
-    "target": "Four excellent completed posts per following week, including those booked"
+    "schedule": "Daily 08:00 Europe/London",
+    "timing_mode": "exact_schedule",
+    "target": "Four excellent completed posts per following week, including those booked",
+    "next_run": "2026-11-14 08:00 Europe/London",
+    "operating_model": "One daily ChatGPT automation; small persistently checkpointed actions, not multiple tasks or one weekly all-in-one run",
+    "extra_paused_tasks": [
+      {
+        "id": "6af73d732ee881919643fe3480cc606b",
+        "title": "Atlas Carousel Producer",
+        "enabled": false
+      },
+      {
+        "id": "6af73d758480819181ef0cc193b1d50c",
+        "title": "Atlas Slideshow Producer",
+        "enabled": false
+      },
+      {
+        "id": "6af73d7833148191b0aefd1647c6527e",
+        "title": "Atlas Motion Reel Producer",
+        "enabled": false
+      }
+    ]
   },
   "editorial": {
     "formats": "2 manually swipeable 4:5 carousel POSTS + 1 9:16 still-photo slideshow REEL + 1 9:16 genuine moving-footage REEL (if footage impractical substitute second slideshow REEL)",
@@ -71,7 +90,7 @@
     "week": "2026-11-16 to 2026-11-22",
     "already_booked": 1,
     "remaining_to_schedule": 3,
-    "requested_mix": "1 additional strong thematic swipeable carousel POST, 1 photo-slideshow REEL, 1 genuine moving-footage REEL if feasible, otherwise second slideshow REEL; Amalfi already fulfils the other carousel"
+    "requested_mix": "Recover week 16–22: QA five rendered Alpine carousel JPGs and winter slideshow MP4 (both currently unapproved), schedule only if source/visual checks pass; research, render and approve a separate genuine video Reel or second slideshow Reel."
   },
   "capacity": {
     "max_calendar_month": 20,
@@ -80,6 +99,6 @@
     "untracked_manual_posts": "Unknown; verify live before scheduling"
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "One-job automation enabled and brief updated; first full production-to-Metricool execution remains unproven as of this snapshot",
+  "test_status": "No new posts booked by Thursday 12 Nov job; two new assets rendered Fri 13 Nov with GitHub Actions, but not source/visual-QA approved nor scheduled. Daily staged automation begins 14 Nov.",
   "extra_cost_gbp": 0
 }

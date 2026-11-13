@@ -6,8 +6,8 @@ An autonomous, image-led Instagram travel discovery project for [@yourtravelatla
 
 ## Current workflow
 
-- **One enabled Atlas Weekly Publisher task**, Thursday **08:00 Europe/London**, configured to read `ATLAS_WEEKLY.md`.
-- Each run checks the **actual Metricool calendar first**, creates and reviews finished content, schedules via Metricool, then re-fetches to verify **PENDING**, `draft=false`, `autoPublish=true`.
+- **ONE enabled ChatGPT task: Atlas Publisher**, runs **daily at 08:00 Europe/London**. It checks live bookings and a persistent production queue, then completes the next useful step. There are no separate active ChatGPT production tasks.
+- Every day's run: check Metricool → read `content/production-queue.json` → advance a pending item (source → brief → GitHub render → final QA → Metricool booking) → checkpoint state for the next day. A rendered asset is not automatically QA-approved. A scheduled success requires live `PENDING`, `draft=false`, `autoPublish=true`.
 - **Four posts per following week in total, including posts already booked:** **2 swipeable carousel POSTS (4:5, 1080×1350 JPGs), 1 still-photo slideshow REEL (9:16, 1080×1920 MP4), and 1 genuine moving-footage REEL (9:16, 1080×1920 MP4)**. If suitable real video footage cannot be sourced and rendered, publish **another slideshow REEL** in its place. Slideshow Reels autoplay; carousels are manually swipeable, never interchange them.
 - Accurate places and gripping hooks, strong licensed photographs, phone-legible covers, compact helpful captions and source/rights evidence. No music, public issue numbers, fabricated destinations, mandatory extra subscriptions, or routine owner approvals.
 - Maximum **20 posts per calendar month** or any stricter Metricool limit; never duplicate or revive retired ideas. Successful GitHub rendering alone does not mean Instagram is scheduled.
@@ -34,7 +34,7 @@ Published in November: Porto, French Riviera, Iceland Reel and Japan. The older 
 
 The three posts confirmed auto-publishing **PENDING** during the morning check were New Zealand (11 Nov 12:00), Philippines (13 Nov 19:00) and Amalfi Coast (16 Nov 19:00). Status may change after this snapshot; **re-fetch Metricool before making decisions**.
 
-The next Thursday run (12 November) should fill the **remaining three slots for 16–22 November**: **one strong curiosity-led carousel POST + one slideshow REEL + one genuine moving-footage REEL**, or a **second slideshow REEL** if genuine footage is not viable. Amalfi counts as the already booked destination discovery. The sole-job process has not yet proven a full end-to-end run.
+**Recovery for 16–22 November:** Amalfi Coast already occupies one carousel booking. Three items remain: one curiosity-led carousel, one photo-slideshow Reel and one true-video Reel (fallback: second slideshow Reel). Carousel `010-mountain-views-without-summit-hikes` has five rendered JPEGs; winter slideshow `011-five-winter-fairytale-places` has a rendered MP4. Both still require independent exact-source and final visual QA before Metricool scheduling. The next daily task should pick up the closest-to-finished item rather than research from scratch. This daily setup is not yet proven end-to-end.
 
 **Retired and replaced:** Namibia, European wildlife, the original Istanbul Reel, and the original Amalfi photo-MP4. This does **not** prohibit creating new, purposeful photo-slideshow Reels under the current plan. Their briefs and old multi-job operating documents are archived to prevent accidental reuse. All prior material remains recoverable through Git history.
 

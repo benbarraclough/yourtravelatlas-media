@@ -1,10 +1,41 @@
 {
-  "version": 2,
-  "updated_at": "2026-11-11",
-  "mode": "single-weekly publisher",
-  "source_of_truth": "Metricool for publish status; ATLAS_WEEKLY.md for creative/process rules",
+  "version": 3,
+  "updated_at": "2026-11-13",
+  "mode": "one recurring daily ChatGPT Atlas Publisher task (08:00 UK), one stage/deliverable advanced per run",
+  "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "All old stage-based commissions have been retired. Historical v9 ledger is archived at docs/history/production-queue-v9-replaced-2026-11-09.json. Do not treat this file as evidence of booking or render approvals.",
-  "editions": [],
+  "editions": [
+    {
+      "id": "010-mountain-views-without-summit-hikes",
+      "type": "carousel_POST",
+      "target_week": "2026-11-16/2026-11-22",
+      "stage": "rendered_needs_qa",
+      "brief": "content/posts/010-mountain-views-without-summit-hikes.json",
+      "rendered_asset": "media/010-mountain-views-without-summit-hikes/",
+      "render_result": "Five 1080×1350 JPEGs and manifest built by successful GitHub Actions run 43464833943; review/render-errors.json empty.",
+      "verified": false,
+      "next_action": "Verify photo page against actual original CDN image, photographer/location, official destination facts; inspect all final JPGs for truth, WOW factor, typography, cropping. Repair/re-render as needed. Schedule only after final QA."
+    },
+    {
+      "id": "011-five-winter-fairytale-places",
+      "type": "photo_slideshow_REEL",
+      "target_week": "2026-11-16/2026-11-22",
+      "stage": "rendered_needs_qa",
+      "brief": "content/reels/011-five-winter-fairytale-places.json",
+      "rendered_asset": "media/reels/011-five-winter-fairytale-places/",
+      "render_result": "One 9:16 silent slideshow MP4, cover, manifest, storyboard created by successful GitHub Actions run 43465692641.",
+      "verified": false,
+      "next_action": "Independently confirm exact source photographs match original pages, names and stated locations. Inspect actual full MP4 for appearance/motion/cropping/text/zero audio. If correct schedule as Instagram REEL, otherwise repair before booking."
+    },
+    {
+      "id": "012-pending-moving-or-fallback-reel",
+      "type": "genuine_video_REEL_or_second_photo_slideshow_REEL",
+      "target_week": "2026-11-16/2026-11-22",
+      "stage": "research",
+      "verified": false,
+      "next_action": "Select strong distinct hook, quickly test 5+ real licensed moving video clips with allowed downloads and full 9:16 render; if source unsuitable immediately pivot to distinct five-photo slideshow concept. Source, brief, render, inspect, then schedule."
+    }
+  ],
   "retired_and_replaced": [
     {
       "id": "005-namibia-contrasts",
@@ -43,10 +74,11 @@
     "target_mix": "2 carousel POSTS + 1 slideshow REEL + 1 genuine video REEL (fallback 2 slideshow REELS)"
   },
   "checks": [
-    "Read ATLAS_WEEKLY.md",
-    "Fetch Metricool current calendar (do not use dated ledger to infer slots)",
-    "Schedule only finished reviewed content",
-    "Confirm PENDING/draft=false/autoPublish=true per post",
-    "Report precise results and blockers"
+    "Live Metricool next 14 days and month capacity",
+    "Read queue and choose closest-to-finished unscheduled missing format",
+    "Advance one clear stage in the actual GitHub/render/QA/Metricool pipeline",
+    "Write verified stage, exact blockers and next_action back into this queue",
+    "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
+    "One daily ChatGPT task only; never reactivate paused producer tasks"
   ]
 }
