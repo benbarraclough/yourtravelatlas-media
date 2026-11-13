@@ -9,23 +9,39 @@
       "id": "010-mountain-views-without-summit-hikes",
       "type": "carousel_POST",
       "target_week": "2026-11-16/2026-11-22",
-      "stage": "rendered_needs_qa",
+      "stage": "scheduled_pending",
       "brief": "content/posts/010-mountain-views-without-summit-hikes.json",
       "rendered_asset": "media/010-mountain-views-without-summit-hikes/",
-      "render_result": "Five 1080×1350 JPEGs and manifest built by successful GitHub Actions run 43464833943; review/render-errors.json empty.",
-      "verified": false,
-      "next_action": "Verify photo page against actual original CDN image, photographer/location, official destination facts; inspect all final JPGs for truth, WOW factor, typography, cropping. Repair/re-render as needed. Schedule only after final QA."
+      "render_result": "7 JPEGs 1080×1350; GitHub Actions render runs 43470150487 and 43470523227 succeeded.",
+      "verified": true,
+      "next_action": "No further action unless Metricool status later changes or publication fails; do not recreate or duplicate.",
+      "source_qa": "Original source-page identity and licence checked; exact seven final 4:5 rendered JPGs viewed individually. Lake Bled elevated viewpoint description corrected and final render succeeded.",
+      "scheduled_for": "2026-11-18T19:00:00 Europe/London",
+      "metricool_post_id": 427230845,
+      "metricool_uuid": "8564036779370171055",
+      "metricool_status": "PENDING",
+      "autoPublish": true,
+      "draft": false,
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8564036779370171055"
     },
     {
       "id": "011-five-winter-fairytale-places",
       "type": "photo_slideshow_REEL",
       "target_week": "2026-11-16/2026-11-22",
-      "stage": "rendered_needs_qa",
+      "stage": "scheduled_pending",
       "brief": "content/reels/011-five-winter-fairytale-places.json",
       "rendered_asset": "media/reels/011-five-winter-fairytale-places/",
-      "render_result": "One 9:16 silent slideshow MP4, cover, manifest, storyboard created by successful GitHub Actions run 43465692641.",
-      "verified": false,
-      "next_action": "Independently confirm exact source photographs match original pages, names and stated locations. Inspect actual full MP4 for appearance/motion/cropping/text/zero audio. If correct schedule as Instagram REEL, otherwise repair before booking."
+      "render_result": "8-scene 9:16 1080×1920 photo slideshow MP4, 28.8sec no audio. GitHub Actions render runs 43470150278 and 43471006929 succeeded.",
+      "verified": true,
+      "next_action": "Do not recreate/duplicate; monitor publish status and the existing brand's monthly allowance.",
+      "source_qa": "All eight underlying authentic original Unsplash locations/photographer/licences reconciled; replaced weak original scenes with Shirakawa-go panorama and Vatnajokull blue ice cave. Final 8-frame contact sheet and cover visually inspected. Final moving playback not independently watched, though FFmpeg render succeeded and manifest confirms 28.8 s, 0 audio.",
+      "scheduled_for": "2026-11-20T19:00:00 Europe/London",
+      "metricool_post_id": 427232781,
+      "metricool_uuid": "-6536199878840203546",
+      "metricool_status": "PENDING",
+      "autoPublish": true,
+      "draft": false,
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-6536199878840203546"
     },
     {
       "id": "012-pending-moving-or-fallback-reel",
@@ -33,7 +49,7 @@
       "target_week": "2026-11-16/2026-11-22",
       "stage": "research",
       "verified": false,
-      "next_action": "Select strong distinct hook, quickly test 5+ real licensed moving video clips with allowed downloads and full 9:16 render; if source unsuitable immediately pivot to distinct five-photo slideshow concept. Source, brief, render, inspect, then schedule."
+      "next_action": "Current week 16–22 Nov has three confirmed PENDING posts (Amalfi 16, Alpine 18, Winter slideshow 20). Create the FOURTH distinct reel for Sun 22 Nov, ideally 5+ genuine moving video clips; if not viable use a completely separate source-verified and reviewed photo slideshow. Check live Metricool before booking and month cap."
     }
   ],
   "retired_and_replaced": [
@@ -64,12 +80,10 @@
   "next_target": {
     "week_start": "2026-11-16",
     "week_end": "2026-11-22",
-    "expected_existing_post": "Amalfi Coast POST 2026-11-16 19:00 Europe/London",
-    "remaining_at_snapshot": 3,
+    "expected_existing_post": "Three confirmed PENDING: Amalfi 16 Nov 19:00 POST; Alpine 18 Nov 19:00 POST; Winter 20 Nov 19:00 slideshow REEL",
+    "remaining_at_snapshot": 1,
     "priorities": [
-      "1 distinctive curiosity-led carousel POST (plus already booked Amalfi makes 2 carousels total)",
-      "1 purpose-built still-photo slideshow REEL from 5–10 licensed photographs",
-      "1 real moving-footage REEL with 5+ distinct clips when feasible, otherwise second slideshow REEL"
+      "One additional genuine moving-footage REEL if feasible, otherwise distinct licensed still-photo slideshow REEL, on an unoccupied slot Sun 22 Nov or another suitable day"
     ],
     "target_mix": "2 carousel POSTS + 1 slideshow REEL + 1 genuine video REEL (fallback 2 slideshow REELS)"
   },
@@ -80,5 +94,6 @@
     "Write verified stage, exact blockers and next_action back into this queue",
     "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
     "One daily ChatGPT task only; never reactivate paused producer tasks"
-  ]
+  ],
+  "last_verified_metricool": "2026-11-13 after booking 427230845 and 427232781; PENDING, draft=false, autoPublish=true."
 }
