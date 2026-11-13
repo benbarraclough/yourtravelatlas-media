@@ -146,22 +146,22 @@ Photos: Ian Mackey, nella n., Margo Evardson, Rolands Varsbergs, Sekwang Chia & 
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
 
-## Mountain views without the summit hike
+## 7 Mountain Views Without the Summit Hike
 
-Not every mountain view requires a summit climb. 🏔️
+Seven mountain views you can enjoy without hiking to a summit. 🏔️
 
-Five beautiful places where the journey, village or lakeshore is part of the reward:
+It's not always about the climb — sometimes the railway, cable car or lakeside journey is the best part.
 
-📍 Wengen, Switzerland — mountain railway to a car-free village.
-📍 Mürren, Switzerland — chalet rooftops beneath enormous peaks.
-📍 Lake Bled, Slovenia — a lakeside island church framed by mountains.
-📍 Hallstatt, Austria — colourful lakeside houses and reflections.
-📍 Kleine Scheidegg, Switzerland — a mountain railway pass beneath the Bernese Alps.
+📍 Seceda, Italy — arrive by cable car to the jagged Dolomite ridgeline.
+📍 Gornergrat, Switzerland — ride a mountain train towards the Matterhorn.
+📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.
+📍 Aiguille du Midi, France — take the cable car high above Chamonix.
+📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.
+📍 Lake Bled, Slovenia — island-church views from the lakeshore.
+📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.
 
-These are separate destinations, not a single itinerary. Some walks and streets are steep; no summit hike is needed for the featured views.
+Which one would you go for?
 
-Save this for a mountain escape.
+Photos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.
 
-Photos: Joshua Doherty, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.
-
-#YourTravelAtlas #MountainTravel #EuropeanAlps #TrainTravel #LakeBled
+#YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites

@@ -5,75 +5,160 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "ab9dad531a68848796a70dcc86bfc05feef7b17c395aa39a81b0600d88d5e030",
-  "caption": "Not every mountain view requires a summit climb. 🏔️\n\nFive beautiful places where the journey, village or lakeshore is part of the reward:\n\n📍 Wengen, Switzerland — mountain railway to a car-free village.\n📍 Mürren, Switzerland — chalet rooftops beneath enormous peaks.\n📍 Lake Bled, Slovenia — a lakeside island church framed by mountains.\n📍 Hallstatt, Austria — colourful lakeside houses and reflections.\n📍 Kleine Scheidegg, Switzerland — a mountain railway pass beneath the Bernese Alps.\n\nThese are separate destinations, not a single itinerary. Some walks and streets are steep; no summit hike is needed for the featured views.\n\nSave this for a mountain escape.\n\nPhotos: Joshua Doherty, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeanAlps #TrainTravel #LakeBled",
+  "brief_sha256": "b3edab7f120aaeff99aeffb10cb040f63101448ceffae162e1d7b4b05a29495d",
+  "caption": "Seven mountain views you can enjoy without hiking to a summit. 🏔️\n\nIt's not always about the climb — sometimes the railway, cable car or lakeside journey is the best part.\n\n📍 Seceda, Italy — arrive by cable car to the jagged Dolomite ridgeline.\n📍 Gornergrat, Switzerland — ride a mountain train towards the Matterhorn.\n📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.\n📍 Aiguille du Midi, France — take the cable car high above Chamonix.\n📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.\n📍 Lake Bled, Slovenia — island-church views from the lakeshore.\n📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.\n\nWhich one would you go for?\n\nPhotos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites",
   "fact_sources": [
-    "https://unsplash.com/photos/scenic-view-of-a-mountainous-valley-with-a-train-cDy9vVMkyMk",
-    "https://www.jungfrau.ch/en-gb/wengen/",
-    "https://unsplash.com/photos/a-group-of-buildings-in-front-of-mountains-jaOK3VJI79M",
-    "https://www.jungfrau.ch/en-gb/muerren/",
+    "https://unsplash.com/photos/a-mountain-with-a-grassy-field-below-it-pCuJuy7Ic5c",
+    "https://www.valgardena.it/en/summer-holidays-dolomites/trekking/seceda/the-way-to-the-seceda/",
+    "https://unsplash.com/photos/red-train-with-matterhorn-mountain-in-background-uNxBuqboM20",
+    "https://www.gornergrat.ch/en/pages/view-overview",
+    "https://unsplash.com/photos/mountain-lake-reflecting-rocky-peaks-SfRzxgyNtgM",
+    "https://www.prags.bz/en",
+    "https://unsplash.com/photos/cable-car-ascending-aiguille-du-midi-AZg1QGLB7HA",
+    "https://aiguilledumidi.montblancnaturalresort.com/en/timetables-rates",
+    "https://unsplash.com/photos/mountain-train-at-lake-station-vfPJaeT5mWg",
+    "https://www.5schaetze.at/en/schafbergbahn.html",
     "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
     "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
     "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
-    "https://www.hallstatt.net/",
-    "https://unsplash.com/photos/a-landscape-with-mountains-and-trees--B2sN0OFDFE",
-    "https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/kleine-scheidegg-railway-station/"
+    "https://www.hallstatt.net/"
   ],
-  "editorial_intent": "Curate five mountain landscapes reachable from public rail, car-free villages or lakeshores without requiring a summit climb, avoiding misleading promises about step-free access.",
-  "share_reason": "Show that dramatic alpine scenery can be enjoyed through iconic rail journeys and lakeside or village stays, appealing beyond hardcore hikers.",
+  "editorial_intent": "Inspire travellers with seven memorable actual mountain vistas attainable by rail, cable car or at a lakeside, without trekking up a mountain summit; never imply step-free access.",
+  "share_reason": "A saveable international collection of dramatic cable-car panoramas, memorable mountain railways, emerald lakes and Alpine villages.",
   "slides": [
     {
-      "subject": "Wengen mountain railway",
-      "source_page": "https://unsplash.com/photos/scenic-view-of-a-mountainous-valley-with-a-train-cDy9vVMkyMk",
-      "photographer": "Joshua Doherty",
+      "subject": "Seceda mountain experience",
+      "source_page": "https://unsplash.com/photos/a-mountain-with-a-grassy-field-below-it-pCuJuy7Ic5c",
+      "photographer": "Fabrizio Coco",
       "license": "Unsplash License",
-      "alt": "Swiss mountain rail and dramatic peaks near Wengen",
-      "activity_source": "https://www.jungfrau.ch/en-gb/wengen/",
+      "alt": "Jagged Seceda mountain ridgeline above green alpine meadows",
+      "activity_source": "https://www.valgardena.it/en/summer-holidays-dolomites/trekking/seceda/the-way-to-the-seceda/",
       "file": "01.jpg",
-      "source_sha256": "b84982c2d82d0b71724e52d0e6e39d29b68599236a6bf77aa82a87ea21bceeaa",
-      "output_sha256": "d92c7cee8cb2704c4ea032e15e9436a53e5cae2e847105f57f40998f83c921a1",
+      "source_sha256": "dddd5376d651c203ca8da824ea63c395a45a6b9a860f29fef3024b7174ac6c58",
+      "output_sha256": "c130ccb038c5c76d6e3003818907f410268d4cc2adcf3faf684f39004c61f64e",
       "size": [
         1080,
         1350
       ],
       "layout": "cover",
-      "body": "Arrive by mountain railway in this car-free village above Lauterbrunnen.",
+      "body": "Ride the cable car to a dramatic Dolomite ridgeline above Val Gardena.",
       "review": {
-        "reader_value": "A distinctive real travel moment in Wengen, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
-        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Wengen location and the actual landscape visible in the frame.",
-        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
-        "distinct_contribution": "Wengen offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+        "reader_value": "Seceda offers a dramatic mountain landscape accessible by cable car, mountain railway or a lakeside journey without requiring a summit hike.",
+        "image_context": "The photographer Fabrizio Coco identifies Seceda on the individual free Unsplash photo page, showing the named place.",
+        "specific_detail": "The relevant official lift, rail or destination tourism website supports the specific transport or access claim featured on this slide.",
+        "distinct_contribution": "Seceda adds distinct mountain scenery, experiences and arrival methods rather than another similar village scene."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/scenic-view-of-a-mountainous-valley-with-a-train-cDy9vVMkyMk",
-        "https://www.jungfrau.ch/en-gb/wengen/"
+        "https://unsplash.com/photos/a-mountain-with-a-grassy-field-below-it-pCuJuy7Ic5c",
+        "https://www.valgardena.it/en/summer-holidays-dolomites/trekking/seceda/the-way-to-the-seceda/"
       ]
     },
     {
-      "subject": "Mürren mountainside village",
-      "source_page": "https://unsplash.com/photos/a-group-of-buildings-in-front-of-mountains-jaOK3VJI79M",
-      "photographer": "Shalev Cohen",
+      "subject": "Gornergrat mountain experience",
+      "source_page": "https://unsplash.com/photos/red-train-with-matterhorn-mountain-in-background-uNxBuqboM20",
+      "photographer": "Cedric Letsch",
       "license": "Unsplash License",
-      "alt": "Wooden rooftops of Mürren below enormous snowy Swiss Alps",
-      "activity_source": "https://www.jungfrau.ch/en-gb/muerren/",
+      "alt": "Red train and snowy Matterhorn views at Gornergrat, Switzerland",
+      "activity_source": "https://www.gornergrat.ch/en/pages/view-overview",
       "file": "02.jpg",
-      "source_sha256": "04ca55a867cc2fd6d2dde1d1b929ea92ab9ac81616e0d7092564f760e25ff8f2",
-      "output_sha256": "c05bd842a178f7de45d398ccff59bbbd5c0123dedd7dd5aad8f8de8856633841",
+      "source_sha256": "0a29a29c53f87133f74ef1ac9b22b43e81a2801a0db06ff0863f82d0ecd41ec7",
+      "output_sha256": "1790e33f08cc585310681724f329f42c3be215b810cac0addb202b5257bcc7c7",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "A car-free mountain village framed by the Bernese peaks.",
+      "body": "Ride the mountain train for Matterhorn views above Zermatt.",
       "review": {
-        "reader_value": "A distinctive real travel moment in Mürren, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
-        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Mürren location and the actual landscape visible in the frame.",
-        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
-        "distinct_contribution": "Mürren offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+        "reader_value": "Gornergrat offers a dramatic mountain landscape accessible by cable car, mountain railway or a lakeside journey without requiring a summit hike.",
+        "image_context": "The photographer Cedric Letsch identifies Gornergrat on the individual free Unsplash photo page, showing the named place.",
+        "specific_detail": "The relevant official lift, rail or destination tourism website supports the specific transport or access claim featured on this slide.",
+        "distinct_contribution": "Gornergrat adds distinct mountain scenery, experiences and arrival methods rather than another similar village scene."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/a-group-of-buildings-in-front-of-mountains-jaOK3VJI79M",
-        "https://www.jungfrau.ch/en-gb/muerren/"
+        "https://unsplash.com/photos/red-train-with-matterhorn-mountain-in-background-uNxBuqboM20",
+        "https://www.gornergrat.ch/en/pages/view-overview"
+      ]
+    },
+    {
+      "subject": "Lago di Braies mountain experience",
+      "source_page": "https://unsplash.com/photos/mountain-lake-reflecting-rocky-peaks-SfRzxgyNtgM",
+      "photographer": "Sarmat Batagov",
+      "license": "Unsplash License",
+      "alt": "Lago di Braies reflecting rocky Dolomite peaks and pines",
+      "activity_source": "https://www.prags.bz/en",
+      "file": "03.jpg",
+      "source_sha256": "2999077198b1784fb9c40aa41c1eecf13b73d23c04015b2e7f8ac015fcb11a32",
+      "output_sha256": "27010e16d01b10b966c1054192981c9883770b93ab8189f20c3804acf3ec86dc",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Reach emerald alpine water beneath towering Dolomite cliffs.",
+      "review": {
+        "reader_value": "Lago di Braies offers a dramatic mountain landscape accessible by cable car, mountain railway or a lakeside journey without requiring a summit hike.",
+        "image_context": "The photographer Sarmat Batagov identifies Lago di Braies on the individual free Unsplash photo page, showing the named place.",
+        "specific_detail": "The relevant official lift, rail or destination tourism website supports the specific transport or access claim featured on this slide.",
+        "distinct_contribution": "Lago di Braies adds distinct mountain scenery, experiences and arrival methods rather than another similar village scene."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/mountain-lake-reflecting-rocky-peaks-SfRzxgyNtgM",
+        "https://www.prags.bz/en"
+      ]
+    },
+    {
+      "subject": "Aiguille du Midi mountain experience",
+      "source_page": "https://unsplash.com/photos/cable-car-ascending-aiguille-du-midi-AZg1QGLB7HA",
+      "photographer": "Mylène Haudebourg",
+      "license": "Unsplash License",
+      "alt": "Aiguille du Midi cable car rising into high French Alps",
+      "activity_source": "https://aiguilledumidi.montblancnaturalresort.com/en/timetables-rates",
+      "file": "04.jpg",
+      "source_sha256": "c605845f6cff69fbe2a5657b07cb26e45bfe77c7d7a1d5f61d7271649aa18d1b",
+      "output_sha256": "c6b538c05a9995c47b6f3a621c374ebe864ba861ee23bac7d3ac4a0fcac35d17",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A cable car lifts you from Chamonix into the high mountains.",
+      "review": {
+        "reader_value": "Aiguille du Midi offers a dramatic mountain landscape accessible by cable car, mountain railway or a lakeside journey without requiring a summit hike.",
+        "image_context": "The photographer Mylène Haudebourg identifies Aiguille du Midi on the individual free Unsplash photo page, showing the named place.",
+        "specific_detail": "The relevant official lift, rail or destination tourism website supports the specific transport or access claim featured on this slide.",
+        "distinct_contribution": "Aiguille du Midi adds distinct mountain scenery, experiences and arrival methods rather than another similar village scene."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/cable-car-ascending-aiguille-du-midi-AZg1QGLB7HA",
+        "https://aiguilledumidi.montblancnaturalresort.com/en/timetables-rates"
+      ]
+    },
+    {
+      "subject": "Schafberg mountain experience",
+      "source_page": "https://unsplash.com/photos/mountain-train-at-lake-station-vfPJaeT5mWg",
+      "photographer": "Shalev Cohen",
+      "license": "Unsplash License",
+      "alt": "Schafberg railway train overlooking a turquoise Austrian lake",
+      "activity_source": "https://www.5schaetze.at/en/schafbergbahn.html",
+      "file": "05.jpg",
+      "source_sha256": "80b1d2889a99f0a41e6e3d9c9f8f039d1642679de89698e6a546dd954e360691",
+      "output_sha256": "9e0fcd94715b02eb0b60e93c8f6676e07bbc3ca4d644ceb6e654f2fca832b505",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Take the red cog railway above Austria's Salzkammergut lakes.",
+      "review": {
+        "reader_value": "Schafberg offers a dramatic mountain landscape accessible by cable car, mountain railway or a lakeside journey without requiring a summit hike.",
+        "image_context": "The photographer Shalev Cohen identifies Schafberg on the individual free Unsplash photo page, showing the named place.",
+        "specific_detail": "The relevant official lift, rail or destination tourism website supports the specific transport or access claim featured on this slide.",
+        "distinct_contribution": "Schafberg adds distinct mountain scenery, experiences and arrival methods rather than another similar village scene."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/mountain-train-at-lake-station-vfPJaeT5mWg",
+        "https://www.5schaetze.at/en/schafbergbahn.html"
       ]
     },
     {
@@ -83,15 +168,15 @@
       "license": "Unsplash License",
       "alt": "Sunrise over turquoise Lake Bled and its island church in Slovenia",
       "activity_source": "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
-      "file": "03.jpg",
+      "file": "06.jpg",
       "source_sha256": "b53d964bc6fecabfd0fb3d1093dfcf0fa6faddc579712a447ceccab72301caa4",
-      "output_sha256": "e74b89f4194182614d514322e77978a3d22cd432f1ab8446b322be04ea1730ef",
+      "output_sha256": "6080e9a5aa6a7220198aa8d9016247a71c237ced27b516985210724a46d8d894",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Take in the island church from the shore beneath the mountains.",
+      "body": "Watch the island church glow against layers of mountains from the lakeside.",
       "review": {
         "reader_value": "A distinctive real travel moment in Lake Bled, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
         "image_context": "The photographer's original free Unsplash photograph identifies the depicted Lake Bled location and the actual landscape visible in the frame.",
@@ -110,15 +195,15 @@
       "license": "Unsplash License",
       "alt": "Historic Hallstatt houses beside a mountain lake at sunset",
       "activity_source": "https://www.hallstatt.net/",
-      "file": "04.jpg",
+      "file": "07.jpg",
       "source_sha256": "550a34a8a3ea4cf58e6ecfca71dd8cedcd1d598b8d9b293aeea4cb45883b9c13",
-      "output_sha256": "26b639c36e22432d7a3555ab395d812565108bb110650c63879b92885647d68c",
+      "output_sha256": "d5e56e5928e1b273d69887f33b0547fe35d577764d6a0b6132e18fab8c8b9bc1",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "A lakeside town beneath the peaks with picture-perfect reflections.",
+      "body": "Alpine rooftops reflected in still water beneath the mountains.",
       "review": {
         "reader_value": "A distinctive real travel moment in Hallstatt, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
         "image_context": "The photographer's original free Unsplash photograph identifies the depicted Hallstatt location and the actual landscape visible in the frame.",
@@ -128,33 +213,6 @@
       "fact_checks": [
         "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
         "https://www.hallstatt.net/"
-      ]
-    },
-    {
-      "subject": "Kleine Scheidegg mountain pass",
-      "source_page": "https://unsplash.com/photos/a-landscape-with-mountains-and-trees--B2sN0OFDFE",
-      "photographer": "Shalev Cohen",
-      "license": "Unsplash License",
-      "alt": "Alpine slopes and mountains at Kleine Scheidegg in Switzerland",
-      "activity_source": "https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/kleine-scheidegg-railway-station/",
-      "file": "05.jpg",
-      "source_sha256": "153a75c302fdd052f27204446e32feea1ce848e317b3b113d64b9b51cbbcb3e5",
-      "output_sha256": "5919f91dab09ea1338f0bb060601073ebecca093c7f782da1fd5cbc665fcb84c",
-      "size": [
-        1080,
-        1350
-      ],
-      "layout": "photo",
-      "body": "Reach the mountain pass by train beneath the great Swiss peaks.",
-      "review": {
-        "reader_value": "A distinctive real travel moment in Kleine Scheidegg, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
-        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Kleine Scheidegg location and the actual landscape visible in the frame.",
-        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
-        "distinct_contribution": "Kleine Scheidegg offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
-      },
-      "fact_checks": [
-        "https://unsplash.com/photos/a-landscape-with-mountains-and-trees--B2sN0OFDFE",
-        "https://www.jungfrau.ch/en-gb/arrival-at-station-car-parks/kleine-scheidegg-railway-station/"
       ]
     }
   ]

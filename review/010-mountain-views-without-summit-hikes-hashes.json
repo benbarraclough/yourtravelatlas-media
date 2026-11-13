@@ -1,13 +1,15 @@
 {
   "issue": 10,
   "slug": "010-mountain-views-without-summit-hikes",
-  "brief_sha256": "ab9dad531a68848796a70dcc86bfc05feef7b17c395aa39a81b0600d88d5e030",
-  "caption_sha256": "f30e9d05ce0bfa050d3c4730fe91abfa24f33811ba03facb6acc9ace6c600bbf",
+  "brief_sha256": "b3edab7f120aaeff99aeffb10cb040f63101448ceffae162e1d7b4b05a29495d",
+  "caption_sha256": "347a68207ef7f3611988d53e6778be4560be4aec8d449e6b3db16d484554597e",
   "image_sha256": {
-    "media/010-mountain-views-without-summit-hikes/01.jpg": "d92c7cee8cb2704c4ea032e15e9436a53e5cae2e847105f57f40998f83c921a1",
-    "media/010-mountain-views-without-summit-hikes/02.jpg": "c05bd842a178f7de45d398ccff59bbbd5c0123dedd7dd5aad8f8de8856633841",
-    "media/010-mountain-views-without-summit-hikes/03.jpg": "e74b89f4194182614d514322e77978a3d22cd432f1ab8446b322be04ea1730ef",
-    "media/010-mountain-views-without-summit-hikes/04.jpg": "26b639c36e22432d7a3555ab395d812565108bb110650c63879b92885647d68c",
-    "media/010-mountain-views-without-summit-hikes/05.jpg": "5919f91dab09ea1338f0bb060601073ebecca093c7f782da1fd5cbc665fcb84c"
+    "media/010-mountain-views-without-summit-hikes/01.jpg": "c130ccb038c5c76d6e3003818907f410268d4cc2adcf3faf684f39004c61f64e",
+    "media/010-mountain-views-without-summit-hikes/02.jpg": "1790e33f08cc585310681724f329f42c3be215b810cac0addb202b5257bcc7c7",
+    "media/010-mountain-views-without-summit-hikes/03.jpg": "27010e16d01b10b966c1054192981c9883770b93ab8189f20c3804acf3ec86dc",
+    "media/010-mountain-views-without-summit-hikes/04.jpg": "c6b538c05a9995c47b6f3a621c374ebe864ba861ee23bac7d3ac4a0fcac35d17",
+    "media/010-mountain-views-without-summit-hikes/05.jpg": "9e0fcd94715b02eb0b60e93c8f6676e07bbc3ca4d644ceb6e654f2fca832b505",
+    "media/010-mountain-views-without-summit-hikes/06.jpg": "6080e9a5aa6a7220198aa8d9016247a71c237ced27b516985210724a46d8d894",
+    "media/010-mountain-views-without-summit-hikes/07.jpg": "d5e56e5928e1b273d69887f33b0547fe35d577764d6a0b6132e18fab8c8b9bc1"
   }
 }
