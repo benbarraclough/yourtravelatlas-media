@@ -4,12 +4,12 @@
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "source_brief": "content/reels/011-five-winter-fairytale-places.json",
-  "brief_sha256": "2ec5c47600f038f8e8ce73403424168748186e422d8d0fbad471100f29a05f52",
-  "video_sha256": "cdd14c4ce7688f63ed384e34cddd410396a59088026670479f16cfe2fb0d9862",
+  "brief_sha256": "91c715d44763e6a53dca68cf14843a5d30e28236a3aa6b947abfa48a80fadc87",
+  "video_sha256": "87324250f428c6ad4323376dfeb3d32f3c10154a43b29d7af3a4faa33f0d3466",
   "audio_streams": 0,
   "image_count": 8,
   "duration_seconds": 28.8,
-  "caption": "Eight real places that look like scenes from a winter film. ❄️\n\n📍 Rovaniemi, Finland — aurora above the snow forest.\n📍 Shirakawa-go, Japan — traditional farmhouses under a blanket of snow.\n📍 Reine, Norway — red cabins beneath Arctic peaks.\n📍 Colmar, France — festive lights in the old town.\n📍 Jigokudani, Japan — snow monkeys warming up in hot springs.\n📍 Tallinn, Estonia — medieval rooftops in the snow.\n📍 Lake Louise, Canada — the grand hotel beneath winter mountains.\n📍 Québec City, Canada — Château Frontenac rising above the river.\n\nWhich winter scene would you travel for?\n\nPhotos: Dylan Shaw, Luo Jin Hong, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Vincent Y @USA & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterEscapes #TravelReels",
+  "caption": "Eight real places that look like scenes from a winter film. ❄️\n\n📍 Rovaniemi, Finland — aurora above the snow forest.\n📍 Shirakawa-go, Japan — traditional farmhouses beneath a blanket of snow.\n📍 Reine, Norway — red fishing cabins below Arctic peaks.\n📍 Colmar, France — festive lights in the old town.\n📍 Jigokudani, Japan — snow monkeys soaking in hot springs.\n📍 Tallinn, Estonia — medieval rooftops in the snow.\n📍 Vatnajökull, Iceland — a luminous blue cave inside the glacier.\n📍 Québec City, Canada — Château Frontenac in winter.\n\nWhich winter scene would you travel for?\n\nPhotos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Davide Cantelli & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterEscapes #TravelReels",
   "images": [
     {
       "source_page": "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc",
@@ -21,13 +21,13 @@
       "location_evidence": "Photographer Dylan Shaw labels this original free-licence aurora and snow-forest image as Rovaniemi, Finland."
     },
     {
-      "source_page": "https://unsplash.com/photos/traditional-japanese-houses-covered-in-snow-during-winter-q89YrjF54qY",
-      "photographer": "Luo Jin Hong",
+      "source_page": "https://unsplash.com/photos/a-snow-covered-village-surrounded-by-mountains-and-trees-4U1PeoPVZjU",
+      "photographer": "Da-shika",
       "license": "Unsplash License",
       "subject": "Shirakawa-go, Japan",
-      "overlay": "SHIRAKAWA-GO, JAPAN — storybook snowy farmhouses",
-      "source_sha256": "fe1980bbb63e8fec14aa1aaf14ac0caed90f6502ba13f59b29b9000b5da6377d",
-      "location_evidence": "The photographer identifies snow-covered traditional houses in Shirakawa-go, Gifu, Japan."
+      "overlay": "SHIRAKAWA-GO, JAPAN — snow-covered village",
+      "source_sha256": "a201d0c2a45e1c2ac83e10ec7ef36afcd6f757592436024f4d2f1c306bd9df4d",
+      "location_evidence": "Original free Unsplash image by Da-shika, photographed from Shiroyama Tenshukaku observation deck overlooking traditional Shirakawa-go in Ogimachi, Gifu, Japan; photographer location and Japanese description explicitly state this."
     },
     {
       "source_page": "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U",
@@ -66,13 +66,13 @@
       "location_evidence": "Photographer Ilya Orehov identifies the original free Unsplash snow-covered medieval town panorama as Tallinn Old Town, Estonia."
     },
     {
-      "source_page": "https://unsplash.com/photos/grand-hotel-nestled-in-snowy-mountains-under-cloudy-sky-sbF37aGoorE",
-      "photographer": "Vincent Y @USA",
+      "source_page": "https://unsplash.com/photos/person-standing-in-ice-cave-at-daytime-r0q06hjTgOc",
+      "photographer": "Davide Cantelli",
       "license": "Unsplash License",
-      "subject": "Lake Louise, Canada",
-      "overlay": "LAKE LOUISE, CANADA — château below snowy peaks",
-      "source_sha256": "041bfc2192968b8cc29de27b3a8054de5c754513e401b9dc69d58e5a8678f0d7",
-      "location_evidence": "The photographer's free Unsplash page locates a grand hotel in snow-covered mountains at Lake Louise, Alberta Canada."
+      "subject": "Vatnajökull, Iceland",
+      "overlay": "VATNAJÖKULL, ICELAND — inside a blue ice cave",
+      "source_sha256": "e8533d0e7acba74a9e1af0bb47f5ca2e0f37e649e1df0ce14d7219dcd3a5b20e",
+      "location_evidence": "Original freely reusable Unsplash photo by Davide Cantelli, titled glacier-cave-man-iceland, location specifically Vatnajökull National Park, Iceland, depicting a real person in the blue ice tunnel. Image also deposited CC0 on Wikimedia Commons."
     },
     {
       "source_page": "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE",
