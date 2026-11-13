@@ -4,28 +4,37 @@
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "source_brief": "content/reels/011-five-winter-fairytale-places.json",
-  "brief_sha256": "8af035c2bd0ab2efcd2ea14b9bdf88f2007c9fe9f0a67b496f8d35d5fdcc663e",
-  "video_sha256": "0defd65beb8d3fb3f78b9e0f1af3394dadc76e75a239646d63200aaee72a9a50",
+  "brief_sha256": "2ec5c47600f038f8e8ce73403424168748186e422d8d0fbad471100f29a05f52",
+  "video_sha256": "cdd14c4ce7688f63ed384e34cddd410396a59088026670479f16cfe2fb0d9862",
   "audio_streams": 0,
-  "image_count": 5,
-  "duration_seconds": 14.5,
-  "caption": "Five places that look like a winter fairytale. ❄️\n\n🌌 Rovaniemi, Finland — a snow forest under the northern lights.\n🏘 Reine, Norway — red cabins framed by Arctic mountains.\n✨ Colmar, France — glowing streets on a festive winter evening.\n🏰 Tallinn, Estonia — a medieval skyline beneath snow.\n🌨 Québec City, Canada — a real-life château in a winter cityscape.\n\nWould you choose the northern lights or the old-town lights?\n\nPhotos: Dylan Shaw, Marianne Gay, Jametlene Reskp, Ilya Orehov & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterWonderland #BucketListTravel",
+  "image_count": 8,
+  "duration_seconds": 28.8,
+  "caption": "Eight real places that look like scenes from a winter film. ❄️\n\n📍 Rovaniemi, Finland — aurora above the snow forest.\n📍 Shirakawa-go, Japan — traditional farmhouses under a blanket of snow.\n📍 Reine, Norway — red cabins beneath Arctic peaks.\n📍 Colmar, France — festive lights in the old town.\n📍 Jigokudani, Japan — snow monkeys warming up in hot springs.\n📍 Tallinn, Estonia — medieval rooftops in the snow.\n📍 Lake Louise, Canada — the grand hotel beneath winter mountains.\n📍 Québec City, Canada — Château Frontenac rising above the river.\n\nWhich winter scene would you travel for?\n\nPhotos: Dylan Shaw, Luo Jin Hong, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Vincent Y @USA & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterEscapes #TravelReels",
   "images": [
     {
       "source_page": "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc",
       "photographer": "Dylan Shaw",
       "license": "Unsplash License",
       "subject": "Rovaniemi, Finnish Lapland",
-      "overlay": "Aurora above snow-covered Lapland",
+      "overlay": "ROVANIEMI, FINLAND — northern lights over snow",
       "source_sha256": "0bc8b5395b65e15f2ee325e67637bf636cd4205db988f0adb26bdd71138afc03",
       "location_evidence": "Photographer Dylan Shaw labels this original free-licence aurora and snow-forest image as Rovaniemi, Finland."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/traditional-japanese-houses-covered-in-snow-during-winter-q89YrjF54qY",
+      "photographer": "Luo Jin Hong",
+      "license": "Unsplash License",
+      "subject": "Shirakawa-go, Japan",
+      "overlay": "SHIRAKAWA-GO, JAPAN — storybook snowy farmhouses",
+      "source_sha256": "fe1980bbb63e8fec14aa1aaf14ac0caed90f6502ba13f59b29b9000b5da6377d",
+      "location_evidence": "The photographer identifies snow-covered traditional houses in Shirakawa-go, Gifu, Japan."
     },
     {
       "source_page": "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U",
       "photographer": "Marianne Gay",
       "license": "Unsplash License",
       "subject": "Reine, Lofoten, Norway",
-      "overlay": "Red fishing cabins beneath Arctic mountains",
+      "overlay": "REINE, NORWAY — red cabins beneath Arctic peaks",
       "source_sha256": "5bfe016ef5a5ef590a5d90e37f7bacd2eb5fc42cc0d567e6f36fd7c91e9225cb",
       "location_evidence": "Photographer Marianne Gay identifies the original free Unsplash photo as Reine in Lofoten, Norway, showing red cabins beneath snow-covered peaks."
     },
@@ -34,25 +43,43 @@
       "photographer": "Jametlene Reskp",
       "license": "Unsplash License",
       "subject": "Colmar, France",
-      "overlay": "Festive lights in Colmar's old streets",
+      "overlay": "COLMAR, FRANCE — glowing festive old-town streets",
       "source_sha256": "2a45c08e32855c3ec3a793e7049f486ca569b82a3c06a727d53c64d865e6f1a5",
       "location_evidence": "Photographer Jametlene Reskp locates this free Unsplash photo of a festive town square at night in Colmar, France."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-snow-monkey-in-a-hot-tub-in-the-snow-FPXs_9oEjnI",
+      "photographer": "Rogério Toledo",
+      "license": "Unsplash License",
+      "subject": "Jigokudani, Japan",
+      "overlay": "JIGOKUDANI, JAPAN — monkeys soak in the snow",
+      "source_sha256": "7de14a63c7a0510402b1e160a1166c8644b968fa0624c1d601e190505cceb3ac",
+      "location_evidence": "The original photographer locates a snow monkey soaking in a hot spring at Jigokudani Yaen Koen, Nagano, Japan."
     },
     {
       "source_page": "https://unsplash.com/photos/snow-covered-brown-white-and-gray-concrete-castle-under-cloudy-skies-2OSEWkQHiGI",
       "photographer": "Ilya Orehov",
       "license": "Unsplash License",
       "subject": "Tallinn Old Town, Estonia",
-      "overlay": "Medieval towers beneath fresh snow",
+      "overlay": "TALLINN, ESTONIA — a medieval city in winter",
       "source_sha256": "dc1fa8dae181f7ed8fa6fb8601ea96d0151a6207aab5246a41c8f7588394fce2",
       "location_evidence": "Photographer Ilya Orehov identifies the original free Unsplash snow-covered medieval town panorama as Tallinn Old Town, Estonia."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/grand-hotel-nestled-in-snowy-mountains-under-cloudy-sky-sbF37aGoorE",
+      "photographer": "Vincent Y @USA",
+      "license": "Unsplash License",
+      "subject": "Lake Louise, Canada",
+      "overlay": "LAKE LOUISE, CANADA — château below snowy peaks",
+      "source_sha256": "041bfc2192968b8cc29de27b3a8054de5c754513e401b9dc69d58e5a8678f0d7",
+      "location_evidence": "The photographer's free Unsplash page locates a grand hotel in snow-covered mountains at Lake Louise, Alberta Canada."
     },
     {
       "source_page": "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE",
       "photographer": "Lianhao Qu",
       "license": "Unsplash License",
       "subject": "Old Québec, Canada",
-      "overlay": "Québec City's snow-covered château skyline",
+      "overlay": "QUÉBEC CITY, CANADA — a castle above the river",
       "source_sha256": "aec840b3756debc4fdeb760408fa495d38653e92e6863dffaacd9620b3c82c35",
       "location_evidence": "Photographer Lianhao Qu locates the original free Unsplash winter Château Frontenac photo to Old Québec City in Canada."
     }
