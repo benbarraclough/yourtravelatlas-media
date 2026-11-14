@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "mode": "one recurring daily ChatGPT Atlas Publisher task (08:00 UK), one stage/deliverable advanced per run",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "All old stage-based commissions have been retired. Historical v9 ledger is archived at docs/history/production-queue-v9-replaced-2026-11-09.json. Do not treat this file as evidence of booking or render approvals.",
@@ -45,11 +45,15 @@
     },
     {
       "id": "012-pending-moving-or-fallback-reel",
-      "type": "genuine_video_REEL_or_second_photo_slideshow_REEL",
+      "type": "photo_slideshow_REEL",
       "target_week": "2026-11-16/2026-11-22",
       "stage": "research",
       "verified": false,
-      "next_action": "Current week 16–22 Nov has three confirmed PENDING posts (Amalfi 16, Alpine 18, Winter slideshow 20). Create the FOURTH distinct reel for Sun 22 Nov, ideally 5+ genuine moving video clips; if not viable use a completely separate source-verified and reviewed photo slideshow. Check live Metricool before booking and month cap."
+      "next_action": "Source 5–8 exceptional licensed original photos for a distinct, curiosity-led slideshow concept (not winter film locations or Amalfi/Alps); verify exact Unsplash/Pexels/Commons pages, author, place and full-resolution CDN, commit new content/reels/012-*.json treatment photo_slideshow_v1 to trigger renderer. On subsequent run inspect final cover, all scenes, playback and zero audio, then book an empty 22 Nov UK slot only after approval.",
+      "last_attempted_action": "2026-11-14: Reconciled live Metricool 9–30 November; 16–22 November has 3 PENDING posts (Amalfi 16 POST, Alpine 18 POST, winter slideshow 20 REEL). Reviewed current FOOTAGE_SOURCES.md and exact 29 October clip audit: only four sample downloads from three providers, none approved for a coherent 5-clip portrait moving-footage Reel; renderer delivery of alternatives untested. Applied explicitly authorised second-photo-slideshow fallback instead of fabricating genuine footage.",
+      "blocker": "No five distinct rights-verified, location-specific, portrait-suitable moving clips with proved GitHub Actions delivery; fallback slideshow still needs five or more separate original photos with exact source-page identity, rights and CDN links, then rendered full MP4 QA.",
+      "fallback_decision": "Second still-photo slideshow Reel, as explicitly permitted by ATLAS_WEEKLY.md; genuine moving Reel not presently source-ready.",
+      "target_slot_candidate": "2026-11-22T19:00:00 Europe/London (NOT RESERVED)"
     }
   ],
   "retired_and_replaced": [
@@ -83,7 +87,7 @@
     "expected_existing_post": "Three confirmed PENDING: Amalfi 16 Nov 19:00 POST; Alpine 18 Nov 19:00 POST; Winter 20 Nov 19:00 slideshow REEL",
     "remaining_at_snapshot": 1,
     "priorities": [
-      "One additional genuine moving-footage REEL if feasible, otherwise distinct licensed still-photo slideshow REEL, on an unoccupied slot Sun 22 Nov or another suitable day"
+      "012: Source-complete and render distinct second photo slideshow Reel for 16–22 November; do not book until actual MP4 and source QA pass"
     ],
     "target_mix": "2 carousel POSTS + 1 slideshow REEL + 1 genuine video REEL (fallback 2 slideshow REELS)"
   },
@@ -95,5 +99,5 @@
     "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
     "One daily ChatGPT task only; never reactivate paused producer tasks"
   ],
-  "last_verified_metricool": "2026-11-13 after booking 427230845 and 427232781; PENDING, draft=false, autoPublish=true."
+  "last_verified_metricool": "2026-11-14: Live Metricool queried for 9–30 Nov. Published Japan 9, NZ 11, Philippines 13; PENDING Amalfi 16, Alpine 18, Winter slideshow 20. No fourth 16–22 item booked. Month total visible from this query 6, excluding earlier November publications; conservatively below 20 subject to full-month count."
 }
