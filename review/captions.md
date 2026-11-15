@@ -137,12 +137,12 @@ There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and
 📍 Ravello — garden terraces perched high above the coastline.
 📍 Path of the Gods — an unforgettable hillside view towards Positano.
 📍 Positano — tightly packed pastel houses above the sea.
-📍 Amalfi Beach — colourful umbrellas beneath the old town.
-📍 Amalfi from the water — the dramatic coastline seen from offshore.
+📍 Atrani — a small seaside village squeezed between cliffs.
+📍 Amalfi — harbour views in the glow of sunset.
 
 Which would you go to first? Save this for a future Italian escape.
 
-Photos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey, Margo Evardson & Barbora Dostálová / Unsplash.
+Photos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey & Jordi Vich Navarro / Unsplash; Ahmet Yüksek / Pexels.
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
 
