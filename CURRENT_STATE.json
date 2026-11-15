@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-13 (after manual improved Nov18/20 Metricool bookings; live Metricool authoritative)",
+  "snapshot_date": "2026-11-15 17:49 Europe/London (Metricool verified after final Amalfi improvement)",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -65,11 +65,12 @@
   ],
   "known_pending_at_snapshot": [
     {
-      "name": "Amalfi Coast Italy",
+      "name": "Amalfi Coast — Fiordo bridge-led revised six-location carousel",
       "date": "2026-11-16T19:00:00",
       "format": "POST",
       "photo_count": 6,
-      "metricool_post_id": 422523873
+      "metricool_post_id": 429111375,
+      "qa": "15 Nov actual six 1080×1350 final JPGs inspected; live Metricool PENDING/draft false/autopublish true"
     },
     {
       "name": "Seven Mountain Views Without the Summit Hike",
@@ -100,6 +101,6 @@
     "untracked_manual_posts": "Unknown; verify live before scheduling"
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "Two completed enhanced posts manually scheduled Nov 13 and verified PENDING in Metricool; one daily automation remains enabled but end-to-end unattended publication still unproven.",
+  "test_status": "15 Nov revised Amalfi 6-image visual QA completed and post updated in existing Metricool slot, verified PENDING; daily task remains enabled; unattended ongoing scheduling not yet proven.",
   "extra_cost_gbp": 0
 }
