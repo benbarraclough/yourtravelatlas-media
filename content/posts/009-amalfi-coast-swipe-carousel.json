@@ -8,15 +8,15 @@
   "content_type": "discovery",
   "strategy": "destination_discovery",
   "editorial_version": 7,
-  "editorial_status": "revision_final_asset_check_pending",
+  "editorial_status": "render_requested_final_QA",
   "public_numbers": false,
   "format": "six-location-swipe-carousel",
   "effort_level": "varied",
-  "editorial_intent": "A more striking six-location Amalfi Coast visual story, with Fiordo bridge as the hook, a verified Sentiero degli Dei photo instead of generic town view, an aerial beach scene, and a new genuine Amalfi waterfront image.",
+  "editorial_intent": "A six-location saveable Amalfi Coast carousel, led by the striking bridge cove and supported by verified mountain scenery, Ravello, Positano, Atrani and sunset Amalfi; all six media are real licensed destination images.",
   "reader_scenario": "A traveller browsing an inspiring Italy photo gallery, who can manually swipe beautiful scenes and save the real place names.",
-  "share_reason": "A dramatic bridge-over-cove first image makes the premise memorable, while carefully chosen distinct villas, mountain paths, cliff towns and evening harbour scenes offer a stronger six-stop save list.",
-  "slide_count_rationale": "Six useful beautiful 4:5 photos, including the Fiordo bridge, high Ravello garden, actual Sentiero degli Dei photo, Positano hillside, top-down Amalfi beach and Amalfi waterfront; no filler CTA.",
-  "caption": "There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and it’s only one of the places worth seeing. 🍋\n\n📍 Fiordo di Furore — a turquoise cove framed by cliffs and an arched bridge.\n📍 Ravello — garden terraces perched high above the coastline.\n📍 Path of the Gods — mountain views above the sea near Praiano.\n📍 Positano — tightly packed pastel houses above the sea.\n📍 Amalfi Beach — swimmers and beach umbrellas viewed from above.\n📍 Amalfi waterfront — buildings and boats beside the dramatic coast.\n\nWhich would you go to first? Save this for a future Italian escape.\n\nPhotos: Rolands Varsbergs, nella n., Christopher Pap de Pestény, Ian Mackey, Margo Evardson & Chloé Lefleur / Unsplash.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
+  "share_reason": "The unexpected bridge-over-cove hook earns a swipe; five distinctive coastal scenes give readers a useful, memorable Amalfi list rather than repetitive beach crowds or generic closing-card material.",
+  "slide_count_rationale": "Six real, licensed 4:5 photos with no filler CTA: Fiordo di Furore bridge cove, Ravello gardens, verified Sentiero degli Dei view, Positano architecture, distinctive Atrani shoreline and sunset Amalfi hill-town.",
+  "caption": "There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and it’s only one of the places worth seeing. 🍋\n\n📍 Fiordo di Furore — a turquoise cove framed by cliffs and an arched bridge.\n📍 Ravello — garden terraces perched high above the coastline.\n📍 Path of the Gods — mountain views above the sea near Praiano.\n📍 Positano — tightly packed pastel houses above the sea.\n📍 Atrani — a small seaside village squeezed between cliffs.\n📍 Amalfi — hillside buildings glowing in the evening light.\n\nWhich would you go to first? Save this for a future Italian escape.\n\nPhotos: Rolands Varsbergs, nella n., Christopher Pap de Pestény, Ian Mackey & Ricardo Gomez Angel / Unsplash; Ahmet Yüksek / Pexels.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
   "slides": [
     {
       "layout": "cover",
@@ -113,46 +113,46 @@
     {
       "layout": "photo",
       "heading": "Atrani",
-      "body": "Umbrellas and swimmers on the pebbled shoreline, seen from above.",
-      "image_url": "https://images.unsplash.com/photo-1772747959075-736a2e414055?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/people-sunbathing-on-a-rocky-beach-from-above-DEcyntCW6uQ",
-      "photographer": "Margo Evardson",
+      "body": "A tiny seaside village wrapped between cliffs and the water.",
+      "image_url": "https://images.pexels.com/photos/38046314/pexels-photo-38046314/free-photo-of-stunning-view-of-atrani-on-amalfi-coast.jpeg?auto=compress&cs=tinysrgb&w=2500",
+      "source_page": "https://www.pexels.com/photo/stunning-view-of-atrani-on-amalfi-coast-38046314/",
+      "photographer": "Ahmet Yüksek",
       "license": "Pexels License",
-      "subject": "Amalfi beach umbrellas and water from above",
-      "alt": "Aerial view of rows of umbrellas, sunbathers and clear sea on Amalfi Beach",
-      "activity_source": "https://unsplash.com/photos/people-sunbathing-on-a-rocky-beach-from-above-DEcyntCW6uQ",
+      "subject": "Atrani village, Amalfi Coast",
+      "alt": "Atrani village between cliffs and the Tyrrhenian Sea",
+      "activity_source": "https://www.pexels.com/photo/stunning-view-of-atrani-on-amalfi-coast-38046314/",
       "fact_checks": [
-        "https://unsplash.com/photos/people-sunbathing-on-a-rocky-beach-from-above-DEcyntCW6uQ"
+        "https://www.pexels.com/photo/stunning-view-of-atrani-on-amalfi-coast-38046314/"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "Atrani is a lesser-featured coastal village, creating a more interesting alternative to a standard crowded umbrella-filled Amalfi beach image.",
-        "image_context": "Original photographer's free Unsplash photo page explicitly locates this scene in Amalfi Coast, Italy and states the Unsplash License; latest render awaits visual inspection.",
-        "specific_detail": "The new location and image provenance are traceable to the original photographer's Unsplash page, with a distinct coastal experience and no invented amenities or guarantees.",
+        "image_context": "The Pexels original identifies the place as Atrani in Italy; the photographer is Ahmet Yüksek and the source provides a high-resolution portrait photo.",
+        "specific_detail": "A compact historic village sits between steep cliffs beside the sea, offering travellers a distinct place from Positano and Amalfi.",
         "distinct_contribution": "A cliffside village fills the previously generic crowded beach slot with more distinct architecture and a stronger sense of discovery."
       }
     },
     {
       "layout": "photo",
-      "heading": "Amalfi waterfront",
-      "body": "A final look at the dramatic coast and its waterfront buildings.",
-      "image_url": "https://images.unsplash.com/photo-1724003751441-f95f83cdbdbd?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/a-large-body-of-water-with-a-bunch-of-buildings-on-top-of-it-eyp70h20xDY",
-      "photographer": "Chloé Lefleur",
+      "heading": "Amalfi at golden hour",
+      "body": "Historic houses cling to the hillside above the sea.",
+      "image_url": "https://images.unsplash.com/photo-1513323813850-c7318e3efc71?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc",
+      "photographer": "Ricardo Gomez Angel",
       "license": "Unsplash License",
-      "subject": "Amalfi coastal town and boats",
-      "alt": "Sea and buildings on the Amalfi coastline photographed in Amalfi, Italy",
-      "activity_source": "https://unsplash.com/photos/a-large-body-of-water-with-a-bunch-of-buildings-on-top-of-it-eyp70h20xDY",
+      "subject": "Amalfi town at sunset",
+      "alt": "Historic Amalfi town and sea at sunset",
+      "activity_source": "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc",
       "fact_checks": [
-        "https://unsplash.com/photos/a-large-body-of-water-with-a-bunch-of-buildings-on-top-of-it-eyp70h20xDY"
+        "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "An atmospheric photograph showing Amalfi town at sunset contributes historic architecture and a different light from the opening cove.",
-        "image_context": "Original photographer's free Unsplash photo page explicitly locates this scene in Amalfi Coast, Italy and states the Unsplash License; latest render awaits visual inspection.",
-        "specific_detail": "The new location and image provenance are traceable to the original photographer's Unsplash page, with a distinct coastal experience and no invented amenities or guarantees.",
+        "image_context": "Ricardo Gomez Angel's free Unsplash photo page explicitly identifies the image as Sunset in Amalfi, Amalfi Coast, Italy.",
+        "specific_detail": "A distinctive evening view of old Amalfi buildings above the sea completes the carousel without a generic promotional closing card.",
         "distinct_contribution": "A real Amalfi town sunset adds place context and a warm visual finale while all preceding frames remain different locations."
       }
     }
@@ -162,14 +162,14 @@
     "https://unsplash.com/photos/a-view-of-a-garden-with-a-tree-and-water-in-the-background-tFbFYkZ1gYI",
     "https://unsplash.com/photos/a-view-of-the-ocean-from-the-top-of-a-mountain-JnkdVicqtzw",
     "https://unsplash.com/photos/positano-hillside-town-with-colorful-buildings-and-vibrant-purple-flowers-CiMq2MOLUJs",
-    "https://unsplash.com/photos/people-sunbathing-on-a-rocky-beach-from-above-DEcyntCW6uQ",
-    "https://unsplash.com/photos/a-large-body-of-water-with-a-bunch-of-buildings-on-top-of-it-eyp70h20xDY"
+    "https://www.pexels.com/photo/stunning-view-of-atrani-on-amalfi-coast-38046314/",
+    "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc"
   ],
   "caption_review": {
     "chosen_hook": "Specific bridge-over-cove factual curiosity hook supported by first photo; small Italy/Amalfi kicker above title.",
     "save_value": "Six distinct accurate named locations and one clear experience per slide, without a filler closing card."
   },
-  "editorial_verdict": "RENDER_REQUESTED_THREE_REPLACEMENT_IMAGES_REQUIRE_PIXEL_QA",
+  "editorial_verdict": "REBUILD_AFTER_QA_REJECTIONS",
   "metricool_uuid": "-2079661561940328338",
   "metricool_post_id": 422523873,
   "scheduled_for": "2026-11-16T19:00:00 Europe/London",
