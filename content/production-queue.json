@@ -6,6 +6,24 @@
   "note": "All old stage-based commissions have been retired. Historical v9 ledger is archived at docs/history/production-queue-v9-replaced-2026-11-09.json. Do not treat this file as evidence of booking or render approvals.",
   "editions": [
     {
+      "id": "009-amalfi-coast-swipe-carousel",
+      "type": "carousel_POST",
+      "target_week": "2026-11-16/2026-11-22",
+      "stage": "scheduled_pending",
+      "brief": "content/posts/009-amalfi-coast-swipe-carousel.json",
+      "rendered_asset": "media/009-amalfi-coast-swipe-carousel/",
+      "verified": true,
+      "source_qa": "15 Nov: actual six completed 1080×1350 rendered JPGs inspected. Fiordo bridge hero, Ravello, correctly identified Sentiero degli Dei, Positano, Atrani, and Amalfi golden-hour town; original licensed photo pages and caption credits checked.",
+      "next_action": "None for this post unless Metricool status changes; avoid rescheduling or reversion to earlier images.",
+      "scheduled_for": "2026-11-16T19:00:00 Europe/London",
+      "metricool_post_id": 429111375,
+      "metricool_uuid": "-2079661561940328338",
+      "metricool_status": "PENDING",
+      "autoPublish": true,
+      "draft": false,
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-2079661561940328338"
+    },
+    {
       "id": "010-mountain-views-without-summit-hikes",
       "type": "carousel_POST",
       "target_week": "2026-11-16/2026-11-22",
@@ -130,7 +148,7 @@
   "next_target": {
     "week_start": "2026-11-16",
     "week_end": "2026-11-22",
-    "expected_existing_post": "Three confirmed PENDING: Amalfi 16 Nov 19:00 POST; Alpine 18 Nov 19:00 POST; Winter 20 Nov 19:00 slideshow REEL",
+    "expected_existing_post": "Three PENDING: revised Amalfi 16 Nov 19:00 POST; Alpine 18 Nov 19:00 POST; Winter 20 Nov 19:00 slideshow REEL",
     "remaining_at_snapshot": 1,
     "priorities": [
       "012: Source-complete and render distinct second photo slideshow Reel for 16–22 November; do not book until actual MP4 and source QA pass"
@@ -145,5 +163,5 @@
     "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
     "One daily ChatGPT task only; never reactivate paused producer tasks"
   ],
-  "last_verified_metricool": "2026-11-15: Live 9–29 November 3 PENDING for 16–22 (Amalfi POST 16, Alpine POST 18, Winter slideshow REEL 20). Full 1–30 November query returned 9 total published+pending planner entries; 22 November unbooked. No new bookings."
+  "last_verified_metricool": "2026-11-15 17:49 Europe/London: live verified Amalfi revised POST 16 Nov (id 429111375, six images, PENDING, autoPublish true, draft false); Wednesday mountain 18 Nov (id 427230845, seven-image POST) and Friday winter 20 Nov (id 427232781, Reel) unchanged and PENDING. Sunday 22 Nov second Reel not booked yet."
 }
