@@ -8,7 +8,7 @@
   "content_type": "discovery",
   "strategy": "destination_discovery",
   "editorial_version": 7,
-  "editorial_status": "render_requested_final_QA",
+  "editorial_status": "approved_scheduled",
   "public_numbers": false,
   "format": "six-location-swipe-carousel",
   "effort_level": "varied",
@@ -169,10 +169,11 @@
     "chosen_hook": "Specific bridge-over-cove factual curiosity hook supported by first photo; small Italy/Amalfi kicker above title.",
     "save_value": "Six distinct accurate named locations and one clear experience per slide, without a filler closing card."
   },
-  "editorial_verdict": "REBUILD_AFTER_QA_REJECTIONS",
+  "editorial_verdict": "QA_PASSED_AND_METRICOOL_PENDING",
   "metricool_uuid": "-2079661561940328338",
-  "metricool_post_id": 422523873,
+  "metricool_post_id": 429111375,
   "scheduled_for": "2026-11-16T19:00:00 Europe/London",
   "final_manifest_path": "media/009-amalfi-coast-swipe-carousel/manifest.json",
-  "no_cta": true
+  "no_cta": true,
+  "qa_notes": "2026-11-15: All six final JPGs inspected. Fiordo bridge cover; verified Ravello; mountain viewpoint at Sentiero degli Dei; Positano; Pexels Atrani; Unsplash Amalfi at golden hour. Removed incorrect beach title/image pairing and weak generic ending. Live Metricool confirms 6-image POST PENDING, autoPublish=true, draft=false."
 }
