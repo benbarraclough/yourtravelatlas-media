@@ -138,11 +138,11 @@ There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and
 📍 Path of the Gods — an unforgettable hillside view towards Positano.
 📍 Positano — tightly packed pastel houses above the sea.
 📍 Atrani — a small seaside village squeezed between cliffs.
-📍 Amalfi — harbour views in the glow of sunset.
+📍 Amalfi — a historic hillside town in the evening light.
 
 Which would you go to first? Save this for a future Italian escape.
 
-Photos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey & Jordi Vich Navarro / Unsplash; Ahmet Yüksek / Pexels.
+Photos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey & Ricardo Gomez Angel / Unsplash; Ahmet Yüksek / Pexels.
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
 

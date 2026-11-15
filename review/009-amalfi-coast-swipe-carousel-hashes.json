@@ -1,14 +1,14 @@
 {
   "issue": 9,
   "slug": "009-amalfi-coast-swipe-carousel",
-  "brief_sha256": "97f41b213e4a6473197a9db7c7e07b2dc8afbf3ca3603eb499c65092b36518f6",
-  "caption_sha256": "ed6806e053231095106274dded02be7187d7a77a75a4275da68b4e101a634954",
+  "brief_sha256": "5760841f1806771804321162c97cfb13d9c6d482a41ac183f19e4d5a6985e824",
+  "caption_sha256": "aadcda4680753e2e5d53ead567d8f4776dc78b71a9dbeefd3fc1bf3d1768d110",
   "image_sha256": {
     "media/009-amalfi-coast-swipe-carousel/01.jpg": "fc997dd028d06095153e04bea1754025a4c757a3f40bdfe84c42f59a6ecd825a",
     "media/009-amalfi-coast-swipe-carousel/02.jpg": "379d1ea22632b67260898544e36831301b4d06ee903d98b03f66f2721e59e5a6",
     "media/009-amalfi-coast-swipe-carousel/03.jpg": "5bb81921e44ff5f44bace76d559cc258b292b278a886bca07cf105bb624e5836",
     "media/009-amalfi-coast-swipe-carousel/04.jpg": "742d55c20ec25cfde82a270409df1c595066778a4cb54e0b9210a74eb96e5f48",
     "media/009-amalfi-coast-swipe-carousel/05.jpg": "5590fce0cdbde961af710971b37b6fd87399c0cf4202301913a8f57a50114696",
-    "media/009-amalfi-coast-swipe-carousel/06.jpg": "e0f45bc3a17d1532dcc7905d8c221421744983748402e707d53bdce8d834336b"
+    "media/009-amalfi-coast-swipe-carousel/06.jpg": "8c4ceee5f4a7fcc1c81ea676de1a6adac2e618a1a28266358262f5f783d3bb10"
   }
 }
