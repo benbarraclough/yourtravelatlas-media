@@ -135,14 +135,14 @@ There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and
 
 📍 Fiordo di Furore — a turquoise cove framed by cliffs and an arched bridge.
 📍 Ravello — garden terraces perched high above the coastline.
-📍 Path of the Gods — an unforgettable hillside view towards Positano.
+📍 Path of the Gods — mountain views above the sea near Praiano.
 📍 Positano — tightly packed pastel houses above the sea.
-📍 Atrani — a small seaside village squeezed between cliffs.
-📍 Amalfi — a historic hillside town in the evening light.
+📍 Amalfi Beach — swimmers and beach umbrellas viewed from above.
+📍 Amalfi waterfront — buildings and boats beside the dramatic coast.
 
 Which would you go to first? Save this for a future Italian escape.
 
-Photos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey & Ricardo Gomez Angel / Unsplash; Ahmet Yüksek / Pexels.
+Photos: Rolands Varsbergs, nella n., Christopher Pap de Pestény, Ian Mackey, Margo Evardson & Chloé Lefleur / Unsplash.
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
 
