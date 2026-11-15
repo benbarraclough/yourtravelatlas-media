@@ -8,15 +8,15 @@
   "content_type": "discovery",
   "strategy": "destination_discovery",
   "editorial_version": 7,
-  "editorial_status": "revision_render_requested",
+  "editorial_status": "final_photography_render_requested",
   "public_numbers": false,
   "format": "six-location-swipe-carousel",
   "effort_level": "varied",
   "editorial_intent": "Reframe the Amalfi carousel around a surprising cove under a coastal bridge, backed by five real and varied high-quality coast experiences including lesser-known Atrani and sunset Amalfi.",
   "reader_scenario": "A traveller browsing an inspiring Italy photo gallery, who can manually swipe beautiful scenes and save the real place names.",
   "share_reason": "A dramatic bridge-over-cove first image makes the premise memorable, while carefully chosen distinct villas, mountain paths, cliff towns and evening harbour scenes offer a stronger six-stop save list.",
-  "slide_count_rationale": "Six real 4:5 licensed photos: Fiordo di Furore hero; Ravello gardens; Path of the Gods viewpoint; Positano hillside; Atrani village; Amalfi sunset harbour. No end-card filler.",
-  "caption": "There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and it’s only one of the places worth seeing. 🍋\n\n📍 Fiordo di Furore — a turquoise cove framed by cliffs and an arched bridge.\n📍 Ravello — garden terraces perched high above the coastline.\n📍 Path of the Gods — an unforgettable hillside view towards Positano.\n📍 Positano — tightly packed pastel houses above the sea.\n📍 Atrani — a small seaside village squeezed between cliffs.\n📍 Amalfi — harbour views in the glow of sunset.\n\nWhich would you go to first? Save this for a future Italian escape.\n\nPhotos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey & Jordi Vich Navarro / Unsplash; Ahmet Yüksek / Pexels.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
+  "slide_count_rationale": "Six real 4:5 licensed photos: Fiordo di Furore hero; Ravello gardens; Path of the Gods viewpoint; Positano hillside; Atrani village; Amalfi historic town at sunset. No end-card filler.",
+  "caption": "There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and it’s only one of the places worth seeing. 🍋\n\n📍 Fiordo di Furore — a turquoise cove framed by cliffs and an arched bridge.\n📍 Ravello — garden terraces perched high above the coastline.\n📍 Path of the Gods — an unforgettable hillside view towards Positano.\n📍 Positano — tightly packed pastel houses above the sea.\n📍 Atrani — a small seaside village squeezed between cliffs.\n📍 Amalfi — a historic hillside town in the evening light.\n\nWhich would you go to first? Save this for a future Italian escape.\n\nPhotos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey & Ricardo Gomez Angel / Unsplash; Ahmet Yüksek / Pexels.\n\n#YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration",
   "slides": [
     {
       "layout": "cover",
@@ -135,25 +135,25 @@
     },
     {
       "layout": "photo",
-      "heading": "Amalfi at sunset",
-      "body": "Harbour boats and town buildings in the last evening light.",
-      "image_url": "https://images.unsplash.com/photo-1752256682182-8165ad692c29?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/coastal-italian-town-with-boats-in-the-harbor-zWDVPqxYGCU",
-      "photographer": "Jordi Vich Navarro",
+      "heading": "Amalfi at golden hour",
+      "body": "Historic houses cling to the hillside above the sea.",
+      "image_url": "https://images.unsplash.com/photo-1513323813850-c7318e3efc71?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc",
+      "photographer": "Ricardo Gomez Angel",
       "license": "Unsplash License",
-      "subject": "Amalfi harbour at sunset",
-      "alt": "Amalfi town and harbour boats at sunset",
-      "activity_source": "https://unsplash.com/photos/coastal-italian-town-with-boats-in-the-harbor-zWDVPqxYGCU",
+      "subject": "Amalfi town at sunset",
+      "alt": "Historic Amalfi town and sea at sunset",
+      "activity_source": "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc",
       "fact_checks": [
-        "https://unsplash.com/photos/coastal-italian-town-with-boats-in-the-harbor-zWDVPqxYGCU"
+        "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "An evening harbour view introduces a different visual mood and time of day and replaces the weak hazy daytime harbour photo.",
-        "image_context": "The original free Unsplash photograph identifies Amalfi, Salerno, Italy at sunset and photographer Jordi Vich Navarro.",
-        "specific_detail": "Amalfi's sea-facing waterfront is shown at sunset with boats in the harbour, adding a distinct final visual experience.",
-        "distinct_contribution": "A colourful evening Amalfi harbour photograph offers a rewarding closing destination scene instead of a generic end-card."
+        "reader_value": "An atmospheric photograph showing Amalfi town at sunset contributes historic architecture and a different light from the opening cove.",
+        "image_context": "Ricardo Gomez Angel's free Unsplash photo page explicitly identifies the image as Sunset in Amalfi, Amalfi Coast, Italy.",
+        "specific_detail": "A distinctive evening view of old Amalfi buildings above the sea completes the carousel without a generic promotional closing card.",
+        "distinct_contribution": "A real Amalfi town sunset adds place context and a warm visual finale while all preceding frames remain different locations."
       }
     }
   ],
@@ -165,7 +165,8 @@
     "https://unsplash.com/photos/a-city-on-the-edge-of-a-cliff-by-the-sea-ioiK8s7R5rQ",
     "https://unsplash.com/photos/a-body-of-water-with-a-bunch-of-boats-in-it-BSP-djR-U_M",
     "https://www.pexels.com/photo/stunning-view-of-atrani-on-amalfi-coast-38046314/",
-    "https://unsplash.com/photos/coastal-italian-town-with-boats-in-the-harbor-zWDVPqxYGCU"
+    "https://unsplash.com/photos/coastal-italian-town-with-boats-in-the-harbor-zWDVPqxYGCU",
+    "https://unsplash.com/photos/white-painted-buildings-beside-body-of-water-w9B3KP6s0Dc"
   ],
   "caption_review": {
     "chosen_hook": "Specific bridge-over-cove factual curiosity hook supported by first photo; small Italy/Amalfi kicker above title.",
