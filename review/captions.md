@@ -129,20 +129,20 @@ Photos: Jared Rice, Omri D. Cohen, Jaanus Jagomägi, Jake Irish & Florian Delée
 
 #YourTravelAtlas #Philippines #IslandTravel #TravelInspiration
 
-## Six scenes worth falling for
+## A beach beneath a bridge. And that's just the start.
 
-Cliffside towns, secret coves and that impossible blue sea. The Amalfi Coast really is something else. 🍋
+There’s a beach tucked beneath a road bridge on Italy’s Amalfi Coast — and it’s only one of the places worth seeing. 🍋
 
-📍 Positano — colourful houses stacked above the water.
-📍 Ravello — peaceful gardens and a panorama of the coast.
-📍 Amalfi Beach — umbrellas, Italian summer and the sea.
-📍 Fiordo di Furore — a little cove beneath an iconic bridge.
-📍 Path of the Gods — breathtaking coastal viewpoints.
-📍 Amalfi waterfront — wander down to the boats.
+📍 Fiordo di Furore — a turquoise cove framed by cliffs and an arched bridge.
+📍 Ravello — garden terraces perched high above the coastline.
+📍 Path of the Gods — an unforgettable hillside view towards Positano.
+📍 Positano — tightly packed pastel houses above the sea.
+📍 Amalfi Beach — colourful umbrellas beneath the old town.
+📍 Amalfi from the water — the dramatic coastline seen from offshore.
 
-Save this for an Italian escape.
+Which would you go to first? Save this for a future Italian escape.
 
-Photos: Ian Mackey, nella n., Margo Evardson, Rolands Varsbergs, Sekwang Chia & Barbora Dostálová / Unsplash.
+Photos: Rolands Varsbergs, nella n., Sekwang Chia, Ian Mackey, Margo Evardson & Barbora Dostálová / Unsplash.
 
 #YourTravelAtlas #AmalfiCoast #ItalyTravel #TravelInspiration
 
