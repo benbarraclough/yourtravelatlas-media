@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-15",
   "mode": "one recurring daily ChatGPT Atlas Publisher task (08:00 UK), one stage/deliverable advanced per run",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "All old stage-based commissions have been retired. Historical v9 ledger is archived at docs/history/production-queue-v9-replaced-2026-11-09.json. Do not treat this file as evidence of booking or render approvals.",
@@ -47,13 +47,59 @@
       "id": "012-pending-moving-or-fallback-reel",
       "type": "photo_slideshow_REEL",
       "target_week": "2026-11-16/2026-11-22",
-      "stage": "research",
+      "stage": "source_pages_identified_CDN_pending",
       "verified": false,
-      "next_action": "Source 5–8 exceptional licensed original photos for a distinct, curiosity-led slideshow concept (not winter film locations or Amalfi/Alps); verify exact Unsplash/Pexels/Commons pages, author, place and full-resolution CDN, commit new content/reels/012-*.json treatment photo_slideshow_v1 to trigger renderer. On subsequent run inspect final cover, all scenes, playback and zero audio, then book an empty 22 Nov UK slot only after approval.",
-      "last_attempted_action": "2026-11-14: Reconciled live Metricool 9–30 November; 16–22 November has 3 PENDING posts (Amalfi 16 POST, Alpine 18 POST, winter slideshow 20 REEL). Reviewed current FOOTAGE_SOURCES.md and exact 29 October clip audit: only four sample downloads from three providers, none approved for a coherent 5-clip portrait moving-footage Reel; renderer delivery of alternatives untested. Applied explicitly authorised second-photo-slideshow fallback instead of fabricating genuine footage.",
-      "blocker": "No five distinct rights-verified, location-specific, portrait-suitable moving clips with proved GitHub Actions delivery; fallback slideshow still needs five or more separate original photos with exact source-page identity, rights and CDN links, then rendered full MP4 QA.",
+      "next_action": "Resolve actual original image CDN URLs and inspect all six source images, replace repetitive/weak scenes, then commit content/reels/012-socotra-otherworldly-island.json treatment photo_slideshow_v1 with exact URLs, caption credits and location evidence to trigger GitHub render. Do not schedule before full MP4 QA.",
+      "last_attempted_action": "2026-11-15: Reconciled live Metricool for 9–29 Nov (3 PENDING for 16–22 Nov; 3 published 9/11/13) and full 1–30 Nov (9 total published+pending in planner response). Identified six exact free Unsplash original photo pages for distinct Socotra Island, Yemen slideshow concept. Source-page text explicitly identifies location and Unsplash License; no image download, original CDN, full-size crop, actual visual QA or renderer test yet. No new posts booked.",
+      "blocker": "Exact full-resolution CDN URLs and decoded 9:16 crop not yet checked; source collection may be too repetitive (three dragon-blood-tree scenes). Replace any weak or redundant photo before committing brief. Need 5+ distinct excellent scenes, verified facts, render and actual MP4 playback/zero-audio QA.",
       "fallback_decision": "Second still-photo slideshow Reel, as explicitly permitted by ATLAS_WEEKLY.md; genuine moving Reel not presently source-ready.",
-      "target_slot_candidate": "2026-11-22T19:00:00 Europe/London (NOT RESERVED)"
+      "target_slot_candidate": "2026-11-22T19:00:00 Europe/London (NOT RESERVED)",
+      "concept": "SOCOTRA, YEMEN — The island that looks like another planet. Photo slideshow, not filmed footage; distinct dragon-blood trees, high dune sunrise, remote canyon, coast and landscape. Avoid unsupported access claims and repetitive tree shots.",
+      "source_candidates": [
+        {
+          "url": "https://unsplash.com/photos/a-hillside-covered-in-trees-under-a-cloudy-sky-upHTCWMZO80",
+          "subject": "Dragon-blood-tree landscape",
+          "creator": "Andrew Svk",
+          "licence": "Unsplash License, source-page text",
+          "status": "page text checked, binary pending"
+        },
+        {
+          "url": "https://unsplash.com/photos/a-very-tall-tree-on-top-of-a-rocky-hill-MCYR8cJYQRM",
+          "subject": "Single dragon-blood tree",
+          "creator": "Andrew Svk",
+          "licence": "Unsplash License, source-page text",
+          "status": "page text checked, binary pending"
+        },
+        {
+          "url": "https://unsplash.com/photos/a-sunset-over-some-water-rkrNzXwtSgg",
+          "subject": "Dune at sunrise",
+          "creator": "Andrew Svk",
+          "licence": "Unsplash License, source-page text",
+          "status": "page text checked, binary pending"
+        },
+        {
+          "url": "https://unsplash.com/photos/a-woman-in-a-red-dress-standing-in-a-river-tgKVCmlcyyM",
+          "subject": "Canyon near Diksam plateau",
+          "creator": "Andrew Svk",
+          "licence": "Unsplash License, source-page text",
+          "status": "page text checked, binary pending"
+        },
+        {
+          "url": "https://unsplash.com/photos/ocean-during-daytime-YzSXoXXg9uA",
+          "subject": "Socotra dune landscape",
+          "creator": "Fahd Ahmed",
+          "licence": "Unsplash License, source-page text",
+          "status": "page text checked, binary pending"
+        },
+        {
+          "url": "https://unsplash.com/photos/a-tree-with-a-mountain-in-the-background-REwZEYzw19g",
+          "subject": "Dragon blood tree with mountain",
+          "creator": "Andrew Svk",
+          "licence": "Unsplash License, source-page text",
+          "status": "page text checked, binary pending"
+        }
+      ],
+      "checked_at": "2026-11-15"
     }
   ],
   "retired_and_replaced": [
@@ -99,5 +145,5 @@
     "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
     "One daily ChatGPT task only; never reactivate paused producer tasks"
   ],
-  "last_verified_metricool": "2026-11-14: Live Metricool queried for 9–30 Nov. Published Japan 9, NZ 11, Philippines 13; PENDING Amalfi 16, Alpine 18, Winter slideshow 20. No fourth 16–22 item booked. Month total visible from this query 6, excluding earlier November publications; conservatively below 20 subject to full-month count."
+  "last_verified_metricool": "2026-11-15: Live 9–29 November 3 PENDING for 16–22 (Amalfi POST 16, Alpine POST 18, Winter slideshow REEL 20). Full 1–30 November query returned 9 total published+pending planner entries; 22 November unbooked. No new bookings."
 }
