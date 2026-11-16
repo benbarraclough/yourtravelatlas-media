@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated_at": "2026-11-15",
+  "updated_at": "2026-11-16",
   "mode": "one recurring daily ChatGPT Atlas Publisher task (08:00 UK), one stage/deliverable advanced per run",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "All old stage-based commissions have been retired. Historical v9 ledger is archived at docs/history/production-queue-v9-replaced-2026-11-09.json. Do not treat this file as evidence of booking or render approvals.",
@@ -67,7 +67,7 @@
       "target_week": "2026-11-16/2026-11-22",
       "stage": "source_pages_identified_CDN_pending",
       "verified": false,
-      "next_action": "Resolve actual original image CDN URLs and inspect all six source images, replace repetitive/weak scenes, then commit content/reels/012-socotra-otherworldly-island.json treatment photo_slideshow_v1 with exact URLs, caption credits and location evidence to trigger GitHub render. Do not schedule before full MP4 QA.",
+      "next_action": "Manual/on-demand continuation only: verify six Socotra original photo binaries against actual source pages, rights and subject; replace repetitive scenes, create slideshow brief, render silent 9:16 MP4, inspect full playback and zero audio, then schedule only after QA and live slot recheck.",
       "last_attempted_action": "2026-11-15: Reconciled live Metricool for 9–29 Nov (3 PENDING for 16–22 Nov; 3 published 9/11/13) and full 1–30 Nov (9 total published+pending in planner response). Identified six exact free Unsplash original photo pages for distinct Socotra Island, Yemen slideshow concept. Source-page text explicitly identifies location and Unsplash License; no image download, original CDN, full-size crop, actual visual QA or renderer test yet. No new posts booked.",
       "blocker": "Exact full-resolution CDN URLs and decoded 9:16 crop not yet checked; source collection may be too repetitive (three dragon-blood-tree scenes). Replace any weak or redundant photo before committing brief. Need 5+ distinct excellent scenes, verified facts, render and actual MP4 playback/zero-audio QA.",
       "fallback_decision": "Second still-photo slideshow Reel, as explicitly permitted by ATLAS_WEEKLY.md; genuine moving Reel not presently source-ready.",
@@ -117,7 +117,7 @@
           "status": "page text checked, binary pending"
         }
       ],
-      "checked_at": "2026-11-15"
+      "checked_at": "2026-11-16"
     }
   ],
   "retired_and_replaced": [
@@ -163,5 +163,12 @@
     "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
     "One daily ChatGPT task only; never reactivate paused producer tasks"
   ],
-  "last_verified_metricool": "2026-11-15 17:49 Europe/London: live verified Amalfi revised POST 16 Nov (id 429111375, six images, PENDING, autoPublish true, draft false); Wednesday mountain 18 Nov (id 427230845, seven-image POST) and Friday winter 20 Nov (id 427232781, Reel) unchanged and PENDING. Sunday 22 Nov second Reel not booked yet."
+  "last_verified_metricool": "2026-11-16 morning Europe/London: six November PUBLISHED and three PENDING in live planner. Week 16–22: Amalfi 16 Nov 19:00 POST UUID -2079661561940328338, Alpine 18 Nov 19:00 POST UUID 8564036779370171055, Winter 20 Nov 19:00 REEL UUID -6536199878840203546; all draft=false autoPublish=true. No booking for Sunday 22 Nov. Next week 23–29 Nov no pending items returned. Live 9 total November records; other unlisted manual publications not independently audited.",
+  "automation_handover": {
+    "date": "2026-11-16",
+    "requested": "Stop Atlas daily automation after this run; continue on demand",
+    "last_completed_step": "Live November bookings and next-week vacancies reconciled; ledger checkpointed",
+    "status": "No new media approved or scheduled",
+    "next_action": "Socotra 012 source binary and visual QA, then render and playback review"
+  }
 }
