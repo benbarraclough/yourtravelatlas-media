@@ -1,8 +1,8 @@
 {
   "issue": 16,
   "slug": "016-madeira-six-landscapes-carousel",
-  "headline": "An Island of Cloud Trails and Lava Pools",
-  "dek": "Real places worth discovering",
+  "headline": "Madeira's Cloud Peaks & Lava Pools",
+  "dek": "Eight unexpected experiences on one island",
   "category": "PORTUGAL / MADEIRA",
   "cover_country": "PORTUGAL",
   "content_type": "discovery",
@@ -16,12 +16,12 @@
   "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
   "slide_count_rationale": "8 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
-  "caption": "Madeira is an island of contrasts: mountain stairs above the clouds, ancient forests in the mist and pools carved into lava rock. 🇵🇹\n\n📍 Pico do Arieiro — follow stone steps along a dramatic mountain ridge.\n📍 Fanal Forest — wander between centuries-old laurel trees.\n📍 Seixal — black sand sits beneath towering green north-coast cliffs.\n📍 Santana — discover colourful triangular cottages with thatched roofs.\n📍 Risco Waterfall — find a slender cascade among lush mountain slopes.\n📍 Porto Moniz — swim in natural Atlantic-fed lava-rock pools.\n📍 Ponta de São Lourenço — explore the rugged eastern peninsula on foot.\n📍 Ribeira da Janela — see jagged sea stacks rise from the Atlantic.\n\nWhich scene would make you book Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
+  "caption": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed volcanic pools are all on one island. 🇵🇹\n\n📍 Pico do Areeiro — take in dramatic cloud-top mountain views from the viewpoint.\n📍 Fanal Forest — wander among ancient laurel trees in the mist.\n📍 Seixal — black sand beneath towering green cliffs.\n📍 Santana — discover colourful thatched triangular cottages.\n📍 Risco Waterfall — find a slender cascade on a lush mountain slope.\n📍 Porto Moniz — swim in Atlantic-fed pools formed in volcanic rock.\n📍 Ponta de São Lourenço — explore the wild eastern headland on foot.\n📍 Ribeira da Janela — spot jagged sea stacks rising from the Atlantic.\n\nThe famous PR1 Areeiro ridge trail is currently marked **closed** (checked November 2026). Madeira's classified walks require advance booking: check the official Visit Madeira trail status before hiking.\n\nWhich scene would make you visit Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
   "slides": [
     {
       "layout": "cover",
-      "heading": "Pico do Arieiro",
-      "body": "Follow steep mountain stairs along Madeira's dramatic cloud-top ridge.",
+      "heading": "Pico do Areeiro",
+      "body": "Above the clouds: a stunning viewpoint over the central peaks.",
       "image_url": "https://images.unsplash.com/photo-1746523812328-74b97419f828?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
       "photographer": "Samielle Støyl",
@@ -30,14 +30,15 @@
       "alt": "Pico do Arieiro ridgeline, Madeira, Samielle Støyl original real destination travel photograph",
       "activity_source": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
       "fact_checks": [
-        "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw"
+        "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+        "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "Pico do Arieiro ridgeline, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
         "image_context": "The original free Unsplash photo by Samielle Støyl identifies Madeira Portugal, tagged Pico do Arieiro, and depicts stairs threading a steep cloud-topped ridge.",
-        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "specific_detail": "The photograph shows Madeira's iconic Pico do Areeiro mountain terrain and steps. Official Madeira hiking status on 17 November 2026 marks trail PR1 Vereda do Areeiro CLOSED, so the post must promote the viewpoint and not hiking the closed ridge.",
         "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
       }
     },
@@ -217,7 +218,9 @@
     "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
     "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
     "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/",
-    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/"
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/",
+    "https://www.visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz"
   ],
   "last_qa_findings": "2026-11-17: titles on 6 and 7 were clipped at Madei and at; shortened all labels, reordered 8-location caption to actual image order, described Atlantic-fed pools accurately. Await final rendered QA and update original Metricool UUID."
 }
