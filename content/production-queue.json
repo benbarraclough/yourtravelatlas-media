@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updated_at": "2026-11-17 (after final new media bookings)",
+  "version": 8,
+  "updated_at": "2026-11-17 after completed seven-post quality audit",
   "mode": "Owner-initiated manual Tuesday production ONLY. No ChatGPT scheduled automations. No still-photo MP4 Reels.",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "Live Metricool is authoritative. GitHub Actions render on brief commits; produced assets require actual QA before booking. No unattended scheduled ChatGPT jobs.",
@@ -32,14 +32,15 @@
       "brief": "content/posts/010-mountain-views-without-summit-hikes.json",
       "rendered_asset": "media/010-mountain-views-without-summit-hikes/",
       "source_qa": "Rendered JPGs reviewed including last scenic brand_end, named source provenance and credits verified. 8 final portrait JPEGs in same existing Metricool UUID.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-18T19:00:00 Europe/London",
-      "metricool_post_id": 431597761,
+      "metricool_post_id": 431674548,
       "metricool_uuid": "8564036779370171055",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8564036779370171055"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8564036779370171055",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     },
     {
       "id": "015-winter-places-to-save-carousel",
@@ -50,14 +51,15 @@
       "brief": "content/posts/015-winter-places-to-save-carousel.json",
       "rendered_asset": "media/015-winter-places-to-save-carousel/",
       "source_qa": "Rendered JPGs reviewed including last scenic brand_end, named source provenance and credits verified. 9 final portrait JPEGs in same existing Metricool UUID.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-20T19:00:00 Europe/London",
-      "metricool_post_id": 431596084,
+      "metricool_post_id": 431670992,
       "metricool_uuid": "-6536199878840203546",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-6536199878840203546"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-6536199878840203546",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     },
     {
       "id": "016-madeira-six-landscapes-carousel",
@@ -68,14 +70,15 @@
       "brief": "content/posts/016-madeira-six-landscapes-carousel.json",
       "rendered_asset": "media/016-madeira-six-landscapes-carousel/",
       "source_qa": "Rendered JPGs reviewed including last scenic brand_end, named source provenance and credits verified. 9 final portrait JPEGs in same existing Metricool UUID.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-22T19:00:00 Europe/London",
-      "metricool_post_id": 431596612,
+      "metricool_post_id": 431671098,
       "metricool_uuid": "-4740298397487379750",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-4740298397487379750"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-4740298397487379750",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     },
     {
       "id": "013-indonesia-beyond-bali-flores-komodo",
@@ -86,14 +89,15 @@
       "brief": "content/posts/013-indonesia-beyond-bali-flores-komodo.json",
       "rendered_asset": "media/013-indonesia-beyond-bali-flores-komodo/",
       "source_qa": "Rendered JPGs reviewed including last scenic brand_end, named source provenance and credits verified. 8 final portrait JPEGs in same existing Metricool UUID.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-23T19:00:00 Europe/London",
-      "metricool_post_id": 431597870,
+      "metricool_post_id": 431671167,
       "metricool_uuid": "8356741788287969",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8356741788287969"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8356741788287969",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     },
     {
       "id": "014-five-places-desert-meets-the-sea",
@@ -104,14 +108,15 @@
       "brief": "content/posts/014-five-places-desert-meets-the-sea.json",
       "rendered_asset": "media/014-five-places-desert-meets-the-sea/",
       "source_qa": "Rendered JPGs reviewed including last scenic brand_end, named source provenance and credits verified. 8 final portrait JPEGs in same existing Metricool UUID.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-25T19:00:00 Europe/London",
-      "metricool_post_id": 431597947,
+      "metricool_post_id": 431671357,
       "metricool_uuid": "-9031722169793101431",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-9031722169793101431"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-9031722169793101431",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     },
     {
       "id": "017-vietnam-six-places-carousel",
@@ -122,14 +127,15 @@
       "brief": "content/posts/017-vietnam-six-places-carousel.json",
       "rendered_asset": "media/017-vietnam-six-places-carousel/",
       "source_qa": "Rendered JPGs reviewed including last scenic brand_end, named source provenance and credits verified. 9 final portrait JPEGs in same existing Metricool UUID.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-27T19:00:00 Europe/London",
-      "metricool_post_id": 431596729,
+      "metricool_post_id": 431671527,
       "metricool_uuid": "-7665823664039377160",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-7665823664039377160"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-7665823664039377160",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     },
     {
       "id": "014-cappadocia-beyond-balloons",
@@ -140,14 +146,15 @@
       "brief": "content/reels/014-cappadocia-beyond-balloons.json",
       "rendered_asset": "media/reels/014-cappadocia-beyond-balloons/",
       "source_qa": "Eight genuine moving Pexels clips, strong high-contrast intro, 25.1 seconds, silent H.264, original moving-footage brand ending; storyboard/cover and source manifest visually inspected.",
-      "next_action": "No further edits unless actual publication fails; check post metrics at owner-triggered Tuesday session.",
+      "next_action": "No corrections pending; check publication status, reach and saves at next manually prompted Tuesday session.",
       "scheduled_for": "2026-11-29T19:00:00 Europe/London",
       "metricool_post_id": 431589392,
       "metricool_uuid": "-406218192588947160",
       "metricool_status": "PENDING",
       "autoPublish": true,
       "draft": false,
-      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-406218192588947160"
+      "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-406218192588947160",
+      "last_verified": "2026-11-17: seven-post triple QA, captions and media sources checked vs current booking; see docs/audits/2026-11-17-triple-check-publishing-audit.md"
     }
   ],
   "retired_and_replaced": [
@@ -195,7 +202,7 @@
     "Only mark scheduled when Metricool confirms PENDING, draft false and autoPublish true",
     "Owner prompts manually on Tuesday and follows up when needed"
   ],
-  "last_verified_metricool": "17 Nov after revised-format updates: exactly 14 November posts in Metricool, 7 PUBLISHED, 7 PENDING (18,20,22,23,25,27,29 Nov), 6 unused /20. Nov 20 Winter, Nov 22 Madeira, Nov 27 Vietnam converted IN SAME UUID from fake photo slideshow REEL to swipeable POST. Nov 18 mountain 8 photos, Nov 23 Indonesia 8, Nov 25 desert 8, Nov 20 Winter 9, Nov 22 Madeira 9, Nov 27 Vietnam 9; each final scenic branded slide. Genuine video Sun 29 Cappadocia 8 clips, 25.1s, updated id 431589392. All PENDING, autoPublish true, draft false.",
+  "last_verified_metricool": "17 Nov 2026 final after QA: 14 November bookings = 7 PUBLISHED + 7 PENDING, 6 unused of 20. Six 4:5 swipeable carousels and 1 eight-shot genuine video Reel, all captions match exact source briefs, correct credited authors, autoPublish=true, draft=false, no duplicate UUIDs. See docs/audits/2026-11-17-triple-check-publishing-audit.md",
   "deferred_concepts": [
     {
       "id": "socotra-island-previously-researched",
@@ -248,14 +255,15 @@
   ],
   "manual_handover": {
     "date": "2026-11-17",
-    "status": "ALL requested corrections completed and seven scheduled existing bookings live in new formats. Legacy still-photo Reels hard-disabled in renderer and retired in content/reels briefs. All seven Atlas ChatGPT automations remain disabled.",
-    "last_completed_step": "Visual checked all carousel scenic closers, new extra source images and Pexels eight-shot Reel title/cover/storyboard; updated seven existing Metricool UUIDs and rechecked live pending statuses.",
-    "next_action": "Owner prompts Tuesday 24 Nov for week 30 Nov–6 Dec manual content batch, no automation."
+    "status": "All seven scheduled upcoming posts completed three-pass visual/editorial, facts/rights and live Metricool scheduling audit.",
+    "last_completed_step": "Corrected Lake Bled and Sa Pa images, Madeira official PR1 closure and cover, plus resumed edits to winter, Indonesia, desert and Vietnam. Confirmed live bookings and original UUIDs. Full audit docs/audits/2026-11-17-triple-check-publishing-audit.md",
+    "next_action": "User prompts Tuesday 24 November to prepare four new posts for 30 Nov–6 Dec. No Atlas scheduled ChatGPT tasks."
   },
   "archived_candidates": [
     {
       "path": "content/archive/south-america-landscapes-next-cycle-2026-11-24.json",
       "reason": "Archived unscheduled scenic collection to avoid duplicate issue 014 and excess fifth weekly publication; assign unique issue if used next Tuesday"
     }
-  ]
+  ],
+  "qa_report": "docs/audits/2026-11-17-triple-check-publishing-audit.md"
 }
