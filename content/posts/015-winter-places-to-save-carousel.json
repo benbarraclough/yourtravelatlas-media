@@ -1,0 +1,220 @@
+{
+  "issue": 15,
+  "slug": "015-winter-places-to-save-carousel",
+  "headline": "8 Real Places That Look Like a Winter Film Set",
+  "dek": "Real places worth discovering",
+  "category": "WORLDWIDE / WINTER GETAWAYS",
+  "cover_country": "WORLDWIDE",
+  "content_type": "discovery",
+  "strategy": "editorial_swipe_instead_of_fake_photo_reel",
+  "editorial_version": 7,
+  "editorial_status": "production_pending_QA",
+  "public_numbers": false,
+  "no_cta": true,
+  "format": "real_photo_swipe_with_scenic_branded_end",
+  "editorial_intent": "Replace the prohibited 011-five-winter-fairytale-places moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
+  "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
+  "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
+  "slide_count_rationale": "8 unique real licensed photographs followed by a scenic brand-ending mosaic recomposed from images already shown, with no reused external asset or filler photograph.",
+  "caption": "Eight real places that look like scenes from a winter film. ❄️\n\n📍 Rovaniemi, Finland — aurora above the snow forest.\n📍 Shirakawa-go, Japan — traditional farmhouses beneath a blanket of snow.\n📍 Reine, Norway — red fishing cabins below Arctic peaks.\n📍 Colmar, France — festive lights in the old town.\n📍 Jigokudani, Japan — snow monkeys soaking in hot springs.\n📍 Tallinn, Estonia — medieval rooftops in the snow.\n📍 Vatnajökull, Iceland — a luminous blue cave inside the glacier.\n📍 Québec City, Canada — Château Frontenac in winter.\n\nWhich winter scene would you travel for?\n\nPhotos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Davide Cantelli & Lianhao Qu / Unsplash.\n\n#YourTravelAtlas #WinterTravel #WinterTravel #TravelCarousel",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Rovaniemi, Finnish Lapland",
+      "body": "Northern lights glow above snowy Lapland woodland.",
+      "image_url": "https://images.unsplash.com/photo-1735475184398-1b92e2f2c742?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc",
+      "photographer": "Dylan Shaw",
+      "license": "Unsplash License",
+      "subject": "Rovaniemi, Finnish Lapland",
+      "alt": "Rovaniemi, Finnish Lapland, Dylan Shaw original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Rovaniemi, Finnish Lapland is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Photographer Dylan Shaw labels this original free-licence aurora and snow-forest image as Rovaniemi, Finland.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Shirakawa-go",
+      "body": "Traditional thatched village rooftops wear a deep winter blanket.",
+      "image_url": "https://images.unsplash.com/photo-1682595796206-e904e1e7c07e?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-snow-covered-village-surrounded-by-mountains-and-trees-4U1PeoPVZjU",
+      "photographer": "Da-shika",
+      "license": "Unsplash License",
+      "subject": "Shirakawa-go, Japan",
+      "alt": "Shirakawa-go, Japan, Da-shika original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-snow-covered-village-surrounded-by-mountains-and-trees-4U1PeoPVZjU",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-snow-covered-village-surrounded-by-mountains-and-trees-4U1PeoPVZjU"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Shirakawa-go, Japan is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Original free Unsplash image by Da-shika, photographed from Shiroyama Tenshukaku observation deck overlooking traditional Shirakawa-go in Ogimachi, Gifu, Japan; photographer location and Japanese description explicitly state this.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Reine, Lofoten",
+      "body": "Red fishing cabins hide below Arctic peaks in Lofoten.",
+      "image_url": "https://images.unsplash.com/photo-1632988281686-514932dff2dc?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U",
+      "photographer": "Marianne Gay",
+      "license": "Unsplash License",
+      "subject": "Reine, Lofoten, Norway",
+      "alt": "Reine, Lofoten, Norway, Marianne Gay original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Reine, Lofoten, Norway is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Photographer Marianne Gay identifies the original free Unsplash photo as Reine in Lofoten, Norway, showing red cabins beneath snow-covered peaks.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Colmar",
+      "body": "Festive lights fill an old town of pastel half-timbered houses.",
+      "image_url": "https://images.unsplash.com/photo-1769722039460-0d9832079217?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/people-walking-through-a-festive-town-square-at-night-fFrEVKdEra0",
+      "photographer": "Jametlene Reskp",
+      "license": "Unsplash License",
+      "subject": "Colmar, France",
+      "alt": "Colmar, France, Jametlene Reskp original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/people-walking-through-a-festive-town-square-at-night-fFrEVKdEra0",
+      "fact_checks": [
+        "https://unsplash.com/photos/people-walking-through-a-festive-town-square-at-night-fFrEVKdEra0"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Colmar, France is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Photographer Jametlene Reskp locates this free Unsplash photo of a festive town square at night in Colmar, France.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Jigokudani",
+      "body": "Wild snow monkeys soak in Japan's natural hot springs.",
+      "image_url": "https://images.unsplash.com/photo-1677030043671-d8b12af81725?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-snow-monkey-in-a-hot-tub-in-the-snow-FPXs_9oEjnI",
+      "photographer": "Rogério Toledo",
+      "license": "Unsplash License",
+      "subject": "Jigokudani, Japan",
+      "alt": "Jigokudani, Japan, Rogério Toledo original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-snow-monkey-in-a-hot-tub-in-the-snow-FPXs_9oEjnI",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-snow-monkey-in-a-hot-tub-in-the-snow-FPXs_9oEjnI"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Jigokudani, Japan is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "The original photographer locates a snow monkey soaking in a hot spring at Jigokudani Yaen Koen, Nagano, Japan.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Tallinn Old Town",
+      "body": "Snow settles across one of Europe's best preserved medieval old towns.",
+      "image_url": "https://images.unsplash.com/photo-1452868195396-89c1af3b1b2e?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/snow-covered-brown-white-and-gray-concrete-castle-under-cloudy-skies-2OSEWkQHiGI",
+      "photographer": "Ilya Orehov",
+      "license": "Unsplash License",
+      "subject": "Tallinn Old Town, Estonia",
+      "alt": "Tallinn Old Town, Estonia, Ilya Orehov original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/snow-covered-brown-white-and-gray-concrete-castle-under-cloudy-skies-2OSEWkQHiGI",
+      "fact_checks": [
+        "https://unsplash.com/photos/snow-covered-brown-white-and-gray-concrete-castle-under-cloudy-skies-2OSEWkQHiGI"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Tallinn Old Town, Estonia is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Photographer Ilya Orehov identifies the original free Unsplash snow-covered medieval town panorama as Tallinn Old Town, Estonia.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Vatnajökull",
+      "body": "Walk through brilliant blue ice tunnels on an organised glacier excursion.",
+      "image_url": "https://images.unsplash.com/photo-1474710820418-dd5406ee35d5?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/person-standing-in-ice-cave-at-daytime-r0q06hjTgOc",
+      "photographer": "Davide Cantelli",
+      "license": "Unsplash License",
+      "subject": "Vatnajökull, Iceland",
+      "alt": "Vatnajökull, Iceland, Davide Cantelli original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/person-standing-in-ice-cave-at-daytime-r0q06hjTgOc",
+      "fact_checks": [
+        "https://unsplash.com/photos/person-standing-in-ice-cave-at-daytime-r0q06hjTgOc"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Vatnajökull, Iceland is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Original freely reusable Unsplash photo by Davide Cantelli, titled glacier-cave-man-iceland, location specifically Vatnajökull National Park, Iceland, depicting a real person in the blue ice tunnel. Image also deposited CC0 on Wikimedia Commons.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Old Québec",
+      "body": "Château Frontenac towers above snow-covered Old Québec.",
+      "image_url": "https://images.unsplash.com/photo-1775533222324-b7a3b2fe0dba?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE",
+      "photographer": "Lianhao Qu",
+      "license": "Unsplash License",
+      "subject": "Old Québec, Canada",
+      "alt": "Old Québec, Canada, Lianhao Qu original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE",
+      "fact_checks": [
+        "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Old Québec, Canada is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Photographer Lianhao Qu locates the original free Unsplash winter Château Frontenac photo to Old Québec City in Canada.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/a-green-aurora-bore-in-the-sky-above-a-forest-94uGO6XrHcc",
+    "https://unsplash.com/photos/a-snow-covered-village-surrounded-by-mountains-and-trees-4U1PeoPVZjU",
+    "https://unsplash.com/photos/a-group-of-red-houses-sitting-next-to-a-snow-covered-mountain-7IqPh1sJU6U",
+    "https://unsplash.com/photos/people-walking-through-a-festive-town-square-at-night-fFrEVKdEra0",
+    "https://unsplash.com/photos/a-snow-monkey-in-a-hot-tub-in-the-snow-FPXs_9oEjnI",
+    "https://unsplash.com/photos/snow-covered-brown-white-and-gray-concrete-castle-under-cloudy-skies-2OSEWkQHiGI",
+    "https://unsplash.com/photos/person-standing-in-ice-cave-at-daytime-r0q06hjTgOc",
+    "https://unsplash.com/photos/chateau-frontenac-hotel-in-quebec-city-during-winter-C-QK2QttwEE"
+  ]
+}
