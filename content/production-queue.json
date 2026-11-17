@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated_at": "2026-11-17 14:12 Europe/London",
+  "version": 6,
+  "updated_at": "2026-11-17 (post-recovery live Metricool recheck)",
   "mode": "Manual owner-invoked Tuesday production session only. All seven Atlas ChatGPT automations disabled; never re-enable or recreate.",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "Live Metricool is authoritative. GitHub Actions render on brief commits; produced assets require actual QA before booking. No unattended scheduled ChatGPT jobs.",
@@ -92,15 +92,15 @@
       "brief": "content/posts/013-indonesia-beyond-bali-flores-komodo.json",
       "rendered_asset": "media/013-indonesia-beyond-bali-flores-komodo/",
       "verified": true,
-      "source_qa": "Five actual 1080x1350 outputs and captions checked; existing scheduled media and caption still use licensed Lisa van Vliet Pink Beach image, consistent with last rendered media manifest. A stronger Simon Spring candidate is saved in the active brief but has NOT yet rendered/synchronized with Metricool; do not claim it is live.",
-      "metricool_post_id": 431463978,
+      "source_qa": "17 Nov: improved Simon Spring original Unsplash Pink Beach aerial successfully rendered as final 1080×1350 JPG and inspected; scheduled media index 2 replaced and corresponding photographer credit and alt synchronized in existing Metricool UUID. Live re-fetch confirms PENDING, draft=false, autoPublish=true.",
+      "metricool_post_id": 431510344,
       "metricool_uuid": "8356741788287969",
       "metricool_status": "PENDING",
       "scheduled_for": "2026-11-23T19:00:00 Europe/London",
       "autoPublish": true,
       "draft": false,
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8356741788287969",
-      "next_action": "Optional: after newer image actually renders and passes QA, overwrite SAME Metricool UUID and change caption credit from Lisa van Vliet to Simon Spring. Otherwise preserve fully valid current booking."
+      "next_action": "None except monitor publication and verify 23 Nov published status on next manual session."
     },
     {
       "id": "014-five-places-desert-meets-the-sea",
@@ -146,15 +146,15 @@
       "brief": "content/reels/014-cappadocia-beyond-balloons.json",
       "rendered_asset": "media/reels/014-cappadocia-beyond-balloons/",
       "verified": true,
-      "source_qa": "Five different Pexels licensed moving footage clips with source pages and photographers credited; actual scene storyboard and cover inspected; GitHub renderer verified 1080x1920 MP4, 18.9 seconds, no audio.",
-      "metricool_post_id": 431502937,
+      "source_qa": "17 Nov: latest five real Pexels moving-clip storyboard and cover visually checked; corrected horse-rider sequence, proper Selman Arif Golbasi credit, latest 18.9 s silent MP4 from GitHub renderer and matching cover uploaded into same Metricool UUID. Verified PENDING, no draft and autoPublish=true.",
+      "metricool_post_id": 431510824,
       "metricool_uuid": "-406218192588947160",
       "metricool_status": "PENDING",
       "scheduled_for": "2026-11-29T19:00:00 Europe/London",
       "autoPublish": true,
       "draft": false,
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-406218192588947160",
-      "next_action": "None if publication proceeds."
+      "next_action": "None unless publication fails; inspect reach/performance at next owner-led Tuesday session."
     }
   ],
   "retired_and_replaced": [
@@ -189,9 +189,9 @@
     "current_week_16_to_22": "4/4: Mon 16 published Amalfi, Wed 18 pending Alpine, Fri 20 pending winter slideshow, Sun 22 pending Madeira slideshow fallback",
     "next_week_23_to_29": "4/4: Mon 23 Indonesia POST, Wed 25 desert POST, Fri 27 Vietnam slideshow REEL, Sun 29 Cappadocia true-motion REEL",
     "priorities": [
-      "On Tuesday 24 recheck all live Metricool statuses, full November 20-slot limit and performance; never duplicate confirmed bookings.",
-      "Start week 30 Nov–6 Dec four original posts, using archived South America concept only if unique issue number and final photos reviewed.",
-      "If a newly rendered upgraded Pink Beach image passes QA, replace the SAME Instagram 23 Nov booking and correct Simon Spring credit before publication; otherwise preserve existing validated image."
+      "On Tuesday 24 November, recheck current Metricool statuses and analytics for 23 November and other November bookings.",
+      "Prepare the next four posts for 30 November–6 December (2 swipeable carousels; 1 still-photo Reel; 1 real moving Reel or slideshow fallback), counting Nov 30 as one of November's up to 20 posts.",
+      "Select excellent concepts and images; archived South America may be reused only with unique new issue ID and complete visual, location and licence QA. Do not use month allowance to force more than four per week."
     ]
   },
   "checks": [
@@ -202,7 +202,7 @@
     "Only mark scheduled when Metricool confirms PENDING, draft false and autoPublish true",
     "Owner prompts manually on Tuesday and follows up when needed"
   ],
-  "last_verified_metricool": "17 Nov 2026 ~14:12 UK live planner: 14 November posts total = seven PUBLISHED plus seven PENDING, all future autoPublish true draft false. SIX unused slots of the 20/month cap; do not exceed agreed 4 per publication week to fill the cap.",
+  "last_verified_metricool": "17 Nov after recovery: 14 November bookings in live Metricool (7 PUBLISHED, 7 PENDING), 6/20 November slots unfilled. Seven upcoming PENDING dates 18,20,22,23,25,27,29 November; all autoPublish=true, draft=false. Indonesia updated in original booking ID 431510344 UUID 8356741788287969; Cappadocia updated in original booking ID 431510824 UUID -406218192588947160. Other slots unchanged.",
   "deferred_concepts": [
     {
       "id": "socotra-island-previously-researched",
@@ -255,9 +255,9 @@
   ],
   "manual_handover": {
     "date": "2026-11-17",
-    "status": "Both weeks fully scheduled; all seven Atlas ChatGPT task automations paused, deletion not exposed via this connector; user deletes from ChatGPT Scheduled UI if desired.",
-    "last_completed_step": "True moving Cappadocia Reel booked Sun 29, revised Madeira content updated within existing booking Sun 22; QA of 25 desert and 27 Vietnam visuals completed.",
-    "next_action": "User's next Tuesday 24 Nov manual prompt; keep 4/week format and check unused monthly allowance."
+    "status": "Production for publication weeks 16–22 and 23–29 Nov fully scheduled (4/4 each); seven Atlas ChatGPT scheduled tasks paused. No tool capability to permanently delete tasks.",
+    "last_completed_step": "Recovered after interrupted turn; corrected and re-uploaded Indonesia Pink Beach and genuine moving Cappadocia Reel; rechecked PENDING, autoPublish=true and draft=false.",
+    "next_action": "User next prompts Tuesday 24 Nov to schedule 30 Nov–6 Dec posts. Check live calendar first; six Nov slots remain but four-post/week quality policy overrides filling all allocation."
   },
   "archived_candidates": [
     {
