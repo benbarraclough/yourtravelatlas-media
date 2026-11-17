@@ -8,7 +8,7 @@ An editor-led, image-led Instagram travel discovery project for [@yourtravelatla
 
 - **Manual Tuesday production:** The owner prompts ChatGPT each Tuesday and may issue continuation prompts. No ChatGPT Atlas scheduled jobs run. In-session work checks Metricool, researches and verifies sources, creates/reviews finished assets via GitHub render workflows, and schedules finished content in Metricool. All seven legacy Atlas ChatGPT tasks are paused; do not create or re-enable.
 - A rendered asset is not automatically QA-approved. A scheduled success requires live `PENDING`, `draft=false`, `autoPublish=true`.
-- **Four posts per following week in total, including posts already booked:** **2 swipeable carousel POSTS (4:5, 1080×1350 JPGs), 1 still-photo slideshow REEL (9:16, 1080×1920 MP4), and 1 genuine moving-footage REEL (9:16, 1080×1920 MP4)**. If suitable real video footage cannot be sourced and rendered, publish **another slideshow REEL** in its place. Slideshow Reels autoplay; carousels are manually swipeable, never interchange them.
+- **Four posts per following week**, counting published/scheduled: **THREE manual swipe carousels** (4:5 separate portrait photographs, 8–10 slides including scenic "FILL YOUR FEED WITH WONDER." closing card), plus **ONE genuine moving-footage Reel** (9:16, ideally 7–10 licensed clips). If authentic motion isn't feasible, use a fourth carousel. **No zooming-still-photo MP4 Reels.**
 - Accurate places and gripping hooks, strong licensed photographs, phone-legible covers, compact helpful captions and source/rights evidence. No music, public issue numbers, fabricated destinations, mandatory extra subscriptions, or routine owner approvals.
 - Maximum **20 posts per calendar month** or any stricter Metricool limit; never duplicate or revive retired ideas. Successful GitHub rendering alone does not mean Instagram is scheduled.
 
@@ -35,3 +35,16 @@ Metricool shows **7 November posts PUBLISHED + 7 PENDING = 14/20 allowance used;
 All seven Atlas ChatGPT automations are **paused**. There is no delete action in the available Automations connector; the user can permanently delete them in ChatGPT **Scheduled**. Do not create replacements. Owner prompts each **Tuesday**, next on **24 Nov**, to produce the following four-post week. A candidate South America carousel is parked in `content/archive/` for future approval only, not booked. The 23 Nov Indonesia carousel was improved again: a stronger Simon Spring original Pink Beach aerial photograph replaced the earlier image within the SAME Metricool booking, new id 431514077; live caption credits and alt text were reconciled and verified PENDING.
 
 Follow [ATLAS_WEEKLY.md](ATLAS_WEEKLY.md) and [content/production-queue.json](content/production-queue.json) for live operating policy/next actions, but **Metricool brand 7717708** is authoritative for real posting. Never put credentials in this public repository.
+## Confirmed live position — 17 November 2026 after manual corrections
+
+**Metricool rechecked:** 7 November PUBLISHED and 7 upcoming PENDING (18, 20, 22, 23, 25, 27, 29 November), all autoPublish=true and draft=false. November allowance **14/20 used, 6 remain**. All revised original UUIDs preserved without duplicate slots.
+
+**16–22 November:** 16 Nov Amalfi already PUBLISHED; 18 Nov seven mountain viewpoints, 8-slide carousel; 20 Nov winter places, 9-slide carousel; 22 Nov Madeira, 9-slide carousel. Each revised carousel ends with a scenic Fill Your Feed With Wonder slide. No still-image zoom Reels scheduled.
+
+**23–29 November:** 23 Nov Indonesia Beyond Bali, 8-slide carousel; 25 Nov desert meets the sea, 8-slide carousel; 27 Nov Vietnam, 9-slide carousel; 29 Nov Cappadocia, genuine eight moving-footage shot 25.1-second silent Reel with bold '5 Cappadocia Experiences Worth the Journey' opening and moving-footage branded outro.
+
+**GitHub reference:** content/production-queue.json and CURRENT_STATE.json hold live verified IDs, rights and production state. Historic photo slideshow Reel source briefs are marked rejected and scripts/render_reel.py hard-disables this format. All seven ChatGPT Atlas legacy automations remain paused; owner prompts manually every Tuesday.
+
+**Future original editorial ideas:** [17 November travel-content research](docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md) describes diverse experiences, rail journeys, oddities, natural history, local culture, guides and reputable travel-editorial inspirations. Never reuse the source creators' images or words without permission.
+
+**Next owner-initiated session:** Tuesday 24 November 2026, for 30 Nov–6 Dec; three 8–10-image swipe carousels plus one real footage Reel (or four carousels if motion footage unworkable).
