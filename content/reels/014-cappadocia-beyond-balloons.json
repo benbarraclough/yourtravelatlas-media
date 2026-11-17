@@ -5,7 +5,7 @@
   "hook": "5 Cappadocia Experiences Worth the Journey",
   "treatment": "discovery_v1",
   "editorial_version": 7,
-  "editorial_status": "production_pending_QA",
+  "editorial_status": "approved_scheduled",
   "audio_policy": "no_music",
   "editorial_intent": "An eight-clip authentic moving-film guide to five distinct Cappadocia travel experiences, each shown in real filmed action, not a balloon-only generic highlight video.",
   "share_reason": "Five specific bucket-list-worthy Cappadocia experiences in eight unique licensed moving shots, with a strong legible opener and a scenic brand finish.",
@@ -136,5 +136,8 @@
       "activity_source": "https://goturkiye.com/cappadocia"
     }
   ],
-  "design_revision": "Eight original moving clips; high-contrast type in the first 9:16 frame; clear lower-third overlays; final moving-footage Fill Your Feed With Wonder CTA."
+  "design_revision": "Eight original moving clips; high-contrast type in the first 9:16 frame; clear lower-third overlays; final moving-footage Fill Your Feed With Wonder CTA.",
+  "verified_metricool_id": 431589392,
+  "verified_metricool_uuid": "-406218192588947160",
+  "verified_at": "2026-11-17"
 }
