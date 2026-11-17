@@ -375,6 +375,9 @@ def validate_editorial(post):
 
 
 def draw_slide(source, post, item, index, count):
+    if item.get("layout") == "brand_end":
+        # Layout preflight uses the same input photo three times; build() uses three distinct originals.
+        return draw_brand_end([source,source,source])
     if item.get("layout") == "landscape":
         return draw_landscape(source, post, item)
     if post.get("editorial_version", 0) >= 7:
