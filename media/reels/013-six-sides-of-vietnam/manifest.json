@@ -1,0 +1,69 @@
+{
+  "status": "rendered-not-scheduled",
+  "type": "photo_slideshow_v1",
+  "video": "reel.mp4",
+  "cover": "cover.jpg",
+  "source_brief": "content/reels/013-six-sides-of-vietnam.json",
+  "brief_sha256": "eff9a3dbc5cf5e6585503802756072c2422451cf1a654f1176de8857e5961830",
+  "video_sha256": "f3fd0fd9417a22660c7706fa5cf2d7df55ac761425596694d5b841c786ef3d68",
+  "audio_streams": 0,
+  "image_count": 6,
+  "duration_seconds": 21.0,
+  "caption": "One country. Six extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Adam Young, Bernd 📷 Dittrich, Wietse Jongsma, Mayur Arvind, Andrew Svk & Jason Pham / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelReels #TravelDiscovery",
+  "images": [
+    {
+      "source_page": "https://unsplash.com/photos/a-boat-sails-through-a-bay-with-towering-limestone-karsts-dooX1R4_0Z8",
+      "photographer": "Adam Young",
+      "license": "Unsplash License",
+      "subject": "Hạ Long Bay, Vietnam",
+      "overlay": "HẠ LONG BAY — boats between misty sea cliffs",
+      "source_sha256": "9a7f9a0714cc90e457decbdb3a0549ac3332be4cc9f224d75e59625125baa601",
+      "location_evidence": "Adam Young's original Unsplash photo identifies a boat sailing through towering limestone karsts at Hạ Long Bay in Vietnam."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+      "photographer": "Bernd 📷 Dittrich",
+      "license": "Unsplash License",
+      "subject": "Tràng An, Ninh Bình, Vietnam",
+      "overlay": "TRÀNG AN — riverboats through emerald karsts",
+      "source_sha256": "2fe93d713f000db9b75a7e1df5310a068c86bc7e29a636637118f0833c7ba80e",
+      "location_evidence": "Bernd Dittrich's original Unsplash photograph labels Tràng An in the Hoa Lư district of Ninh Bình, Vietnam and depicts boats through lush green karst hills."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/terraced-rice-fields-with-small-houses-dot-the-landscape-gwxITBKRiZQ",
+      "photographer": "Wietse Jongsma",
+      "license": "Unsplash License",
+      "subject": "Sa Pa, Vietnam",
+      "overlay": "SA PA — rice terraces cut into the mountains",
+      "source_sha256": "4a54277f3038accf7d2a6f38883934c6538ca356966a91bbf65fc73d2a3d6b1a",
+      "location_evidence": "Wietse Jongsma's original Unsplash photograph identifies the terraced rice fields in Sa Pa, Vietnam, with small houses and patterned mountain slopes."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+      "photographer": "Mayur Arvind",
+      "license": "Unsplash License",
+      "subject": "Ban Gioc Falls, Cao Bằng, Vietnam",
+      "overlay": "BAN GIOC — waterfalls on the northern border",
+      "source_sha256": "4cd6433764f31365fa9d88e9e65777944a6d179f8ceaf04270472d1569e80138",
+      "location_evidence": "Mayur Arvind's original Unsplash image identifies Ban Gioc Falls in Cao Bang, Vietnam, showing the cascading wide waterfall at the Vietnam-China border."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+      "photographer": "Andrew Svk",
+      "license": "Unsplash License",
+      "subject": "Hang Én Cave, Quảng Bình, Vietnam",
+      "overlay": "HANG ÉN — camp inside an enormous cave",
+      "source_sha256": "79e906dafdc668f02ef6b8ced6c4341c9df94db851b6c15f9d7b7348ded0fd0e",
+      "location_evidence": "Andrew Svk's original Unsplash page describes an actual overnight campsite inside Hang En cave in Quang Binh, Vietnam, photographed during a cave trip."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+      "photographer": "Jason Pham",
+      "license": "Unsplash License",
+      "subject": "Hội An, Vietnam",
+      "overlay": "HỘI AN — lantern-lit boats after dark",
+      "source_sha256": "2074d246b5780b8b422924927a3c280405c01f7aa3feea35974a45cf0eeeb1c6",
+      "location_evidence": "Jason Pham's original Unsplash photograph identifies the lantern-lit riverside atmosphere in Hội An, Quảng Nam, Vietnam with floating lights on the river."
+    }
+  ]
+}
