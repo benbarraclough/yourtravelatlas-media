@@ -92,15 +92,15 @@
       "brief": "content/posts/013-indonesia-beyond-bali-flores-komodo.json",
       "rendered_asset": "media/013-indonesia-beyond-bali-flores-komodo/",
       "verified": true,
-      "source_qa": "17 Nov: improved Simon Spring original Unsplash Pink Beach aerial successfully rendered as final 1080×1350 JPG and inspected; scheduled media index 2 replaced and corresponding photographer credit and alt synchronized in existing Metricool UUID. Live re-fetch confirms PENDING, draft=false, autoPublish=true.",
-      "metricool_post_id": 431510344,
+      "source_qa": "17 Nov: All five final 1080x1350 rendered JPGs and new Simon Spring aerial Pink Beach image inspected. Original source/rights reviewed; source brief, renderer manifest, live media, alt and photographer credits now all match.",
+      "metricool_post_id": 431514077,
       "metricool_uuid": "8356741788287969",
       "metricool_status": "PENDING",
       "scheduled_for": "2026-11-23T19:00:00 Europe/London",
       "autoPublish": true,
       "draft": false,
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=8356741788287969",
-      "next_action": "None except monitor publication and verify 23 Nov published status on next manual session."
+      "next_action": "None unless Metricool fails publication; revised photo and credits synchronized on the existing Monday 23 Nov UUID."
     },
     {
       "id": "014-five-places-desert-meets-the-sea",
@@ -202,7 +202,7 @@
     "Only mark scheduled when Metricool confirms PENDING, draft false and autoPublish true",
     "Owner prompts manually on Tuesday and follows up when needed"
   ],
-  "last_verified_metricool": "17 Nov after recovery: 14 November bookings in live Metricool (7 PUBLISHED, 7 PENDING), 6/20 November slots unfilled. Seven upcoming PENDING dates 18,20,22,23,25,27,29 November; all autoPublish=true, draft=false. Indonesia updated in original booking ID 431510344 UUID 8356741788287969; Cappadocia updated in original booking ID 431510824 UUID -406218192588947160. Other slots unchanged.",
+  "last_verified_metricool": "17 November 2026 approx 14:17 UK: 14 of 20 November items (7 PUBLISHED, 7 PENDING) confirmed, including revised Indonesia same booking UUID id 431514077; six remaining slots. Two weeks of 4/4.",
   "deferred_concepts": [
     {
       "id": "socotra-island-previously-researched",
@@ -256,7 +256,7 @@
   "manual_handover": {
     "date": "2026-11-17",
     "status": "Production for publication weeks 16–22 and 23–29 Nov fully scheduled (4/4 each); seven Atlas ChatGPT scheduled tasks paused. No tool capability to permanently delete tasks.",
-    "last_completed_step": "Recovered after interrupted turn; corrected and re-uploaded Indonesia Pink Beach and genuine moving Cappadocia Reel; rechecked PENDING, autoPublish=true and draft=false.",
+    "last_completed_step": "Recovered after interrupted turn; corrected and re-uploaded Indonesia Pink Beach and genuine moving Cappadocia Reel; rechecked PENDING, autoPublish=true and draft=false. Revised Indonesia Pink Beach image and caption photographer now synchronized within its existing 23 Nov Metricool booking.",
     "next_action": "User next prompts Tuesday 24 Nov to schedule 30 Nov–6 Dec posts. Check live calendar first; six Nov slots remain but four-post/week quality policy overrides filling all allocation."
   },
   "archived_candidates": [
