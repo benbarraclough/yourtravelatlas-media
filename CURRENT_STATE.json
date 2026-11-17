@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-17 — live Metricool verified after recovered interrupted production",
+  "snapshot_date": "2026-11-17 — post-revisions live Metricool PENDING verification",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -7,9 +7,9 @@
     "note": "This file is a dated snapshot, never proof of future publishing."
   },
   "editorial": {
-    "formats": "2 manually swipeable 4:5 carousel POSTS + 1 9:16 still-photo slideshow REEL + 1 9:16 genuine moving-footage REEL (if footage impractical substitute second slideshow REEL)",
-    "mix": "Keep destination discoveries; target two specific curiosity-led thematic/activity/experience posts per week",
-    "rights": "Exact licensed source verification required",
+    "formats": "Manual swipe PHOTO carousel POST 4:5 with 7–9 original photographs + scenic Fill Your Feed With Wonder final slide; genuine footage REEL 9:16 with ideally 7–10 real moving shots; no photo-zoom slideshow videos whatsoever.",
+    "mix": "3 authentic, curiosity-led carousels and 1 genuine footage Reel per week; if footage unworkable fallback 4 carousels",
+    "rights": "original individual asset page and original licensed media verified",
     "music": false,
     "public_issue_numbers": false,
     "owner_routine_approval": false
@@ -46,63 +46,76 @@
   ],
   "known_pending_at_snapshot": [
     {
-      "name": "7 Mountain Views Without the Summit Hike",
-      "date": "2026-11-18T19:00:00",
-      "format": "carousel POST",
-      "metricool_post_id": 427230845
+      "name": "010-mountain-views-without-summit-hikes",
+      "date": "2026-11-18T19:00:00 Europe/London",
+      "format": "carousel_POST",
+      "metricool_post_id": 431597761,
+      "metricool_uuid": "8564036779370171055",
+      "asset_count": 8
     },
     {
-      "name": "8 Winter Film-Set Places",
-      "date": "2026-11-20T19:00:00",
-      "format": "photo slideshow REEL",
-      "metricool_post_id": 427232781
+      "name": "015-winter-places-to-save-carousel",
+      "date": "2026-11-20T19:00:00 Europe/London",
+      "format": "carousel_POST",
+      "metricool_post_id": 431596084,
+      "metricool_uuid": "-6536199878840203546",
+      "asset_count": 9
     },
     {
-      "name": "Madeira: Cloud-Top Trails, Black Sand & Lava Pools",
-      "date": "2026-11-22T19:00:00",
-      "format": "photo slideshow REEL",
-      "metricool_post_id": 431506131
+      "name": "016-madeira-six-landscapes-carousel",
+      "date": "2026-11-22T19:00:00 Europe/London",
+      "format": "carousel_POST",
+      "metricool_post_id": 431596612,
+      "metricool_uuid": "-4740298397487379750",
+      "asset_count": 9
     },
     {
-      "name": "Indonesia Beyond Bali: Dragons, Pink Sand & Volcano Lakes",
-      "date": "2026-11-23T19:00:00",
-      "format": "carousel POST",
-      "metricool_post_id": 431510344
+      "name": "013-indonesia-beyond-bali-flores-komodo",
+      "date": "2026-11-23T19:00:00 Europe/London",
+      "format": "carousel_POST",
+      "metricool_post_id": 431597870,
+      "metricool_uuid": "8356741788287969",
+      "asset_count": 8
     },
     {
-      "name": "Five Places Where the Desert Meets the Sea",
-      "date": "2026-11-25T19:00:00",
-      "format": "carousel POST",
-      "metricool_post_id": 431479145
+      "name": "014-five-places-desert-meets-the-sea",
+      "date": "2026-11-25T19:00:00 Europe/London",
+      "format": "carousel_POST",
+      "metricool_post_id": 431597947,
+      "metricool_uuid": "-9031722169793101431",
+      "asset_count": 8
     },
     {
-      "name": "Six Places That Make Vietnam Unforgettable",
-      "date": "2026-11-27T19:00:00",
-      "format": "photo slideshow REEL",
-      "metricool_post_id": 431495264
+      "name": "017-vietnam-six-places-carousel",
+      "date": "2026-11-27T19:00:00 Europe/London",
+      "format": "carousel_POST",
+      "metricool_post_id": 431596729,
+      "metricool_uuid": "-7665823664039377160",
+      "asset_count": 9
     },
     {
-      "name": "Cappadocia Beyond Balloons",
-      "date": "2026-11-29T19:00:00",
-      "format": "true moving-footage REEL",
-      "metricool_post_id": 431510824
+      "name": "014-cappadocia-beyond-balloons",
+      "date": "2026-11-29T19:00:00 Europe/London",
+      "format": "genuine_moving_video_REEL",
+      "metricool_post_id": 431589392,
+      "metricool_uuid": "-406218192588947160",
+      "asset_count": 8
     }
   ],
   "next_run_priority": {
     "week": "2026-11-30 to 2026-12-06",
     "already_booked": 0,
     "remaining_to_schedule": 4,
-    "focus": "Owner manual prompt Tuesday 24 Nov: audit post reach and actual publication, schedule 2 swipeable carousels + 1 still photo Reel + 1 genuine motion Reel (or still fallback), respecting November/December allowance."
+    "focus": "Manually triggered Tuesday 24 November; draw on docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md and user feedback, no still-photo motion reels, strong editorial hook, 8–10 carousel pages with branded end."
   },
   "capacity": {
     "max_calendar_month": 20,
     "known_november_published_at_snapshot": 7,
     "known_november_pending_at_snapshot": 7,
-    "confirmed_unused_slots": 6,
-    "untracked_manual_posts": "No other November entries were returned by live Metricool check 17 Nov; recheck at next session"
+    "confirmed_unused_slots": 6
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "17 Nov final live: seven published, seven PENDING, six month slots unused. Cappadocia true 5-clip Reel updated with real riders and corrected Selman Arif Golbasi credit; five scenes and 18.9s zero-audio video verified. All 7 Atlas tasks paused; next manual prompt Tuesday 24 Nov.",
+  "test_status": "17 Nov: six revised photographic swipe carousels and one 8-clip genuine video Reel all rebooked PENDING autoPublish=true draft=false; 14/20 monthly used. GitHub rendering and final brand image QA complete; real video storyboard/cover/manifest inspected, silent 25.1 s. Older slideshow video renderer hard-disabled.",
   "extra_cost_gbp": 0,
   "manual_workflow": {
     "initiator": "User each Tuesday, can manually prompt continue",
