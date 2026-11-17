@@ -59,17 +59,17 @@ The Metricool allowance is **20 total posts per calendar month**, including post
 | --- | --- | --- | ---: | ---: |
 | Mon 16 Nov | Carousel POST — PUBLISHED | Amalfi coast | 6 | 429111375 |
 | Wed 18 Nov | Carousel POST | 7 Mountain Views Without a Summit Hike | 8 | 431674912 |
-| Fri 20 Nov | Carousel POST (replaced photo Reel) | 8 Winter Film-Set Places | 9 | 431670992 |
-| Sun 22 Nov | Carousel POST (replaced photo Reel) | Madeira | 9 | 431671098 |
-| Mon 23 Nov | Carousel POST | Indonesia Beyond Bali | 8 | 431671167 |
-| Wed 25 Nov | Carousel POST | Where the Desert Meets the Sea | 8 | 431671357 |
-| Fri 27 Nov | Carousel POST (replaced photo Reel) | Vietnam | 9 | 431671527 |
+| Fri 20 Nov | Carousel POST (replaced photo Reel) | 8 Winter Film-Set Places | 9 | 431684601 |
+| Sun 22 Nov | Carousel POST (replaced photo Reel) | Madeira | 9 | 431684520 |
+| Mon 23 Nov | Carousel POST | Indonesia Beyond Bali | 8 | 431684800 |
+| Wed 25 Nov | Carousel POST | Where the Desert Meets the Sea | 8 | 431692248 |
+| Fri 27 Nov | Carousel POST (replaced photo Reel) | Vietnam | 9 | 431694299 |
 | Sun 29 Nov | Genuine moving-video REEL | 5 Cappadocia Experiences Worth the Journey | 8 filmed clips | 431589392 |
 
 All new photo carousels have their dedicated last **Fill Your Feed With Wonder** scenic slide. The original November 20, 22 and 27 static-image MP4s were overwritten as native swipe carousels **in their existing Metricool UUIDs** and are no longer upcoming. The original motion video was replaced with an improved eight-shot H.264 25.1-second silent reel, large bold shaded intro and genuine filmed outro. All seven bookings were verified PENDING after update, without new quota slots. The old three still-Reel source briefs are marked `rejected`, and the real Reel renderer refuses `photo_slideshow_v1` even for future new inputs.
 
 **Latest editorial research:** `docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md` provides a range of original carousel/moving-video concepts from Atlas Obscura, Lonely Planet, Time Out, Condé Nast and travel creator content patterns. Independently verify claims and rights; do not copy media or language.
 
-**Complete dated change log and quality evidence:** `docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md`; six photo carousels and the genuine video Reel reviewed against finished media, licences, captions, credits and existing Metricool bookings. All corrected image uploads, new alt text and final dates are reflected in this table. A lower-priority optional opportunity is replacing the second Dune du Pilat angle if a stronger different original licensed coast is found without weakening quality.
+**Complete dated change log and quality evidence:** `docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md`; six photo carousels and the genuine video Reel reviewed against finished media, licences, captions, credits and existing Metricool bookings. All corrected image uploads, new alt text and final dates are reflected in this table. The dull second Dune du Pilat view has been replaced with a genuinely different licensed Maspalomas coastal dune scene after inspecting the full-resolution rendered output; the original image and photographer credit were verified.
 
 **Next manual owner prompt:** Tuesday 24 November for publication week 30 Nov–6 Dec. Default new mix three genuine photo carousels (8–10 slides, including branded scenic ending) and one true moving-footage Reel (7–10 distinct clips); four carousels as fallback. Do not create a scheduled ChatGPT task or autonomously post outside this prompted work.
