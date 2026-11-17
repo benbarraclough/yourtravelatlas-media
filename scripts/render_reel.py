@@ -299,7 +299,8 @@ if __name__=="__main__":
             except (OSError,ValueError,KeyError,TypeError):
                 pass  # Invalid cache evidence means render and validate again.
         if brief.get("treatment")=="photo_slideshow_v1":
-            from render_photo_reel import render as render_photo_slideshow
-            render_photo_slideshow(p)
-        else:
-            main(p)
+            # Owner's hard ban: still-photo zoom videos are not genuine Reels.
+            # Preserve old files for history but never re-render or publish them.
+            print(f"RETIRED PHOTO-SLIDESHOW REEL: use a real photo carousel POST instead: {p.name}",flush=True)
+            continue
+        main(p)
