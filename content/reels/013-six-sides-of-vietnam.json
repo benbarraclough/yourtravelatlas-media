@@ -9,7 +9,7 @@
   "audio_policy": "no_music",
   "editorial_intent": "Introduce six authentic visually and experientially contrasting destinations in Vietnam through a short cinematic silent editorial photo slideshow with exact source pages and truthful location tags. The cover and terraced fields source photographs were upgraded after actual storyboard QA exposed subdued first-frame and muted paddy imagery.",
   "share_reason": "A strongly varied saveable reveal of maritime karsts, river scenery, rice terraces, cascading falls, epic cave camping and lantern-lit heritage streets within one country.",
-  "editorial_status": "production_pending_QA",
+  "editorial_status": "rejected",
   "images": [
     {
       "subject": "Hạ Long Bay, Vietnam",
@@ -66,5 +66,7 @@
       "license": "Unsplash License"
     }
   ],
-  "frames_per_image": 105
+  "frames_per_image": 105,
+  "retired_reason": "Owner prohibited moving-zoom still-photo videos on 17 Nov 2026; replaced in existing Metricool UUID by manual swipe carousel POST.",
+  "replaced_by": "content/posts/017-vietnam-six-places-carousel.json"
 }
