@@ -173,13 +173,13 @@
     {
       "layout": "photo",
       "heading": "Maspalomas Dunes, Spain",
-      "body": "A lone walker crosses golden dunes above the Atlantic at sunset.",
+      "body": "Follow golden dune ridges with the Atlantic on the horizon.",
       "image_url": "https://images.unsplash.com/photo-1696082748614-d0d096eb9382?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
       "photographer": "Marco Canepa",
       "license": "Unsplash License",
-      "subject": "A lone person on golden sunset dune ridge with the Atlantic beyond in Maspalomas Gran Canaria Spain",
-      "alt": "Warm sunset over rolling golden Maspalomas dunes, with a lone figure on a ridge and the Atlantic beyond. Text: Maspalomas Dunes, Spain.",
+      "subject": "A few walkers on sunlit golden dune ridges above the Atlantic at Maspalomas Gran Canaria Spain",
+      "alt": "Three walkers crossing golden dunes, with a visible Atlantic Ocean horizon at Maspalomas, Gran Canaria, Spain.",
       "activity_source": "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/",
       "fact_checks": [
         "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
@@ -188,10 +188,10 @@
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "Human-scale sunset dune walk at Maspalomas adds a memorable, emotional way to experience huge protected coastal dunes.",
-        "image_context": "Original free-licensed Unsplash photo by Marco Canepa explicitly describes a person standing on the sunset sand dune at Maspalomas, Gran Canaria, Spain, with the Atlantic visible in the background.",
+        "reader_value": "A dramatic golden dune landscape with several tiny walkers for scale and ocean on the horizon adds human experience, a vivid new colour palette and a sixth distinct location.",
+        "image_context": "Original free Unsplash photo by Marco Canepa identifies Maspalomas in Gran Canaria, Spain; the rendered image clearly shows three small walkers, golden dune ridges and ocean on the horizon, not a lone person or clear sunset.",
         "specific_detail": "The Canary Islands official tourism material confirms the natural dune reserve adjoining Maspalomas beach, Gran Canaria.",
-        "distinct_contribution": "A warm human silhouette over dunes provides a different geography, scene and colour from the more distant drone views elsewhere in the collection."
+        "distinct_contribution": "Several walkers visible on broad sculpted coastal dunes provide a warm human-scale scene distinct from the aerial views of Namibia, the Dune du Pilat and Australian coastline."
       }
     },
     {
@@ -221,5 +221,5 @@
     "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/",
     "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/"
   ],
-  "last_qa_findings": "2026-11-17 final QA: the initially selected extra Dune du Pilat frame lacked visual impact; rejected bland Corralejo candidate and replaced with original Maspalomas sunset dune by Marco Canepa, confirmed by his free Unsplash page to show sunset dunes with Atlantic visible, location Gran Canaria. Updated exact photo credits, caption and official island fact source. Do not book until 7th rendered slide inspected."
+  "last_qa_findings": "17 Nov final visual QA: replaced weak duplicated Dune du Pilat with a distinct licensed Maspalomas coastal dune photo (Marco Canepa, original free Unsplash source verified). After actually seeing rendered photo, corrected unsupported 'lone walker at sunset' wording to accurately describe several walkers and golden dunes with Atlantic horizon. Correct author caption and exact island named; MUST rerender and sync original Metricool slot before mark complete."
 }
