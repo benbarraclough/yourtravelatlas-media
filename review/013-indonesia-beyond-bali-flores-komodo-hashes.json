@@ -1,13 +1,16 @@
 {
   "issue": 13,
   "slug": "013-indonesia-beyond-bali-flores-komodo",
-  "brief_sha256": "bbfbbd7f249d7364fe20bb105caa3ba541d49b2e8b008cb3d9da43faf8237ee0",
-  "caption_sha256": "10c566b1e5a02dce73d7509fad25d7546a9e914a4ffeed22670386d06e3858cc",
+  "brief_sha256": "c34e54d27cabcf99b39a2b5f72d09bd57bf9995802dcbe630cd9beb72eb8632a",
+  "caption_sha256": "5917fdad3c2b8f60411c8f8dbd1aed492524aa5ef40322404a3eb59484408896",
   "image_sha256": {
     "media/013-indonesia-beyond-bali-flores-komodo/01.jpg": "f782edafeffc0e06bbb632ee92b859ad04585f3b438a00bfd5a229cc03174511",
-    "media/013-indonesia-beyond-bali-flores-komodo/02.jpg": "029bde97d205f14cff9fbf4c74777e2ff6c06f81f22aabe21c93cb01a562b620",
-    "media/013-indonesia-beyond-bali-flores-komodo/03.jpg": "3570cd1bd24bc3e0acc62355111077894fa2ef41ab101773218f0ca866dd5b63",
-    "media/013-indonesia-beyond-bali-flores-komodo/04.jpg": "31a4ac5c3781dd1ed66c0e57f4b11e6ec78dd0f376eef85d39c5dec239d121c9",
-    "media/013-indonesia-beyond-bali-flores-komodo/05.jpg": "af65771564f48cca474bce3ec3f270933a822594a190f39efe2ae5eeb4888be1"
+    "media/013-indonesia-beyond-bali-flores-komodo/02.jpg": "ea769cfcc3172e275e6647b74898d6eda8bc98cdf9f5550effd324bc1a636419",
+    "media/013-indonesia-beyond-bali-flores-komodo/03.jpg": "029bde97d205f14cff9fbf4c74777e2ff6c06f81f22aabe21c93cb01a562b620",
+    "media/013-indonesia-beyond-bali-flores-komodo/04.jpg": "3570cd1bd24bc3e0acc62355111077894fa2ef41ab101773218f0ca866dd5b63",
+    "media/013-indonesia-beyond-bali-flores-komodo/05.jpg": "31a4ac5c3781dd1ed66c0e57f4b11e6ec78dd0f376eef85d39c5dec239d121c9",
+    "media/013-indonesia-beyond-bali-flores-komodo/06.jpg": "af65771564f48cca474bce3ec3f270933a822594a190f39efe2ae5eeb4888be1",
+    "media/013-indonesia-beyond-bali-flores-komodo/07.jpg": "643c1e68d03795a85328aed718109209594390d5b77cf463245813d91d23345d",
+    "media/013-indonesia-beyond-bali-flores-komodo/08.jpg": "61301b5de29ee16ecc3bdf23df983c21cb4f9c3738b4e96f9aefa2cc78ba5b00"
   }
 }

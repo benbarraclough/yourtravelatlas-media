@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "2e11a468608dab7b3f329f7ab9e9e0b35933d6a30bb67b040069c5c8c336fea5",
-  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.\n📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.\n📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.\n\nWhich coastline would you explore first?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
+  "brief_sha256": "a07080274ebf636ff7e5cdf391c397e76f301ca5d787b2a84e4db33b80a2923c",
+  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.\n📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.\n📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.\n\nWhich coastline would you explore first?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw, Slim MARS / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
   "fact_sources": [
     "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
     "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
@@ -18,7 +18,9 @@
     "https://commons.wikimedia.org/wiki/File:Sea_meets_sand_dunes_in_Khawr_Al_Udayd.jpg",
     "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-y6VK9hXG82A",
     "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
-    "https://creativecommons.org/licenses/by/2.0/"
+    "https://creativecommons.org/licenses/by/2.0/",
+    "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
+    "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
   ],
   "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
@@ -51,13 +53,39 @@
       ]
     },
     {
+      "subject": "Namib dunes washing into ocean at Sandwich Harbour Namibia",
+      "source_page": "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "alt": "Namib dunes washing into ocean at Sandwich Harbour Namibia",
+      "activity_source": "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
+      "file": "02.jpg",
+      "source_sha256": "d29e65897bd275f12115e5cbd89ed3b5c3d3d1e4108a14d9e9f071e34b9075f1",
+      "output_sha256": "027d80a78153aa98b12e91817d90f8159c6eeae9172a845b812f2f8182b2d58a",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "The coast draws a sudden line through the Namib's towering sand ridges.",
+      "review": {
+        "reader_value": "Dunes Meet the Atlantic gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original photographer NIR HIMI labels this freely licensed Unsplash image Sandwich Harbour, Anichab, Namibia; it shows the giant Namib dunes meeting the Atlantic surf.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Dunes Meet the Atlantic adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0"
+      ]
+    },
+    {
       "subject": "Peru desert cliffs meeting Pacific Ocean at Paracas",
       "source_page": "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-hSN-2gFiHwo",
       "photographer": "Kimberly Genest",
       "license": "Unsplash License",
       "alt": "Peru desert cliffs meeting Pacific Ocean at Paracas",
       "activity_source": "https://www.peru.travel/attractions/paracas-and-ballestas-islands",
-      "file": "02.jpg",
+      "file": "03.jpg",
       "source_sha256": "12cc89f4885e1e0356247e96fa694c285211edd6a447238d76d41c3ffd4b2f35",
       "output_sha256": "5720094a4919bd52ca8e75ba7651faf64b8aca6b4380a4d5d4e9274add60e750",
       "size": [
@@ -84,7 +112,7 @@
       "license": "CC BY 2.0",
       "alt": "Three travellers beside sand dunes meeting Khor Al Adaid Inland Sea in Qatar",
       "activity_source": "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
-      "file": "03.jpg",
+      "file": "04.jpg",
       "source_sha256": "a800c38d8164931e1b5e6de07ea21e285776a83cf2981b63ef05c86a7ca2463a",
       "output_sha256": "e1faeef034862995c9708361a637a89761509086e9e40cce6134d6540a8906ff",
       "size": [
@@ -114,7 +142,7 @@
       "license": "Unsplash License",
       "alt": "Aerial drone view of Dune du Pilat and Atlantic coastline in France",
       "activity_source": "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
-      "file": "04.jpg",
+      "file": "05.jpg",
       "source_sha256": "312a3a3e3823fd308a02a80a1e278734aca685bb8020a19e56c8922abb771b0c",
       "output_sha256": "cdd5cd06ccf5ec09c853ed2c62e626f47eab95e72b23a006e985f2bbb7235f98",
       "size": [
@@ -141,7 +169,7 @@
       "license": "Unsplash License",
       "alt": "Cape Peron Shark Bay Western Australia coastal dune aerial",
       "activity_source": "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf",
-      "file": "05.jpg",
+      "file": "06.jpg",
       "source_sha256": "81548051d4d01ee78cbe33704fcc032c7495c846a74bfec9e1016a3627de6563",
       "output_sha256": "e38a538ca405d530d22999e1684730ec480f6eec543b81eaec0745e7d2d14131",
       "size": [
@@ -160,6 +188,52 @@
         "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf",
         "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA"
       ]
+    },
+    {
+      "subject": "Atlantic Ocean view from the summit of Dune du Pilat in France",
+      "source_page": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
+      "photographer": "Slim MARS",
+      "license": "Unsplash License",
+      "alt": "Atlantic Ocean view from the summit of Dune du Pilat in France",
+      "activity_source": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
+      "file": "07.jpg",
+      "source_sha256": "6933562e26b2b4afc1d6241e0d00f3f51e51d8073caf55d4d891bf86a3cd9d67",
+      "output_sha256": "fd5755340920e44066aa6594b5677e2e5840df58311db59f625e76ae31f4f04f",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "The blue Atlantic stretches away beyond France's towering sand ridge.",
+      "review": {
+        "reader_value": "From the Top of the Dune gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original free Unsplash photo by Slim MARS identifies the viewpoint as Dune du Pilat, La Teste-de-Buch, France, facing the Atlantic coast.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "From the Top of the Dune adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
+      ]
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Fill your feed with wonder",
+      "file": "08.jpg",
+      "source_pages": [
+        "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
+        "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
+        "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-hSN-2gFiHwo",
+        "https://commons.wikimedia.org/wiki/File:Sea_meets_sand_dunes_in_Khawr_Al_Udayd.jpg",
+        "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-y6VK9hXG82A",
+        "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA",
+        "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
+      ],
+      "output_sha256": "0150718054a1aac9b783862014bd8c33b0952c7e1b62e95d8c6974d724e2e5e1",
+      "size": [
+        1080,
+        1350
+      ],
+      "rights": "Recomposed only from earlier licensed photographs in the same carousel"
     }
   ]
 }

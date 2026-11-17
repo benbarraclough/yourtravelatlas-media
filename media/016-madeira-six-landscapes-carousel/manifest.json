@@ -1,0 +1,253 @@
+{
+  "issue": 16,
+  "slug": "016-madeira-six-landscapes-carousel",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "f167c662d8e83441032173e62bc20aa94a9743794a7d869735f2fa08352bf823",
+  "caption": "One Portuguese island. Eight landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Santana — see traditional colourful thatched-roof cottages.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ribeira da Janela — see sea stacks rise out of a rugged Atlantic shore.\n📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman, Markus Kammermann, Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel",
+  "fact_sources": [
+    "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+    "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
+    "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
+    "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+    "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
+    "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
+    "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+    "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
+  ],
+  "editorial_intent": "Replace the prohibited 012-madeira-cloud-trails-lava-pools moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
+  "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
+  "slides": [
+    {
+      "subject": "Pico do Arieiro ridgeline, Madeira",
+      "source_page": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+      "photographer": "Samielle Støyl",
+      "license": "Unsplash License",
+      "alt": "Pico do Arieiro ridgeline, Madeira, Samielle Støyl original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+      "file": "01.jpg",
+      "source_sha256": "20e6438f8eb063b95f041a6db24c8d917febecb66cba73d5ee0dba029a1fc5df",
+      "output_sha256": "fc37644f5da35a0a765fc2e53c071270cd55869e8ad6c130732065083612375e",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "body": "Follow steep mountain stairs along Madeira's dramatic cloud-top ridge.",
+      "review": {
+        "reader_value": "Pico do Arieiro ridgeline, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "The original free Unsplash photo by Samielle Støyl identifies Madeira Portugal, tagged Pico do Arieiro, and depicts stairs threading a steep cloud-topped ridge.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw"
+      ]
+    },
+    {
+      "subject": "Fanal ancient laurel forest",
+      "source_page": "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
+      "photographer": "Colin Watts",
+      "license": "Unsplash License",
+      "alt": "Fanal ancient laurel forest, Colin Watts original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
+      "file": "02.jpg",
+      "source_sha256": "73817557c9680306e58f893a100aa3c836feba7b68dce195abdf36bbbba03061",
+      "output_sha256": "b3abda65c338b11666acc76b68fa13b3072e994078d00a3ad63edc2cb650413b",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Gnarled laurel trees stand in a mysterious, mist-filled woodland.",
+      "review": {
+        "reader_value": "Fanal ancient laurel forest is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Colin Watts' original free Unsplash photo explicitly identifies the ancient misty laurisilva forest at Fanal, Madeira, Portugal.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM"
+      ]
+    },
+    {
+      "subject": "Seixal dramatic black-sand coast",
+      "source_page": "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
+      "photographer": "Julia Schuwer",
+      "license": "Unsplash License",
+      "alt": "Seixal dramatic black-sand coast, Julia Schuwer original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
+      "file": "03.jpg",
+      "source_sha256": "b2c1199e95606cd303381dd984b407db90e7efd58ee035cad2097b6b9895b37d",
+      "output_sha256": "6b4af2280a98acee5f9fd3996e402dd654b6e752b5a522ec5d0932e5f03b9421",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Black sand meets towering green north-coast cliffs.",
+      "review": {
+        "reader_value": "Seixal dramatic black-sand coast is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "The original photo page of Julia Schuwer identifies Seixal, Portugal and a black sand beach below misty mountain cliffs.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4"
+      ]
+    },
+    {
+      "subject": "Traditional triangular thatched house in Santana Madeira Portugal",
+      "source_page": "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+      "photographer": "Markus Kammermann",
+      "license": "Unsplash License",
+      "alt": "Traditional triangular thatched house in Santana Madeira Portugal",
+      "activity_source": "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+      "file": "04.jpg",
+      "source_sha256": "4faef837b4fc1e75b362df023105799982daef9763a876e44a9389e86a9de775",
+      "output_sha256": "f1e66e355b197b5c5b0d190498abe3ba00918b60edf5fd6be26225bd43d90fed",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Thatched triangular cottages reveal a completely different side of Madeira.",
+      "review": {
+        "reader_value": "Santana's Storybook Houses gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "The free Unsplash photographer Markus Kammermann explicitly identifies this distinct traditional thatched cottage and garden at Santana on Madeira Island, Portugal.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Santana's Storybook Houses adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo"
+      ]
+    },
+    {
+      "subject": "Risco waterfall, Madeira",
+      "source_page": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+      "photographer": "Daniel J. Schwarz",
+      "license": "Unsplash License",
+      "alt": "Risco waterfall, Madeira, Daniel J. Schwarz original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+      "file": "05.jpg",
+      "source_sha256": "95320ca4026fe647a2271f5b4841a6261dccf7310a74047235c1be17fa68a7b3",
+      "output_sha256": "b3e970a764e1a5a432e7ccb7826b43c522e9e22d31e9b133b13dbf054e5faf1c",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A slim waterfall drops through thick forest into a sheltered valley.",
+      "review": {
+        "reader_value": "Risco waterfall, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Daniel J. Schwarz' original free Unsplash photo states Risco Waterfall on Madeira, Portugal, depicting a tall waterfall in foggy vegetation.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w"
+      ]
+    },
+    {
+      "subject": "Porto Moniz lava swimming pools, Madeira",
+      "source_page": "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
+      "photographer": "Colin Watts",
+      "license": "Unsplash License",
+      "alt": "Porto Moniz lava swimming pools, Madeira, Colin Watts original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
+      "file": "06.jpg",
+      "source_sha256": "f99dd448234faa67df9950db007f6c65e8b7eb5d070bff98b00e78d65fd70161",
+      "output_sha256": "022c7df11f904dd76aa3beb566aa855998b77801ed055dd7769377d8d2b974c6",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Natural lava-rock pools sit beside the crashing Atlantic.",
+      "review": {
+        "reader_value": "Porto Moniz lava swimming pools, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Colin Watts' original free Unsplash photograph identifies an aerial view down onto the lava swimming pools of Porto Moniz on Madeira, Portugal; licence is Unsplash License.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os"
+      ]
+    },
+    {
+      "subject": "Ponta de São Lourenço coastal hike at sunrise",
+      "source_page": "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
+      "photographer": "Mick Kirchman",
+      "license": "Unsplash License",
+      "alt": "Ponta de São Lourenço coastal hike at sunrise, Mick Kirchman original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
+      "file": "07.jpg",
+      "source_sha256": "7154d10e0e5050eefeea848aa65a184508512ff704654c697f3a7f953d0c516e",
+      "output_sha256": "77f328feb533f248051e9a74a6bdee582fc40dd3e4fc946ac6d741e5fdd34d71",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A rocky coastal trail crosses Madeira's wild eastern headland.",
+      "review": {
+        "reader_value": "Ponta de São Lourenço coastal hike at sunrise is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Mick Kirchman's original free Unsplash photo identifies a sunrise hiking trail at Ponta de São Lourenço, Caniçal, Portugal, showing a walker in mountain terrain.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM"
+      ]
+    },
+    {
+      "subject": "Sea stacks and cliffs at Ribeira da Janela Madeira Portugal",
+      "source_page": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
+      "photographer": "Reinaldo Photography",
+      "license": "Unsplash License",
+      "alt": "Sea stacks and cliffs at Ribeira da Janela Madeira Portugal",
+      "activity_source": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
+      "file": "08.jpg",
+      "source_sha256": "e011c1bf610ed07652e179b09691d8e24dc76886def5d854244d078dc0e693bb",
+      "output_sha256": "bb3266ea43f0b5234f1849ecaaaa2a2c9657df85781019c859958c5919a9f35b",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Jagged sea stacks rise abruptly out of Madeira's dramatic northern coast.",
+      "review": {
+        "reader_value": "Ribeira da Janela gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original photo by Reinaldo Photography names the source landscape Ribeira da Janela in the municipality of Porto Moniz, Madeira Island, Portugal.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Ribeira da Janela adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
+      ]
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Fill your feed with wonder",
+      "file": "09.jpg",
+      "source_pages": [
+        "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+        "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
+        "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
+        "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+        "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+        "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
+        "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
+        "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
+      ],
+      "output_sha256": "4be5f5b91edda530523cd771f05105fd2e9caad3523de0a8697cf1f501f4ff84",
+      "size": [
+        1080,
+        1350
+      ],
+      "rights": "Recomposed only from earlier licensed photographs in the same carousel"
+    }
+  ]
+}

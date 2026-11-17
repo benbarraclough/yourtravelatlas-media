@@ -1,0 +1,17 @@
+{
+  "issue": 16,
+  "slug": "016-madeira-six-landscapes-carousel",
+  "brief_sha256": "f167c662d8e83441032173e62bc20aa94a9743794a7d869735f2fa08352bf823",
+  "caption_sha256": "1542b7c90b6bb140875c1a4c89259cf5620c0fea00424b758ccf295c8291f4c7",
+  "image_sha256": {
+    "media/016-madeira-six-landscapes-carousel/01.jpg": "fc37644f5da35a0a765fc2e53c071270cd55869e8ad6c130732065083612375e",
+    "media/016-madeira-six-landscapes-carousel/02.jpg": "b3abda65c338b11666acc76b68fa13b3072e994078d00a3ad63edc2cb650413b",
+    "media/016-madeira-six-landscapes-carousel/03.jpg": "6b4af2280a98acee5f9fd3996e402dd654b6e752b5a522ec5d0932e5f03b9421",
+    "media/016-madeira-six-landscapes-carousel/04.jpg": "f1e66e355b197b5c5b0d190498abe3ba00918b60edf5fd6be26225bd43d90fed",
+    "media/016-madeira-six-landscapes-carousel/05.jpg": "b3e970a764e1a5a432e7ccb7826b43c522e9e22d31e9b133b13dbf054e5faf1c",
+    "media/016-madeira-six-landscapes-carousel/06.jpg": "022c7df11f904dd76aa3beb566aa855998b77801ed055dd7769377d8d2b974c6",
+    "media/016-madeira-six-landscapes-carousel/07.jpg": "77f328feb533f248051e9a74a6bdee582fc40dd3e4fc946ac6d741e5fdd34d71",
+    "media/016-madeira-six-landscapes-carousel/08.jpg": "bb3266ea43f0b5234f1849ecaaaa2a2c9657df85781019c859958c5919a9f35b",
+    "media/016-madeira-six-landscapes-carousel/09.jpg": "4be5f5b91edda530523cd771f05105fd2e9caad3523de0a8697cf1f501f4ff84"
+  }
+}

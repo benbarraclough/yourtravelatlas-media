@@ -1,0 +1,253 @@
+{
+  "issue": 17,
+  "slug": "017-vietnam-six-places-carousel",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "3efc012d7be1197d17a127e2a8883b0b00e5c378c1b9f485ee9efeea6630c19e",
+  "caption": "One country. Eight extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hà Giang — discover mountain roads and dramatic northern valleys.\n📍 Hanoi Train Street — see the historic railway corridor between city buildings.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham, Harry Le / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery",
+  "fact_sources": [
+    "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+    "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+    "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+    "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+    "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+    "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+    "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+    "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4"
+  ],
+  "editorial_intent": "Replace the prohibited 013-six-sides-of-vietnam moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
+  "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
+  "slides": [
+    {
+      "subject": "Hạ Long Bay, Vietnam",
+      "source_page": "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+      "photographer": "Pierre Bonvalot",
+      "license": "Unsplash License",
+      "alt": "Hạ Long Bay, Vietnam, Pierre Bonvalot original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+      "file": "01.jpg",
+      "source_sha256": "7c3518c5f8fe7987e0188d978e3d1a599ddba770a58fe26d2a04958c270be18e",
+      "output_sha256": "4b6b71197e6d45430a9d8a6041b2c35e47e24b5024eafd567968bb2d23d6bf90",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "body": "Sail among thousands of limestone karsts rising from the sea.",
+      "review": {
+        "reader_value": "Hạ Long Bay, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Pierre Bonvalot's original free Unsplash drone photograph explicitly identifies Hạ Long Bay, Vietnam, with a sea of limestone karst islands and an expansive elevated view.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc"
+      ]
+    },
+    {
+      "subject": "Tràng An, Ninh Bình, Vietnam",
+      "source_page": "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+      "photographer": "Bernd 📷 Dittrich",
+      "license": "Unsplash License",
+      "alt": "Tràng An, Ninh Bình, Vietnam, Bernd 📷 Dittrich original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+      "file": "02.jpg",
+      "source_sha256": "2fe93d713f000db9b75a7e1df5310a068c86bc7e29a636637118f0833c7ba80e",
+      "output_sha256": "30bc56db88c6f8f2a6cd4f1ff62e169ddc6d1dc97fa0ce2a92170f350d5cde55",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Board a small riverboat between towering green limestone cliffs.",
+      "review": {
+        "reader_value": "Tràng An, Ninh Bình, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Bernd Dittrich's original Unsplash photograph labels Tràng An in the Hoa Lư district of Ninh Bình, Vietnam and depicts boats through lush green karst hills.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg"
+      ]
+    },
+    {
+      "subject": "Sa Pa, Vietnam",
+      "source_page": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+      "photographer": "Daniele Franchi",
+      "license": "Unsplash License",
+      "alt": "Sa Pa, Vietnam, Daniele Franchi original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+      "file": "03.jpg",
+      "source_sha256": "49d295543c7b9e0690055fc538c07c845aed3a3ce269a2ea4481f4ac611d056b",
+      "output_sha256": "27be3c1166c75b5dba208fd4e4069510342b73616a0da9b573ae70af95dd67c2",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Terraced rice paddies trace layers across the northern hills.",
+      "review": {
+        "reader_value": "Sa Pa, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Daniele Franchi's original free Unsplash image identifies Sa Pa, Lào Cai Vietnam, specifically rice terraces and bright green terraced fields, not generic agriculture.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU"
+      ]
+    },
+    {
+      "subject": "Ban Gioc Falls, Cao Bằng, Vietnam",
+      "source_page": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+      "photographer": "Mayur Arvind",
+      "license": "Unsplash License",
+      "alt": "Ban Gioc Falls, Cao Bằng, Vietnam, Mayur Arvind original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+      "file": "04.jpg",
+      "source_sha256": "4cd6433764f31365fa9d88e9e65777944a6d179f8ceaf04270472d1569e80138",
+      "output_sha256": "8db263e15e17698c4e1272d171c434874fb097d937d44e42d001103640f27671",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A huge waterfall spills over lush cliffs on the northern border.",
+      "review": {
+        "reader_value": "Ban Gioc Falls, Cao Bằng, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Mayur Arvind's original Unsplash image identifies Ban Gioc Falls in Cao Bang, Vietnam, showing the cascading wide waterfall at the Vietnam-China border.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU"
+      ]
+    },
+    {
+      "subject": "Hang Én Cave, Quảng Bình, Vietnam",
+      "source_page": "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+      "photographer": "Andrew Svk",
+      "license": "Unsplash License",
+      "alt": "Hang Én Cave, Quảng Bình, Vietnam, Andrew Svk original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+      "file": "05.jpg",
+      "source_sha256": "79e906dafdc668f02ef6b8ced6c4341c9df94db851b6c15f9d7b7348ded0fd0e",
+      "output_sha256": "f1cafc9f16fd977bc1019db59a0a27b38eff9659930cf746a6cd44e514669220",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Join an organised expedition to camp beneath a vaulted cave roof.",
+      "review": {
+        "reader_value": "Hang Én Cave, Quảng Bình, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Andrew Svk's original Unsplash page describes an actual overnight campsite inside Hang En cave in Quang Binh, Vietnam, photographed during a cave trip.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o"
+      ]
+    },
+    {
+      "subject": "Traveller on misty winding mountain pass in Hà Giang Vietnam",
+      "source_page": "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+      "photographer": "Harry Le",
+      "license": "Unsplash License",
+      "alt": "Traveller on misty winding mountain pass in Hà Giang Vietnam",
+      "activity_source": "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+      "file": "06.jpg",
+      "source_sha256": "25a3fa459f7d14beea63cbad5dfe6c8952a37ba5f3ccc94cec5804698cd78628",
+      "output_sha256": "186de946e5fd59ed30d8c66f40214ed6d9b2790895c224887b1bac5d1775eb1c",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Winding roads reveal remote, misty mountains in northern Vietnam.",
+      "review": {
+        "reader_value": "Hà Giang Mountain Pass gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original free Unsplash photo by Harry Le identifies a mountain pass in Vần Chải, Đồng Văn District, Hà Giang, Vietnam, with a traveller looking towards the green mountains.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Hà Giang Mountain Pass adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4"
+      ]
+    },
+    {
+      "subject": "Hội An, Vietnam",
+      "source_page": "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+      "photographer": "Jason Pham",
+      "license": "Unsplash License",
+      "alt": "Hội An, Vietnam, Jason Pham original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+      "file": "07.jpg",
+      "source_sha256": "2074d246b5780b8b422924927a3c280405c01f7aa3feea35974a45cf0eeeb1c6",
+      "output_sha256": "0fb1cb9231a22f5f14f78d56bee906086d2ee8e78706277a7dc4cd4c52a54ecf",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Watch lantern-lit boats glide along Hội An's river after dark.",
+      "review": {
+        "reader_value": "Hội An, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Jason Pham's original Unsplash photograph identifies the lantern-lit riverside atmosphere in Hội An, Quảng Nam, Vietnam with floating lights on the river.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM"
+      ]
+    },
+    {
+      "subject": "Authentic train on the narrow Hanoi Train Street in Vietnam",
+      "source_page": "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4",
+      "photographer": "Bernd 📷 Dittrich",
+      "license": "Unsplash License",
+      "alt": "Authentic train on the narrow Hanoi Train Street in Vietnam",
+      "activity_source": "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4",
+      "file": "08.jpg",
+      "source_sha256": "8553d7f71efaa31b2681422a9a4bfadd09bf56f6f8659d05a7b7e58f4bac4f3d",
+      "output_sha256": "0d9de44e3096c89a40c13947dd3472590b8fdb3d09bb3f4a07ffdaf4aa27ddbf",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "A railway squeezes between city buildings and colourful local cafés.",
+      "review": {
+        "reader_value": "Hanoi's Train Street gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original photographer Bernd Dittrich explicitly identifies the train at Hanoi Train Street, Phố Trần Phú, Điện Biên, Hoàn Kiếm, Hanoi, Vietnam, freely licensed via Unsplash.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Hanoi's Train Street adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      },
+      "fact_checks": [
+        "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4"
+      ]
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Fill your feed with wonder",
+      "file": "09.jpg",
+      "source_pages": [
+        "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+        "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+        "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+        "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+        "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+        "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+        "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+        "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4"
+      ],
+      "output_sha256": "3b8d8deccc3696aa0a9b9eb5bcd0f39350ccd4f0352633613c6af70c7e608fd1",
+      "size": [
+        1080,
+        1350
+      ],
+      "rights": "Recomposed only from earlier licensed photographs in the same carousel"
+    }
+  ]
+}

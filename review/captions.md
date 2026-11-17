@@ -178,7 +178,7 @@ Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes
 
 Which would be your first stop?
 
-Photos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.
+Photos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque, Marcella Oscar / Unsplash.
 
 #YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery
 
@@ -194,6 +194,63 @@ A desert doesn't always end at an oasis. Sometimes it runs straight into the sea
 
 Which coastline would you explore first?
 
-Photos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.
+Photos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw, Slim MARS / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.
 
 #YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems
+
+## 8 Real Places That Look Like a Winter Film Set
+
+Eight real places that look like scenes from a winter film. ❄️
+
+📍 Rovaniemi, Finland — aurora above the snow forest.
+📍 Shirakawa-go, Japan — traditional farmhouses beneath a blanket of snow.
+📍 Reine, Norway — red fishing cabins below Arctic peaks.
+📍 Colmar, France — festive lights in the old town.
+📍 Jigokudani, Japan — snow monkeys soaking in hot springs.
+📍 Tallinn, Estonia — medieval rooftops in the snow.
+📍 Vatnajökull, Iceland — a luminous blue cave inside the glacier.
+📍 Québec City, Canada — Château Frontenac in winter.
+
+Which winter scene would you travel for?
+
+Photos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Davide Cantelli & Lianhao Qu / Unsplash.
+
+#YourTravelAtlas #WinterTravel #WinterTravel #TravelCarousel
+
+## An Island of Cloud Trails and Lava Pools
+
+One Portuguese island. Eight landscapes that hardly look like they belong together. 🌿
+
+📍 Pico do Arieiro — mountain paths weave high above the clouds.
+📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.
+📍 Santana — see traditional colourful thatched-roof cottages.
+📍 Seixal — black sand sits beneath the lush north-coast cliffs.
+📍 Risco Waterfall — water drops into deep green forest.
+📍 Porto Moniz — swim in natural pools bordered by volcanic rock.
+📍 Ribeira da Janela — see sea stacks rise out of a rugged Atlantic shore.
+📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.
+
+Which scene would you go to first?
+
+Photos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman, Markus Kammermann, Reinaldo Photography / Unsplash.
+
+#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel
+
+## 8 Places That Make Vietnam Unforgettable
+
+One country. Eight extraordinary worlds to explore. 🇻🇳
+
+📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.
+📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.
+📍 Sa Pa — see rice terraces ripple across the mountain valleys.
+📍 Ban Gioc Falls — discover cascades on the dramatic northern border.
+📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.
+📍 Hà Giang — discover mountain roads and dramatic northern valleys.
+📍 Hanoi Train Street — see the historic railway corridor between city buildings.
+📍 Hội An — catch the old town river glowing with lanterns after dark.
+
+Which of these would you travel for first?
+
+Photos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham, Harry Le / Unsplash.
+
+#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery

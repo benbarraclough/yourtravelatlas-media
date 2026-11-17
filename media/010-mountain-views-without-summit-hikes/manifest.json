@@ -5,7 +5,7 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "887183fd7b6d4df3f8cc6db076c467d23ac32d491e08991b6b5a0fbd149f2c12",
+  "brief_sha256": "3240d0e209da4043d98d48e17f3cea68adbd6412e6266122d8968509788ed39c",
   "caption": "Seven mountain views you can enjoy without hiking to a summit. 🏔️\n\nIt's not always about the climb — sometimes the railway, cable car or lakeside journey is the best part.\n\n📍 Seceda, Italy — arrive by cable car to the jagged Dolomite ridgeline.\n📍 Gornergrat, Switzerland — ride a mountain train towards the Matterhorn.\n📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.\n📍 Aiguille du Midi, France — take the cable car high above Chamonix.\n📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.\n📍 Lake Bled, Slovenia — an island church framed by dramatic sunset mountains.\n📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.\n\nWhich one would you go for?\n\nPhotos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites",
   "fact_sources": [
     "https://unsplash.com/photos/a-mountain-with-a-grassy-field-below-it-pCuJuy7Ic5c",
@@ -214,6 +214,26 @@
         "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
         "https://www.hallstatt.net/"
       ]
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Fill your feed with wonder",
+      "file": "08.jpg",
+      "source_pages": [
+        "https://unsplash.com/photos/a-mountain-with-a-grassy-field-below-it-pCuJuy7Ic5c",
+        "https://unsplash.com/photos/red-train-with-matterhorn-mountain-in-background-uNxBuqboM20",
+        "https://unsplash.com/photos/mountain-lake-reflecting-rocky-peaks-SfRzxgyNtgM",
+        "https://unsplash.com/photos/cable-car-ascending-aiguille-du-midi-AZg1QGLB7HA",
+        "https://unsplash.com/photos/mountain-train-at-lake-station-vfPJaeT5mWg",
+        "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
+        "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244"
+      ],
+      "output_sha256": "e66a3b81e2c6bace7bcce6d2f045f93f0188b2754b96264c949fd9a3683ce2c1",
+      "size": [
+        1080,
+        1350
+      ],
+      "rights": "Recomposed only from earlier licensed photographs in the same carousel"
     }
   ]
 }

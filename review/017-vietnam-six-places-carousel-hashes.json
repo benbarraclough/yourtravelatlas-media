@@ -1,0 +1,17 @@
+{
+  "issue": 17,
+  "slug": "017-vietnam-six-places-carousel",
+  "brief_sha256": "3efc012d7be1197d17a127e2a8883b0b00e5c378c1b9f485ee9efeea6630c19e",
+  "caption_sha256": "8ec89fb1200d9b3a4138a973dd7b6d19e5bd943e3445d2c1570774ddb6922222",
+  "image_sha256": {
+    "media/017-vietnam-six-places-carousel/01.jpg": "4b6b71197e6d45430a9d8a6041b2c35e47e24b5024eafd567968bb2d23d6bf90",
+    "media/017-vietnam-six-places-carousel/02.jpg": "30bc56db88c6f8f2a6cd4f1ff62e169ddc6d1dc97fa0ce2a92170f350d5cde55",
+    "media/017-vietnam-six-places-carousel/03.jpg": "27be3c1166c75b5dba208fd4e4069510342b73616a0da9b573ae70af95dd67c2",
+    "media/017-vietnam-six-places-carousel/04.jpg": "8db263e15e17698c4e1272d171c434874fb097d937d44e42d001103640f27671",
+    "media/017-vietnam-six-places-carousel/05.jpg": "f1cafc9f16fd977bc1019db59a0a27b38eff9659930cf746a6cd44e514669220",
+    "media/017-vietnam-six-places-carousel/06.jpg": "186de946e5fd59ed30d8c66f40214ed6d9b2790895c224887b1bac5d1775eb1c",
+    "media/017-vietnam-six-places-carousel/07.jpg": "0fb1cb9231a22f5f14f78d56bee906086d2ee8e78706277a7dc4cd4c52a54ecf",
+    "media/017-vietnam-six-places-carousel/08.jpg": "0d9de44e3096c89a40c13947dd3472590b8fdb3d09bb3f4a07ffdaf4aa27ddbf",
+    "media/017-vietnam-six-places-carousel/09.jpg": "3b8d8deccc3696aa0a9b9eb5bcd0f39350ccd4f0352633613c6af70c7e608fd1"
+  }
+}
