@@ -1,6 +1,6 @@
 # Your Travel Atlas — Editor-led Tuesday Publishing Brief
 
-Updated **17 November 2026, 14:12 Europe/London**. This is the **sole active operating/creative brief**. Source of truth for real bookings and monthly capacity: **live Metricool brand 7717708**; GitHub queue is a record of evidence and next actions, not proof of publishing.
+Updated **17 November 2026 after recovery and live Metricool recheck**. This is the **sole active operating/creative brief**. Source of truth for real bookings and monthly capacity: **live Metricool brand 7717708**; GitHub queue is a record of evidence and next actions, not proof of publishing.
 
 ## Operating mode: MANUAL ONLY
 
@@ -63,9 +63,9 @@ The Metricool allowance is **20 total posts per calendar month**, including post
 | Mon 23 Nov 19:00 | Carousel POST | Indonesia Beyond Bali / Flores & Komodo | 431514077 | PENDING |
 | Wed 25 Nov 19:00 | Carousel POST | Five Places Where the Desert Meets the Sea | 431479145 | PENDING |
 | Fri 27 Nov 19:00 | Photo slideshow REEL | Six Sides of Vietnam | 431495264 | PENDING |
-| Sun 29 Nov 19:00 | **TRUE MOVING VIDEO REEL** | Cappadocia Beyond Balloons — five licensed Pexels clips | 431502937 | PENDING |
+| Sun 29 Nov 19:00 | **TRUE MOVING VIDEO REEL** | Cappadocia Beyond Balloons — revised five-clip motion Reel and correct credits | 431510824 | PENDING |
 
-Both publication weeks meet the FOUR posts/week target. The Sunday 29 November Reel was produced from **five real Pexels moving clips**, 18.9 seconds silent. Earlier Sunday 22 Madeira slideshow was revised **inside its existing Metricool slot** to the strengthened Porto Moniz volcanic pool and São Lourenço path footage-free photo sequence, correctly credited. No future ChatGPT automation exists for this work.
+Both publication weeks meet the FOUR posts/week target. The Sunday 29 November Reel was produced from **five real Pexels moving clips**, 18.9 seconds silent. Earlier Sunday 22 Madeira slideshow was revised **inside its existing Metricool slot** to the strengthened Porto Moniz volcanic pool and São Lourenço path footage-free photo sequence, correctly credited. All seven legacy ChatGPT Atlas tasks remain disabled; permanent deletion requires the owner to use ChatGPT Tasks.
 
 **Indonesia correction resolved on 17 Nov:** Mon 23 Nov carousel's second slide now contains the newly rendered licensed Simon Spring Pink Beach aerial photograph. Correct image, all five actual JPEGs, caption credits and alt text were uploaded to the SAME UUID `8356741788287969` and re-fetched as `PENDING`/autoPublish=true/draft=false; new numeric id **431514077**. No outstanding source/caption mismatch.
 
