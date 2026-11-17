@@ -15,8 +15,8 @@
   "editorial_intent": "Show visitors five striking real and distinctive places in Flores and Komodo, combining landscapes, volcanic colour phenomena, living cultural heritage and wild dragons.",
   "reader_scenario": "A curious traveller who knows Bali but has never considered the contrasting islands and experiences in eastern Indonesia.",
   "share_reason": "A genuine surprise-driven destination discovery: Komodo dragons, a blush-coloured coast, colour-changing volcanic crater lakes and a remote living highland village together.",
-  "slide_count_rationale": "Five individually documented real Flores and Komodo scenes; cover and two supporting photo sources improved after actual rendered image QA revealed weak hero framing, indistinct pink sand and soft crater image. Includes scenic 'Fill Your Feed With Wonder' final slide recomposed from this carousel's licensed photographs.",
-  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
+  "slide_count_rationale": "7 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
+  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque, Marcella Oscar / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -40,6 +40,29 @@
         "image_context": "The original free Unsplash image from Rizknas explicitly identifies Padar Island in the Komodo or Flores region of Indonesia, with accurate landmark features.",
         "specific_detail": "Published official travel or reputable scientific documentation supports the named destination and the experience described on this slide.",
         "distinct_contribution": "Padar Island introduces a contrasting authentic subject and memorable activity rather than repeating the previous photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Padar from the Sea",
+      "body": "A boat-level view reveals the green headlands and sheltered turquoise bays.",
+      "image_url": "https://images.unsplash.com/photo-1736523075712-398e8a18767a?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
+      "photographer": "Simon Spring",
+      "license": "Unsplash License",
+      "subject": "Padar Island green-season bays and blue water, Komodo Indonesia",
+      "alt": "Padar Island green-season bays and blue water, Komodo Indonesia",
+      "activity_source": "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
+      "fact_checks": [
+        "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Padar from the Sea gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "The original free Unsplash photograph by Simon Spring identifies Pulau Padar Island within Komodo National Park, East Nusa Tenggara, Indonesia, in January 2025.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Padar from the Sea adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
       }
     },
     {
@@ -139,6 +162,29 @@
       }
     },
     {
+      "layout": "photo",
+      "heading": "Wae Rebo in the Mist",
+      "body": "Morning fog gives the village's distinctive traditional homes a magical atmosphere.",
+      "image_url": "https://images.unsplash.com/photo-1578019448201-09ad2ac7995a?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg",
+      "photographer": "Marcella Oscar",
+      "license": "Unsplash License",
+      "subject": "Traditional cone-roof huts in mist at Wae Rebo Flores Indonesia",
+      "alt": "Traditional cone-roof huts in mist at Wae Rebo Flores Indonesia",
+      "activity_source": "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg",
+      "fact_checks": [
+        "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Wae Rebo in the Mist gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "The original photographer Marcella Oscar identifies this licensed free photograph as the misty Wae Rebo Village at Satar Lenda, Manggarai, East Nusa Tenggara, Indonesia.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Wae Rebo in the Mist adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      }
+    },
+    {
       "layout": "brand_end",
       "subject": "Final scenic brand invitation"
     }
@@ -152,6 +198,8 @@
     "https://unsplash.com/photos/a-large-lizard-laying-on-the-ground-next-to-a-tree-YQ_1xfuXUu4",
     "https://unsplash.com/photos/brown-mountain-beside-body-of-water-during-daytime-tqvF1JXzOxs",
     "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs",
-    "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14"
+    "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14",
+    "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
+    "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg"
   ]
 }
