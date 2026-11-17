@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "61146a576d8c953e6e79498e22855a3a91d8a8feab0d7dff64709a183aacaa7b",
-  "caption": "Dragons, pink sand and volcanic lakes — all in Indonesia's extraordinary Flores and Komodo region. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above three sweeping bays, or spot boats below its green headlands.\n📍 Pink Beach — walk a pale-pink shoreline beside bright turquoise water.\n📍 Kelimutu, Flores — discover volcanic crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a living highland village of distinctive cone-roofed homes, sometimes shrouded in mist.\n📍 Komodo National Park — see the world's largest living lizard with a local guide.\n\nWhich would you save for a future trip?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Marcella Oscar / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
+  "brief_sha256": "11903c091675046c9f1143b8c9bdc7f0ad628e3f690e78fa7a025b4a82dd1b6e",
+  "caption": "Dragons, pink sand and colour-changing crater lakes — all in Indonesia's Flores and Komodo region. 🇮🇩\n\n📍 Padar Island — climb for three curved bays, then see how the hills shift from gold to green with the seasons.\n📍 Pink Beach — pale pink sand meets turquoise water on the Komodo coast.\n📍 Kelimutu, Flores — three volcanic crater lakes that can change colour over time.\n📍 Wae Rebo — reach a living mountain village of cone-roofed homes on foot.\n📍 Komodo National Park — look for the world's largest lizard on a ranger-guided visit.\n📍 Labuan Bajo — end your day with sunset over Flores' western hills.\n\nSix different experiences, from dragon islands to a highland village. Which goes on your list?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Dhiemas Afif Febriyan / Unsplash.\n\n#YourTravelAtlas #FloresIsland #KomodoNationalPark #IndonesiaTravel #TravelDiscovery",
   "fact_sources": [
     "https://www.indonesia.travel/id/id/travel-ideas/marine/unveil-the-lands-of-dragons-firsttimers-guide-to-komodo-national-park",
     "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park",
@@ -18,7 +18,8 @@
     "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs",
     "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14",
     "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
-    "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg"
+    "https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-with-clouds-in-the-sky-19mkRL4HN-I",
+    "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/east-nusa-tenggara/labuan-bajo"
   ],
   "editorial_intent": "Show visitors five striking real and distinctive places in Flores and Komodo, combining landscapes, volcanic colour phenomena, living cultural heritage and wild dragons.",
   "share_reason": "A genuine surprise-driven destination discovery: Komodo dragons, a blush-coloured coast, colour-changing volcanic crater lakes and a remote living highland village together.",
@@ -59,13 +60,13 @@
       "activity_source": "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
       "file": "02.jpg",
       "source_sha256": "926a1cbe28439807a54b04fe33f8cb764f3f873c524703aaed9a5b3733c6febb",
-      "output_sha256": "055284947045f4b7fa1f1a20be6d13ff7e88d6f28909950025f7a99cda06b32e",
+      "output_sha256": "bab43598654e73af7009d9166b82549c9a146f728476dffaf6488c884a04ba61",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "From above, boats look tiny between Padar's green ridges and blue bays.",
+      "body": "After the rains, Padar's usually golden ridges become green above the blue bays.",
       "review": {
         "reader_value": "An elevated second perspective shows the small boats and sheltered bays beneath Padar's green ridges, different from the dry-season first image.",
         "image_context": "The original free Unsplash photo by Simon Spring shows an elevated view of Padar's blue bays with boats, not a boat-level view.",
@@ -185,29 +186,30 @@
       ]
     },
     {
-      "subject": "Traditional cone-roof huts in mist at Wae Rebo Flores Indonesia",
-      "source_page": "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg",
-      "photographer": "Marcella Oscar",
+      "subject": "Warm gold-orange sky and silhouettes of mountain ridges above Labuan Bajo, West Manggarai, Flores Indonesia",
+      "source_page": "https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-with-clouds-in-the-sky-19mkRL4HN-I",
+      "photographer": "Dhiemas Afif Febriyan",
       "license": "Unsplash License",
-      "alt": "Traditional cone-roof huts in mist at Wae Rebo Flores Indonesia",
-      "activity_source": "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg",
+      "alt": "Golden-orange sunset clouds and mountain silhouettes above Labuan Bajo in Flores, Indonesia. Text: Labuan Bajo at Sunset.",
+      "activity_source": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/east-nusa-tenggara/labuan-bajo",
       "file": "07.jpg",
-      "source_sha256": "8612e55f031db95db764c37058bccaf544bb130ed4b5476f0bb3b6107ef20f88",
-      "output_sha256": "643c1e68d03795a85328aed718109209594390d5b77cf463245813d91d23345d",
+      "source_sha256": "b203e1e57ec7180dd0dc86f515594daa6f360b2d42b1942ce655b3810edfa94a",
+      "output_sha256": "d923f557f782838771b5dfafcab3b97564103def168d6d130f5497a032063c93",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Morning fog gives the village's distinctive traditional homes a magical atmosphere.",
+      "body": "Watch the setting sun turn Flores' western mountain horizon copper and gold.",
       "review": {
-        "reader_value": "Wae Rebo in the Mist gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
-        "image_context": "The original photographer Marcella Oscar identifies this licensed free photograph as the misty Wae Rebo Village at Satar Lenda, Manggarai, East Nusa Tenggara, Indonesia.",
-        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
-        "distinct_contribution": "Wae Rebo in the Mist adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+        "reader_value": "Adds a real fiery sunset and the Flores gateway town to a collection otherwise dominated by park landscapes, giving visitors a different authentic travel experience.",
+        "image_context": "Original free Unsplash source credited to Dhiemas Afif Febriyan explicitly identifies the sunset mountain landscape as Labuan Bajo, West Manggarai, East Nusa Tenggara, Indonesia.",
+        "specific_detail": "Source photo location confirmed independently against Indonesia's official Labuan Bajo destination guide.",
+        "distinct_contribution": "New sixth geographic stop and warm dusk landscape, replacing redundant second Wae Rebo village scene."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg"
+        "https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-with-clouds-in-the-sky-19mkRL4HN-I",
+        "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/east-nusa-tenggara/labuan-bajo"
       ]
     },
     {
@@ -221,9 +223,9 @@
         "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs",
         "https://unsplash.com/photos/a-group-of-huts-sitting-on-top-of-a-lush-green-hillside-EV2tTLVsiKU",
         "https://unsplash.com/photos/a-large-lizard-laying-on-the-ground-next-to-a-tree-YQ_1xfuXUu4",
-        "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg"
+        "https://unsplash.com/photos/the-sun-is-setting-over-a-mountain-with-clouds-in-the-sky-19mkRL4HN-I"
       ],
-      "output_sha256": "61301b5de29ee16ecc3bdf23df983c21cb4f9c3738b4e96f9aefa2cc78ba5b00",
+      "output_sha256": "392e51d4239279301813d2cf95a88f3ede10f3cba6123e57d14ee3933d5f951d",
       "size": [
         1080,
         1350

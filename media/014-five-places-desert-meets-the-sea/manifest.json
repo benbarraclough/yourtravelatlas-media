@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "d7a928bb92705f01be10894581a50848b423be682560e57700685639ef97b23d",
-  "caption": "Where does the desert end? In five remarkable places, it meets the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — enormous dunes tumble towards the Atlantic.\n📍 Paracas, Peru — coastal desert cliffs rise above the Pacific.\n📍 Khor Al Adaid, Qatar — explore a tidal Inland Sea edged by sand dunes.\n📍 Dune du Pilat, France — climb Europe's tallest sand dune for Atlantic views.\n📍 Cape Peron, Western Australia — rust-red coastal sand meets Shark Bay's blue water.\n\nSeven photo perspectives across five contrasting coasts. Which would you visit?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Slim MARS / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #CoastalLandscapes #DesertCoast #NaturePhotography #TravelDiscovery",
+  "brief_sha256": "6260b17e5ce815876f6df24b55251516ab302f0784ada39e3a267b198b3abab4",
+  "caption": "When giant dunes and desert cliffs meet the ocean, the scenery barely looks real. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — huge desert dunes fall towards Atlantic surf; see them from two very different angles.\n📍 Paracas, Peru — sheer ochre desert cliffs line the Pacific.\n📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.\n📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.\n📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.\n📍 Corralejo, Fuerteventura — white dunes roll down towards turquoise sea in the Canary Islands.\n\nSome are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Alejandro Martin / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery",
   "fact_sources": [
     "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
     "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
@@ -20,9 +20,10 @@
     "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
     "https://creativecommons.org/licenses/by/2.0/",
     "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
-    "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
     "https://ladunedupilat.com/en/i-discover/in-short/",
-    "https://visitqatar.com/intl-en/things-to-do/adventure-sports/desert/khor-al-adaid"
+    "https://visitqatar.com/intl-en/things-to-do/adventure-sports/desert/khor-al-adaid",
+    "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
+    "https://www.hellocanaryislands.com/experiences/8-islands-cycling-challenge-an-epic-challenge/"
   ],
   "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
@@ -192,29 +193,30 @@
       ]
     },
     {
-      "subject": "Atlantic Ocean view from the summit of Dune du Pilat in France",
-      "source_page": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
-      "photographer": "Slim MARS",
+      "subject": "White sand dunes and bright blue Atlantic sea at Corralejo Dunes Natural Park, Fuerteventura Canary Islands Spain",
+      "source_page": "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
+      "photographer": "Alejandro Martin",
       "license": "Unsplash License",
-      "alt": "Atlantic Ocean view from the summit of Dune du Pilat in France",
-      "activity_source": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
+      "alt": "White dunes of Corralejo beside the turquoise Atlantic and a coastal road in Fuerteventura. Text: Corralejo Dunes, Spain.",
+      "activity_source": "https://www.hellocanaryislands.com/experiences/8-islands-cycling-challenge-an-epic-challenge/",
       "file": "07.jpg",
-      "source_sha256": "6933562e26b2b4afc1d6241e0d00f3f51e51d8073caf55d4d891bf86a3cd9d67",
-      "output_sha256": "915a605656e6a856822b007a580c9500a8b1b1475783652eca2c9a971658d3c1",
+      "source_sha256": "97534e8c6fe1a1a838c69a2316b48aeb0396c9b2a25f6690166f94ce584b5255",
+      "output_sha256": "5626a921d2e8669b47bab6fb4344bf8603aac366225aa84063bfac55f67a8abe",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Look across the blue Atlantic from the high dune's sandy ridge.",
+      "body": "White dunes meet turquoise Atlantic water on Fuerteventura's coast.",
       "review": {
-        "reader_value": "From the Top of the Dune gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
-        "image_context": "Original free Unsplash photo by Slim MARS identifies the viewpoint as Dune du Pilat, La Teste-de-Buch, France, facing the Atlantic coast.",
-        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
-        "distinct_contribution": "From the Top of the Dune adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+        "reader_value": "A contrasting white-sand Atlantic coastline at a protected Canary Islands dune park, adding an accessible and distinctly different original place.",
+        "image_context": "Original freely licensed Unsplash photograph by Alejandro Martin explicitly identifies Corralejo dunes and turquoise water in northern Fuerteventura, Spain.",
+        "specific_detail": "Official Canary Islands tourism describes Corralejo's long white dune fields washed by the turquoise Atlantic Ocean.",
+        "distinct_contribution": "Adds Spain and protected white dunes as a sixth destination instead of a weak and redundant second Dune du Pilat photograph."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
+        "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
+        "https://www.hellocanaryislands.com/experiences/8-islands-cycling-challenge-an-epic-challenge/"
       ]
     },
     {
@@ -228,9 +230,9 @@
         "https://commons.wikimedia.org/wiki/File:Sea_meets_sand_dunes_in_Khawr_Al_Udayd.jpg",
         "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-y6VK9hXG82A",
         "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA",
-        "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
+        "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE"
       ],
-      "output_sha256": "0150718054a1aac9b783862014bd8c33b0952c7e1b62e95d8c6974d724e2e5e1",
+      "output_sha256": "75f0d0603c7ba7930b8e24fbe51106090dc419bba3405e2665852af09d6c8ed3",
       "size": [
         1080,
         1350

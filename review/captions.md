@@ -168,35 +168,37 @@ Photos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev
 
 ## Dragons, Pink Sand & Volcano Lakes
 
-Dragons, pink sand and volcanic lakes — all in Indonesia's extraordinary Flores and Komodo region. 🇮🇩
+Dragons, pink sand and colour-changing crater lakes — all in Indonesia's Flores and Komodo region. 🇮🇩
 
-📍 Padar Island — climb to a viewpoint above three sweeping bays, or spot boats below its green headlands.
-📍 Pink Beach — walk a pale-pink shoreline beside bright turquoise water.
-📍 Kelimutu, Flores — discover volcanic crater lakes that change colour over time.
-📍 Wae Rebo, Flores — trek to a living highland village of distinctive cone-roofed homes, sometimes shrouded in mist.
-📍 Komodo National Park — see the world's largest living lizard with a local guide.
+📍 Padar Island — climb for three curved bays, then see how the hills shift from gold to green with the seasons.
+📍 Pink Beach — pale pink sand meets turquoise water on the Komodo coast.
+📍 Kelimutu, Flores — three volcanic crater lakes that can change colour over time.
+📍 Wae Rebo — reach a living mountain village of cone-roofed homes on foot.
+📍 Komodo National Park — look for the world's largest lizard on a ranger-guided visit.
+📍 Labuan Bajo — end your day with sunset over Flores' western hills.
 
-Which would you save for a future trip?
+Six different experiences, from dragon islands to a highland village. Which goes on your list?
 
-Photos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Marcella Oscar / Unsplash.
+Photos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Dhiemas Afif Febriyan / Unsplash.
 
-#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery
+#YourTravelAtlas #FloresIsland #KomodoNationalPark #IndonesiaTravel #TravelDiscovery
 
 ## Where the Desert Drops Into the Sea
 
-Where does the desert end? In five remarkable places, it meets the sea. 🌊🏜️
+When giant dunes and desert cliffs meet the ocean, the scenery barely looks real. 🌊🏜️
 
-📍 Sandwich Harbour, Namibia — enormous dunes tumble towards the Atlantic.
-📍 Paracas, Peru — coastal desert cliffs rise above the Pacific.
-📍 Khor Al Adaid, Qatar — explore a tidal Inland Sea edged by sand dunes.
-📍 Dune du Pilat, France — climb Europe's tallest sand dune for Atlantic views.
-📍 Cape Peron, Western Australia — rust-red coastal sand meets Shark Bay's blue water.
+📍 Sandwich Harbour, Namibia — huge desert dunes fall towards Atlantic surf; see them from two very different angles.
+📍 Paracas, Peru — sheer ochre desert cliffs line the Pacific.
+📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.
+📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.
+📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.
+📍 Corralejo, Fuerteventura — white dunes roll down towards turquoise sea in the Canary Islands.
 
-Seven photo perspectives across five contrasting coasts. Which would you visit?
+Some are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?
 
-Photos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Slim MARS / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.
+Photos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Alejandro Martin / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.
 
-#YourTravelAtlas #CoastalLandscapes #DesertCoast #NaturePhotography #TravelDiscovery
+#YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery
 
 ## 8 Real Places That Look Like a Winter Film Set
 
@@ -225,16 +227,16 @@ Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed volcanic pool
 📍 Fanal Forest — wander among ancient laurel trees in the mist.
 📍 Seixal — black sand beneath towering green cliffs.
 📍 Santana — discover colourful thatched triangular cottages.
-📍 Risco Waterfall — find a slender cascade on a lush mountain slope.
+📍 Véu da Noiva — watch a waterfall tumble towards the Atlantic from an official roadside viewpoint.
 📍 Porto Moniz — swim in Atlantic-fed pools formed in volcanic rock.
 📍 Ponta de São Lourenço — explore the wild eastern headland on foot.
 📍 Ribeira da Janela — spot jagged sea stacks rising from the Atlantic.
 
-The famous PR1 Areeiro ridge trail is currently marked closed (checked November 2026). Madeira's classified walks require advance booking: check the official Visit Madeira trail status before hiking.
+The PR1 Areeiro ridge trail was marked closed on 17 November 2026. Check Visit Madeira for current access and trail booking rules before setting out.
 
 Which scene would make you visit Madeira?
 
-Photos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.
+Photos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Mick Kirchman, Reinaldo Photography & Hikerwise.com / Unsplash.
 
 #YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes
 

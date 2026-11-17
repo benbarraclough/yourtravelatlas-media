@@ -1,17 +1,17 @@
 {
   "issue": 16,
   "slug": "016-madeira-six-landscapes-carousel",
-  "brief_sha256": "3c6163a3fe5a13aa2193f91167923783f46b7cd8fd6497966f5af2ca9972640d",
-  "caption_sha256": "89e675e76a5ac4d4a12f1dd08d827c95c1d43e42bc0f07e4947adbe9d22dd140",
+  "brief_sha256": "e451c270f9280e1d6f4563b92552eac9a74afc08f3624f880ebc35f230348f10",
+  "caption_sha256": "1a20db90d98457ed455fbcc245f512e72ae1821fc4961e2f5dcf084f6c206b50",
   "image_sha256": {
     "media/016-madeira-six-landscapes-carousel/01.jpg": "59783c5dca5a94adf0ed33ad1f4d91b49a5525b1e21dd0ea447194d1a0d723a2",
     "media/016-madeira-six-landscapes-carousel/02.jpg": "239c67996ea4923cb606f9a72c2efabbd42a9c2c51ce07c596d43d0feee85b9a",
     "media/016-madeira-six-landscapes-carousel/03.jpg": "8fad38b51596a7040aa389b6389163bd3f7da2bea46bde766e414458771bdfdf",
     "media/016-madeira-six-landscapes-carousel/04.jpg": "687b57fcfa3a3d06a71a5edb87e123d77eb1242090b2f41cb4129962dc0479e1",
-    "media/016-madeira-six-landscapes-carousel/05.jpg": "c1b1f0b25e424fd1baf983e2046732bdd73d93189b0a05ea22e8b51be6c1c790",
+    "media/016-madeira-six-landscapes-carousel/05.jpg": "31cc18bbf3aad746511df7a18208e65b47cb3fdddd2485950403a4ed7a319a9b",
     "media/016-madeira-six-landscapes-carousel/06.jpg": "c8ca360fa0d3dd0a181362fa36c266e44ec41e6a880953876062bcfb6896cac7",
     "media/016-madeira-six-landscapes-carousel/07.jpg": "5c4b903ea053eef5151784d12881b5a09ac42fe52f50080b5276431bb46ecac7",
     "media/016-madeira-six-landscapes-carousel/08.jpg": "bb3266ea43f0b5234f1849ecaaaa2a2c9657df85781019c859958c5919a9f35b",
-    "media/016-madeira-six-landscapes-carousel/09.jpg": "4be5f5b91edda530523cd771f05105fd2e9caad3523de0a8697cf1f501f4ff84"
+    "media/016-madeira-six-landscapes-carousel/09.jpg": "2a1f193c27c8221d238d0a77f625515c72091b6d34f3a7ea849b99cc596b303a"
   }
 }

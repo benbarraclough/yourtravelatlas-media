@@ -5,13 +5,12 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "3c6163a3fe5a13aa2193f91167923783f46b7cd8fd6497966f5af2ca9972640d",
-  "caption": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed volcanic pools are all on one island. 🇵🇹\n\n📍 Pico do Areeiro — take in dramatic cloud-top mountain views from the viewpoint.\n📍 Fanal Forest — wander among ancient laurel trees in the mist.\n📍 Seixal — black sand beneath towering green cliffs.\n📍 Santana — discover colourful thatched triangular cottages.\n📍 Risco Waterfall — find a slender cascade on a lush mountain slope.\n📍 Porto Moniz — swim in Atlantic-fed pools formed in volcanic rock.\n📍 Ponta de São Lourenço — explore the wild eastern headland on foot.\n📍 Ribeira da Janela — spot jagged sea stacks rising from the Atlantic.\n\nThe famous PR1 Areeiro ridge trail is currently marked closed (checked November 2026). Madeira's classified walks require advance booking: check the official Visit Madeira trail status before hiking.\n\nWhich scene would make you visit Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
+  "brief_sha256": "e451c270f9280e1d6f4563b92552eac9a74afc08f3624f880ebc35f230348f10",
+  "caption": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed volcanic pools are all on one island. 🇵🇹\n\n📍 Pico do Areeiro — take in dramatic cloud-top mountain views from the viewpoint.\n📍 Fanal Forest — wander among ancient laurel trees in the mist.\n📍 Seixal — black sand beneath towering green cliffs.\n📍 Santana — discover colourful thatched triangular cottages.\n📍 Véu da Noiva — watch a waterfall tumble towards the Atlantic from an official roadside viewpoint.\n📍 Porto Moniz — swim in Atlantic-fed pools formed in volcanic rock.\n📍 Ponta de São Lourenço — explore the wild eastern headland on foot.\n📍 Ribeira da Janela — spot jagged sea stacks rising from the Atlantic.\n\nThe PR1 Areeiro ridge trail was marked closed on 17 November 2026. Check Visit Madeira for current access and trail booking rules before setting out.\n\nWhich scene would make you visit Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Mick Kirchman, Reinaldo Photography & Hikerwise.com / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
   "fact_sources": [
     "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
     "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
     "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
-    "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
     "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
     "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
     "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
@@ -20,7 +19,9 @@
     "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/",
     "https://www.visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/",
     "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz",
-    "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/"
+    "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/",
+    "https://unsplash.com/photos/a-view-of-a-waterfall-in-the-middle-of-the-ocean-hi3cpIc89Pk",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/veu-da-noiva-viewpoint/"
   ],
   "editorial_intent": "Replace the prohibited 012-madeira-cloud-trails-lava-pools moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
@@ -131,29 +132,30 @@
       ]
     },
     {
-      "subject": "Risco waterfall, Madeira",
-      "source_page": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
-      "photographer": "Daniel J. Schwarz",
+      "subject": "Véu da Noiva waterfall on a green cliff dropping toward the Atlantic north of Seixal, Madeira Portugal",
+      "source_page": "https://unsplash.com/photos/a-view-of-a-waterfall-in-the-middle-of-the-ocean-hi3cpIc89Pk",
+      "photographer": "Hikerwise.com",
       "license": "Unsplash License",
-      "alt": "Risco waterfall, Madeira, Daniel J. Schwarz original real destination travel photograph",
-      "activity_source": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+      "alt": "Véu da Noiva waterfall cascading down a green cliff towards the Atlantic, viewed from the north coast of Madeira.",
+      "activity_source": "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/veu-da-noiva-viewpoint/",
       "file": "05.jpg",
-      "source_sha256": "95320ca4026fe647a2271f5b4841a6261dccf7310a74047235c1be17fa68a7b3",
-      "output_sha256": "c1b1f0b25e424fd1baf983e2046732bdd73d93189b0a05ea22e8b51be6c1c790",
+      "source_sha256": "c12ed98d66afd4e07ebe40deb7ac945614d0b4c53bc422ae5a426213b6d29259",
+      "output_sha256": "31cc18bbf3aad746511df7a18208e65b47cb3fdddd2485950403a4ed7a319a9b",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "A slim waterfall drops through thick forest into a sheltered valley.",
+      "body": "See a waterfall tumble towards the Atlantic from a north-coast viewpoint.",
       "review": {
-        "reader_value": "Risco waterfall, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
-        "image_context": "Daniel J. Schwarz' original free Unsplash photo states Risco Waterfall on Madeira, Portugal, depicting a tall waterfall in foggy vegetation.",
-        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
-        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+        "reader_value": "Memorable ocean-facing waterfall view with a clear practical viewing point and much more visually distinct scenery than the indistinct misty original.",
+        "image_context": "Original free Unsplash photograph by Hikerwise.com identifies Véu da Noiva waterfall viewed from its Seixal roadside viewpoint, Madeira, Portugal.",
+        "specific_detail": "Madeira's official tourism board identifies the scenic Véu da Noiva viewpoint near Seixal and the waterfall cascading towards the Atlantic.",
+        "distinct_contribution": "Replaces an almost invisible misty Risco waterfall image with a recognisable Atlantic coastal waterfall and an easy official viewpoint."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w"
+        "https://unsplash.com/photos/a-view-of-a-waterfall-in-the-middle-of-the-ocean-hi3cpIc89Pk",
+        "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/veu-da-noiva-viewpoint/"
       ]
     },
     {
@@ -243,12 +245,12 @@
         "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
         "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
         "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
-        "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+        "https://unsplash.com/photos/a-view-of-a-waterfall-in-the-middle-of-the-ocean-hi3cpIc89Pk",
         "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
         "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
         "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
       ],
-      "output_sha256": "4be5f5b91edda530523cd771f05105fd2e9caad3523de0a8697cf1f501f4ff84",
+      "output_sha256": "2a1f193c27c8221d238d0a77f625515c72091b6d34f3a7ea849b99cc596b303a",
       "size": [
         1080,
         1350
