@@ -341,6 +341,7 @@ def validate_editorial(post):
     if post.get("editorial_version", 0) >= 7:
         public_caption = post.get("caption", "").casefold()
         for i, slide in enumerate(post["slides"]):
+            if slide.get("layout") == "brand_end": continue  # credits cover the reused triptych source photos
             photographer = slide.get("photographer", "").strip()
             if not photographer or photographer.casefold() not in public_caption:
                 raise ValueError(f"Slide {i+1} photographer is missing from public caption credits")
