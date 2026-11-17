@@ -180,10 +180,6 @@
       }
     },
     {
-      "layout": "brand_end",
-      "subject": "Final scenic brand invitation"
-    },
-    {
       "layout": "photo",
       "heading": "Ribeira da Janela",
       "body": "Jagged sea stacks rise abruptly out of Madeira's dramatic northern coast.",
@@ -205,6 +201,10 @@
         "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
         "distinct_contribution": "Ribeira da Janela adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
       }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
     }
   ],
   "fact_sources": [
