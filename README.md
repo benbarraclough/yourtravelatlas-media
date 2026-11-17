@@ -28,14 +28,10 @@ An editor-led, image-led Instagram travel discovery project for [@yourtravelatla
 | [docs/reference/](docs/reference/) | Historical benchmark and footage-source research (not production rules) |
 | [docs/history/](docs/history/) | Superseded workflow documents, audits and older records |
 
-## Current position (snapshot: 11 November 2026, morning UK)
+## Current verified position (Tuesday 17 November 2026, after manual session)
 
-Published in November: Porto, French Riviera, Iceland Reel and Japan. The older Faroe Islands carousel is also published.
+Metricool shows **7 November posts PUBLISHED + 7 PENDING = 14/20 allowance used; 6 slots remain**. Weeks 16–22 and 23–29 November each have exactly four bookings. The new Sunday 29 November post is a **genuine five-clip Pexels moving-video Reel** about Cappadocia, not a photo slideshow. The 22 November Madeira slideshow was revised with stronger image sources and credits in its existing Metricool slot. All future bookings have `autoPublish=true`, `draft=false`.
 
-The three posts confirmed auto-publishing **PENDING** during the morning check were New Zealand (11 Nov 12:00), Philippines (13 Nov 19:00) and Amalfi Coast (16 Nov 19:00). Status may change after this snapshot; **re-fetch Metricool before making decisions**.
+All seven Atlas ChatGPT automations are **paused**. There is no delete action in the available Automations connector; the user can permanently delete them in ChatGPT **Scheduled**. Do not create replacements. Owner prompts each **Tuesday**, next on **24 Nov**, to produce the following four-post week. A candidate South America carousel is parked in `content/archive/` for future approval only, not booked. The older already-booked 23 Nov Indonesia Pink Beach is fully usable; a separate better-image revision in its live brief is awaiting actual renderer/media synchronization, and must not be described as published.
 
-**Updated recovery snapshot 13 November:** Three posts PENDING for 16–22 Nov in Metricool: Mon 16 Nov Amalfi (6-image carousel), Wed 18 Nov Alpine `010-mountain-views-without-summit-hikes` (7-image carousel) and Fri 20 Nov winter `011-five-winter-fairytale-places` (8-scene 28.8-second silent photo slideshow Reel). The only missing publication is the fourth genuine-video Reel or a second slideshow Reel if genuine footage cannot be sourced. The owner-triggered Tuesday workflow reads `content/production-queue.json` and advances the outstanding work. No unattended publishing is expected.
-
-**Retired and replaced:** Namibia, European wildlife, the original Istanbul Reel, and the original Amalfi photo-MP4. This does **not** prohibit creating new, purposeful photo-slideshow Reels under the current plan. Their briefs and old multi-job operating documents are archived to prevent accidental reuse. All prior material remains recoverable through Git history.
-
-**Live Tuesday 17 November status:** 7 published + 2 scheduled in November, 11 of 20 allowance available. The Sunday 22 Nov Reel and four posts for 23–29 Nov are the production priorities. New 012 Madeira slideshow brief is render/QA pending. For publishing status and analytics, inspect the connected **Metricool brand 7717708**. Never store credentials in this public repository.
+Follow [ATLAS_WEEKLY.md](ATLAS_WEEKLY.md) and [content/production-queue.json](content/production-queue.json) for live operating policy/next actions, but **Metricool brand 7717708** is authoritative for real posting. Never put credentials in this public repository.
