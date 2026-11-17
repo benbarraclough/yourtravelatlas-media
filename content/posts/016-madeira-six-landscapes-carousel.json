@@ -16,11 +16,11 @@
   "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
   "slide_count_rationale": "8 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
-  "caption": "One Portuguese island. Eight landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Santana — see traditional colourful thatched-roof cottages.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ribeira da Janela — see sea stacks rise out of a rugged Atlantic shore.\n📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman, Markus Kammermann, Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel",
+  "caption": "Madeira is an island of contrasts: mountain stairs above the clouds, ancient forests in the mist and pools carved into lava rock. 🇵🇹\n\n📍 Pico do Arieiro — follow stone steps along a dramatic mountain ridge.\n📍 Fanal Forest — wander between centuries-old laurel trees.\n📍 Seixal — black sand sits beneath towering green north-coast cliffs.\n📍 Santana — discover colourful triangular cottages with thatched roofs.\n📍 Risco Waterfall — find a slender cascade among lush mountain slopes.\n📍 Porto Moniz — swim in natural Atlantic-fed lava-rock pools.\n📍 Ponta de São Lourenço — explore the rugged eastern peninsula on foot.\n📍 Ribeira da Janela — see jagged sea stacks rise from the Atlantic.\n\nWhich scene would make you book Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
   "slides": [
     {
       "layout": "cover",
-      "heading": "Pico do Arieiro ridgeline, Madeira",
+      "heading": "Pico do Arieiro",
       "body": "Follow steep mountain stairs along Madeira's dramatic cloud-top ridge.",
       "image_url": "https://images.unsplash.com/photo-1746523812328-74b97419f828?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
@@ -43,7 +43,7 @@
     },
     {
       "layout": "photo",
-      "heading": "Fanal ancient laurel forest",
+      "heading": "Fanal Forest",
       "body": "Gnarled laurel trees stand in a mysterious, mist-filled woodland.",
       "image_url": "https://images.unsplash.com/photo-1637247475110-6b8b779a6253?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
@@ -66,7 +66,7 @@
     },
     {
       "layout": "photo",
-      "heading": "Seixal dramatic black-sand coast",
+      "heading": "Seixal Black-Sand Beach",
       "body": "Black sand meets towering green north-coast cliffs.",
       "image_url": "https://images.unsplash.com/photo-1759171650280-0dc6e9c23f3e?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
@@ -89,7 +89,7 @@
     },
     {
       "layout": "photo",
-      "heading": "Santana's Storybook Houses",
+      "heading": "Santana's Thatched Houses",
       "body": "Thatched triangular cottages reveal a completely different side of Madeira.",
       "image_url": "https://images.unsplash.com/photo-1723098281443-7c21f7ed2457?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
@@ -112,7 +112,7 @@
     },
     {
       "layout": "photo",
-      "heading": "Risco waterfall, Madeira",
+      "heading": "Risco Waterfall",
       "body": "A slim waterfall drops through thick forest into a sheltered valley.",
       "image_url": "https://images.unsplash.com/photo-1699694927257-89ac5ce509a1?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
@@ -135,8 +135,8 @@
     },
     {
       "layout": "photo",
-      "heading": "Porto Moniz lava swimming pools, Madei",
-      "body": "Natural lava-rock pools sit beside the crashing Atlantic.",
+      "heading": "Porto Moniz Pools",
+      "body": "Swim between volcanic rocks beside the Atlantic at Porto Moniz.",
       "image_url": "https://images.unsplash.com/photo-1559506664-fdb8917fa559?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
       "photographer": "Colin Watts",
@@ -158,8 +158,8 @@
     },
     {
       "layout": "photo",
-      "heading": "Ponta de São Lourenço coastal hike at ",
-      "body": "A rocky coastal trail crosses Madeira's wild eastern headland.",
+      "heading": "Ponta de São Lourenço",
+      "body": "Walk along Madeira's spectacular wild eastern headland.",
       "image_url": "https://images.unsplash.com/photo-1725380624169-8a2ec1184d6f?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
       "photographer": "Mick Kirchman",
@@ -215,6 +215,9 @@
     "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
     "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
     "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
-    "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
-  ]
+    "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/"
+  ],
+  "last_qa_findings": "2026-11-17: titles on 6 and 7 were clipped at Madei and at; shortened all labels, reordered 8-location caption to actual image order, described Atlantic-fed pools accurately. Await final rendered QA and update original Metricool UUID."
 }
