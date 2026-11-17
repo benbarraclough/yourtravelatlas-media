@@ -173,13 +173,13 @@
     {
       "layout": "photo",
       "heading": "Maspalomas Dunes, Spain",
-      "body": "Follow golden dune ridges with the Atlantic on the horizon.",
+      "body": "Walk across golden dunes with wide views towards the Atlantic.",
       "image_url": "https://images.unsplash.com/photo-1696082748614-d0d096eb9382?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
       "photographer": "Marco Canepa",
       "license": "Unsplash License",
-      "subject": "A few walkers on sunlit golden dune ridges above the Atlantic at Maspalomas Gran Canaria Spain",
-      "alt": "Three walkers crossing golden dunes, with a visible Atlantic Ocean horizon at Maspalomas, Gran Canaria, Spain.",
+      "subject": "Three travellers on towering golden dunes with the Atlantic behind at Maspalomas Gran Canaria Spain",
+      "alt": "Three people walking across bright golden dunes, with the Atlantic visible on the horizon. Text: Maspalomas Dunes, Spain.",
       "activity_source": "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/",
       "fact_checks": [
         "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
@@ -188,8 +188,8 @@
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "A dramatic golden dune landscape with several tiny walkers for scale and ocean on the horizon adds human experience, a vivid new colour palette and a sixth distinct location.",
-        "image_context": "Original free Unsplash photo by Marco Canepa identifies Maspalomas in Gran Canaria, Spain; the rendered image clearly shows three small walkers, golden dune ridges and ocean on the horizon, not a lone person or clear sunset.",
+        "reader_value": "Shows the scale of the real Maspalomas dunes through tiny walking figures and the Atlantic backdrop, distinct from other cliff and drone scenes.",
+        "image_context": "Original free Unsplash photograph by Marco Canepa identifies Maspalomas, Gran Canaria, Spain; the image shows people walking across bright golden sand ridges with Atlantic sea behind.",
         "specific_detail": "The Canary Islands official tourism material confirms the natural dune reserve adjoining Maspalomas beach, Gran Canaria.",
         "distinct_contribution": "Several walkers visible on broad sculpted coastal dunes provide a warm human-scale scene distinct from the aerial views of Namibia, the Dune du Pilat and Australian coastline."
       }
