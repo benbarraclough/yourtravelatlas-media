@@ -324,7 +324,7 @@ def validate_editorial(post):
     if post.get("editorial_version", 0) >= 7:
         if post.get("content_type") not in ("collection", "discovery"):
             raise ValueError("V7 requires explicit collection or discovery content_type")
-        if any(s.get("layout") not in ("cover", "photo", "cta", "landscape") for s in post["slides"]):
+        if any(s.get("layout") not in ("cover", "photo", "cta", "landscape", "brand_end") for s in post["slides"]):
             raise ValueError("V7 uses cover, photo, landscape and cta layouts; dense itinerary panels are unsupported")
     if post.get("editorial_version", 0) < 6:
         if post.get("issue") == 1:
@@ -351,6 +351,9 @@ def validate_editorial(post):
     elif post["slides"][-1].get("layout") != "cta" or ctas != 1:
         raise ValueError("Exactly one standard closing card must finish legacy carousels")
     for i, slide in enumerate(post["slides"]):
+        if slide.get("layout") == "brand_end":
+            if i != len(post["slides"])-1: raise ValueError("Branded end page must be the last carousel slide")
+            continue
         if 0 < i < len(post["slides"])-1 and len(visible_words(slide)) > 30:
             raise ValueError("Supporting slides have an absolute 30-word overlay maximum")
         for field in ("reader_value", "image_context", "specific_detail", "distinct_contribution"):
@@ -448,6 +451,31 @@ def draw_slide(source, post, item, index, count):
     return canvas.convert("RGB")
 
 
+def draw_brand_end(photos):
+    """Scenic triptych built only from already licensed photographs in this same post."""
+    if len(photos)<3: raise ValueError("Brand ending needs at least three source photographs")
+    selection=(photos[0],photos[len(photos)//2],photos[-1])
+    collage=Image.new("RGB",SIZE,(20,29,32))
+    for i,source in enumerate(selection):
+        part=ImageOps.fit(source.convert("RGB"),(360,1350),method=Image.Resampling.LANCZOS)
+        collage.paste(part,(360*i,0))
+    tint=Image.new("RGBA",SIZE,(10,19,20,0))
+    t=ImageDraw.Draw(tint)
+    for y in range(1350):
+        alpha=round(65+min(175,max(0,(y-460)/820*175)))
+        t.line((0,y,1080,y),fill=(7,15,20,alpha))
+    collage=Image.alpha_composite(collage.convert("RGBA"),tint).convert("RGB")
+    d=ImageDraw.Draw(collage)
+    ivory=(255,251,243)
+    d.text((72,105),"YOUR TRAVEL ATLAS",font=font(31,REGULAR),fill=ivory,stroke_width=1,stroke_fill=(15,19,25))
+    d.line((72,165,1008,165),fill=ivory,width=2)
+    d.text((72,881),"FILL YOUR FEED",font=font(88,SERIF),fill=ivory,stroke_width=1,stroke_fill=(18,27,33))
+    d.text((72,994),"WITH WONDER.",font=font(89,SERIF),fill=ivory,stroke_width=1,stroke_fill=(18,27,33))
+    d.text((72,1150),"New places. Real experiences. More to discover.",font=font(29,REGULAR),fill=ivory)
+    d.text((72,1262),"@yourtravelatlas",font=font(26,REGULAR),fill=ivory)
+    return collage
+
+
 def build(path):
     post = json.loads(path.read_text(encoding="utf-8"))
     validate_editorial(post)
@@ -465,8 +493,8 @@ def build(path):
         raise ValueError("An issue needs a specific editorial intent and reason friends would share it")
     if any(not url.startswith("https://") for url in post["fact_sources"]):
         raise ValueError("Fact sources must have inspectable HTTPS URLs")
-    urls = [x["image_url"].split("?")[0] for x in post["slides"]]
-    subjects = [x["subject"].strip().casefold() for x in post["slides"]]
+    urls = [x["image_url"].split("?")[0] for x in post["slides"] if x.get("layout")!="brand_end"]
+    subjects = [x["subject"].strip().casefold() for x in post["slides"] if x.get("layout")!="brand_end"]
     if len(set(urls)) != len(urls) or len(set(subjects)) != len(subjects):
         raise ValueError("Duplicate image or slide subject")
     out = OUTPUT / post["slug"]
@@ -476,9 +504,20 @@ def build(path):
         if int(stale.stem) > len(post["slides"]):
             stale.unlink()
     evidence = []
+    photos=[]
     print(f"Rendering {post['slug']}: {len(post['slides'])} slides", flush=True)
     hashes = set()
     for i, item in enumerate(post["slides"]):
+        if item.get("layout") == "brand_end":
+            slide=draw_brand_end(photos)
+            filename=f"{i+1:02d}.jpg"
+            slide.save(out / filename, "JPEG",quality=91,optimize=True,subsampling=0)
+            evidence.append({"layout":"brand_end","subject":"Fill your feed with wonder","file":filename,
+              "source_pages":[x.get("source_page") for x in post["slides"][:-1]],
+              "output_sha256":hashlib.sha256((out / filename).read_bytes()).hexdigest(),"size":list(SIZE),
+              "rights":"Recomposed only from earlier licensed photographs in the same carousel"})
+            print(f"  {filename} - branded scenic ending",flush=True)
+            continue
         if i > 0 and post.get("editorial_version", 0) < 5 and not all(item.get(k) for k in ("kicker", "heading", "tip")):
             raise ValueError(f"Slide {i+1} has no purposeful on-image text")
         if not item.get("activity_source", "").startswith("https://") or item["activity_source"] not in post["fact_sources"]:
@@ -490,6 +529,7 @@ def build(path):
         ):
             raise ValueError(f"Slide {i+1}: move safety or access warnings to caption: {item['tip']}")
         photo, sha = acquire_photo(item)
+        photos.append(photo)
         if sha in hashes:
             raise ValueError("Source photo reused in carousel")
         hashes.add(sha)
@@ -539,6 +579,7 @@ def main():
             raise ValueError(f"Issue {number} duplicated by {path} and {used_issues[number]}")
         used_issues[number] = path
         for slide in post.get("slides", []):
+            if slide.get("layout") == "brand_end": continue
             src = slide.get("image_url", "").split("?")[0]
             if src in used_images:
                 raise ValueError(f"Photo reused between issues: {path} and {used_images[src]}")
