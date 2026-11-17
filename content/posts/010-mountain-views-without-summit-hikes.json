@@ -16,7 +16,7 @@
   "editorial_intent": "Inspire travellers with seven memorable actual mountain vistas attainable by rail, cable car or at a lakeside, without trekking up a mountain summit; never imply step-free access.",
   "reader_scenario": "Travellers who enjoy spectacular mountain views and wish to explore them without a strenuous summit trek.",
   "share_reason": "A saveable international collection of dramatic cable-car panoramas, memorable mountain railways, emerald lakes and Alpine villages.",
-  "slide_count_rationale": "Seven distinct named landscapes: five verified new image sources, two stronger previously rendered images; no filler CTA.",
+  "slide_count_rationale": "Seven distinct named landscapes: five verified new image sources, two stronger previously rendered images; no filler CTA. Includes scenic 'Fill Your Feed With Wonder' final slide recomposed from this carousel's licensed photographs.",
   "caption": "Seven mountain views you can enjoy without hiking to a summit. 🏔️\n\nIt's not always about the climb — sometimes the railway, cable car or lakeside journey is the best part.\n\n📍 Seceda, Italy — arrive by cable car to the jagged Dolomite ridgeline.\n📍 Gornergrat, Switzerland — ride a mountain train towards the Matterhorn.\n📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.\n📍 Aiguille du Midi, France — take the cable car high above Chamonix.\n📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.\n📍 Lake Bled, Slovenia — an island church framed by dramatic sunset mountains.\n📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.\n\nWhich one would you go for?\n\nPhotos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites",
   "slides": [
     {
@@ -186,6 +186,10 @@
         "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
         "distinct_contribution": "Hallstatt offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
       }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
     }
   ],
   "fact_sources": [
