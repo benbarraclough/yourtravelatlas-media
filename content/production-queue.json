@@ -1,9 +1,9 @@
 {
-  "version": 3,
-  "updated_at": "2026-11-16",
-  "mode": "one recurring daily ChatGPT Atlas Publisher task (08:00 UK), one stage/deliverable advanced per run",
+  "version": 4,
+  "updated_at": "2026-11-17",
+  "mode": "Owner-initiated Tuesday session, continuation by direct prompt only; no ChatGPT Atlas automation",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
-  "note": "All old stage-based commissions have been retired. Historical v9 ledger is archived at docs/history/production-queue-v9-replaced-2026-11-09.json. Do not treat this file as evidence of booking or render approvals.",
+  "note": "Live Metricool is authoritative. GitHub Actions render on brief commits; produced assets require actual QA before booking. No unattended scheduled ChatGPT jobs.",
   "editions": [
     {
       "id": "009-amalfi-coast-swipe-carousel",
@@ -62,17 +62,69 @@
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-6536199878840203546"
     },
     {
-      "id": "012-pending-moving-or-fallback-reel",
+      "id": "012-madeira-cloud-trails-lava-pools",
       "type": "photo_slideshow_REEL",
       "target_week": "2026-11-16/2026-11-22",
-      "stage": "source_pages_identified_CDN_pending",
+      "stage": "render_requested",
       "verified": false,
-      "next_action": "Manual/on-demand continuation only: verify six Socotra original photo binaries against actual source pages, rights and subject; replace repetitive scenes, create slideshow brief, render silent 9:16 MP4, inspect full playback and zero audio, then schedule only after QA and live slot recheck.",
-      "last_attempted_action": "2026-11-15: Reconciled live Metricool for 9–29 Nov (3 PENDING for 16–22 Nov; 3 published 9/11/13) and full 1–30 Nov (9 total published+pending in planner response). Identified six exact free Unsplash original photo pages for distinct Socotra Island, Yemen slideshow concept. Source-page text explicitly identifies location and Unsplash License; no image download, original CDN, full-size crop, actual visual QA or renderer test yet. No new posts booked.",
-      "blocker": "Exact full-resolution CDN URLs and decoded 9:16 crop not yet checked; source collection may be too repetitive (three dragon-blood-tree scenes). Replace any weak or redundant photo before committing brief. Need 5+ distinct excellent scenes, verified facts, render and actual MP4 playback/zero-audio QA.",
-      "fallback_decision": "Second still-photo slideshow Reel, as explicitly permitted by ATLAS_WEEKLY.md; genuine moving Reel not presently source-ready.",
+      "brief": "content/reels/012-madeira-cloud-trails-lava-pools.json",
+      "rendered_asset": "media/reels/012-madeira-cloud-trails-lava-pools/",
+      "source_qa": "17 Nov: six exact original free Unsplash photo pages individually checked for source descriptions, creator, Madeira identity and Unsplash License. Exact image CDNs identified by source-page image link. Actual downloaded binaries, mobile crops, final MP4 frames, playback and no-audio verification still pending.",
+      "last_attempted_action": "17 Nov: committed new six-scene Madeira photo-slideshow brief; GitHub Actions push should trigger Reel renderer.",
+      "next_action": "Verify generated media/reels/012-madeira-cloud-trails-lava-pools/manifest.json exists and GitHub renderer passed; inspect final cover, storyboard and full MP4, then schedule only after QA and live Metricool vacancy recheck.",
       "target_slot_candidate": "2026-11-22T19:00:00 Europe/London (NOT RESERVED)",
-      "concept": "SOCOTRA, YEMEN — The island that looks like another planet. Photo slideshow, not filmed footage; distinct dragon-blood trees, high dune sunrise, remote canyon, coast and landscape. Avoid unsupported access claims and repetitive tree shots.",
+      "caption_policy": "No music, accurate short caption and all photographer credits",
+      "fallback_decision": "Still-photo slideshow fallback; no verified 5+ true moving clip package currently available."
+    }
+  ],
+  "retired_and_replaced": [
+    {
+      "id": "005-namibia-contrasts",
+      "replaced_by": "007-new-zealand-south-island",
+      "old_metricool_uuid": "3887494480871441074",
+      "status": "NOT SCHEDULED"
+    },
+    {
+      "id": "006-europe-wildlife-encounters",
+      "replaced_by": "008-philippines-beyond-beaches",
+      "old_metricool_uuid": "7327149549031803495",
+      "status": "NOT SCHEDULED"
+    },
+    {
+      "id": "007-amalfi-coast-scenes",
+      "replaced_by": "009-amalfi-coast-swipe-carousel",
+      "old_metricool_uuid": "-2079661561940328338",
+      "status": "NOT SCHEDULED AS REEL"
+    },
+    {
+      "id": "003-istanbul-between-continents",
+      "replaced_by": "004-behind-the-waterfall",
+      "status": "NOT SCHEDULED"
+    }
+  ],
+  "next_target": {
+    "week_start": "2026-11-16",
+    "week_end": "2026-11-22",
+    "existing_published_or_pending": "Amalfi 16 Nov PUBLISHED, Alpine carousel 18 Nov PENDING, winter photo Reel 20 Nov PENDING",
+    "remaining_at_snapshot": 1,
+    "priorities": [
+      "012 Madeira: renderer output and actual visual playback QA, then book Sunday 22 Nov",
+      "Prepare and schedule four posts for 23–29 Nov: 2 carousel POST, 1 photo Reel, 1 genuine motion Reel or slideshow fallback."
+    ]
+  },
+  "checks": [
+    "Live Metricool monthly 20-slot allowance and upcoming dates",
+    "No duplicate posts; reconcile existing booking IDs",
+    "Original photo/video source and location rights before rendering",
+    "Rendered 4:5 JPG or 9:16 MP4 actual visual QA, no audio for Reels",
+    "Only mark scheduled when Metricool confirms PENDING, draft false and autoPublish true",
+    "Owner prompts manually on Tuesday and follows up when needed"
+  ],
+  "last_verified_metricool": "2026-11-17: Nine total November posts in live planner response: 7 PUBLISHED (2,4,5,9,11,13,16 Nov) and 2 PENDING (18,20 Nov). 11 of 20 allowance slots remain. No 22 Nov or 23–29 Nov bookings.",
+  "deferred_concepts": [
+    {
+      "id": "socotra-island-previously-researched",
+      "reason": "Deferred 17 Nov 2026: FCDO UK advises against all travel to Yemen including Socotra, unsuitable for casual travel recommendation while advisory remains; not licensed media approval or booking",
       "source_candidates": [
         {
           "url": "https://unsplash.com/photos/a-hillside-covered-in-trees-under-a-cloudy-sky-upHTCWMZO80",
@@ -116,59 +168,13 @@
           "licence": "Unsplash License, source-page text",
           "status": "page text checked, binary pending"
         }
-      ],
-      "checked_at": "2026-11-16"
+      ]
     }
   ],
-  "retired_and_replaced": [
-    {
-      "id": "005-namibia-contrasts",
-      "replaced_by": "007-new-zealand-south-island",
-      "old_metricool_uuid": "3887494480871441074",
-      "status": "NOT SCHEDULED"
-    },
-    {
-      "id": "006-europe-wildlife-encounters",
-      "replaced_by": "008-philippines-beyond-beaches",
-      "old_metricool_uuid": "7327149549031803495",
-      "status": "NOT SCHEDULED"
-    },
-    {
-      "id": "007-amalfi-coast-scenes",
-      "replaced_by": "009-amalfi-coast-swipe-carousel",
-      "old_metricool_uuid": "-2079661561940328338",
-      "status": "NOT SCHEDULED AS REEL"
-    },
-    {
-      "id": "003-istanbul-between-continents",
-      "replaced_by": "004-behind-the-waterfall",
-      "status": "NOT SCHEDULED"
-    }
-  ],
-  "next_target": {
-    "week_start": "2026-11-16",
-    "week_end": "2026-11-22",
-    "expected_existing_post": "Three PENDING: revised Amalfi 16 Nov 19:00 POST; Alpine 18 Nov 19:00 POST; Winter 20 Nov 19:00 slideshow REEL",
-    "remaining_at_snapshot": 1,
-    "priorities": [
-      "012: Source-complete and render distinct second photo slideshow Reel for 16–22 November; do not book until actual MP4 and source QA pass"
-    ],
-    "target_mix": "2 carousel POSTS + 1 slideshow REEL + 1 genuine video REEL (fallback 2 slideshow REELS)"
-  },
-  "checks": [
-    "Live Metricool next 14 days and month capacity",
-    "Read queue and choose closest-to-finished unscheduled missing format",
-    "Advance one clear stage in the actual GitHub/render/QA/Metricool pipeline",
-    "Write verified stage, exact blockers and next_action back into this queue",
-    "Only call scheduled_pending after re-fetch confirms PENDING and autoPublish=true",
-    "One daily ChatGPT task only; never reactivate paused producer tasks"
-  ],
-  "last_verified_metricool": "2026-11-16 morning Europe/London: six November PUBLISHED and three PENDING in live planner. Week 16–22: Amalfi 16 Nov 19:00 POST UUID -2079661561940328338, Alpine 18 Nov 19:00 POST UUID 8564036779370171055, Winter 20 Nov 19:00 REEL UUID -6536199878840203546; all draft=false autoPublish=true. No booking for Sunday 22 Nov. Next week 23–29 Nov no pending items returned. Live 9 total November records; other unlisted manual publications not independently audited.",
-  "automation_handover": {
-    "date": "2026-11-16",
-    "requested": "Stop Atlas daily automation after this run; continue on demand",
-    "last_completed_step": "Live November bookings and next-week vacancies reconciled; ledger checkpointed",
-    "status": "No new media approved or scheduled",
-    "next_action": "Socotra 012 source binary and visual QA, then render and playback review"
+  "manual_handover": {
+    "date": "2026-11-17",
+    "status": "Manual Tuesday workflow now adopted; all seven Atlas ChatGPT tasks already paused; connector has no delete capability",
+    "latest_action": "Replaced Socotra with Madeira due to material safety/advisory concern, sourced and committed six-scene reel brief",
+    "next_action": "Verify Github renderer, quality check, schedule this week's Sunday reel, then 23–29 Nov batch"
   }
 }
