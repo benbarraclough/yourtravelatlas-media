@@ -165,3 +165,19 @@ Which one would you go for?
 Photos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.
 
 #YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites
+
+## Dragons, Pink Sand & Volcano Lakes
+
+Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩
+
+📍 Padar Island — climb to a viewpoint above sweeping curved bays.
+📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.
+📍 Kelimutu, Flores — discover three crater lakes that change colour over time.
+📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.
+📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.
+
+Which would be your first stop?
+
+Photos: Evan THOMAS, I CHEN LIN, yosep sare, Ash Hayes & Daniel Pelaez Duque / Unsplash.
+
+#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery
