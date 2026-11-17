@@ -5,7 +5,7 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "be92a0ba62b6a0522d85b084d11e70f12fcfef70d3618ba9670b2d1b812e8e7b",
+  "brief_sha256": "1eae00915d5440e5e0f82cc03aa3d4f869263ad0daadadcd837243d1573c61e7",
   "caption": "When giant dunes and desert cliffs meet the ocean, the scenery barely looks real. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — huge desert dunes fall towards Atlantic surf; see them from two very different angles.\n📍 Paracas, Peru — sheer ochre desert cliffs line the Pacific.\n📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.\n📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.\n📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.\n📍 Maspalomas, Gran Canaria — walk a golden dune ridge with the Atlantic on the horizon.\n\nSome are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Marco Canepa / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery",
   "fact_sources": [
     "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
@@ -197,24 +197,24 @@
       ]
     },
     {
-      "subject": "A few walkers on sunlit golden dune ridges above the Atlantic at Maspalomas Gran Canaria Spain",
+      "subject": "Three travellers on towering golden dunes with the Atlantic behind at Maspalomas Gran Canaria Spain",
       "source_page": "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
       "photographer": "Marco Canepa",
       "license": "Unsplash License",
-      "alt": "Three walkers crossing golden dunes, with a visible Atlantic Ocean horizon at Maspalomas, Gran Canaria, Spain.",
+      "alt": "Three people walking across bright golden dunes, with the Atlantic visible on the horizon. Text: Maspalomas Dunes, Spain.",
       "activity_source": "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/",
       "file": "07.jpg",
       "source_sha256": "c325f1506c9a06518048655aedea5ffa1eee6831dd5b75a0904731c79efd2cb4",
-      "output_sha256": "13f17b04f926e314be3eca5f08ef173e75c57756adb8c6db8e45204d68dcb494",
+      "output_sha256": "4271edc0567fd1c579fcd017d8c50230b97b4bf0744153e404f03631932cf6aa",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Follow golden dune ridges with the Atlantic on the horizon.",
+      "body": "Walk across golden dunes with wide views towards the Atlantic.",
       "review": {
-        "reader_value": "A dramatic golden dune landscape with several tiny walkers for scale and ocean on the horizon adds human experience, a vivid new colour palette and a sixth distinct location.",
-        "image_context": "Original free Unsplash photo by Marco Canepa identifies Maspalomas in Gran Canaria, Spain; the rendered image clearly shows three small walkers, golden dune ridges and ocean on the horizon, not a lone person or clear sunset.",
+        "reader_value": "Shows the scale of the real Maspalomas dunes through tiny walking figures and the Atlantic backdrop, distinct from other cliff and drone scenes.",
+        "image_context": "Original free Unsplash photograph by Marco Canepa identifies Maspalomas, Gran Canaria, Spain; the image shows people walking across bright golden sand ridges with Atlantic sea behind.",
         "specific_detail": "The Canary Islands official tourism material confirms the natural dune reserve adjoining Maspalomas beach, Gran Canaria.",
         "distinct_contribution": "Several walkers visible on broad sculpted coastal dunes provide a warm human-scale scene distinct from the aerial views of Namibia, the Dune du Pilat and Australian coastline."
       },
