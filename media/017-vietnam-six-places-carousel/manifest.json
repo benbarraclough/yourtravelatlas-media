@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "de3617b2098753e527266e861e2a4201dfe4633bb67de2abd1c2c958725f0d16",
-  "caption": "From limestone islands to a cave big enough to camp in, Vietnam has extraordinary contrasts. 🇻🇳\n\n📍 Hạ Long Bay — cruise between towering limestone islands.\n📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.\n📍 Sa Pa — see green-and-gold rice terraces ripple across the mountain slopes.\n📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.\n📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.\n📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.\n📍 Hội An — watch lanterns glimmer across the river at night.\n📍 Hanoi Train Street — see a railway thread between narrow city buildings; respect local access rules.\n\nWould you choose a cave expedition or a night on the lantern-lit river?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Huy Nguyen, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery",
+  "brief_sha256": "b759a3b9178e2770a66ec132bdc2e33186fe3818b030dc0e164021c5304ed8e5",
+  "caption": "From limestone islands to a cave big enough to camp in, Vietnam has extraordinary contrasts. 🇻🇳\n\n📍 Hạ Long Bay — cruise between towering limestone islands.\n📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.\n📍 Sa Pa — see green-and-gold rice terraces ripple across the mountain slopes.\n📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.\n📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.\n📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.\n📍 Hội An — watch lanterns glimmer across the river at night.\n📍 Hanoi Train Street — an active railway squeezed between homes. Access is restricted: observe only where permitted, never from the tracks.\n\nWould you choose a cave expedition or a night on the lantern-lit river?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Huy Nguyen, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery",
   "fact_sources": [
     "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
     "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
@@ -220,17 +220,17 @@
       "activity_source": "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4",
       "file": "08.jpg",
       "source_sha256": "8553d7f71efaa31b2681422a9a4bfadd09bf56f6f8659d05a7b7e58f4bac4f3d",
-      "output_sha256": "0d9de44e3096c89a40c13947dd3472590b8fdb3d09bb3f4a07ffdaf4aa27ddbf",
+      "output_sha256": "401391200aa139952b34ba0ee62e5bac7d49b15da4476891f1f3bac4efe90632",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "A railway squeezes between city buildings and colourful local cafés.",
+      "body": "The railway winds between city buildings. Observe access rules and stay off the tracks.",
       "review": {
         "reader_value": "Hanoi's Train Street gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
         "image_context": "Original photographer Bernd Dittrich explicitly identifies the train at Hanoi Train Street, Phố Trần Phú, Điện Biên, Hoàn Kiếm, Hanoi, Vietnam, freely licensed via Unsplash.",
-        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "specific_detail": "Hanoi Train Street is an active railway with restricted visitor access: never walk on the tracks, follow on-site signs and local authority notices.",
         "distinct_contribution": "Hanoi's Train Street adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
       },
       "fact_checks": [

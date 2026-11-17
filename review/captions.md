@@ -251,7 +251,7 @@ From limestone islands to a cave big enough to camp in, Vietnam has extraordinar
 📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.
 📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.
 📍 Hội An — watch lanterns glimmer across the river at night.
-📍 Hanoi Train Street — see a railway thread between narrow city buildings; respect local access rules.
+📍 Hanoi Train Street — an active railway squeezed between homes. Access is restricted: observe only where permitted, never from the tracks.
 
 Would you choose a cave expedition or a night on the lantern-lit river?
 
