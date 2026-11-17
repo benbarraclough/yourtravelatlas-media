@@ -9,7 +9,7 @@
   "audio_policy": "no_music",
   "editorial_intent": "Show six real visually contrasting Madeira scenes in a silent mobile-first editorial photo-slideshow Reel, not a genuine footage Reel.",
   "share_reason": "The unexpected contrast between cloud-top ridges, eerie laurel forest, black sand, dramatic waterfall, lava pools and sunrise peninsula makes a memorable Portuguese-island saveable discovery.",
-  "editorial_status": "production_pending_QA",
+  "editorial_status": "rejected",
   "images": [
     {
       "subject": "Pico do Arieiro ridgeline, Madeira",
@@ -66,5 +66,7 @@
       "license": "Unsplash License"
     }
   ],
-  "frames_per_image": 105
+  "frames_per_image": 105,
+  "retired_reason": "Owner prohibited moving-zoom still-photo videos on 17 Nov 2026; replaced in existing Metricool UUID by manual swipe carousel POST.",
+  "replaced_by": "content/posts/016-madeira-six-landscapes-carousel.json"
 }
