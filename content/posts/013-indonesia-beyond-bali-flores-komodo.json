@@ -15,29 +15,29 @@
   "editorial_intent": "Show visitors five striking real and distinctive places in Flores and Komodo, combining landscapes, volcanic colour phenomena, living cultural heritage and wild dragons.",
   "reader_scenario": "A curious traveller who knows Bali but has never considered the contrasting islands and experiences in eastern Indonesia.",
   "share_reason": "A genuine surprise-driven destination discovery: Komodo dragons, a blush-coloured coast, colour-changing volcanic crater lakes and a remote living highland village together.",
-  "slide_count_rationale": "Five different documented authentic scenes with no redundant follow card; one cover and four further manually swipeable images.",
-  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Evan THOMAS, I CHEN LIN, yosep sare, Ash Hayes & Daniel Pelaez Duque / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
+  "slide_count_rationale": "Five individually documented real Flores and Komodo scenes; cover and two supporting photo sources improved after actual rendered image QA revealed weak hero framing, indistinct pink sand and soft crater image.",
+  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Lisa van Vliet, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
       "heading": "Padar Island",
       "body": "Hike to the ridge to see three curved bays divided by golden hills.",
-      "image_url": "https://images.unsplash.com/photo-1760954521771-a88645e5b83f?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/mountain-landscape-overlooking-a-tropical-beach-and-ocean-tHLAWJVsXOU",
-      "photographer": "Evan THOMAS",
+      "image_url": "https://images.unsplash.com/photo-1571366343168-631c5bcca7a4?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/brown-mountain-beside-body-of-water-during-daytime-tqvF1JXzOxs",
+      "photographer": "Rizknas",
       "license": "Unsplash License",
       "subject": "Padar island view between three beaches",
       "alt": "Padar island view between three beaches, Indonesia",
       "activity_source": "https://www.indonesia.travel/id/id/travel-ideas/marine/unveil-the-lands-of-dragons-firsttimers-guide-to-komodo-national-park",
       "fact_checks": [
-        "https://unsplash.com/photos/mountain-landscape-overlooking-a-tropical-beach-and-ocean-tHLAWJVsXOU",
+        "https://unsplash.com/photos/brown-mountain-beside-body-of-water-during-daytime-tqvF1JXzOxs",
         "https://www.indonesia.travel/id/id/travel-ideas/marine/unveil-the-lands-of-dragons-firsttimers-guide-to-komodo-national-park"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "Padar Island offers a highly distinctive real experience in eastern Indonesia beyond the usual Bali travel imagery.",
-        "image_context": "Original free-licence Unsplash image by Evan THOMAS identifies Padar Island in the Komodo or Flores region of Indonesia.",
+        "image_context": "The original free Unsplash image from Rizknas explicitly identifies Padar Island in the Komodo or Flores region of Indonesia, with accurate landmark features.",
         "specific_detail": "Published official travel or reputable scientific documentation supports the named destination and the experience described on this slide.",
         "distinct_contribution": "Padar Island introduces a contrasting authentic subject and memorable activity rather than repeating the previous photograph."
       }
@@ -46,22 +46,22 @@
       "layout": "photo",
       "heading": "Pink Beach",
       "body": "A blush-tinted shore curves around brilliant turquoise water.",
-      "image_url": "https://images.unsplash.com/photo-1779983055454-0d5ea653b304?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/stunning-tropical-beach-with-clear-blue-water-and-arid-hills-5KaHyYa0RTM",
-      "photographer": "I CHEN LIN",
+      "image_url": "https://images.unsplash.com/photo-1700591698351-f8131b0f5d3c?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-beach-with-a-pink-sand-and-blue-water-XTH4JgHFbqA",
+      "photographer": "Lisa van Vliet",
       "license": "Unsplash License",
       "subject": "Pink Beach aerial Komodo",
       "alt": "Pink Beach aerial Komodo, Indonesia",
       "activity_source": "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park",
       "fact_checks": [
-        "https://unsplash.com/photos/stunning-tropical-beach-with-clear-blue-water-and-arid-hills-5KaHyYa0RTM",
+        "https://unsplash.com/photos/a-beach-with-a-pink-sand-and-blue-water-XTH4JgHFbqA",
         "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "Pink Beach offers a highly distinctive real experience in eastern Indonesia beyond the usual Bali travel imagery.",
-        "image_context": "Original free-licence Unsplash image by I CHEN LIN identifies Pink Beach in the Komodo or Flores region of Indonesia.",
+        "image_context": "The original free Unsplash image from Lisa van Vliet explicitly identifies Pink Beach in the Komodo or Flores region of Indonesia, with accurate landmark features.",
         "specific_detail": "Published official travel or reputable scientific documentation supports the named destination and the experience described on this slide.",
         "distinct_contribution": "Pink Beach introduces a contrasting authentic subject and memorable activity rather than repeating the previous photograph."
       }
@@ -70,22 +70,22 @@
       "layout": "photo",
       "heading": "Kelimutu Lakes",
       "body": "Three volcanic crater lakes whose colours change over time.",
-      "image_url": "https://images.unsplash.com/photo-1778913093243-622f60812826?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/volcanic-crater-lakes-with-a-distant-mountain-peak-lXE7ieZxsPk",
-      "photographer": "yosep sare",
+      "image_url": "https://images.unsplash.com/photo-1777995714032-6566b8695eea?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs",
+      "photographer": "Yub 12",
       "license": "Unsplash License",
       "subject": "Kelimutu Flores volcanic crater lakes",
       "alt": "Kelimutu Flores volcanic crater lakes, Indonesia",
       "activity_source": "https://science.nasa.gov/earth/earth-observatory/volcanic-mood-rings-92377/",
       "fact_checks": [
-        "https://unsplash.com/photos/volcanic-crater-lakes-with-a-distant-mountain-peak-lXE7ieZxsPk",
+        "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs",
         "https://science.nasa.gov/earth/earth-observatory/volcanic-mood-rings-92377/"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "Kelimutu Lakes offers a highly distinctive real experience in eastern Indonesia beyond the usual Bali travel imagery.",
-        "image_context": "Original free-licence Unsplash image by yosep sare identifies Kelimutu Lakes in the Komodo or Flores region of Indonesia.",
+        "image_context": "The original free Unsplash image from Yub 12 explicitly identifies Kelimutu Lakes in the Komodo or Flores region of Indonesia, with accurate landmark features.",
         "specific_detail": "Published official travel or reputable scientific documentation supports the named destination and the experience described on this slide.",
         "distinct_contribution": "Kelimutu Lakes introduces a contrasting authentic subject and memorable activity rather than repeating the previous photograph."
       }
@@ -140,14 +140,14 @@
     }
   ],
   "fact_sources": [
-    "https://unsplash.com/photos/mountain-landscape-overlooking-a-tropical-beach-and-ocean-tHLAWJVsXOU",
     "https://www.indonesia.travel/id/id/travel-ideas/marine/unveil-the-lands-of-dragons-firsttimers-guide-to-komodo-national-park",
-    "https://unsplash.com/photos/stunning-tropical-beach-with-clear-blue-water-and-arid-hills-5KaHyYa0RTM",
     "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park",
-    "https://unsplash.com/photos/volcanic-crater-lakes-with-a-distant-mountain-peak-lXE7ieZxsPk",
     "https://science.nasa.gov/earth/earth-observatory/volcanic-mood-rings-92377/",
     "https://unsplash.com/photos/a-group-of-huts-sitting-on-top-of-a-lush-green-hillside-EV2tTLVsiKU",
     "https://www.indonesia.travel/uk/en/travel-ideas/heritage/menikmati-pesona-desa-adat-wae-rebo-di-pulau-flores",
-    "https://unsplash.com/photos/a-large-lizard-laying-on-the-ground-next-to-a-tree-YQ_1xfuXUu4"
+    "https://unsplash.com/photos/a-large-lizard-laying-on-the-ground-next-to-a-tree-YQ_1xfuXUu4",
+    "https://unsplash.com/photos/brown-mountain-beside-body-of-water-during-daytime-tqvF1JXzOxs",
+    "https://unsplash.com/photos/a-beach-with-a-pink-sand-and-blue-water-XTH4JgHFbqA",
+    "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs"
   ]
 }
