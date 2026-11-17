@@ -4,21 +4,21 @@
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "source_brief": "content/reels/013-six-sides-of-vietnam.json",
-  "brief_sha256": "eff9a3dbc5cf5e6585503802756072c2422451cf1a654f1176de8857e5961830",
-  "video_sha256": "f3fd0fd9417a22660c7706fa5cf2d7df55ac761425596694d5b841c786ef3d68",
+  "brief_sha256": "7f3815dbd1291c4ce5a922fb53929f8d4da9964db53406442025f4df4595e12b",
+  "video_sha256": "e05e360d5fb1281f7e97e33ac39af2ab00d63551febd7b90af0891995fa4a130",
   "audio_streams": 0,
   "image_count": 6,
   "duration_seconds": 21.0,
-  "caption": "One country. Six extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Adam Young, Bernd 📷 Dittrich, Wietse Jongsma, Mayur Arvind, Andrew Svk & Jason Pham / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelReels #TravelDiscovery",
+  "caption": "One country. Six extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelReels #TravelDiscovery",
   "images": [
     {
-      "source_page": "https://unsplash.com/photos/a-boat-sails-through-a-bay-with-towering-limestone-karsts-dooX1R4_0Z8",
-      "photographer": "Adam Young",
+      "source_page": "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+      "photographer": "Pierre Bonvalot",
       "license": "Unsplash License",
       "subject": "Hạ Long Bay, Vietnam",
       "overlay": "HẠ LONG BAY — boats between misty sea cliffs",
-      "source_sha256": "9a7f9a0714cc90e457decbdb3a0549ac3332be4cc9f224d75e59625125baa601",
-      "location_evidence": "Adam Young's original Unsplash photo identifies a boat sailing through towering limestone karsts at Hạ Long Bay in Vietnam."
+      "source_sha256": "7c3518c5f8fe7987e0188d978e3d1a599ddba770a58fe26d2a04958c270be18e",
+      "location_evidence": "Pierre Bonvalot's original free Unsplash drone photograph explicitly identifies Hạ Long Bay, Vietnam, with a sea of limestone karst islands and an expansive elevated view."
     },
     {
       "source_page": "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
@@ -30,13 +30,13 @@
       "location_evidence": "Bernd Dittrich's original Unsplash photograph labels Tràng An in the Hoa Lư district of Ninh Bình, Vietnam and depicts boats through lush green karst hills."
     },
     {
-      "source_page": "https://unsplash.com/photos/terraced-rice-fields-with-small-houses-dot-the-landscape-gwxITBKRiZQ",
-      "photographer": "Wietse Jongsma",
+      "source_page": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+      "photographer": "Daniele Franchi",
       "license": "Unsplash License",
       "subject": "Sa Pa, Vietnam",
       "overlay": "SA PA — rice terraces cut into the mountains",
-      "source_sha256": "4a54277f3038accf7d2a6f38883934c6538ca356966a91bbf65fc73d2a3d6b1a",
-      "location_evidence": "Wietse Jongsma's original Unsplash photograph identifies the terraced rice fields in Sa Pa, Vietnam, with small houses and patterned mountain slopes."
+      "source_sha256": "49d295543c7b9e0690055fc538c07c845aed3a3ce269a2ea4481f4ac611d056b",
+      "location_evidence": "Daniele Franchi's original free Unsplash image identifies Sa Pa, Lào Cai Vietnam, specifically rice terraces and bright green terraced fields, not generic agriculture."
     },
     {
       "source_page": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
