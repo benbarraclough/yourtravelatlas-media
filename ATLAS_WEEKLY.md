@@ -51,32 +51,23 @@ The Metricool allowance is **20 total posts per calendar month**, including post
 6. **BOOK** finished media on Metricool at vacant slot, correct `POST` vs `REEL`, timezone, public media files, caption and credits, autoPublish=true/draft=false. Re-fetch and assert provider `PENDING`; preserve UUID when revising any scheduled post (its numeric post ID changes). Never create a duplicate to replace a draft or correction.
 7. **REPORT** actual bookings, UK times, monthly used/20, what was truly QA-checked, exact blockers and concise next handoff. Update queue/state, not a pile of recurring tasks.
 
-## Historical live schedule snapshot — Tuesday 17 November 2026 (before owner-requested format revisions)
+## Final live Metricool verification — 17 November 2026, after all format revisions
 
-**November: 14/20 used: 7 PUBLISHED, 7 PENDING, 6 unfilled.** All future entries autoPublish true, draft false. Don't infer live status from this dated snapshot next Tuesday.
+**November: 14/20 used (7 published + 7 PENDING; six unused).** All future dates at 19:00 UK. Every pending provider is `PENDING`, `draft=false`, `autoPublish=true`. These are date-stamped facts; recheck on next Tuesday prompt.
 
-| UK publication time | Real Instagram format | Topic | Metricool id | Actual state |
-| --- | --- | --- | --- | --- |
-| Mon 16 Nov 19:00 | Carousel POST | Amalfi / Fiordo di Furore | 429111375 | PUBLISHED |
-| Wed 18 Nov 19:00 | Carousel POST | 7 Mountain Views Without the Summit Hike | 427230845 | PENDING |
-| Fri 20 Nov 19:00 | Photo slideshow REEL | 8 Places That Look Like a Winter Film | 427232781 | PENDING |
-| Sun 22 Nov 19:00 | Photo slideshow REEL | Madeira: Cloud Trails / Lava Pools, updated media+credits | 431506131 | PENDING |
-| Mon 23 Nov 19:00 | Carousel POST | Indonesia Beyond Bali / Flores & Komodo | 431514077 | PENDING |
-| Wed 25 Nov 19:00 | Carousel POST | Five Places Where the Desert Meets the Sea | 431479145 | PENDING |
-| Fri 27 Nov 19:00 | Photo slideshow REEL | Six Sides of Vietnam | 431495264 | PENDING |
-| Sun 29 Nov 19:00 | **TRUE MOVING VIDEO REEL** | Cappadocia Beyond Balloons — revised five-clip motion Reel and correct credits | 431510824 | PENDING |
+| UK date | Real published format | Content | Slides / moving clips | Metricool ID |
+| --- | --- | --- | ---: | ---: |
+| Mon 16 Nov | Carousel POST — PUBLISHED | Amalfi coast | 6 | 429111375 |
+| Wed 18 Nov | Carousel POST | 7 Mountain Views Without a Summit Hike | 8 | 431597761 |
+| Fri 20 Nov | Carousel POST (replaced photo Reel) | 8 Winter Film-Set Places | 9 | 431596084 |
+| Sun 22 Nov | Carousel POST (replaced photo Reel) | Madeira | 9 | 431596612 |
+| Mon 23 Nov | Carousel POST | Indonesia Beyond Bali | 8 | 431597870 |
+| Wed 25 Nov | Carousel POST | Where the Desert Meets the Sea | 8 | 431597947 |
+| Fri 27 Nov | Carousel POST (replaced photo Reel) | Vietnam | 9 | 431596729 |
+| Sun 29 Nov | Genuine moving-video REEL | 5 Cappadocia Experiences Worth the Journey | 8 filmed clips | 431589392 |
 
-Both publication weeks meet the FOUR posts/week target. The Sunday 29 November Reel was produced from **five real Pexels moving clips**, 18.9 seconds silent, with revised fairy-chimney and horseback-riding shots and corrected contributor credit. Earlier Sunday 22 Madeira slideshow was revised **inside its existing Metricool slot** to the strengthened Porto Moniz volcanic pool and São Lourenço path footage-free photo sequence, correctly credited. All seven legacy ChatGPT Atlas tasks remain disabled; permanent deletion requires the owner to use ChatGPT Tasks.
+All new photo carousels have their dedicated last **Fill Your Feed With Wonder** scenic slide. The original November 20, 22 and 27 static-image MP4s were overwritten as native swipe carousels **in their existing Metricool UUIDs** and are no longer upcoming. The original motion video was replaced with an improved eight-shot H.264 25.1-second silent reel, large bold shaded intro and genuine filmed outro. All seven bookings were verified PENDING after update, without new quota slots. The old three still-Reel source briefs are marked `rejected`, and the real Reel renderer refuses `photo_slideshow_v1` even for future new inputs.
 
-**Indonesia correction resolved on 17 Nov:** Mon 23 Nov carousel's second slide now contains the newly rendered licensed Simon Spring Pink Beach aerial photograph. Correct image, all five actual JPEGs, caption credits and alt text were uploaded to the SAME UUID `8356741788287969` and re-fetched as `PENDING`/autoPublish=true/draft=false; new numeric id **431514077**. No outstanding source/caption mismatch.
+**Latest editorial research:** `docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md` provides a range of original carousel/moving-video concepts from Atlas Obscura, Lonely Planet, Time Out, Condé Nast and travel creator content patterns. Independently verify claims and rights; do not copy media or language.
 
-**Archived next-cycle candidate:** `content/archive/south-america-landscapes-next-cycle-2026-11-24.json`; intentionally removed from live `content/posts/` because it conflicted with existing issue 014 and four posts/week were already complete. Before reusing it, reassign a truly unused issue ID and check every photo. Existing historic production and retired concepts in `docs/history/` and `content/archive/` are reference only, not mandatory tasks.
-
-**Next owner prompt:** Tuesday **24 November 2026**. Recheck actual bookings/engagement and the November/December caps, reconcile Monday 23 publication and all pending statuses, then create four excellent original posts for **30 November – 6 December**. Do not create reminders or scheduled jobs.
-
-
-## 17 November — mandatory manual editorial corrections underway
-- Owner rejected ALL still-photo zooming slideshow Reels. Convert Nov 20 Winter, Nov 22 Madeira and Nov 27 Vietnam in their EXISTING Metricool UUIDs to true swipeable carousel POSTS with new JPEG renders and a branded last slide. No new duplicate scheduling slots.
-- Current carousel revisions: Nov 18 mountain, Nov 23 Indonesia and Nov 25 desert should all receive scenic brand endings and stronger extra photos where sourced. Never mark completed before inspecting actual output and re-fetching post `PENDING`.
-- Real Cappadocia Reel for Sun 29 has been replaced in its same UUID with **eight** real moving clips, strengthened **'5 Cappadocia Experiences Worth the Journey'** hook, bold dark-backed mobile-safe font, and filmed branded outro. Updated live Metricool id **431589392**, PENDING, autoPublish true, draft false. No music/audio.
-- GitHub renders of the replacement carousels may be in progress; see `content/production-queue.json` for exact latest checkpoint. This section is a dated handoff; always fetch live Metricool.
+**Next manual owner prompt:** Tuesday 24 November for publication week 30 Nov–6 Dec. Default new mix three genuine photo carousels (8–10 slides, including branded scenic ending) and one true moving-footage Reel (7–10 distinct clips); four carousels as fallback. Do not create a scheduled ChatGPT task or autonomously post outside this prompted work.
