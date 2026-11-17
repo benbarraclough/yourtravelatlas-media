@@ -15,8 +15,8 @@
   "editorial_intent": "Replace the prohibited 012-madeira-cloud-trails-lava-pools moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
   "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
-  "slide_count_rationale": "6 unique real licensed photographs followed by a scenic brand-ending mosaic recomposed from images already shown, with no reused external asset or filler photograph.",
-  "caption": "One Portuguese island. Six landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel",
+  "slide_count_rationale": "8 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
+  "caption": "One Portuguese island. Eight landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Santana — see traditional colourful thatched-roof cottages.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ribeira da Janela — see sea stacks rise out of a rugged Atlantic shore.\n📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman, Markus Kammermann, Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel",
   "slides": [
     {
       "layout": "cover",
@@ -85,6 +85,29 @@
         "image_context": "The original photo page of Julia Schuwer identifies Seixal, Portugal and a black sand beach below misty mountain cliffs.",
         "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
         "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Santana's Storybook Houses",
+      "body": "Thatched triangular cottages reveal a completely different side of Madeira.",
+      "image_url": "https://images.unsplash.com/photo-1723098281443-7c21f7ed2457?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+      "photographer": "Markus Kammermann",
+      "license": "Unsplash License",
+      "subject": "Traditional triangular thatched house in Santana Madeira Portugal",
+      "alt": "Traditional triangular thatched house in Santana Madeira Portugal",
+      "activity_source": "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Santana's Storybook Houses gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "The free Unsplash photographer Markus Kammermann explicitly identifies this distinct traditional thatched cottage and garden at Santana on Madeira Island, Portugal.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Santana's Storybook Houses adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
       }
     },
     {
@@ -159,6 +182,29 @@
     {
       "layout": "brand_end",
       "subject": "Final scenic brand invitation"
+    },
+    {
+      "layout": "photo",
+      "heading": "Ribeira da Janela",
+      "body": "Jagged sea stacks rise abruptly out of Madeira's dramatic northern coast.",
+      "image_url": "https://images.unsplash.com/photo-1653427895631-f73d88ecb5a6?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
+      "photographer": "Reinaldo Photography",
+      "license": "Unsplash License",
+      "subject": "Sea stacks and cliffs at Ribeira da Janela Madeira Portugal",
+      "alt": "Sea stacks and cliffs at Ribeira da Janela Madeira Portugal",
+      "activity_source": "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Ribeira da Janela gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original photo by Reinaldo Photography names the source landscape Ribeira da Janela in the municipality of Porto Moniz, Madeira Island, Portugal.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Ribeira da Janela adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      }
     }
   ],
   "fact_sources": [
@@ -167,6 +213,8 @@
     "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
     "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
     "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
-    "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM"
+    "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
+    "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
+    "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
   ]
 }
