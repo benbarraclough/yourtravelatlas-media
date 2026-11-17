@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-17 final triple QA, live Metricool recheck",
+  "snapshot_date": "2026-11-17 final verified seven-post triple QA",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -46,7 +46,7 @@
   ],
   "known_pending_at_snapshot": [
     {
-      "name": "Seven mountain views you can enjoy without hiking to a summit. 🏔",
+      "name": "Seven mountain views you can enjoy without hiking to a summit. 🏔️",
       "date": "2026-11-18T19:00:00 Europe/London",
       "format": "carousel_POST",
       "metricool_post_id": 431674912,
@@ -57,39 +57,39 @@
       "name": "Eight real places that could belong in a winter film. ❄️",
       "date": "2026-11-20T19:00:00 Europe/London",
       "format": "carousel_POST",
-      "metricool_post_id": 431670992,
+      "metricool_post_id": 431684601,
       "metricool_uuid": "-6536199878840203546",
       "asset_count": 9
     },
     {
-      "name": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fe",
+      "name": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed vol",
       "date": "2026-11-22T19:00:00 Europe/London",
       "format": "carousel_POST",
-      "metricool_post_id": 431671098,
+      "metricool_post_id": 431684520,
       "metricool_uuid": "-4740298397487379750",
       "asset_count": 9
     },
     {
-      "name": "Dragons, pink sand and volcanic lakes — all in Indonesia's extrao",
+      "name": "Dragons, pink sand and colour-changing crater lakes — all in Indonesia",
       "date": "2026-11-23T19:00:00 Europe/London",
       "format": "carousel_POST",
-      "metricool_post_id": 431671167,
+      "metricool_post_id": 431684800,
       "metricool_uuid": "8356741788287969",
       "asset_count": 8
     },
     {
-      "name": "Where does the desert end? In five remarkable places, it meets th",
+      "name": "When giant dunes and desert cliffs meet the ocean, the scenery barely ",
       "date": "2026-11-25T19:00:00 Europe/London",
       "format": "carousel_POST",
-      "metricool_post_id": 431671357,
+      "metricool_post_id": 431692248,
       "metricool_uuid": "-9031722169793101431",
       "asset_count": 8
     },
     {
-      "name": "From limestone islands to a cave big enough to camp in, Vietnam h",
+      "name": "From limestone islands to a cave big enough to camp in, Vietnam has ex",
       "date": "2026-11-27T19:00:00 Europe/London",
       "format": "carousel_POST",
-      "metricool_post_id": 431671527,
+      "metricool_post_id": 431694299,
       "metricool_uuid": "-7665823664039377160",
       "asset_count": 9
     },
@@ -115,7 +115,7 @@
     "confirmed_unused_slots": 6
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "17 Nov: all six scheduled carousels reviewed in actual rendered 4:5 image form with scenic brand ending; Cappadocia eight-clip storyboard, cover and manifest checked. All source/caption/alt corrections synced to original Metricool UUIDs, PENDING autoPublish true draft false. QA report: docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md.",
+  "test_status": "17 Nov final: all seven upcoming posts triple QA'd, dates unchanged, all corrections uploaded in existing Metricool UUIDs, 6 real photo carousels incl mandatory end and 1 real 8-clip silent Reel, all PENDING draft=false autoPublish=true. Madeira official PR1 closed, Veu da Noiva photo, Labuan Bajo sunset and Maspalomas dunes corrected. docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md",
   "extra_cost_gbp": 0,
   "manual_workflow": {
     "initiator": "User each Tuesday, can manually prompt continue",
