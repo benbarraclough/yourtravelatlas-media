@@ -15,7 +15,7 @@
   "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
   "reader_scenario": "A reader wants unusual sea landscapes and striking photographic trip inspiration beyond familiar blue-water beaches.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
-  "slide_count_rationale": "Five real named locations across Africa, South America, the Arabian peninsula, Europe and Australia. Rendered first version showed poor Qatar and Fuerteventura frames; replaced Qatar with a separately licensed Wikimedia image and replaced Fuerteventura with a stronger exact original Dune du Pilat aerial.",
+  "slide_count_rationale": "Five real named locations across Africa, South America, the Arabian peninsula, Europe and Australia. Rendered first version showed poor Qatar and Fuerteventura frames; replaced Qatar with a separately licensed Wikimedia image and replaced Fuerteventura with a stronger exact original Dune du Pilat aerial. Includes scenic 'Fill Your Feed With Wonder' final slide recomposed from this carousel's licensed photographs.",
   "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.\n📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.\n📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.\n\nWhich coastline would you explore first?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
   "slides": [
     {
@@ -146,6 +146,10 @@
         "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
         "distinct_contribution": "Australia introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
       }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
     }
   ],
   "fact_sources": [
