@@ -1,0 +1,156 @@
+{
+  "issue": 14,
+  "slug": "014-south-america-unreal-landscapes",
+  "category": "SOUTH AMERICA / LANDSCAPE DISCOVERIES",
+  "cover_country": "SOUTH AMERICA",
+  "headline": "Desert Lagoons, Sky Mirrors & Ice Walls",
+  "dek": "Five landscapes across five countries",
+  "content_type": "collection",
+  "collection_number": 2,
+  "strategy": "specific_visual_themes_multi_country",
+  "editorial_version": 7,
+  "editorial_status": "deferred_next_tuesday_2026-11-24",
+  "public_numbers": false,
+  "no_cta": true,
+  "format": "five-country-natural-wonders-swipes",
+  "editorial_intent": "A genuinely useful cross-border South America collection presenting five distinct extraordinary, geographically verified landscape experiences instead of one generic destination.",
+  "reader_scenario": "Traveller discovering natural phenomena and unusual scenic places worth travelling to in South America.",
+  "share_reason": "Distinct natural contrasts from Brazilian rain-filled dunes to Bolivian mirrored salt, Peruvian oasis, Chilean lunar rock and Argentinian glacier inspire saves and discussion.",
+  "slide_count_rationale": "Five different countries and five independently verified surprising landscapes in five portrait photographs; no filler outro.",
+  "caption": "South America really does have landscapes that seem made up. 🌎\n\n📍 Lençóis Maranhenses, Brazil — seasonal freshwater lagoons appear between endless sand dunes.\n📍 Salar de Uyuni, Bolivia — in the wet season, a thin layer of water can turn salt flats into a giant sky mirror.\n📍 Huacachina, Peru — a palm-ringed desert oasis surrounded by huge dunes.\n📍 Valle de la Luna, Chile — eroded red rock and sand resemble another planet.\n📍 Perito Moreno, Argentina — towering blue glacier walls beside a glacial lake.\n\nSave these for a South American adventure.\n\nPhotos: Marcus Dall Col, Susanne Feldt, Willian Justen de Vasconcellos & Hans-Jürgen Weinhardt / Unsplash.\n\n#YourTravelAtlas #SouthAmerica #TravelDiscovery #BucketListDestinations",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Lençóis Maranhenses",
+      "body": "Rainwater pools between immense white dunes, creating seasonal blue lagoons.",
+      "image_url": "https://images.unsplash.com/photo-1561915691-238e14365118?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/sand-dunes-with-lagoon-under-cloudy-sky-IrnRmfH-TtU",
+      "photographer": "Marcus Dall Col",
+      "license": "Unsplash License",
+      "subject": "Lençóis Maranhenses landscape in Brazil",
+      "alt": "Travel photograph of Lençóis Maranhenses, Brazil",
+      "activity_source": "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses",
+      "fact_checks": [
+        "https://unsplash.com/photos/sand-dunes-with-lagoon-under-cloudy-sky-IrnRmfH-TtU",
+        "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Lençóis Maranhenses offers a striking and saveable landscape encounter in Brazil that turns this regional collection into distinct real trip ideas.",
+        "image_context": "Exact original free Unsplash photograph by Marcus Dall Col, photographed at Lençóis Maranhenses in Brazil, with location described on the original source page.",
+        "specific_detail": "Independent tourist-board, park authority or government source identifies Lençóis Maranhenses, its geographic identity and the distinctive experience described.",
+        "distinct_contribution": "Lençóis Maranhenses adds a landscape type and country different from every other slide, avoiding a generic repeat of a neighbouring vista."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Salar de Uyuni",
+      "body": "After rain, Bolivia's vast salt flat can become a perfect sky mirror.",
+      "image_url": "https://images.unsplash.com/photo-1427464407917-c817c9a0a6f6?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/cloudy-sky-SIoHky3TPeo",
+      "photographer": "Susanne Feldt",
+      "license": "Unsplash License",
+      "subject": "Salar de Uyuni landscape in Bolivia",
+      "alt": "Travel photograph of Salar de Uyuni, Bolivia",
+      "activity_source": "https://conocebolivia.produccion.gob.bo/wp-content/uploads/2025/11/CF-BolivianDestination.pdf",
+      "fact_checks": [
+        "https://unsplash.com/photos/cloudy-sky-SIoHky3TPeo",
+        "https://conocebolivia.produccion.gob.bo/wp-content/uploads/2025/11/CF-BolivianDestination.pdf"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Salar de Uyuni offers a striking and saveable landscape encounter in Bolivia that turns this regional collection into distinct real trip ideas.",
+        "image_context": "Exact original free Unsplash photograph by Susanne Feldt, photographed at Salar de Uyuni in Bolivia, with location described on the original source page.",
+        "specific_detail": "Independent tourist-board, park authority or government source identifies Salar de Uyuni, its geographic identity and the distinctive experience described.",
+        "distinct_contribution": "Salar de Uyuni adds a landscape type and country different from every other slide, avoiding a generic repeat of a neighbouring vista."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Huacachina Oasis",
+      "body": "A pocket of palms and water sits inside a ring of towering desert dunes.",
+      "image_url": "https://images.unsplash.com/photo-1527736848781-72dc3b2ee00f?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/aerial-photography-of-town-in-the-middle-of-the-desert-HfLYdUePGyc",
+      "photographer": "Willian Justen de Vasconcellos",
+      "license": "Unsplash License",
+      "subject": "Huacachina Oasis landscape in Peru",
+      "alt": "Travel photograph of Huacachina Oasis, Peru",
+      "activity_source": "https://www.huacachina.com/",
+      "fact_checks": [
+        "https://unsplash.com/photos/aerial-photography-of-town-in-the-middle-of-the-desert-HfLYdUePGyc",
+        "https://www.huacachina.com/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Huacachina Oasis offers a striking and saveable landscape encounter in Peru that turns this regional collection into distinct real trip ideas.",
+        "image_context": "Exact original free Unsplash photograph by Willian Justen de Vasconcellos, photographed at Huacachina Oasis in Peru, with location described on the original source page.",
+        "specific_detail": "Independent tourist-board, park authority or government source identifies Huacachina Oasis, its geographic identity and the distinctive experience described.",
+        "distinct_contribution": "Huacachina Oasis adds a landscape type and country different from every other slide, avoiding a generic repeat of a neighbouring vista."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Valle de la Luna",
+      "body": "Eroded rust-red rock and sand form a lunar-looking landscape near San Pedro.",
+      "image_url": "https://images.unsplash.com/photo-1738272789002-33e259607932?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-JMl2V8NulkQ",
+      "photographer": "Willian Justen de Vasconcellos",
+      "license": "Unsplash License",
+      "subject": "Valle de la Luna landscape in Chile",
+      "alt": "Travel photograph of Valle de la Luna, Chile",
+      "activity_source": "https://chile.travel/en/attractions/valle-de-la-luna-moon-valley/",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-JMl2V8NulkQ",
+        "https://chile.travel/en/attractions/valle-de-la-luna-moon-valley/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Valle de la Luna offers a striking and saveable landscape encounter in Chile that turns this regional collection into distinct real trip ideas.",
+        "image_context": "Exact original free Unsplash photograph by Willian Justen de Vasconcellos, photographed at Valle de la Luna in Chile, with location described on the original source page.",
+        "specific_detail": "Independent tourist-board, park authority or government source identifies Valle de la Luna, its geographic identity and the distinctive experience described.",
+        "distinct_contribution": "Valle de la Luna adds a landscape type and country different from every other slide, avoiding a generic repeat of a neighbouring vista."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Perito Moreno Glacier",
+      "body": "Walk above the lake for a close view of enormous blue glacier walls.",
+      "image_url": "https://images.unsplash.com/photo-1577373482643-5c7ccf8f0ac9?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/perito-moreno-glacier-in-argentina-fB8AA00lEFk",
+      "photographer": "Hans-Jürgen Weinhardt",
+      "license": "Unsplash License",
+      "subject": "Perito Moreno Glacier landscape in Argentina",
+      "alt": "Travel photograph of Perito Moreno Glacier, Argentina",
+      "activity_source": "https://argentina.travel/en/activities/perito-moreno-glacier",
+      "fact_checks": [
+        "https://unsplash.com/photos/perito-moreno-glacier-in-argentina-fB8AA00lEFk",
+        "https://argentina.travel/en/activities/perito-moreno-glacier"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Perito Moreno Glacier offers a striking and saveable landscape encounter in Argentina that turns this regional collection into distinct real trip ideas.",
+        "image_context": "Exact original free Unsplash photograph by Hans-Jürgen Weinhardt, photographed at Perito Moreno Glacier in Argentina, with location described on the original source page.",
+        "specific_detail": "Independent tourist-board, park authority or government source identifies Perito Moreno Glacier, its geographic identity and the distinctive experience described.",
+        "distinct_contribution": "Perito Moreno Glacier adds a landscape type and country different from every other slide, avoiding a generic repeat of a neighbouring vista."
+      }
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/sand-dunes-with-lagoon-under-cloudy-sky-IrnRmfH-TtU",
+    "https://www.gov.br/icmbio/pt-br/assuntos/unidade-de-conservacao/unidades-de-biomas/marinho/lista-de-ucs/parna-dos-lencois-maranhenses",
+    "https://unsplash.com/photos/cloudy-sky-SIoHky3TPeo",
+    "https://conocebolivia.produccion.gob.bo/wp-content/uploads/2025/11/CF-BolivianDestination.pdf",
+    "https://unsplash.com/photos/aerial-photography-of-town-in-the-middle-of-the-desert-HfLYdUePGyc",
+    "https://www.huacachina.com/",
+    "https://unsplash.com/photos/a-desert-landscape-with-rocks-and-sand-JMl2V8NulkQ",
+    "https://chile.travel/en/attractions/valle-de-la-luna-moon-valley/",
+    "https://unsplash.com/photos/perito-moreno-glacier-in-argentina-fB8AA00lEFk",
+    "https://argentina.travel/en/activities/perito-moreno-glacier"
+  ],
+  "editorial_note": "Not scheduled. Archived to avoid collision with already scheduled 014-five-places-desert-meets-the-sea (issue 014) and preserve the manually agreed four-post weekly cadence. Reassign unique future issue number if revived."
+}
