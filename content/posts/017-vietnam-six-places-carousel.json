@@ -16,7 +16,7 @@
   "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
   "slide_count_rationale": "8 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
-  "caption": "From limestone islands to a cave big enough to camp in, Vietnam has extraordinary contrasts. 🇻🇳\n\n📍 Hạ Long Bay — cruise between towering limestone islands.\n📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.\n📍 Sa Pa — see terraces cut into the green northern hills.\n📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.\n📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.\n📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.\n📍 Hội An — watch lanterns glimmer across the river at night.\n📍 Hanoi Train Street — see a railway thread between narrow city buildings; respect local access rules.\n\nWould you choose a cave expedition or a night on the lantern-lit river?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery",
+  "caption": "From limestone islands to a cave big enough to camp in, Vietnam has extraordinary contrasts. 🇻🇳\n\n📍 Hạ Long Bay — cruise between towering limestone islands.\n📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.\n📍 Sa Pa — see green-and-gold rice terraces ripple across the mountain slopes.\n📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.\n📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.\n📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.\n📍 Hội An — watch lanterns glimmer across the river at night.\n📍 Hanoi Train Street — see a railway thread between narrow city buildings; respect local access rules.\n\nWould you choose a cave expedition or a night on the lantern-lit river?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Huy Nguyen, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -66,25 +66,26 @@
     },
     {
       "layout": "photo",
-      "heading": "Sa Pa",
-      "body": "Terraced rice paddies trace layers across the northern hills.",
-      "image_url": "https://images.unsplash.com/photo-1741319294980-ae8a8756e31d?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
-      "photographer": "Daniele Franchi",
+      "heading": "Sa Pa Rice Terraces",
+      "body": "See sculpted rice terraces glow green and gold across steep hillsides.",
+      "image_url": "https://images.unsplash.com/photo-1758003293450-b9478f02bf48?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/golden-rice-terraces-on-a-hillside-with-a-small-house-OBD62-MyPAQ",
+      "photographer": "Huy Nguyen",
       "license": "Unsplash License",
-      "subject": "Sa Pa, Vietnam",
-      "alt": "Sa Pa, Vietnam, Daniele Franchi original real destination travel photograph",
-      "activity_source": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+      "subject": "Golden and green sweeping rice terraces and a tiny farmhouse in Sa Pa Vietnam",
+      "alt": "Bird's-eye view of lush golden terraced rice paddies rippling over Sa Pa hills with a tiny farmhouse at their centre, Vietnam",
+      "activity_source": "https://vietnam.travel/places-to-go/northern-vietnam/sapa",
       "fact_checks": [
-        "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU"
+        "https://unsplash.com/photos/golden-rice-terraces-on-a-hillside-with-a-small-house-OBD62-MyPAQ",
+        "https://vietnam.travel/places-to-go/northern-vietnam/sapa"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "Sa Pa, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
-        "image_context": "Daniele Franchi's original free Unsplash image identifies Sa Pa, Lào Cai Vietnam, specifically rice terraces and bright green terraced fields, not generic agriculture.",
-        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
-        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+        "reader_value": "An iconic high-impact shot makes the stepped valley texture instantly apparent, replacing the previous flat, pale flooded-paddy crop.",
+        "image_context": "Original free Unsplash photo by Huy Nguyen; source explicitly describes golden rice fields in the high mountains at Sapa northern Vietnam, published 16 September 2025.",
+        "specific_detail": "Rice terraces change between green growing season, flooded paddies and gold harvest tones; this exact licensed photo is golden-green.",
+        "distinct_contribution": "Contrasting rural agricultural and cultural landscape, not another karst, cave or city scene."
       }
     },
     {
@@ -221,7 +222,9 @@
     "https://www.pexels.com/photo/aerial-view-of-the-ban-gioc-detian-falls-5334888/",
     "https://vietnam.travel/things-to-do/top-instagram-spots-vietnam/",
     "https://www.pexels.com/photo/stunning-aerial-view-of-ma-pi-leng-pass-in-ha-giang-30318697/",
-    "https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ma-pi-leng-pass"
+    "https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ma-pi-leng-pass",
+    "https://unsplash.com/photos/golden-rice-terraces-on-a-hillside-with-a-small-house-OBD62-MyPAQ",
+    "https://vietnam.travel/places-to-go/northern-vietnam/sapa"
   ],
   "last_qa_findings": "2026-11-17 visual QA: replaced weak branch-obscured waterfall and ordinary Hà Giang tourist trail with rights-verified dramatic aerial Ban Gioc Falls and Mã Pí Lèng gorge. Improved title, accurate specific experiences, aligned slide and caption order, correct photographer credits. Pending rendered images and Metricool original UUID update."
 }
