@@ -1,0 +1,70 @@
+{
+  "reel_number": 12,
+  "slug": "012-madeira-cloud-trails-lava-pools",
+  "treatment": "photo_slideshow_v1",
+  "destination": "Madeira, Portugal",
+  "country_label": "PORTUGAL",
+  "hook": "Cloud-Top Trails, Black Sand and Lava Pools",
+  "caption": "One Portuguese island. Six landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ponta de São Lourenço — watch sunrise light up Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Jiří Kaloč / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelReels",
+  "audio_policy": "no_music",
+  "editorial_intent": "Show six real visually contrasting Madeira scenes in a silent mobile-first editorial photo-slideshow Reel, not a genuine footage Reel.",
+  "share_reason": "The unexpected contrast between cloud-top ridges, eerie laurel forest, black sand, dramatic waterfall, lava pools and sunrise peninsula makes a memorable Portuguese-island saveable discovery.",
+  "editorial_status": "production_pending_QA",
+  "images": [
+    {
+      "subject": "Pico do Arieiro ridgeline, Madeira",
+      "image_url": "https://images.unsplash.com/photo-1746523812328-74b97419f828?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+      "photographer": "Samielle Støyl",
+      "overlay": "PICO DO ARIEIRO — pathways above the clouds",
+      "location_evidence": "The original free Unsplash photo by Samielle Støyl identifies Madeira Portugal, tagged Pico do Arieiro, and depicts stairs threading a steep cloud-topped ridge.",
+      "license": "Unsplash License"
+    },
+    {
+      "subject": "Fanal ancient laurel forest",
+      "image_url": "https://images.unsplash.com/photo-1637247475110-6b8b779a6253?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
+      "photographer": "Colin Watts",
+      "overlay": "FANAL FOREST — centuries-old trees in the mist",
+      "location_evidence": "Colin Watts' original free Unsplash photo explicitly identifies the ancient misty laurisilva forest at Fanal, Madeira, Portugal.",
+      "license": "Unsplash License"
+    },
+    {
+      "subject": "Seixal dramatic black-sand coast",
+      "image_url": "https://images.unsplash.com/photo-1759171650280-0dc6e9c23f3e?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
+      "photographer": "Julia Schuwer",
+      "overlay": "SEIXAL — black sand beneath the green cliffs",
+      "location_evidence": "The original photo page of Julia Schuwer identifies Seixal, Portugal and a black sand beach below misty mountain cliffs.",
+      "license": "Unsplash License"
+    },
+    {
+      "subject": "Risco waterfall, Madeira",
+      "image_url": "https://images.unsplash.com/photo-1699694927257-89ac5ce509a1?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
+      "photographer": "Daniel J. Schwarz",
+      "overlay": "RISCO FALLS — a waterfall hidden in green forest",
+      "location_evidence": "Daniel J. Schwarz' original free Unsplash photo states Risco Waterfall on Madeira, Portugal, depicting a tall waterfall in foggy vegetation.",
+      "license": "Unsplash License"
+    },
+    {
+      "subject": "Porto Moniz ocean and natural volcanic pools",
+      "image_url": "https://images.unsplash.com/photo-1754482963941-428d140bef4d?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/coastal-village-with-natural-pools-meets-the-sea-LSJW4sMUe9g",
+      "photographer": "Jiří Kaloč",
+      "overlay": "PORTO MONIZ — ocean pools carved into lava rock",
+      "location_evidence": "Jiří Kaloč's free Unsplash drone photo identifies Porto Moniz, Portugal, and depicts the coastal village and its natural pools beside the ocean.",
+      "license": "Unsplash License"
+    },
+    {
+      "subject": "Ponta de São Lourenço sunrise coast",
+      "image_url": "https://images.unsplash.com/photo-1733169312700-a3dfad2d99f0?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/the-sun-is-setting-over-the-ocean-and-rocks-zq_wTHSFV0g",
+      "photographer": "Colin Watts",
+      "overlay": "SÃO LOURENÇO — sunrise over wild coastal cliffs",
+      "location_evidence": "The original free Unsplash photo by Colin Watts labels a dramatic sunrise over Ponta de São Lourenço, Madeira, Portugal.",
+      "license": "Unsplash License"
+    }
+  ],
+  "frames_per_image": 105
+}
