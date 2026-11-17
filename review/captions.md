@@ -181,3 +181,19 @@ Which would be your first stop?
 Photos: Rizknas, Lisa van Vliet, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.
 
 #YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery
+
+## Where the Desert Drops Into the Sea
+
+A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️
+
+📍 Sandwich Harbour, Namibia — towering Namib dunes meet the Atlantic.
+📍 Paracas, Peru — arid cliffs drop towards the Pacific.
+📍 Khor Al Adaid, Qatar — saltwater pushes into a sea of dunes.
+📍 Corralejo, Fuerteventura, Spain — pale dunes stretch beside turquoise Atlantic water.
+📍 Cape Peron, Western Australia — red coastal dunes touch the blue of Shark Bay.
+
+Which coastline would you go exploring?
+
+Photos: NIR HIMI, Kimberly Genest, Jirayu Koontholjinda, Alejandro Martin & Dylan Shaw / Unsplash.
+
+#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems
