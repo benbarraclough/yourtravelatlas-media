@@ -20,31 +20,29 @@ An editor-led, image-led Instagram travel discovery project for [@yourtravelatla
 | [CURRENT_STATE.json](CURRENT_STATE.json) | Dated planning snapshot; **Metricool is authoritative** |
 | [content/production-queue.json](content/production-queue.json) | Minimal active commission ledger, not a historical to-do list |
 | [content/posts/](content/posts/) | Live photo carousel briefs |
-| [content/reels/](content/reels/) | Live still-photo slideshow and genuine moving-footage Reel briefs |
-| [scripts/render.py](scripts/render.py) · [scripts/render_reel.py](scripts/render_reel.py) · [scripts/render_photo_reel.py](scripts/render_photo_reel.py) | Carousel, true-video Reel and slideshow Reel renderers |
+| [content/reels/](content/reels/) | Genuine moving-footage Reel briefs; older photo slideshow inputs are retired |
+| [scripts/render.py](scripts/render.py) · [scripts/render_reel.py](scripts/render_reel.py) | Carousel and genuine-video Reel renderers; old still-photo slideshow capability is disabled |
 | [.github/workflows/](.github/workflows/) | Rendering and source-audit helper workflows; **not** Instagram scheduling |
 | [media/](media/) | Generated media, manifests and provenance; preserve links for already published/scheduled posts |
 | [content/archive/](content/archive/) | Retired/replaced briefs that must not be rendered/scheduled |
 | [docs/reference/](docs/reference/) | Historical benchmark and footage-source research (not production rules) |
-| [docs/history/](docs/history/) | Superseded workflow documents, audits and older records |
+| [docs/history/](docs/history/) | Superseded workflow documents and older records |
+| [docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md](docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md) | Current seven-post visual/source/booking quality audit and complete change log |
 
-## Current verified position (Tuesday 17 November 2026, after manual session)
+## Final live position — 17 November 2026 after full triple QA
 
-Metricool shows **7 November posts PUBLISHED + 7 PENDING = 14/20 allowance used; 6 slots remain**. Weeks 16–22 and 23–29 November each have exactly four bookings. The new Sunday 29 November post is a **genuine five-clip Pexels moving-video Reel** about Cappadocia, not a photo slideshow. The 22 November Madeira slideshow was revised with stronger image sources and credits in its existing Metricool slot. All future bookings have `autoPublish=true`, `draft=false`.
+**Metricool brand 7717708 verified:** 7 November posts published + 7 PENDING = **14/20** used, 6 slots remain; seven upcoming media bookings preserve their original post UUID and dates, all `autoPublish=true`, `draft=false`.
 
-All seven Atlas ChatGPT automations are **paused**. There is no delete action in the available Automations connector; the user can permanently delete them in ChatGPT **Scheduled**. Do not create replacements. Owner prompts each **Tuesday**, next on **24 Nov**, to produce the following four-post week. A candidate South America carousel is parked in `content/archive/` for future approval only, not booked. The 23 Nov Indonesia carousel was improved again: a stronger Simon Spring original Pink Beach aerial photograph replaced the earlier image within the SAME Metricool booking, new id 431514077; live caption credits and alt text were reconciled and verified PENDING.
+- **18 Nov:** 8-slide mountain carousel, improved island-church Lake Bled photo.
+- **20 Nov:** 9-slide winter carousel, clearer destination-specific caption.
+- **22 Nov:** 9-slide Madeira carousel, corrected truncated headings, reordered caption.
+- **23 Nov:** 8-slide Indonesia carousel, corrected elevated Padar viewpoint and photo credits.
+- **25 Nov:** 8-slide desert-coast carousel, place-specific secondary angle captions and CC BY credit.
+- **27 Nov:** 9-slide Vietnam carousel, upgraded Bản Giốc waterfall and Mã Pí Lèng gorge original photographs, stronger hook.
+- **29 Nov:** true **eight-clip moving-footage** 25.1-second silent Cappadocia Reel with high-contrast hook and moving branded ending.
 
-Follow [ATLAS_WEEKLY.md](ATLAS_WEEKLY.md) and [content/production-queue.json](content/production-queue.json) for live operating policy/next actions, but **Metricool brand 7717708** is authoritative for real posting. Never put credentials in this public repository.
-## Confirmed live position — 17 November 2026 after manual corrections
+All six carousels have real 1080×1350 photographs, clear mobile text, and a source-reuse scenic `FILL YOUR FEED WITH WONDER.` final page. The video is real original licensed moving footage, never still-photo animation. Corrected renders were visually reviewed and existing Metricool bookings updated and re-fetched PENDING, with corresponding alt text and credits.
 
-**Metricool rechecked:** 7 November PUBLISHED and 7 upcoming PENDING (18, 20, 22, 23, 25, 27, 29 November), all autoPublish=true and draft=false. November allowance **14/20 used, 6 remain**. All revised original UUIDs preserved without duplicate slots.
+**Full annotated change log:** [Final seven-post QA](docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md). **Source of truth for actual post IDs and statuses:** [production queue](content/production-queue.json); Metricool live always overrides dated snapshots. **Original future content research:** [Travel formats & ideas](docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md).
 
-**16–22 November:** 16 Nov Amalfi already PUBLISHED; 18 Nov seven mountain viewpoints, 8-slide carousel; 20 Nov winter places, 9-slide carousel; 22 Nov Madeira, 9-slide carousel. Each revised carousel ends with a scenic Fill Your Feed With Wonder slide. No still-image zoom Reels scheduled.
-
-**23–29 November:** 23 Nov Indonesia Beyond Bali, 8-slide carousel; 25 Nov desert meets the sea, 8-slide carousel; 27 Nov Vietnam, 9-slide carousel; 29 Nov Cappadocia, genuine eight moving-footage shot 25.1-second silent Reel with bold '5 Cappadocia Experiences Worth the Journey' opening and moving-footage branded outro.
-
-**GitHub reference:** content/production-queue.json and CURRENT_STATE.json hold live verified IDs, rights and production state. Historic photo slideshow Reel source briefs are marked rejected and scripts/render_reel.py hard-disables this format. All seven ChatGPT Atlas legacy automations remain paused; owner prompts manually every Tuesday.
-
-**Future original editorial ideas:** [17 November travel-content research](docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md) describes diverse experiences, rail journeys, oddities, natural history, local culture, guides and reputable travel-editorial inspirations. Never reuse the source creators' images or words without permission.
-
-**Next owner-initiated session:** Tuesday 24 November 2026, for 30 Nov–6 Dec; three 8–10-image swipe carousels plus one real footage Reel (or four carousels if motion footage unworkable).
+All seven old Atlas ChatGPT scheduled tasks are paused. Permanent deletion requires the owner to use ChatGPT Tasks (not available via the connected task control); no replacements or autonomous ChatGPT work. **Next owner prompt: Tuesday 24 November** for 30 November–6 December, normally three distinct swipe carousels plus one genuine motion Reel (fourth carousel fallback). No paid tools required.
