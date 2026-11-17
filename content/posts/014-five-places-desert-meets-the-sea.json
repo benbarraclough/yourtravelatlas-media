@@ -16,7 +16,7 @@
   "reader_scenario": "A reader wants unusual sea landscapes and striking photographic trip inspiration beyond familiar blue-water beaches.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
   "slide_count_rationale": "7 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
-  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.\n📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.\n📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.\n\nWhich coastline would you explore first?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw, Slim MARS / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
+  "caption": "Where does the desert end? In five remarkable places, it meets the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — enormous dunes tumble towards the Atlantic.\n📍 Paracas, Peru — coastal desert cliffs rise above the Pacific.\n📍 Khor Al Adaid, Qatar — explore a tidal Inland Sea edged by sand dunes.\n📍 Dune du Pilat, France — climb Europe's tallest sand dune for Atlantic views.\n📍 Cape Peron, Western Australia — rust-red coastal sand meets Shark Bay's blue water.\n\nSeven photo perspectives across five contrasting coasts. Which would you visit?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Slim MARS / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #CoastalLandscapes #DesertCoast #NaturePhotography #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -45,7 +45,7 @@
     },
     {
       "layout": "photo",
-      "heading": "Dunes Meet the Atlantic",
+      "heading": "Namibia's Atlantic Dunes",
       "body": "The coast draws a sudden line through the Namib's towering sand ridges.",
       "image_url": "https://images.unsplash.com/photo-1772289495927-aa33999f8e1e?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
@@ -172,8 +172,8 @@
     },
     {
       "layout": "photo",
-      "heading": "From the Top of the Dune",
-      "body": "The blue Atlantic stretches away beyond France's towering sand ridge.",
+      "heading": "Dune du Pilat, France",
+      "body": "Look across the blue Atlantic from the high dune's sandy ridge.",
       "image_url": "https://images.unsplash.com/photo-1707568513500-a074f79d683f?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
       "photographer": "Slim MARS",
@@ -211,6 +211,9 @@
     "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
     "https://creativecommons.org/licenses/by/2.0/",
     "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
-    "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
-  ]
+    "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
+    "https://ladunedupilat.com/en/i-discover/in-short/",
+    "https://visitqatar.com/intl-en/things-to-do/adventure-sports/desert/khor-al-adaid"
+  ],
+  "last_qa_findings": "2026-11-17: made second Namibia and second France photos explicitly identifiable, cleaned credits and CC BY attribution, removed inaccurate HiddenGems tag, distinguished 5 coasts across 7 photographic perspectives."
 }
