@@ -15,7 +15,7 @@
   "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
   "reader_scenario": "A reader wants unusual sea landscapes and striking photographic trip inspiration beyond familiar blue-water beaches.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
-  "slide_count_rationale": "Seven real photograph scenes of six distinct coastlines, plus scenic branded closing page. Second Namibia viewpoint is justified by a very different dramatic shoreline angle; repeated Dune du Pilat view was replaced with Corralejo.",
+  "slide_count_rationale": "Seven original licensed photographic scenes across six distinct coastal destinations, plus the scenic branded end card. One extra Namibia image deliberately contrasts two perspectives; the last location is a warm sunset dune walk in Maspalomas rather than a weak road-and-beach photo.",
   "caption": "When giant dunes and desert cliffs meet the ocean, the scenery barely looks real. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — huge desert dunes fall towards Atlantic surf; see them from two very different angles.\n📍 Paracas, Peru — sheer ochre desert cliffs line the Pacific.\n📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.\n📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.\n📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.\n📍 Fuerteventura, Canary Islands — pale dunes meet incredible turquoise Atlantic waters.\n\nSome are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Lorin Both / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery",
   "slides": [
     {
@@ -172,26 +172,26 @@
     },
     {
       "layout": "photo",
-      "heading": "Fuerteventura's Wild Coast",
-      "body": "Pale dunes fall towards turquoise Atlantic shallows on this Canary Island.",
-      "image_url": "https://images.unsplash.com/photo-1753903340918-cea122f2c28f?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/sandy-coastline-meets-turquoise-water-under-a-bright-sky-ZQa9d42k7mw",
-      "photographer": "Lorin Both",
+      "heading": "Maspalomas Dunes, Spain",
+      "body": "A lone walker crosses golden dunes above the Atlantic at sunset.",
+      "image_url": "https://images.unsplash.com/photo-1696082748614-d0d096eb9382?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
+      "photographer": "Marco Canepa",
       "license": "Unsplash License",
-      "subject": "Aerial view of pale sand dunes and turquoise Atlantic waters at Fuerteventura Canary Islands Spain",
-      "alt": "Photographed by Lorin Both: an aerial landscape of pale dunes and a narrow sandy shoreline meeting turquoise Atlantic ocean water on Fuerteventura, Spain.",
-      "activity_source": "https://www.visitfuerteventura.com/en/nature-spaces/fuerteventura/corralejo-natural-park/",
+      "subject": "A lone person on golden sunset dune ridge with the Atlantic beyond in Maspalomas Gran Canaria Spain",
+      "alt": "Warm sunset over rolling golden Maspalomas dunes, with a lone figure on a ridge and the Atlantic beyond. Text: Maspalomas Dunes, Spain.",
+      "activity_source": "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/",
       "fact_checks": [
-        "https://unsplash.com/photos/sandy-coastline-meets-turquoise-water-under-a-bright-sky-ZQa9d42k7mw",
-        "https://www.visitfuerteventura.com/en/nature-spaces/fuerteventura/corralejo-natural-park/"
+        "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
+        "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "This original photo offers a significantly more cinematic view of pale dunes and bright teal water, replacing a dull flat road-and-sand frame while adding a distinct Canary Island coastal experience.",
-        "image_context": "Original free Unsplash photograph by Lorin Both explicitly geolocates this aerial sandy coastline photograph to Fuerteventura, Spain, and describes dunes merging into turquoise ocean. No unverified narrower Corralejo site claim is used.",
-        "specific_detail": "Fuerteventura's official tourism page establishes the island's extensive dune landscapes and coastline; precise Corralejo identification is deliberately avoided because the photo source only identifies Fuerteventura.",
-        "distinct_contribution": "A clearly different white-dune and turquoise-water aerial coastline in Spain complements the Namib, Pacific cliffs, Qatar's tidal inlet, giant French dune and red Australian shore."
+        "reader_value": "Human-scale sunset dune walk at Maspalomas adds a memorable, emotional way to experience huge protected coastal dunes.",
+        "image_context": "Original free-licensed Unsplash photo by Marco Canepa explicitly describes a person standing on the sunset sand dune at Maspalomas, Gran Canaria, Spain, with the Atlantic visible in the background.",
+        "specific_detail": "The Canary Islands official tourism material confirms the natural dune reserve adjoining Maspalomas beach, Gran Canaria.",
+        "distinct_contribution": "A warm human silhouette over dunes provides a different geography, scene and colour from the more distant drone views elsewhere in the collection."
       }
     },
     {
@@ -216,8 +216,9 @@
     "https://visitqatar.com/intl-en/things-to-do/adventure-sports/desert/khor-al-adaid",
     "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
     "https://www.hellocanaryislands.com/experiences/8-islands-cycling-challenge-an-epic-challenge/",
-    "https://unsplash.com/photos/sandy-coastline-meets-turquoise-water-under-a-bright-sky-ZQa9d42k7mw",
-    "https://www.visitfuerteventura.com/en/nature-spaces/fuerteventura/corralejo-natural-park/"
+    "https://www.visitfuerteventura.com/en/nature-spaces/fuerteventura/corralejo-natural-park/",
+    "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
+    "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/"
   ],
   "last_qa_findings": "2026-11-17 triple QA: upgraded a visually poor, inaccurately turquoise-labelled Corralejo photo to an exceptionally striking aerial of Fuerteventura's white dunes and true turquoise water. Photographer Lorin Both original freely licensed Unsplash photo geolocates Fuerteventura but not exact Corralejo, so accurate broader location used. Added official local tourism and original photo sources, updated public credits; image requires re-render and final QA before booking."
 }
