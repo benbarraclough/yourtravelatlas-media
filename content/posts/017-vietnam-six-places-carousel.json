@@ -1,8 +1,8 @@
 {
   "issue": 17,
   "slug": "017-vietnam-six-places-carousel",
-  "headline": "8 Places That Make Vietnam Unforgettable",
-  "dek": "Real places worth discovering",
+  "headline": "Vietnam: Caves, Karsts & Lantern Nights",
+  "dek": "Eight distinct places, one unforgettable country",
   "category": "VIETNAM / JOURNEY OF CONTRASTS",
   "cover_country": "VIETNAM",
   "content_type": "discovery",
@@ -16,7 +16,7 @@
   "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
   "slide_count_rationale": "8 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
-  "caption": "One country. Eight extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hà Giang — discover mountain roads and dramatic northern valleys.\n📍 Hanoi Train Street — see the historic railway corridor between city buildings.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham, Harry Le / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery",
+  "caption": "From limestone islands to a cave big enough to camp in, Vietnam has extraordinary contrasts. 🇻🇳\n\n📍 Hạ Long Bay — cruise between towering limestone islands.\n📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.\n📍 Sa Pa — see terraces cut into the green northern hills.\n📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.\n📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.\n📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.\n📍 Hội An — watch lanterns glimmer across the river at night.\n📍 Hanoi Train Street — see a railway thread between narrow city buildings; respect local access rules.\n\nWould you choose a cave expedition or a night on the lantern-lit river?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -89,25 +89,26 @@
     },
     {
       "layout": "photo",
-      "heading": "Ban Gioc Falls, Cao Bằng",
-      "body": "A huge waterfall spills over lush cliffs on the northern border.",
-      "image_url": "https://images.unsplash.com/photo-1772165009296-2e86e417d62d?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
-      "photographer": "Mayur Arvind",
-      "license": "Unsplash License",
-      "subject": "Ban Gioc Falls, Cao Bằng, Vietnam",
-      "alt": "Ban Gioc Falls, Cao Bằng, Vietnam, Mayur Arvind original real destination travel photograph",
-      "activity_source": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+      "heading": "Bản Giốc Waterfall",
+      "body": "A vast series of cascades tumbles into a green river on Vietnam's northern border.",
+      "image_url": "https://images.pexels.com/photos/5334888/pexels-photo-5334888.jpeg?cs=srgb&dl=pexels-taryn-elliott-5334888.jpg&fm=jpg",
+      "source_page": "https://www.pexels.com/photo/aerial-view-of-the-ban-gioc-detian-falls-5334888/",
+      "photographer": "Taryn Elliott",
+      "license": "Pexels License",
+      "subject": "Aerial view across the tiers of Bản Giốc–Detian Falls on the Vietnam–China border",
+      "alt": "An aerial photograph of broad Ban Gioc waterfalls spilling over lush tiered green cliffs and the river below.",
+      "activity_source": "https://vietnam.travel/things-to-do/top-instagram-spots-vietnam/",
       "fact_checks": [
-        "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU"
+        "https://www.pexels.com/photo/aerial-view-of-the-ban-gioc-detian-falls-5334888/",
+        "https://vietnam.travel/things-to-do/top-instagram-spots-vietnam/"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "Ban Gioc Falls, Cao Bằng, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
-        "image_context": "Mayur Arvind's original Unsplash image identifies Ban Gioc Falls in Cao Bang, Vietnam, showing the cascading wide waterfall at the Vietnam-China border.",
-        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
-        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+        "reader_value": "The full width and tiered sweep of this extraordinary real border waterfall replaces a foreground-branch-obscured photograph and provides an instantly recognisable natural spectacle.",
+        "image_context": "Taryn Elliott's exact Pexels free photograph explicitly describes the Bản Giốc waterfalls at Trùng Khánh, Cao Bằng, Vietnam, and has the correct 4:5 vertical dimensions.",
+        "specific_detail": "Vietnam's official tourism site recognises the Bản Giốc waterfalls on the northern border; the original Pexels photo page labels the same real location.",
+        "distinct_contribution": "A major natural waterfall spectacle among misty karst hills makes this scene distinct from the other photographed bay, boat route, paddies, cave, gorge, old-town lights and train."
       }
     },
     {
@@ -135,25 +136,26 @@
     },
     {
       "layout": "photo",
-      "heading": "Hà Giang Mountain Pass",
-      "body": "Winding roads reveal remote, misty mountains in northern Vietnam.",
-      "image_url": "https://images.unsplash.com/photo-1772013971664-5808a8e1a102?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
-      "photographer": "Harry Le",
-      "license": "Unsplash License",
-      "subject": "Traveller on misty winding mountain pass in Hà Giang Vietnam",
-      "alt": "Traveller on misty winding mountain pass in Hà Giang Vietnam",
-      "activity_source": "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+      "heading": "Mã Pí Lèng Pass",
+      "body": "Look into a vast river gorge from one of Hà Giang's dramatic mountain roads.",
+      "image_url": "https://images.pexels.com/photos/30318697/pexels-photo-30318697.jpeg?cs=srgb&dl=pexels-dutumong-30318697.jpg&fm=jpg",
+      "source_page": "https://www.pexels.com/photo/stunning-aerial-view-of-ma-pi-leng-pass-in-ha-giang-30318697/",
+      "photographer": "Du Tử Mộng",
+      "license": "Pexels License",
+      "subject": "Deep canyon and Nho Quế River below Mã Pí Lèng Pass in Hà Giang Vietnam",
+      "alt": "Steep green cliffs surround the Nho Quế River far below Mã Pí Lèng Pass in northern Vietnam.",
+      "activity_source": "https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ma-pi-leng-pass",
       "fact_checks": [
-        "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4"
+        "https://www.pexels.com/photo/stunning-aerial-view-of-ma-pi-leng-pass-in-ha-giang-30318697/",
+        "https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ma-pi-leng-pass"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "Hà Giang Mountain Pass gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
-        "image_context": "Original free Unsplash photo by Harry Le identifies a mountain pass in Vần Chải, Đồng Văn District, Hà Giang, Vietnam, with a traveller looking towards the green mountains.",
-        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
-        "distinct_contribution": "Hà Giang Mountain Pass adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+        "reader_value": "A genuine steep-scale river canyon with emerald green cliffs conveys a far more extraordinary reason to travel the Hà Giang mountain route than the previous ordinary path scene.",
+        "image_context": "The original free Pexels photo by Du Tử Mộng identifies the scene as an aerial view of Mã Pí Lèng Pass's green mountains and winding river, taken in Hà Giang, Vietnam.",
+        "specific_detail": "Vietnam Airlines' travel guide documents Mã Pí Lèng Pass as a mountain road over a dramatic valley; the original photo page explicitly labels the river gorge.",
+        "distinct_contribution": "A vertical landscape-scale aerial gorge and river, with no superfluous tourist portrait, differs visually from the limestone riverboats and other water and built-culture destinations."
       }
     },
     {
@@ -215,6 +217,11 @@
     "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
     "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
     "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
-    "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4"
-  ]
+    "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4",
+    "https://www.pexels.com/photo/aerial-view-of-the-ban-gioc-detian-falls-5334888/",
+    "https://vietnam.travel/things-to-do/top-instagram-spots-vietnam/",
+    "https://www.pexels.com/photo/stunning-aerial-view-of-ma-pi-leng-pass-in-ha-giang-30318697/",
+    "https://www.vietnamairlines.com/vn/vi/plan-book/travel/travel-guide/ma-pi-leng-pass"
+  ],
+  "last_qa_findings": "2026-11-17 visual QA: replaced weak branch-obscured waterfall and ordinary Hà Giang tourist trail with rights-verified dramatic aerial Ban Gioc Falls and Mã Pí Lèng gorge. Improved title, accurate specific experiences, aligned slide and caption order, correct photographer credits. Pending rendered images and Metricool original UUID update."
 }
