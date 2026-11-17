@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-17 14:12 Europe/London (Metricool live verified 14/20)",
+  "snapshot_date": "2026-11-17 — live Metricool verified after recovered interrupted production",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -46,63 +46,63 @@
   ],
   "known_pending_at_snapshot": [
     {
-      "name": "Alpine views no summit hike",
+      "name": "7 Mountain Views Without the Summit Hike",
       "date": "2026-11-18T19:00:00",
-      "format": "POST",
+      "format": "carousel POST",
       "metricool_post_id": 427230845
     },
     {
-      "name": "Eight winter fairytale scenes",
+      "name": "8 Winter Film-Set Places",
       "date": "2026-11-20T19:00:00",
-      "format": "REEL",
+      "format": "photo slideshow REEL",
       "metricool_post_id": 427232781
     },
     {
-      "name": "Madeira Cloud Trails and Lava Pools",
+      "name": "Madeira: Cloud-Top Trails, Black Sand & Lava Pools",
       "date": "2026-11-22T19:00:00",
-      "format": "REEL",
+      "format": "photo slideshow REEL",
       "metricool_post_id": 431506131
     },
     {
-      "name": "Indonesia Beyond Bali",
+      "name": "Indonesia Beyond Bali: Dragons, Pink Sand & Volcano Lakes",
       "date": "2026-11-23T19:00:00",
-      "format": "POST",
-      "metricool_post_id": 431463978
+      "format": "carousel POST",
+      "metricool_post_id": 431510344
     },
     {
-      "name": "Desert Meets the Sea",
+      "name": "Five Places Where the Desert Meets the Sea",
       "date": "2026-11-25T19:00:00",
-      "format": "POST",
+      "format": "carousel POST",
       "metricool_post_id": 431479145
     },
     {
-      "name": "Six Sides of Vietnam",
+      "name": "Six Places That Make Vietnam Unforgettable",
       "date": "2026-11-27T19:00:00",
-      "format": "REEL",
+      "format": "photo slideshow REEL",
       "metricool_post_id": 431495264
     },
     {
       "name": "Cappadocia Beyond Balloons",
       "date": "2026-11-29T19:00:00",
-      "format": "REEL",
-      "metricool_post_id": 431502937
+      "format": "true moving-footage REEL",
+      "metricool_post_id": 431510824
     }
   ],
   "next_run_priority": {
-    "trigger": "Next manual user prompt Tuesday 2026-11-24 (not scheduled)",
-    "target_week": "2026-11-30 to 2026-12-06",
-    "already_booked_last_two_weeks": "4/4 for 16–22, 4/4 for 23–29",
-    "priority": "Read live Metricool, assess posts and create four original next-week slots; check 20/month and avoid issue 014 duplicates."
+    "week": "2026-11-30 to 2026-12-06",
+    "already_booked": 0,
+    "remaining_to_schedule": 4,
+    "focus": "Owner manual prompt Tuesday 24 Nov: audit post reach and actual publication, schedule 2 swipeable carousels + 1 still photo Reel + 1 genuine motion Reel (or still fallback), respecting November/December allowance."
   },
   "capacity": {
     "max_calendar_month": 20,
     "known_november_published_at_snapshot": 7,
     "known_november_pending_at_snapshot": 7,
     "confirmed_unused_slots": 6,
-    "policy": "Do not add more than four posts per week merely to use entire month allocation."
+    "untracked_manual_posts": "No other November entries were returned by live Metricool check 17 Nov; recheck at next session"
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "Both weeks fully booked PENDING/PUBLISHED; Sunday 29 genuine five-clip Pexels video verified by manifest and QA storyboard, no audio; revised Madeira caption/video source in same Metricool UUID. Indonesia candidate image swap remains unsynced; original scheduled media and credits valid.",
+  "test_status": "17 Nov 2026: owner-led Tuesday session recovered after interruption; 4/4 scheduled for 16–22 and 4/4 for 23–29. Corrected Indonesia and Cappadocia media/credits in existing bookings; live verified all seven upcoming PENDING, draft=false autoPublish=true. No ChatGPT Atlas task enabled.",
   "extra_cost_gbp": 0,
   "manual_workflow": {
     "initiator": "User each Tuesday, can manually prompt continue",
