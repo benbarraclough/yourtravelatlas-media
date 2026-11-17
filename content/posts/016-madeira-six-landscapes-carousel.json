@@ -220,7 +220,8 @@
     "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/",
     "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/",
     "https://www.visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/",
-    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz"
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz",
+    "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/"
   ],
   "last_qa_findings": "2026-11-17: titles on 6 and 7 were clipped at Madei and at; shortened all labels, reordered 8-location caption to actual image order, described Atlantic-fed pools accurately. Await final rendered QA and update original Metricool UUID."
 }
