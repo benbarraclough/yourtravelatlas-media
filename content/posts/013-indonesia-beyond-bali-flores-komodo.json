@@ -16,7 +16,7 @@
   "reader_scenario": "A curious traveller who knows Bali but has never considered the contrasting islands and experiences in eastern Indonesia.",
   "share_reason": "A genuine surprise-driven destination discovery: Komodo dragons, a blush-coloured coast, colour-changing volcanic crater lakes and a remote living highland village together.",
   "slide_count_rationale": "Five individually documented real Flores and Komodo scenes; cover and two supporting photo sources improved after actual rendered image QA revealed weak hero framing, indistinct pink sand and soft crater image.",
-  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Lisa van Vliet, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
+  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -46,22 +46,22 @@
       "layout": "photo",
       "heading": "Pink Beach",
       "body": "A blush-tinted shore curves around brilliant turquoise water.",
-      "image_url": "https://images.unsplash.com/photo-1700591698351-f8131b0f5d3c?auto=format&fit=crop&w=2500&q=85",
-      "source_page": "https://unsplash.com/photos/a-beach-with-a-pink-sand-and-blue-water-XTH4JgHFbqA",
-      "photographer": "Lisa van Vliet",
+      "image_url": "https://images.unsplash.com/photo-1736478772244-2e4be173e1bb?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14",
+      "photographer": "Simon Spring",
       "license": "Unsplash License",
-      "subject": "Pink Beach aerial Komodo",
-      "alt": "Pink Beach aerial Komodo, Indonesia",
+      "subject": "Pink Beach drone panorama in Komodo",
+      "alt": "Aerial view of clear turquoise water and pink-sand shore with boats at Pink Beach near Komodo, Indonesia",
       "activity_source": "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park",
       "fact_checks": [
-        "https://unsplash.com/photos/a-beach-with-a-pink-sand-and-blue-water-XTH4JgHFbqA",
+        "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14",
         "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
         "reader_value": "Pink Beach offers a highly distinctive real experience in eastern Indonesia beyond the usual Bali travel imagery.",
-        "image_context": "The original free Unsplash image from Lisa van Vliet explicitly identifies Pink Beach in the Komodo or Flores region of Indonesia, with accurate landmark features.",
+        "image_context": "Original licensed free Unsplash drone photograph by Simon Spring locates this image at Pink Beach, East Nusa Tenggara, Indonesia and shows clear blue sea, boats and coast.",
         "specific_detail": "Published official travel or reputable scientific documentation supports the named destination and the experience described on this slide.",
         "distinct_contribution": "Pink Beach introduces a contrasting authentic subject and memorable activity rather than repeating the previous photograph."
       }
@@ -147,7 +147,7 @@
     "https://www.indonesia.travel/uk/en/travel-ideas/heritage/menikmati-pesona-desa-adat-wae-rebo-di-pulau-flores",
     "https://unsplash.com/photos/a-large-lizard-laying-on-the-ground-next-to-a-tree-YQ_1xfuXUu4",
     "https://unsplash.com/photos/brown-mountain-beside-body-of-water-during-daytime-tqvF1JXzOxs",
-    "https://unsplash.com/photos/a-beach-with-a-pink-sand-and-blue-water-XTH4JgHFbqA",
-    "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs"
+    "https://unsplash.com/photos/turquoise-lake-in-volcanic-crater-at-sunrise-QRaljBMjdPs",
+    "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14"
   ]
 }
