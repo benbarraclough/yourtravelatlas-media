@@ -1,7 +1,7 @@
 {
   "issue": 17,
   "slug": "017-vietnam-six-places-carousel",
-  "headline": "6 Places That Make Vietnam Unforgettable",
+  "headline": "8 Places That Make Vietnam Unforgettable",
   "dek": "Real places worth discovering",
   "category": "VIETNAM / JOURNEY OF CONTRASTS",
   "cover_country": "VIETNAM",
@@ -15,8 +15,8 @@
   "editorial_intent": "Replace the prohibited 013-six-sides-of-vietnam moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
   "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
-  "slide_count_rationale": "6 unique real licensed photographs followed by a scenic brand-ending mosaic recomposed from images already shown, with no reused external asset or filler photograph.",
-  "caption": "One country. Six extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery",
+  "slide_count_rationale": "8 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
+  "caption": "One country. Eight extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hà Giang — discover mountain roads and dramatic northern valleys.\n📍 Hanoi Train Street — see the historic railway corridor between city buildings.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham, Harry Le / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -135,6 +135,29 @@
     },
     {
       "layout": "photo",
+      "heading": "Hà Giang Mountain Pass",
+      "body": "Winding roads reveal remote, misty mountains in northern Vietnam.",
+      "image_url": "https://images.unsplash.com/photo-1772013971664-5808a8e1a102?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+      "photographer": "Harry Le",
+      "license": "Unsplash License",
+      "subject": "Traveller on misty winding mountain pass in Hà Giang Vietnam",
+      "alt": "Traveller on misty winding mountain pass in Hà Giang Vietnam",
+      "activity_source": "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Hà Giang Mountain Pass gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original free Unsplash photo by Harry Le identifies a mountain pass in Vần Chải, Đồng Văn District, Hà Giang, Vietnam, with a traveller looking towards the green mountains.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Hà Giang Mountain Pass adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      }
+    },
+    {
+      "layout": "photo",
       "heading": "Hội An",
       "body": "Watch lantern-lit boats glide along Hội An's river after dark.",
       "image_url": "https://images.unsplash.com/photo-1748271151446-0013c0bc7061?auto=format&fit=crop&w=2500&q=85",
@@ -159,6 +182,29 @@
     {
       "layout": "brand_end",
       "subject": "Final scenic brand invitation"
+    },
+    {
+      "layout": "photo",
+      "heading": "Hanoi's Train Street",
+      "body": "A railway squeezes between city buildings and colourful local cafés.",
+      "image_url": "https://images.unsplash.com/photo-1765054959080-4677aa5a12de?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4",
+      "photographer": "Bernd 📷 Dittrich",
+      "license": "Unsplash License",
+      "subject": "Authentic train on the narrow Hanoi Train Street in Vietnam",
+      "alt": "Authentic train on the narrow Hanoi Train Street in Vietnam",
+      "activity_source": "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4",
+      "fact_checks": [
+        "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Hanoi's Train Street gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
+        "image_context": "Original photographer Bernd Dittrich explicitly identifies the train at Hanoi Train Street, Phố Trần Phú, Điện Biên, Hoàn Kiếm, Hanoi, Vietnam, freely licensed via Unsplash.",
+        "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
+        "distinct_contribution": "Hanoi's Train Street adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
+      }
     }
   ],
   "fact_sources": [
@@ -167,6 +213,8 @@
     "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
     "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
     "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
-    "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM"
+    "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+    "https://unsplash.com/photos/a-person-walks-down-a-rural-road-through-green-hills-vf1r6eSJvl4",
+    "https://unsplash.com/photos/train-approaches-narrow-street-with-cafes-and-people-WG3VRdOwtc4"
   ]
 }
