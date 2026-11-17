@@ -22,7 +22,7 @@ def build():
         for i,item in enumerate(post['slides']):
             file=ROOT/'media'/slug/f'{i+1:02d}.jpg'
             encoded=base64.b64encode(file.read_bytes()).decode('ascii')
-            images.append(f'<figure><img src="data:image/jpeg;base64,{encoded}" alt="{html.escape(item["alt"],quote=True)}"><figcaption>Slide {i+1} of {n}</figcaption></figure>')
+            images.append(f'<figure><img src="data:image/jpeg;base64,{encoded}" alt="{html.escape(item.get("alt") or item.get("subject") or "Your Travel Atlas scenic closing slide",quote=True)}"><figcaption>Slide {i+1} of {n}</figcaption></figure>')
             im=Image.open(file).resize((348,435)); x=i%3*360+6;y=i//3*475;sheet.paste(im,(x,y));pen.text((x+5,y+442),f'{i+1:02d}',fill=(20,30,30),font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',20))
         sheet.save(OUT/(slug+'-preview.jpg'),quality=94)
         sections.append(f'<section id="issue{post["issue"]}"><h2>{html.escape(post["headline"])}</h2><p class="meta">Issue {post["issue"]:03d} · {n} slides · {html.escape(post.get("editorial_status", "editorial candidate"))}</p><div class="review"><div><p class="hint">Swipe or scroll sideways to see every slide →</p><div class="carousel">{"".join(images)}</div></div><div class="caption"><h3>Full Instagram caption</h3><div class="copy">{html.escape(post["caption"])}</div></div></div></section>')
