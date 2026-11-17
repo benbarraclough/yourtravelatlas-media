@@ -1,37 +1,10 @@
 {
-  "snapshot_date": "2026-11-15 17:49 Europe/London (Metricool verified after final Amalfi improvement)",
+  "snapshot_date": "2026-11-17 afternoon Europe/London (live Metricool November audit)",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
     "publishing_status": "Metricool brand 7717708",
     "note": "This file is a dated snapshot, never proof of future publishing."
-  },
-  "automation": {
-    "id": "6ae251260af881919e1d2042f46e1ff2",
-    "title": "Atlas Publisher",
-    "enabled": true,
-    "schedule": "Daily 08:00 Europe/London",
-    "timing_mode": "exact_schedule",
-    "target": "Four excellent completed posts per following week, including those booked",
-    "next_run": "2026-11-14 08:00 Europe/London",
-    "operating_model": "One daily ChatGPT automation; small persistently checkpointed actions, not multiple tasks or one weekly all-in-one run",
-    "extra_paused_tasks": [
-      {
-        "id": "6af73d732ee881919643fe3480cc606b",
-        "title": "Atlas Carousel Producer",
-        "enabled": false
-      },
-      {
-        "id": "6af73d758480819181ef0cc193b1d50c",
-        "title": "Atlas Slideshow Producer",
-        "enabled": false
-      },
-      {
-        "id": "6af73d7833148191b0aefd1647c6527e",
-        "title": "Atlas Motion Reel Producer",
-        "enabled": false
-      }
-    ]
   },
   "editorial": {
     "formats": "2 manually swipeable 4:5 carousel POSTS + 1 9:16 still-photo slideshow REEL + 1 9:16 genuine moving-footage REEL (if footage impractical substitute second slideshow REEL)",
@@ -42,10 +15,6 @@
     "owner_routine_approval": false
   },
   "known_published": [
-    {
-      "name": "Faroe Islands",
-      "date": "2026-10-29"
-    },
     {
       "name": "Porto",
       "date": "2026-11-02"
@@ -61,17 +30,21 @@
     {
       "name": "Japan",
       "date": "2026-11-09"
+    },
+    {
+      "name": "New Zealand",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "Philippines",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Amalfi Coast",
+      "date": "2026-11-16"
     }
   ],
   "known_pending_at_snapshot": [
-    {
-      "name": "Amalfi Coast — Fiordo bridge-led revised six-location carousel",
-      "date": "2026-11-16T19:00:00",
-      "format": "POST",
-      "photo_count": 6,
-      "metricool_post_id": 429111375,
-      "qa": "15 Nov actual six 1080×1350 final JPGs inspected; live Metricool PENDING/draft false/autopublish true"
-    },
     {
       "name": "Seven Mountain Views Without the Summit Hike",
       "date": "2026-11-18T19:00:00",
@@ -90,17 +63,27 @@
   ],
   "next_run_priority": {
     "week": "2026-11-16 to 2026-11-22",
-    "already_booked": 3,
+    "already_published": 1,
+    "already_pending": 2,
     "remaining_to_schedule": 1,
-    "requested_mix": "One separate genuine moving-footage Reel when viable or second unique licensed photo slideshow Reel, preferably Sunday Nov 22. Do not recreate three existing bookings."
+    "focus": "Madeira 012 photo-slideshow Reel for Sunday 22 Nov subject to rendered MP4 actual QA, then next week's four slots"
   },
   "capacity": {
     "max_calendar_month": 20,
-    "known_november_published_at_snapshot": 4,
-    "known_november_pending_at_snapshot": 3,
-    "untracked_manual_posts": "Unknown; verify live before scheduling"
+    "known_november_published_at_snapshot": 7,
+    "known_november_pending_at_snapshot": 2,
+    "confirmed_unused_slots": 11,
+    "untracked_manual_posts": "No others in Metricool November response, recheck live before scheduling"
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "15 Nov revised Amalfi 6-image visual QA completed and post updated in existing Metricool slot, verified PENDING; daily task remains enabled; unattended ongoing scheduling not yet proven.",
-  "extra_cost_gbp": 0
+  "test_status": "17 Nov 2026: manual Tuesday model adopted and seven Atlas automations disabled; new Madeira sourced Reel brief committed; rendering/QA and scheduling not yet verified",
+  "extra_cost_gbp": 0,
+  "manual_workflow": {
+    "initiator": "Owner prompts ChatGPT every Tuesday from 17 November 2026, with manual continuation prompts as needed",
+    "automations_enabled": 0,
+    "atlas_legacy_tasks_paused": 7,
+    "delete_action_available_to_connector": false,
+    "render": "GitHub Actions on commit",
+    "approval": "Editor independently checks real output and rights, only schedule QA-approved posts"
+  }
 }
