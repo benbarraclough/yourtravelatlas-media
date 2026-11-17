@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-17 final verified seven-post triple QA",
+  "snapshot_date": "2026-11-17 final seven-post triple quality audit",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -115,7 +115,7 @@
     "confirmed_unused_slots": 6
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "17 Nov final: all seven upcoming posts triple QA'd, dates unchanged, all corrections uploaded in existing Metricool UUIDs, 6 real photo carousels incl mandatory end and 1 real 8-clip silent Reel, all PENDING draft=false autoPublish=true. Madeira official PR1 closed, Veu da Noiva photo, Labuan Bajo sunset and Maspalomas dunes corrected. docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md",
+  "test_status": "17 Nov final manual triple QA: all 7 scheduled upcoming posts verified live PENDING, autoPublish true, draft false, six carousels 8–9 photo pages with branded ending and one authentic silent eight-shot footage Reel; corrected Indonesia, desert, Madeira and Vietnam and full change log stored at content/reviews/2026-11-17-seven-upcoming-posts-final-quality-audit.md.",
   "extra_cost_gbp": 0,
   "manual_workflow": {
     "initiator": "User each Tuesday, can manually prompt continue",
@@ -127,5 +127,6 @@
     "next_session": "Tuesday 24 Nov"
   },
   "qa_report": "docs/audits/2026-11-17-triple-check-publishing-audit.md",
-  "last_review": "docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md"
+  "last_review": "docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md",
+  "audit_log": "content/reviews/2026-11-17-seven-upcoming-posts-final-quality-audit.md"
 }
