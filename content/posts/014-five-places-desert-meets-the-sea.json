@@ -1,0 +1,159 @@
+{
+  "issue": 14,
+  "slug": "014-five-places-desert-meets-the-sea",
+  "category": "WORLDWIDE / LANDSCAPE SURPRISES",
+  "cover_country": "WORLDWIDE",
+  "headline": "Where the Desert Drops Into the Sea",
+  "dek": "Five coastlines that barely look real",
+  "content_type": "discovery",
+  "strategy": "surprise_curiosity_top_5_geographic",
+  "editorial_version": 7,
+  "editorial_status": "production_pending_QA",
+  "public_numbers": false,
+  "no_cta": true,
+  "format": "five-landscape-swipeable-photo-post",
+  "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
+  "reader_scenario": "A reader wants unusual sea landscapes and striking photographic trip inspiration beyond familiar blue-water beaches.",
+  "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
+  "slide_count_rationale": "Five real locations across Africa, South America, the Arabian peninsula, Europe and Australia; no generic filler or closing card.",
+  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — towering Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — saltwater pushes into a sea of dunes.\n📍 Corralejo, Fuerteventura, Spain — pale dunes stretch beside turquoise Atlantic water.\n📍 Cape Peron, Western Australia — red coastal dunes touch the blue of Shark Bay.\n\nWhich coastline would you go exploring?\n\nPhotos: NIR HIMI, Kimberly Genest, Jirayu Koontholjinda, Alejandro Martin & Dylan Shaw / Unsplash.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
+  "slides": [
+    {
+      "layout": "cover",
+      "kicker": "Namibia",
+      "heading": "Sandwich Harbour",
+      "body": "See huge dunes fall straight towards Namibia's Atlantic surf.",
+      "image_url": "https://images.unsplash.com/photo-1772289495944-93871457d92f?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
+      "photographer": "NIR HIMI",
+      "license": "Unsplash License",
+      "subject": "Namibia dunes meeting the Atlantic Ocean at Sandwich Harbour",
+      "alt": "Namibia dunes meeting the Atlantic Ocean at Sandwich Harbour",
+      "activity_source": "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
+      "fact_checks": [
+        "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
+        "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Sandwich Harbour shows travellers a highly striking place where desert terrain and the sea meet in Namibia.",
+        "image_context": "Photographer NIR HIMI documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
+        "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
+        "distinct_contribution": "Namibia introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "kicker": "Peru",
+      "heading": "Paracas Reserve",
+      "body": "Red-brown desert cliffs trace the edge of Peru's Pacific coast.",
+      "image_url": "https://images.unsplash.com/photo-1610046932034-fc8170d01155?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-hSN-2gFiHwo",
+      "photographer": "Kimberly Genest",
+      "license": "Unsplash License",
+      "subject": "Peru desert cliffs meeting Pacific Ocean at Paracas",
+      "alt": "Peru desert cliffs meeting Pacific Ocean at Paracas",
+      "activity_source": "https://www.peru.travel/attractions/paracas-and-ballestas-islands",
+      "fact_checks": [
+        "https://www.peru.travel/attractions/paracas-and-ballestas-islands",
+        "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-hSN-2gFiHwo"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Paracas Reserve shows travellers a highly striking place where desert terrain and the sea meet in Peru.",
+        "image_context": "Photographer Kimberly Genest documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
+        "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
+        "distinct_contribution": "Peru introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "kicker": "Qatar",
+      "heading": "Qatar's Inland Sea",
+      "body": "Golden dunes meet a sheltered stretch of turquoise saltwater.",
+      "image_url": "https://images.unsplash.com/photo-1658863714239-03989bfa6ca7?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-beach-with-a-body-of-water-Kf8qyXqoRRg",
+      "photographer": "Jirayu Koontholjinda",
+      "license": "Unsplash License",
+      "subject": "Desert dunes on the shore of Qatar's Inland Sea",
+      "alt": "Desert dunes on the shore of Qatar's Inland Sea",
+      "activity_source": "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
+      "fact_checks": [
+        "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
+        "https://unsplash.com/photos/a-beach-with-a-body-of-water-Kf8qyXqoRRg"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Qatar's Inland Sea shows travellers a highly striking place where desert terrain and the sea meet in Qatar.",
+        "image_context": "Photographer Jirayu Koontholjinda documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
+        "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
+        "distinct_contribution": "Qatar introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "kicker": "Spain",
+      "heading": "Corralejo Dunes",
+      "body": "White dunes meet bright Atlantic water on Fuerteventura.",
+      "image_url": "https://images.unsplash.com/photo-1566156411617-7987737028d0?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
+      "photographer": "Alejandro Martin",
+      "license": "Unsplash License",
+      "subject": "Sand dunes and ocean at Corralejo Fuerteventura",
+      "alt": "Sand dunes and ocean at Corralejo Fuerteventura",
+      "activity_source": "https://www.hellocanaryislands.com/sights-on-another-level/",
+      "fact_checks": [
+        "https://www.hellocanaryislands.com/sights-on-another-level/",
+        "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Corralejo Dunes shows travellers a highly striking place where desert terrain and the sea meet in Spain.",
+        "image_context": "Photographer Alejandro Martin documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
+        "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
+        "distinct_contribution": "Spain introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
+      }
+    },
+    {
+      "layout": "photo",
+      "kicker": "Australia",
+      "heading": "Cape Peron",
+      "body": "Rust-red sand and wild blue bays meet in Shark Bay.",
+      "image_url": "https://images.unsplash.com/photo-1627697707521-b3a4bd0be603?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA",
+      "photographer": "Dylan Shaw",
+      "license": "Unsplash License",
+      "subject": "Cape Peron Shark Bay Western Australia coastal dune aerial",
+      "alt": "Cape Peron Shark Bay Western Australia coastal dune aerial",
+      "activity_source": "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf",
+      "fact_checks": [
+        "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf",
+        "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Cape Peron shows travellers a highly striking place where desert terrain and the sea meet in Australia.",
+        "image_context": "Photographer Dylan Shaw documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
+        "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
+        "distinct_contribution": "Australia introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
+      }
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
+    "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
+    "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-hSN-2gFiHwo",
+    "https://www.peru.travel/attractions/paracas-and-ballestas-islands",
+    "https://unsplash.com/photos/a-beach-with-a-body-of-water-Kf8qyXqoRRg",
+    "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
+    "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
+    "https://www.hellocanaryislands.com/sights-on-another-level/",
+    "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA",
+    "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf"
+  ]
+}
