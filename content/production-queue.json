@@ -146,7 +146,7 @@
       "brief": "content/reels/014-cappadocia-beyond-balloons.json",
       "rendered_asset": "media/reels/014-cappadocia-beyond-balloons/",
       "verified": true,
-      "source_qa": "17 Nov: latest five real Pexels moving-clip storyboard and cover visually checked; corrected horse-rider sequence, proper Selman Arif Golbasi credit, latest 18.9 s silent MP4 from GitHub renderer and matching cover uploaded into same Metricool UUID. Verified PENDING, no draft and autoPublish=true.",
+      "source_qa": "Five licensed original Pexels moving clips with photographer/page evidence; 18.9s 9:16 silent MP4 and storyboard reviewed. Updated fairy chimney and genuine horseback-riders scenes on 17 Nov; captions credit İbrahim Çelik, Taryn Elliott, Duygu Kelleci, Selman Arif Golbasi and Kadir Avşar; same UUID verified PENDING.",
       "metricool_post_id": 431510824,
       "metricool_uuid": "-406218192588947160",
       "metricool_status": "PENDING",
@@ -154,7 +154,7 @@
       "autoPublish": true,
       "draft": false,
       "planner_url": "https://app.metricool.com/planner/calendar?blogId=7717708&openWithPostUuid=-406218192588947160",
-      "next_action": "None unless publication fails; inspect reach/performance at next owner-led Tuesday session."
+      "next_action": "None; updated 29 Nov booking PENDING and true footage five scenes."
     }
   ],
   "retired_and_replaced": [
@@ -202,7 +202,7 @@
     "Only mark scheduled when Metricool confirms PENDING, draft false and autoPublish true",
     "Owner prompts manually on Tuesday and follows up when needed"
   ],
-  "last_verified_metricool": "17 November 2026 approx 14:17 UK: 14 of 20 November items (7 PUBLISHED, 7 PENDING) confirmed, including revised Indonesia same booking UUID id 431514077; six remaining slots. Two weeks of 4/4.",
+  "last_verified_metricool": "17 Nov approx 14:19 UK: 7 published + 7 pending November = 14/20, six unused; 29 Nov updated Cappadocia footage and credits now post ID 431510824.",
   "deferred_concepts": [
     {
       "id": "socotra-island-previously-researched",
