@@ -16,7 +16,7 @@
   "reader_scenario": "A curious traveller who knows Bali but has never considered the contrasting islands and experiences in eastern Indonesia.",
   "share_reason": "A genuine surprise-driven destination discovery: Komodo dragons, a blush-coloured coast, colour-changing volcanic crater lakes and a remote living highland village together.",
   "slide_count_rationale": "7 distinct authentic original photographs, 1 scenic branded final slide created from the same licensed images. Extra views chosen for different scenes and reader value.",
-  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque, Marcella Oscar / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
+  "caption": "Dragons, pink sand and volcanic lakes — all in Indonesia's extraordinary Flores and Komodo region. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above three sweeping bays, or spot boats below its green headlands.\n📍 Pink Beach — walk a pale-pink shoreline beside bright turquoise water.\n📍 Kelimutu, Flores — discover volcanic crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a living highland village of distinctive cone-roofed homes, sometimes shrouded in mist.\n📍 Komodo National Park — see the world's largest living lizard with a local guide.\n\nWhich would you save for a future trip?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Marcella Oscar / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -44,8 +44,8 @@
     },
     {
       "layout": "photo",
-      "heading": "Padar from the Sea",
-      "body": "A boat-level view reveals the green headlands and sheltered turquoise bays.",
+      "heading": "Padar's Hidden Bays",
+      "body": "From above, boats look tiny between Padar's green ridges and blue bays.",
       "image_url": "https://images.unsplash.com/photo-1736523075712-398e8a18767a?auto=format&fit=crop&w=2500&q=85",
       "source_page": "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
       "photographer": "Simon Spring",
@@ -59,8 +59,8 @@
       "focus_x": 0.5,
       "focus_y": 0.5,
       "review": {
-        "reader_value": "Padar from the Sea gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
-        "image_context": "The original free Unsplash photograph by Simon Spring identifies Pulau Padar Island within Komodo National Park, East Nusa Tenggara, Indonesia, in January 2025.",
+        "reader_value": "An elevated second perspective shows the small boats and sheltered bays beneath Padar's green ridges, different from the dry-season first image.",
+        "image_context": "The original free Unsplash photo by Simon Spring shows an elevated view of Padar's blue bays with boats, not a boat-level view.",
         "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
         "distinct_contribution": "Padar from the Sea adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
       }
@@ -201,5 +201,6 @@
     "https://unsplash.com/photos/an-aerial-view-of-a-tropical-island-with-sailboats-Ngmt0uMIr14",
     "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
     "https://unsplash.com/photos/black-nipa-huts-during-daytime-uRSk8pT0Elg"
-  ]
+  ],
+  "last_qa_findings": "2026-11-17: corrected false boat-level Padar description, made five-location caption match seven photographic scenes, clarified experience and attribution."
 }
