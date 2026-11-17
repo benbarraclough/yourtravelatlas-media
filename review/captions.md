@@ -192,11 +192,11 @@ When giant dunes and desert cliffs meet the ocean, the scenery barely looks real
 📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.
 📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.
 📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.
-📍 Corralejo, Fuerteventura — white dunes roll down towards turquoise sea in the Canary Islands.
+📍 Maspalomas, Gran Canaria — walk a golden dune ridge with the Atlantic on the horizon.
 
 Some are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?
 
-Photos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Alejandro Martin / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.
+Photos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Marco Canepa / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.
 
 #YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery
 
