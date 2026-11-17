@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "a07080274ebf636ff7e5cdf391c397e76f301ca5d787b2a84e4db33b80a2923c",
-  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.\n📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.\n📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.\n\nWhich coastline would you explore first?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw, Slim MARS / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
+  "brief_sha256": "d7a928bb92705f01be10894581a50848b423be682560e57700685639ef97b23d",
+  "caption": "Where does the desert end? In five remarkable places, it meets the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — enormous dunes tumble towards the Atlantic.\n📍 Paracas, Peru — coastal desert cliffs rise above the Pacific.\n📍 Khor Al Adaid, Qatar — explore a tidal Inland Sea edged by sand dunes.\n📍 Dune du Pilat, France — climb Europe's tallest sand dune for Atlantic views.\n📍 Cape Peron, Western Australia — rust-red coastal sand meets Shark Bay's blue water.\n\nSeven photo perspectives across five contrasting coasts. Which would you visit?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Slim MARS / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #CoastalLandscapes #DesertCoast #NaturePhotography #TravelDiscovery",
   "fact_sources": [
     "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
     "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
@@ -20,7 +20,9 @@
     "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
     "https://creativecommons.org/licenses/by/2.0/",
     "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
-    "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas"
+    "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
+    "https://ladunedupilat.com/en/i-discover/in-short/",
+    "https://visitqatar.com/intl-en/things-to-do/adventure-sports/desert/khor-al-adaid"
   ],
   "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
@@ -61,7 +63,7 @@
       "activity_source": "https://unsplash.com/photos/sandy-desert-dunes-meet-the-blue-ocean-waves-zS3N4upvJe0",
       "file": "02.jpg",
       "source_sha256": "d29e65897bd275f12115e5cbd89ed3b5c3d3d1e4108a14d9e9f071e34b9075f1",
-      "output_sha256": "027d80a78153aa98b12e91817d90f8159c6eeae9172a845b812f2f8182b2d58a",
+      "output_sha256": "be09b5a7b0c97f7139147d45cccd59db3366e934eabcd5a7ed5b195be3d9cdb2",
       "size": [
         1080,
         1350
@@ -198,13 +200,13 @@
       "activity_source": "https://unsplash.com/photos/a-view-of-the-ocean-from-a-sand-dune-Agjqb92pPas",
       "file": "07.jpg",
       "source_sha256": "6933562e26b2b4afc1d6241e0d00f3f51e51d8073caf55d4d891bf86a3cd9d67",
-      "output_sha256": "fd5755340920e44066aa6594b5677e2e5840df58311db59f625e76ae31f4f04f",
+      "output_sha256": "915a605656e6a856822b007a580c9500a8b1b1475783652eca2c9a971658d3c1",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "The blue Atlantic stretches away beyond France's towering sand ridge.",
+      "body": "Look across the blue Atlantic from the high dune's sandy ridge.",
       "review": {
         "reader_value": "From the Top of the Dune gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
         "image_context": "Original free Unsplash photo by Slim MARS identifies the viewpoint as Dune du Pilat, La Teste-de-Buch, France, facing the Atlantic coast.",

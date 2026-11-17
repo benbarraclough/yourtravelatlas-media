@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "c34e54d27cabcf99b39a2b5f72d09bd57bf9995802dcbe630cd9beb72eb8632a",
-  "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque, Marcella Oscar / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
+  "brief_sha256": "61146a576d8c953e6e79498e22855a3a91d8a8feab0d7dff64709a183aacaa7b",
+  "caption": "Dragons, pink sand and volcanic lakes — all in Indonesia's extraordinary Flores and Komodo region. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above three sweeping bays, or spot boats below its green headlands.\n📍 Pink Beach — walk a pale-pink shoreline beside bright turquoise water.\n📍 Kelimutu, Flores — discover volcanic crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a living highland village of distinctive cone-roofed homes, sometimes shrouded in mist.\n📍 Komodo National Park — see the world's largest living lizard with a local guide.\n\nWhich would you save for a future trip?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Marcella Oscar / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
   "fact_sources": [
     "https://www.indonesia.travel/id/id/travel-ideas/marine/unveil-the-lands-of-dragons-firsttimers-guide-to-komodo-national-park",
     "https://www.indonesia.travel/gb/en/travel-ideas/adventure/10-reasons-to-visit-the-magnificent-komodo-national-park",
@@ -59,16 +59,16 @@
       "activity_source": "https://unsplash.com/photos/an-aerial-view-of-a-large-body-of-water-ivqR2e84i5g",
       "file": "02.jpg",
       "source_sha256": "926a1cbe28439807a54b04fe33f8cb764f3f873c524703aaed9a5b3733c6febb",
-      "output_sha256": "ea769cfcc3172e275e6647b74898d6eda8bc98cdf9f5550effd324bc1a636419",
+      "output_sha256": "055284947045f4b7fa1f1a20be6d13ff7e88d6f28909950025f7a99cda06b32e",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "A boat-level view reveals the green headlands and sheltered turquoise bays.",
+      "body": "From above, boats look tiny between Padar's green ridges and blue bays.",
       "review": {
-        "reader_value": "Padar from the Sea gives readers a different memorable original view and specific worthwhile travel detail within this collection.",
-        "image_context": "The original free Unsplash photograph by Simon Spring identifies Pulau Padar Island within Komodo National Park, East Nusa Tenggara, Indonesia, in January 2025.",
+        "reader_value": "An elevated second perspective shows the small boats and sheltered bays beneath Padar's green ridges, different from the dry-season first image.",
+        "image_context": "The original free Unsplash photo by Simon Spring shows an elevated view of Padar's blue bays with boats, not a boat-level view.",
         "specific_detail": "The individual original photo page records the named exact location and author and identifies this photo as reusable under the Unsplash License.",
         "distinct_contribution": "Padar from the Sea adds a distinct authentic place or camera angle not duplicated by the other photographs in this same carousel."
       },

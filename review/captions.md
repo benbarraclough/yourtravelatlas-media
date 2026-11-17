@@ -168,54 +168,54 @@ Photos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev
 
 ## Dragons, Pink Sand & Volcano Lakes
 
-Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩
+Dragons, pink sand and volcanic lakes — all in Indonesia's extraordinary Flores and Komodo region. 🇮🇩
 
-📍 Padar Island — climb to a viewpoint above sweeping curved bays.
-📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.
-📍 Kelimutu, Flores — discover three crater lakes that change colour over time.
-📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.
-📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.
+📍 Padar Island — climb to a viewpoint above three sweeping bays, or spot boats below its green headlands.
+📍 Pink Beach — walk a pale-pink shoreline beside bright turquoise water.
+📍 Kelimutu, Flores — discover volcanic crater lakes that change colour over time.
+📍 Wae Rebo, Flores — trek to a living highland village of distinctive cone-roofed homes, sometimes shrouded in mist.
+📍 Komodo National Park — see the world's largest living lizard with a local guide.
 
-Which would be your first stop?
+Which would you save for a future trip?
 
-Photos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque, Marcella Oscar / Unsplash.
+Photos: Rizknas, Simon Spring, Yub 12, Ash Hayes, Daniel Pelaez Duque & Marcella Oscar / Unsplash.
 
 #YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery
 
 ## Where the Desert Drops Into the Sea
 
-A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️
+Where does the desert end? In five remarkable places, it meets the sea. 🌊🏜️
 
-📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.
-📍 Paracas, Peru — arid cliffs drop towards the Pacific.
-📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.
-📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.
-📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.
+📍 Sandwich Harbour, Namibia — enormous dunes tumble towards the Atlantic.
+📍 Paracas, Peru — coastal desert cliffs rise above the Pacific.
+📍 Khor Al Adaid, Qatar — explore a tidal Inland Sea edged by sand dunes.
+📍 Dune du Pilat, France — climb Europe's tallest sand dune for Atlantic views.
+📍 Cape Peron, Western Australia — rust-red coastal sand meets Shark Bay's blue water.
 
-Which coastline would you explore first?
+Seven photo perspectives across five contrasting coasts. Which would you visit?
 
-Photos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw, Slim MARS / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.
+Photos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Slim MARS / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.
 
-#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems
+#YourTravelAtlas #CoastalLandscapes #DesertCoast #NaturePhotography #TravelDiscovery
 
 ## 8 Real Places That Look Like a Winter Film Set
 
-Eight real places that look like scenes from a winter film. ❄️
+Eight real places that could belong in a winter film. ❄️
 
-📍 Rovaniemi, Finland — aurora above the snow forest.
-📍 Shirakawa-go, Japan — traditional farmhouses beneath a blanket of snow.
-📍 Reine, Norway — red fishing cabins below Arctic peaks.
-📍 Colmar, France — festive lights in the old town.
-📍 Jigokudani, Japan — snow monkeys soaking in hot springs.
-📍 Tallinn, Estonia — medieval rooftops in the snow.
-📍 Vatnajökull, Iceland — a luminous blue cave inside the glacier.
-📍 Québec City, Canada — Château Frontenac in winter.
+📍 Rovaniemi, Finland — hunt for northern lights above snowy Lapland forests.
+📍 Shirakawa-go, Japan — see steep thatched-roof farmhouses under fresh snow.
+📍 Reine, Norway — admire red fishing cabins beneath Lofoten's Arctic peaks.
+📍 Colmar, France — wander glowing half-timbered streets at Christmas.
+📍 Jigokudani, Japan — watch wild snow monkeys bathing in steaming springs.
+📍 Tallinn, Estonia — wander through a snow-covered medieval old town.
+📍 Vatnajökull, Iceland — explore blue glacier ice with a qualified guide.
+📍 Québec City, Canada — find Château Frontenac towering over wintry Old Québec.
 
-Which winter scene would you travel for?
+Which winter scene would you choose?
 
 Photos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Ilya Orehov, Davide Cantelli & Lianhao Qu / Unsplash.
 
-#YourTravelAtlas #WinterTravel #WinterTravel #TravelCarousel
+#YourTravelAtlas #WinterTravel #SnowyEscapes #TravelInspiration
 
 ## An Island of Cloud Trails and Lava Pools
 
