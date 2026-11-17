@@ -15,7 +15,7 @@
   "editorial_intent": "Show visitors five striking real and distinctive places in Flores and Komodo, combining landscapes, volcanic colour phenomena, living cultural heritage and wild dragons.",
   "reader_scenario": "A curious traveller who knows Bali but has never considered the contrasting islands and experiences in eastern Indonesia.",
   "share_reason": "A genuine surprise-driven destination discovery: Komodo dragons, a blush-coloured coast, colour-changing volcanic crater lakes and a remote living highland village together.",
-  "slide_count_rationale": "Five individually documented real Flores and Komodo scenes; cover and two supporting photo sources improved after actual rendered image QA revealed weak hero framing, indistinct pink sand and soft crater image.",
+  "slide_count_rationale": "Five individually documented real Flores and Komodo scenes; cover and two supporting photo sources improved after actual rendered image QA revealed weak hero framing, indistinct pink sand and soft crater image. Includes scenic 'Fill Your Feed With Wonder' final slide recomposed from this carousel's licensed photographs.",
   "caption": "Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes change colour. 🇮🇩\n\n📍 Padar Island — climb to a viewpoint above sweeping curved bays.\n📍 Pink Beach, Komodo — see blush-coloured sand meet turquoise water.\n📍 Kelimutu, Flores — discover three crater lakes that change colour over time.\n📍 Wae Rebo, Flores — trek to a highland village of distinctive cone-roofed homes.\n📍 Komodo National Park — see the world's largest living lizard in its natural habitat with a guide.\n\nWhich would be your first stop?\n\nPhotos: Rizknas, Simon Spring, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.\n\n#YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery",
   "slides": [
     {
@@ -137,6 +137,10 @@
         "specific_detail": "Published official travel or reputable scientific documentation supports the named destination and the experience described on this slide.",
         "distinct_contribution": "Komodo Dragons introduces a contrasting authentic subject and memorable activity rather than repeating the previous photograph."
       }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
     }
   ],
   "fact_sources": [
