@@ -156,7 +156,7 @@ def main(postfile):
             meta=download(clip,src)
             seconds=min(float(clip.get("seconds",3.4)),meta["duration"]-0.3)
             if seconds<2.5 or seconds>6:raise ValueError("Clip segment duration out of bounds")
-            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=48 if discovery else 57,face_path=FONT_SERIF))
+            txt=text_file(temp,f"caption{i}",wrap_text(clip["overlay"],fontsize=(64 if i==0 else 53) if discovery else 57,face_path=FONT_BOLD if discovery else FONT_SERIF))
             destination=text_file(temp,f"destination{i}",wrap_text(brief["destination"].split(",")[0].upper(),max_width=900,fontsize=74,face_path=FONT_SERIF))
             brand=text_file(temp,f"brand{i}","YOUR TRAVEL ATLAS")
             
@@ -169,11 +169,19 @@ def main(postfile):
             ]
             if discovery:
                 brand=text_file(temp,f"brand{i}","@yourtravelatlas")
-                filters.append(textfilter(brand,27,170,font=FONT_REG))
-                if clip["overlay"]:
-                    filters.extend([
-                        *[textfilter(text_file(temp,f"line{i}_{j}",line),48,1280+j*62,font=FONT_SERIF,center=True) for j,line in enumerate(txt.read_text().splitlines())],
-                    ])
+                filters.append(textfilter(brand,28,163,font=FONT_REG))
+                # Strongly legible editorial lower third: full width graded dark backdrop,
+                # large bold face and a clear location kicker on the opening scene.
+                filters.append("drawbox=x=0:y=1135:w=iw:h=475:color=black@0.44:t=fill")
+                if i==0:
+                    kicker=text_file(temp,f"kicker{i}",str(brief.get("country_label","CAPPADOCIA · TÜRKIYE")).upper())
+                    filters.append(textfilter(kicker,29,1215,font=FONT_BOLD,center=True))
+                    for j,line in enumerate(txt.read_text().splitlines()):
+                        filters.append(textfilter(text_file(temp,f"introline{i}_{j}",line),64,1290+j*85,font=FONT_BOLD,center=True))
+                elif clip["overlay"]:
+                    is_last=(i==len(clips)-1)
+                    for j,line in enumerate(txt.read_text().splitlines()):
+                        filters.append(textfilter(text_file(temp,f"line{i}_{j}",line),58 if is_last else 53,1355+j*75,font=FONT_BOLD,center=True))
             else:
                 filters.extend([
                     textfilter(brand,28,153,font=FONT_REG),
