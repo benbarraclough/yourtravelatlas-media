@@ -178,6 +178,6 @@ Indonesia beyond Bali: where dragons roam, the sand turns pink and volcano lakes
 
 Which would be your first stop?
 
-Photos: Evan THOMAS, I CHEN LIN, yosep sare, Ash Hayes & Daniel Pelaez Duque / Unsplash.
+Photos: Rizknas, Lisa van Vliet, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unsplash.
 
 #YourTravelAtlas #IndonesiaTravel #FloresIsland #KomodoNationalPark #TravelDiscovery
