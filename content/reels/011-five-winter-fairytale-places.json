@@ -9,7 +9,7 @@
   "audio_policy": "no_music",
   "editorial_intent": "Eight distinct visually powerful verified real winter destinations: aurora, snowy Japanese village, Lofoten cabins, Alsatian festive streets, hot spring snow monkeys, medieval Tallinn, Iceland's blue ice cave and Quebec's Château Frontenac.",
   "share_reason": "A long 28.8-second cinematic photo story with eight real contrasting winter experiences; includes warm lighting, snowy architecture, wildlife and electric-blue glacier ice.",
-  "editorial_status": "production_pending_QA",
+  "editorial_status": "rejected",
   "images": [
     {
       "subject": "Rovaniemi, Finnish Lapland",
@@ -84,5 +84,7 @@
       "license": "Unsplash License"
     }
   ],
-  "frames_per_image": 108
+  "frames_per_image": 108,
+  "retired_reason": "Owner prohibited moving-zoom still-photo videos on 17 Nov 2026; replaced in existing Metricool UUID by manual swipe carousel POST.",
+  "replaced_by": "content/posts/015-winter-places-to-save-carousel.json"
 }
