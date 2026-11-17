@@ -60,14 +60,14 @@ The Metricool allowance is **20 total posts per calendar month**, including post
 | Wed 18 Nov 19:00 | Carousel POST | 7 Mountain Views Without the Summit Hike | 427230845 | PENDING |
 | Fri 20 Nov 19:00 | Photo slideshow REEL | 8 Places That Look Like a Winter Film | 427232781 | PENDING |
 | Sun 22 Nov 19:00 | Photo slideshow REEL | Madeira: Cloud Trails / Lava Pools, updated media+credits | 431506131 | PENDING |
-| Mon 23 Nov 19:00 | Carousel POST | Indonesia Beyond Bali / Flores & Komodo | 431463978 | PENDING |
+| Mon 23 Nov 19:00 | Carousel POST | Indonesia Beyond Bali / Flores & Komodo | 431514077 | PENDING |
 | Wed 25 Nov 19:00 | Carousel POST | Five Places Where the Desert Meets the Sea | 431479145 | PENDING |
 | Fri 27 Nov 19:00 | Photo slideshow REEL | Six Sides of Vietnam | 431495264 | PENDING |
 | Sun 29 Nov 19:00 | **TRUE MOVING VIDEO REEL** | Cappadocia Beyond Balloons — five licensed Pexels clips | 431502937 | PENDING |
 
 Both publication weeks meet the FOUR posts/week target. The Sunday 29 November Reel was produced from **five real Pexels moving clips**, 18.9 seconds silent. Earlier Sunday 22 Madeira slideshow was revised **inside its existing Metricool slot** to the strengthened Porto Moniz volcanic pool and São Lourenço path footage-free photo sequence, correctly credited. No future ChatGPT automation exists for this work.
 
-**Known improvement to reconcile:** Monday 23 Nov Indonesia currently booked with a licensed Lisa van Vliet Pink Beach photo and matching original caption credit. The active brief contains a proposed better Simon Spring image; it is **not** yet the rendered or Metricool-posted media. If the renderer produces and actual final image passes QA, update the existing Metricool UUID `8356741788287969` with corrected image AND caption credit; otherwise preserve the valid older booking. Never claim the updated image is live until checked.
+**Indonesia correction resolved on 17 Nov:** Mon 23 Nov carousel's second slide now contains the newly rendered licensed Simon Spring Pink Beach aerial photograph. Correct image, all five actual JPEGs, caption credits and alt text were uploaded to the SAME UUID `8356741788287969` and re-fetched as `PENDING`/autoPublish=true/draft=false; new numeric id **431514077**. No outstanding source/caption mismatch.
 
 **Archived next-cycle candidate:** `content/archive/south-america-landscapes-next-cycle-2026-11-24.json`; intentionally removed from live `content/posts/` because it conflicted with existing issue 014 and four posts/week were already complete. Before reusing it, reassign a truly unused issue ID and check every photo. Existing historic production and retired concepts in `docs/history/` and `content/archive/` are reference only, not mandatory tasks.
 
