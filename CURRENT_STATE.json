@@ -102,7 +102,7 @@
     "untracked_manual_posts": "No other November entries were returned by live Metricool check 17 Nov; recheck at next session"
   },
   "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
-  "test_status": "17 Nov 2026: owner-led Tuesday session recovered after interruption; 4/4 scheduled for 16–22 and 4/4 for 23–29. Corrected Indonesia and Cappadocia media/credits in existing bookings; live verified all seven upcoming PENDING, draft=false autoPublish=true. No ChatGPT Atlas task enabled.",
+  "test_status": "Two weeks 4/4 booked; last 17 Nov correction re-uploaded stronger licensed Simon Spring Pink Beach image with matching caption and alt within original 23 Nov UUID. All posts currently have accurate credits and PENDING statuses. No ChatGPT Atlas jobs enabled.",
   "extra_cost_gbp": 0,
   "manual_workflow": {
     "initiator": "User each Tuesday, can manually prompt continue",
