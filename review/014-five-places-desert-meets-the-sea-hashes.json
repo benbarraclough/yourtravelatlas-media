@@ -1,13 +1,13 @@
 {
   "issue": 14,
   "slug": "014-five-places-desert-meets-the-sea",
-  "brief_sha256": "ba39625cdee53d0a4911b5da1453d37a817f77add13e9c68efaa864007722ac5",
-  "caption_sha256": "a1d90d2a5dd2b343bc9d38d731b9a76d96b8a9c2128e3553434a333f24412aea",
+  "brief_sha256": "2e11a468608dab7b3f329f7ab9e9e0b35933d6a30bb67b040069c5c8c336fea5",
+  "caption_sha256": "56e9ebd7f1ffd3a5e56cf3f586da7d0716347d1334d396c334bfd9b771dde0d5",
   "image_sha256": {
     "media/014-five-places-desert-meets-the-sea/01.jpg": "f95fae9f9cd34bf7fc8653c6c1572ddea361f5312140e188c587da267a7f5078",
     "media/014-five-places-desert-meets-the-sea/02.jpg": "5720094a4919bd52ca8e75ba7651faf64b8aca6b4380a4d5d4e9274add60e750",
-    "media/014-five-places-desert-meets-the-sea/03.jpg": "3301594e3c4bb45d15396da53bc445ebe62a6ca990d37c47849fdb8143d6b7c1",
-    "media/014-five-places-desert-meets-the-sea/04.jpg": "46f4e1ee1b7a5ef43e9254505bbe1006f73e82887aa4605500a4321495b52fb3",
+    "media/014-five-places-desert-meets-the-sea/03.jpg": "e1faeef034862995c9708361a637a89761509086e9e40cce6134d6540a8906ff",
+    "media/014-five-places-desert-meets-the-sea/04.jpg": "cdd5cd06ccf5ec09c853ed2c62e626f47eab95e72b23a006e985f2bbb7235f98",
     "media/014-five-places-desert-meets-the-sea/05.jpg": "e38a538ca405d530d22999e1684730ec480f6eec543b81eaec0745e7d2d14131"
   }
 }

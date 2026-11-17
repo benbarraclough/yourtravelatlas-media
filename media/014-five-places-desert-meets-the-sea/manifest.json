@@ -5,19 +5,20 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "ba39625cdee53d0a4911b5da1453d37a817f77add13e9c68efaa864007722ac5",
-  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — towering Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — saltwater pushes into a sea of dunes.\n📍 Corralejo, Fuerteventura, Spain — pale dunes stretch beside turquoise Atlantic water.\n📍 Cape Peron, Western Australia — red coastal dunes touch the blue of Shark Bay.\n\nWhich coastline would you go exploring?\n\nPhotos: NIR HIMI, Kimberly Genest, Jirayu Koontholjinda, Alejandro Martin & Dylan Shaw / Unsplash.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
+  "brief_sha256": "2e11a468608dab7b3f329f7ab9e9e0b35933d6a30bb67b040069c5c8c336fea5",
+  "caption": "A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.\n📍 Paracas, Peru — arid cliffs drop towards the Pacific.\n📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.\n📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.\n📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.\n\nWhich coastline would you explore first?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems",
   "fact_sources": [
     "https://unsplash.com/photos/vast-sand-dunes-meet-the-ocean-under-a-clear-sky-NOx4oaU7fC0",
     "https://visitnamibia.com.na/2022/02/namib-sand-sea/",
     "https://unsplash.com/photos/brown-rocky-mountain-beside-blue-sea-under-blue-sky-during-daytime-hSN-2gFiHwo",
     "https://www.peru.travel/attractions/paracas-and-ballestas-islands",
-    "https://unsplash.com/photos/a-beach-with-a-body-of-water-Kf8qyXqoRRg",
     "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
-    "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
-    "https://www.hellocanaryislands.com/sights-on-another-level/",
     "https://unsplash.com/photos/aerial-view-of-body-of-water-during-daytime-OR_D1sdsOVA",
-    "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf"
+    "https://www.sharkbay.org/wp-content/uploads/2018/03/2018-Francois-Peron-from-pdfs-lr.pdf",
+    "https://commons.wikimedia.org/wiki/File:Sea_meets_sand_dunes_in_Khawr_Al_Udayd.jpg",
+    "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-y6VK9hXG82A",
+    "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
+    "https://creativecommons.org/licenses/by/2.0/"
   ],
   "editorial_intent": "Deliver five vivid and authentic globally diverse examples of deserts or dry dune landscapes literally reaching saltwater, with precise site names for visitors to discover.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
@@ -78,56 +79,59 @@
     },
     {
       "subject": "Desert dunes on the shore of Qatar's Inland Sea",
-      "source_page": "https://unsplash.com/photos/a-beach-with-a-body-of-water-Kf8qyXqoRRg",
-      "photographer": "Jirayu Koontholjinda",
-      "license": "Unsplash License",
-      "alt": "Desert dunes on the shore of Qatar's Inland Sea",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sea_meets_sand_dunes_in_Khawr_Al_Udayd.jpg",
+      "photographer": "Kevin Gong",
+      "license": "CC BY 2.0",
+      "alt": "Three travellers beside sand dunes meeting Khor Al Adaid Inland Sea in Qatar",
       "activity_source": "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
       "file": "03.jpg",
-      "source_sha256": "244949b396414557cfeb19a6666c9d9cd5fd99859365153b0aa66c4181eaebcc",
-      "output_sha256": "3301594e3c4bb45d15396da53bc445ebe62a6ca990d37c47849fdb8143d6b7c1",
+      "source_sha256": "a800c38d8164931e1b5e6de07ea21e285776a83cf2981b63ef05c86a7ca2463a",
+      "output_sha256": "e1faeef034862995c9708361a637a89761509086e9e40cce6134d6540a8906ff",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Golden dunes meet a sheltered stretch of turquoise saltwater.",
+      "body": "Pale dunes sweep directly into the saltwater at Khor Al Adaid.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit_line": "Kevin Gong, 'Sea meets sand dunes in Khawr Al Udayd', 2012, Wikimedia Commons, CC BY 2.0",
+      "changes": "Cropped to 4:5 portrait composition, shaded for legibility and editorial typography overlaid; colours otherwise not intentionally modified.",
       "review": {
         "reader_value": "Qatar's Inland Sea shows travellers a highly striking place where desert terrain and the sea meet in Qatar.",
-        "image_context": "Photographer Jirayu Koontholjinda documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
+        "image_context": "The original file labels Khawr Al Udayd in southern Qatar, photographed 18 April 2012 by Kevin Gong, verified as Creative Commons Attribution 2.0 by Wikimedia Flickr review.",
         "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
         "distinct_contribution": "Qatar introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
       },
       "fact_checks": [
-        "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea",
-        "https://unsplash.com/photos/a-beach-with-a-body-of-water-Kf8qyXqoRRg"
+        "https://commons.wikimedia.org/wiki/File:Sea_meets_sand_dunes_in_Khawr_Al_Udayd.jpg",
+        "https://visitqatar.com/intl-en/things-to-do/beach-holiday/inland-sea"
       ]
     },
     {
-      "subject": "Sand dunes and ocean at Corralejo Fuerteventura",
-      "source_page": "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE",
-      "photographer": "Alejandro Martin",
+      "subject": "Aerial drone view of Dune du Pilat and Atlantic coastline in France",
+      "source_page": "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-y6VK9hXG82A",
+      "photographer": "World Thing",
       "license": "Unsplash License",
-      "alt": "Sand dunes and ocean at Corralejo Fuerteventura",
-      "activity_source": "https://www.hellocanaryislands.com/sights-on-another-level/",
+      "alt": "Aerial drone view of Dune du Pilat and Atlantic coastline in France",
+      "activity_source": "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/",
       "file": "04.jpg",
-      "source_sha256": "97534e8c6fe1a1a838c69a2316b48aeb0396c9b2a25f6690166f94ce584b5255",
-      "output_sha256": "46f4e1ee1b7a5ef43e9254505bbe1006f73e82887aa4605500a4321495b52fb3",
+      "source_sha256": "312a3a3e3823fd308a02a80a1e278734aca685bb8020a19e56c8922abb771b0c",
+      "output_sha256": "cdd5cd06ccf5ec09c853ed2c62e626f47eab95e72b23a006e985f2bbb7235f98",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "White dunes meet bright Atlantic water on Fuerteventura.",
+      "body": "Europe's tallest sand dune towers beside the Atlantic coast.",
       "review": {
-        "reader_value": "Corralejo Dunes shows travellers a highly striking place where desert terrain and the sea meet in Spain.",
-        "image_context": "Photographer Alejandro Martin documents this specific destination and not a generic beach image; original free Unsplash source includes its location.",
-        "specific_detail": "The named coastal landform is described by an appropriate official national tourism or park authority independent of the photo source.",
-        "distinct_contribution": "Spain introduces its own geology, landscape and colour palette, contrasting with other countries in this worldwide collection."
+        "reader_value": "France's Dune du Pilat is a dramatic giant dune rising next to the ocean with a distinct view visitors can experience.",
+        "image_context": "Original free Unsplash source World Thing explicitly identifies Dune du Pilat, France, and provides original licensed drone photography.",
+        "specific_detail": "Official La Teste-de-Buch tourist office identifies Dune du Pilat as Europe's highest dune with ocean on one side.",
+        "distinct_contribution": "Atlantic France presents a singular towering coastal dune, contrasting with Qatar's dune-ringed inlet and Namibia's desert coast."
       },
       "fact_checks": [
-        "https://www.hellocanaryislands.com/sights-on-another-level/",
-        "https://unsplash.com/photos/seashore-and-ocean-under-blue-sky-2Kt1bYfZ0IE"
+        "https://unsplash.com/photos/an-aerial-view-of-a-beach-and-a-body-of-water-y6VK9hXG82A",
+        "https://tourisme-latestedebuch.com/en/the-dune-du-pilat/"
       ]
     },
     {

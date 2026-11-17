@@ -186,14 +186,14 @@ Photos: Rizknas, Lisa van Vliet, Yub 12, Ash Hayes & Daniel Pelaez Duque / Unspl
 
 A desert doesn't always end at an oasis. Sometimes it runs straight into the sea. 🌊🏜️
 
-📍 Sandwich Harbour, Namibia — towering Namib dunes meet the Atlantic.
+📍 Sandwich Harbour, Namibia — sweeping Namib dunes meet the Atlantic.
 📍 Paracas, Peru — arid cliffs drop towards the Pacific.
-📍 Khor Al Adaid, Qatar — saltwater pushes into a sea of dunes.
-📍 Corralejo, Fuerteventura, Spain — pale dunes stretch beside turquoise Atlantic water.
-📍 Cape Peron, Western Australia — red coastal dunes touch the blue of Shark Bay.
+📍 Khor Al Adaid, Qatar — pale dunes line a vast tidal inland sea.
+📍 Dune du Pilat, France — Europe's tallest sand dune rises beside the ocean.
+📍 Cape Peron, Western Australia — red coastal land meets Shark Bay's blue waters.
 
-Which coastline would you go exploring?
+Which coastline would you explore first?
 
-Photos: NIR HIMI, Kimberly Genest, Jirayu Koontholjinda, Alejandro Martin & Dylan Shaw / Unsplash.
+Photos: NIR HIMI, Kimberly Genest, World Thing & Dylan Shaw / Unsplash; Kevin Gong / Wikimedia Commons, CC BY 2.0 (cropped and text overlaid): https://creativecommons.org/licenses/by/2.0/.
 
 #YourTravelAtlas #TravelDiscovery #DesertCoast #NaturePhotography #HiddenGems
