@@ -273,6 +273,23 @@ if __name__=="__main__":
         if brief.get("editorial_status") in ("rejected", "revision_required"):
             print(f"SKIP {brief['editorial_status'].upper()} REEL: {p.name}",flush=True)
             continue
+        # An unchanged, fully-rendered silent Reel should not require another costly full decode.
+        # Verify both the originating brief digest and the on-disk video digest before reusing it.
+        folder=OUTPUT/brief["slug"]
+        existing_manifest=folder/"manifest.json"
+        if existing_manifest.is_file():
+            try:
+                old=json.loads(existing_manifest.read_text(encoding="utf-8"))
+                video=folder/old["video"]
+                if (old.get("brief_sha256")==hashlib.sha256(p.read_bytes()).hexdigest()
+                    and old.get("audio_streams")==0
+                    and video.is_file() and (folder/"cover.jpg").is_file()
+                    and (folder/"storyboard.jpg").is_file()
+                    and hashlib.sha256(video.read_bytes()).hexdigest()==old.get("video_sha256")):
+                    print(f"PRESERVE VERIFIED UNCHANGED REEL: {p.name}",flush=True)
+                    continue
+            except (OSError,ValueError,KeyError,TypeError):
+                pass  # Invalid cache evidence means render and validate again.
         if brief.get("treatment")=="photo_slideshow_v1":
             from render_photo_reel import render as render_photo_slideshow
             render_photo_slideshow(p)
