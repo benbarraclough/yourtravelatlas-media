@@ -16,7 +16,7 @@
   "reader_scenario": "A reader wants unusual sea landscapes and striking photographic trip inspiration beyond familiar blue-water beaches.",
   "share_reason": "This five-country carousel sparks the wait-where-is-that reaction with the rare sight of deserts falling directly into the sea, with photographs tied to real named destinations.",
   "slide_count_rationale": "Seven original licensed photographic scenes across six distinct coastal destinations, plus the scenic branded end card. One extra Namibia image deliberately contrasts two perspectives; the last location is a warm sunset dune walk in Maspalomas rather than a weak road-and-beach photo.",
-  "caption": "When giant dunes and desert cliffs meet the ocean, the scenery barely looks real. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — huge desert dunes fall towards Atlantic surf; see them from two very different angles.\n📍 Paracas, Peru — sheer ochre desert cliffs line the Pacific.\n📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.\n📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.\n📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.\n📍 Fuerteventura, Canary Islands — pale dunes meet incredible turquoise Atlantic waters.\n\nSome are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Lorin Both / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery",
+  "caption": "When giant dunes and desert cliffs meet the ocean, the scenery barely looks real. 🌊🏜️\n\n📍 Sandwich Harbour, Namibia — huge desert dunes fall towards Atlantic surf; see them from two very different angles.\n📍 Paracas, Peru — sheer ochre desert cliffs line the Pacific.\n📍 Khor Al Adaid, Qatar — a remarkable tidal inland sea fringed by dunes.\n📍 Dune du Pilat, France — climb a towering coastal dune above the Atlantic and pine forest.\n📍 Cape Peron, Western Australia — rust-red sand borders Shark Bay's blue shallows.\n📍 Maspalomas, Gran Canaria — walk a golden dune ridge with the Atlantic on the horizon.\n\nSome are true deserts; others are enormous coastal dune systems. Which coastline surprised you most?\n\nPhotos: NIR HIMI, Kimberly Genest, World Thing, Dylan Shaw & Marco Canepa / Unsplash; Kevin Gong, “Sea meets sand dunes in Khawr Al Udayd”, Wikimedia Commons, CC BY 2.0 (cropped and text added): https://creativecommons.org/licenses/by/2.0/.\n\n#YourTravelAtlas #DesertCoast #CoastalLandscapes #NaturePhotography #TravelDiscovery",
   "slides": [
     {
       "layout": "cover",
@@ -180,10 +180,10 @@
       "license": "Unsplash License",
       "subject": "A lone person on golden sunset dune ridge with the Atlantic beyond in Maspalomas Gran Canaria Spain",
       "alt": "Warm sunset over rolling golden Maspalomas dunes, with a lone figure on a ridge and the Atlantic beyond. Text: Maspalomas Dunes, Spain.",
-      "activity_source": "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/",
+      "activity_source": "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/",
       "fact_checks": [
         "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
-        "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/"
+        "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/"
       ],
       "focus_x": 0.5,
       "focus_y": 0.5,
@@ -218,7 +218,8 @@
     "https://www.hellocanaryislands.com/experiences/8-islands-cycling-challenge-an-epic-challenge/",
     "https://www.visitfuerteventura.com/en/nature-spaces/fuerteventura/corralejo-natural-park/",
     "https://unsplash.com/photos/a-woman-standing-on-top-of-a-sand-dune-jh5IfdfYR08",
-    "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/"
+    "https://www.hellocanaryislands.com/experiences/post-wedding-memories-among-the-dunes-in-the-canary-islands/",
+    "https://www.hellocanaryislands.com/nature-spaces/gran-canaria/maspalomas-dunes/"
   ],
-  "last_qa_findings": "2026-11-17 triple QA: upgraded a visually poor, inaccurately turquoise-labelled Corralejo photo to an exceptionally striking aerial of Fuerteventura's white dunes and true turquoise water. Photographer Lorin Both original freely licensed Unsplash photo geolocates Fuerteventura but not exact Corralejo, so accurate broader location used. Added official local tourism and original photo sources, updated public credits; image requires re-render and final QA before booking."
+  "last_qa_findings": "2026-11-17 final QA: the initially selected extra Dune du Pilat frame lacked visual impact; rejected bland Corralejo candidate and replaced with original Maspalomas sunset dune by Marco Canepa, confirmed by his free Unsplash page to show sunset dunes with Atlantic visible, location Gran Canaria. Updated exact photo credits, caption and official island fact source. Do not book until 7th rendered slide inspected."
 }
