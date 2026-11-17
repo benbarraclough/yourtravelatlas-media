@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "f167c662d8e83441032173e62bc20aa94a9743794a7d869735f2fa08352bf823",
-  "caption": "One Portuguese island. Eight landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Santana — see traditional colourful thatched-roof cottages.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ribeira da Janela — see sea stacks rise out of a rugged Atlantic shore.\n📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman, Markus Kammermann, Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel",
+  "brief_sha256": "7d03ce5a2bd27e0100a97ed6d811eab9dcbe94038f2f40287a77f678d2ea027d",
+  "caption": "Madeira is an island of contrasts: mountain stairs above the clouds, ancient forests in the mist and pools carved into lava rock. 🇵🇹\n\n📍 Pico do Arieiro — follow stone steps along a dramatic mountain ridge.\n📍 Fanal Forest — wander between centuries-old laurel trees.\n📍 Seixal — black sand sits beneath towering green north-coast cliffs.\n📍 Santana — discover colourful triangular cottages with thatched roofs.\n📍 Risco Waterfall — find a slender cascade among lush mountain slopes.\n📍 Porto Moniz — swim in natural Atlantic-fed lava-rock pools.\n📍 Ponta de São Lourenço — explore the rugged eastern peninsula on foot.\n📍 Ribeira da Janela — see jagged sea stacks rise from the Atlantic.\n\nWhich scene would make you book Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
   "fact_sources": [
     "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
     "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
@@ -15,7 +15,9 @@
     "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
     "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
     "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
-    "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc"
+    "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/"
   ],
   "editorial_intent": "Replace the prohibited 012-madeira-cloud-trails-lava-pools moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
@@ -55,7 +57,7 @@
       "activity_source": "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
       "file": "02.jpg",
       "source_sha256": "73817557c9680306e58f893a100aa3c836feba7b68dce195abdf36bbbba03061",
-      "output_sha256": "b3abda65c338b11666acc76b68fa13b3072e994078d00a3ad63edc2cb650413b",
+      "output_sha256": "239c67996ea4923cb606f9a72c2efabbd42a9c2c51ce07c596d43d0feee85b9a",
       "size": [
         1080,
         1350
@@ -81,7 +83,7 @@
       "activity_source": "https://unsplash.com/photos/misty-mountains-overlook-a-dark-sandy-beach-and-ocean-jLAW65EREW4",
       "file": "03.jpg",
       "source_sha256": "b2c1199e95606cd303381dd984b407db90e7efd58ee035cad2097b6b9895b37d",
-      "output_sha256": "6b4af2280a98acee5f9fd3996e402dd654b6e752b5a522ec5d0932e5f03b9421",
+      "output_sha256": "8fad38b51596a7040aa389b6389163bd3f7da2bea46bde766e414458771bdfdf",
       "size": [
         1080,
         1350
@@ -107,7 +109,7 @@
       "activity_source": "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
       "file": "04.jpg",
       "source_sha256": "4faef837b4fc1e75b362df023105799982daef9763a876e44a9389e86a9de775",
-      "output_sha256": "f1e66e355b197b5c5b0d190498abe3ba00918b60edf5fd6be26225bd43d90fed",
+      "output_sha256": "687b57fcfa3a3d06a71a5edb87e123d77eb1242090b2f41cb4129962dc0479e1",
       "size": [
         1080,
         1350
@@ -133,7 +135,7 @@
       "activity_source": "https://unsplash.com/photos/a-waterfall-in-the-middle-of-a-foggy-forest-w4KMb33fg3w",
       "file": "05.jpg",
       "source_sha256": "95320ca4026fe647a2271f5b4841a6261dccf7310a74047235c1be17fa68a7b3",
-      "output_sha256": "b3e970a764e1a5a432e7ccb7826b43c522e9e22d31e9b133b13dbf054e5faf1c",
+      "output_sha256": "c1b1f0b25e424fd1baf983e2046732bdd73d93189b0a05ea22e8b51be6c1c790",
       "size": [
         1080,
         1350
@@ -159,13 +161,13 @@
       "activity_source": "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
       "file": "06.jpg",
       "source_sha256": "f99dd448234faa67df9950db007f6c65e8b7eb5d070bff98b00e78d65fd70161",
-      "output_sha256": "022c7df11f904dd76aa3beb566aa855998b77801ed055dd7769377d8d2b974c6",
+      "output_sha256": "c8ca360fa0d3dd0a181362fa36c266e44ec41e6a880953876062bcfb6896cac7",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "Natural lava-rock pools sit beside the crashing Atlantic.",
+      "body": "Swim between volcanic rocks beside the Atlantic at Porto Moniz.",
       "review": {
         "reader_value": "Porto Moniz lava swimming pools, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
         "image_context": "Colin Watts' original free Unsplash photograph identifies an aerial view down onto the lava swimming pools of Porto Moniz on Madeira, Portugal; licence is Unsplash License.",
@@ -185,13 +187,13 @@
       "activity_source": "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
       "file": "07.jpg",
       "source_sha256": "7154d10e0e5050eefeea848aa65a184508512ff704654c697f3a7f953d0c516e",
-      "output_sha256": "77f328feb533f248051e9a74a6bdee582fc40dd3e4fc946ac6d741e5fdd34d71",
+      "output_sha256": "5c4b903ea053eef5151784d12881b5a09ac42fe52f50080b5276431bb46ecac7",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "A rocky coastal trail crosses Madeira's wild eastern headland.",
+      "body": "Walk along Madeira's spectacular wild eastern headland.",
       "review": {
         "reader_value": "Ponta de São Lourenço coastal hike at sunrise is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
         "image_context": "Mick Kirchman's original free Unsplash photo identifies a sunrise hiking trail at Ponta de São Lourenço, Caniçal, Portugal, showing a walker in mountain terrain.",

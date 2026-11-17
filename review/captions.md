@@ -219,38 +219,38 @@ Photos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Il
 
 ## An Island of Cloud Trails and Lava Pools
 
-One Portuguese island. Eight landscapes that hardly look like they belong together. 🌿
+Madeira is an island of contrasts: mountain stairs above the clouds, ancient forests in the mist and pools carved into lava rock. 🇵🇹
 
-📍 Pico do Arieiro — mountain paths weave high above the clouds.
-📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.
-📍 Santana — see traditional colourful thatched-roof cottages.
-📍 Seixal — black sand sits beneath the lush north-coast cliffs.
-📍 Risco Waterfall — water drops into deep green forest.
-📍 Porto Moniz — swim in natural pools bordered by volcanic rock.
-📍 Ribeira da Janela — see sea stacks rise out of a rugged Atlantic shore.
-📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.
+📍 Pico do Arieiro — follow stone steps along a dramatic mountain ridge.
+📍 Fanal Forest — wander between centuries-old laurel trees.
+📍 Seixal — black sand sits beneath towering green north-coast cliffs.
+📍 Santana — discover colourful triangular cottages with thatched roofs.
+📍 Risco Waterfall — find a slender cascade among lush mountain slopes.
+📍 Porto Moniz — swim in natural Atlantic-fed lava-rock pools.
+📍 Ponta de São Lourenço — explore the rugged eastern peninsula on foot.
+📍 Ribeira da Janela — see jagged sea stacks rise from the Atlantic.
 
-Which scene would you go to first?
+Which scene would make you book Madeira?
 
-Photos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman, Markus Kammermann, Reinaldo Photography / Unsplash.
+Photos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.
 
-#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelCarousel
+#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes
 
-## 8 Places That Make Vietnam Unforgettable
+## Vietnam: Caves, Karsts & Lantern Nights
 
-One country. Eight extraordinary worlds to explore. 🇻🇳
+From limestone islands to a cave big enough to camp in, Vietnam has extraordinary contrasts. 🇻🇳
 
-📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.
-📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.
-📍 Sa Pa — see rice terraces ripple across the mountain valleys.
-📍 Ban Gioc Falls — discover cascades on the dramatic northern border.
-📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.
-📍 Hà Giang — discover mountain roads and dramatic northern valleys.
-📍 Hanoi Train Street — see the historic railway corridor between city buildings.
-📍 Hội An — catch the old town river glowing with lanterns after dark.
+📍 Hạ Long Bay — cruise between towering limestone islands.
+📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.
+📍 Sa Pa — see terraces cut into the green northern hills.
+📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.
+📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.
+📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.
+📍 Hội An — watch lanterns glimmer across the river at night.
+📍 Hanoi Train Street — see a railway thread between narrow city buildings; respect local access rules.
 
-Which of these would you travel for first?
+Would you choose a cave expedition or a night on the lantern-lit river?
 
-Photos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham, Harry Le / Unsplash.
+Photos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.
 
-#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery
+#YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery
