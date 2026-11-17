@@ -1,0 +1,172 @@
+{
+  "issue": 17,
+  "slug": "017-vietnam-six-places-carousel",
+  "headline": "6 Places That Make Vietnam Unforgettable",
+  "dek": "Real places worth discovering",
+  "category": "VIETNAM / JOURNEY OF CONTRASTS",
+  "cover_country": "VIETNAM",
+  "content_type": "discovery",
+  "strategy": "editorial_swipe_instead_of_fake_photo_reel",
+  "editorial_version": 7,
+  "editorial_status": "production_pending_QA",
+  "public_numbers": false,
+  "no_cta": true,
+  "format": "real_photo_swipe_with_scenic_branded_end",
+  "editorial_intent": "Replace the prohibited 013-six-sides-of-vietnam moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
+  "reader_scenario": "A reader who wants to pause and swipe through extraordinary, geographically identified and believable travel images.",
+  "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
+  "slide_count_rationale": "6 unique real licensed photographs followed by a scenic brand-ending mosaic recomposed from images already shown, with no reused external asset or filler photograph.",
+  "caption": "One country. Six extraordinary worlds to explore. 🇻🇳\n\n📍 Hạ Long Bay — sail between misty limestone towers rising out of the sea.\n📍 Tràng An, Ninh Bình — drift by boat along rivers enclosed by emerald karsts.\n📍 Sa Pa — see rice terraces ripple across the mountain valleys.\n📍 Ban Gioc Falls — discover cascades on the dramatic northern border.\n📍 Hang Én Cave — join a guided cave expedition and camp beneath an enormous stone roof.\n📍 Hội An — catch the old town river glowing with lanterns after dark.\n\nWhich of these would you travel for first?\n\nPhotos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Mayur Arvind, Andrew Svk & Jason Pham / Unsplash.\n\n#YourTravelAtlas #VietnamTravel #AsiaTravel #TravelCarousel #TravelDiscovery",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Hạ Long Bay",
+      "body": "Sail among thousands of limestone karsts rising from the sea.",
+      "image_url": "https://images.unsplash.com/photo-1772717083265-2d93b89f0b7f?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+      "photographer": "Pierre Bonvalot",
+      "license": "Unsplash License",
+      "subject": "Hạ Long Bay, Vietnam",
+      "alt": "Hạ Long Bay, Vietnam, Pierre Bonvalot original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+      "fact_checks": [
+        "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Hạ Long Bay, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Pierre Bonvalot's original free Unsplash drone photograph explicitly identifies Hạ Long Bay, Vietnam, with a sea of limestone karst islands and an expansive elevated view.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Tràng An, Ninh Bình",
+      "body": "Board a small riverboat between towering green limestone cliffs.",
+      "image_url": "https://images.unsplash.com/photo-1768245074264-f439d94ea8c9?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+      "photographer": "Bernd 📷 Dittrich",
+      "license": "Unsplash License",
+      "subject": "Tràng An, Ninh Bình, Vietnam",
+      "alt": "Tràng An, Ninh Bình, Vietnam, Bernd 📷 Dittrich original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+      "fact_checks": [
+        "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Tràng An, Ninh Bình, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Bernd Dittrich's original Unsplash photograph labels Tràng An in the Hoa Lư district of Ninh Bình, Vietnam and depicts boats through lush green karst hills.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Sa Pa",
+      "body": "Terraced rice paddies trace layers across the northern hills.",
+      "image_url": "https://images.unsplash.com/photo-1741319294980-ae8a8756e31d?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+      "photographer": "Daniele Franchi",
+      "license": "Unsplash License",
+      "subject": "Sa Pa, Vietnam",
+      "alt": "Sa Pa, Vietnam, Daniele Franchi original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+      "fact_checks": [
+        "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Sa Pa, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Daniele Franchi's original free Unsplash image identifies Sa Pa, Lào Cai Vietnam, specifically rice terraces and bright green terraced fields, not generic agriculture.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Ban Gioc Falls, Cao Bằng",
+      "body": "A huge waterfall spills over lush cliffs on the northern border.",
+      "image_url": "https://images.unsplash.com/photo-1772165009296-2e86e417d62d?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+      "photographer": "Mayur Arvind",
+      "license": "Unsplash License",
+      "subject": "Ban Gioc Falls, Cao Bằng, Vietnam",
+      "alt": "Ban Gioc Falls, Cao Bằng, Vietnam, Mayur Arvind original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Ban Gioc Falls, Cao Bằng, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Mayur Arvind's original Unsplash image identifies Ban Gioc Falls in Cao Bang, Vietnam, showing the cascading wide waterfall at the Vietnam-China border.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Hang Én Cave, Quảng Bình",
+      "body": "Join an organised expedition to camp beneath a vaulted cave roof.",
+      "image_url": "https://images.unsplash.com/photo-1638793774287-90f9505b2bb1?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+      "photographer": "Andrew Svk",
+      "license": "Unsplash License",
+      "subject": "Hang Én Cave, Quảng Bình, Vietnam",
+      "alt": "Hang Én Cave, Quảng Bình, Vietnam, Andrew Svk original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Hang Én Cave, Quảng Bình, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Andrew Svk's original Unsplash page describes an actual overnight campsite inside Hang En cave in Quang Binh, Vietnam, photographed during a cave trip.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Hội An",
+      "body": "Watch lantern-lit boats glide along Hội An's river after dark.",
+      "image_url": "https://images.unsplash.com/photo-1748271151446-0013c0bc7061?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+      "photographer": "Jason Pham",
+      "license": "Unsplash License",
+      "subject": "Hội An, Vietnam",
+      "alt": "Hội An, Vietnam, Jason Pham original real destination travel photograph",
+      "activity_source": "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM",
+      "fact_checks": [
+        "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Hội An, Vietnam is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
+        "image_context": "Jason Pham's original Unsplash photograph identifies the lantern-lit riverside atmosphere in Hội An, Quảng Nam, Vietnam with floating lights on the river.",
+        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
+      }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/limestone-karsts-rise-from-the-water-in-a-scenic-bay-wPquuVxGqBc",
+    "https://unsplash.com/photos/boats-navigate-a-river-surrounded-by-lush-green-karst-mountains--SmvQUbPzGg",
+    "https://unsplash.com/photos/aerial-view-of-terraced-rice-paddies-4uupZ6frKGU",
+    "https://unsplash.com/photos/a-majestic-waterfall-cascades-down-a-lush-green-cliff-4k9Zu1jPqDU",
+    "https://unsplash.com/photos/a-close-up-of-a-cave-KB3r2qbAj4o",
+    "https://unsplash.com/photos/lamps-float-on-a-dark-river-at-night-scAOTOLLEaM"
+  ]
+}
