@@ -43,7 +43,10 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for attempt in 1 2 3; do
+          # Rendering can take a minute; other editorial commits may land meanwhile.
+          # Rebase already-rendered media first instead of discarding valid work
+          # and losing three consecutive full re-render races.
+          for attempt in 1 2 3 4; do
             echo "Render/push attempt $attempt"
             git fetch origin main
             git checkout -B main origin/main
@@ -56,11 +59,20 @@ jobs:
               exit 0
             fi
             git commit -m "Render travel carousel assets [skip ci]"
-            if git push origin HEAD:main; then
-              echo "All updated assets committed."
-              exit 0
-            fi
-            echo "Main changed during render; retrying against latest main."
+            for push_attempt in 1 2 3 4 5 6 7 8; do
+              if git push origin HEAD:main; then
+                echo "All updated assets committed."
+                exit 0
+              fi
+              echo "Push race $push_attempt; rebasing completed render on latest main."
+              git fetch origin main
+              if ! git rebase origin/main; then
+                git rebase --abort || true
+                echo "Rendered files changed upstream; start a fresh render."
+                break
+              fi
+              sleep 2
+            done
           done
-          echo "Could not push rendered assets after retrying."
+          echo "Could not push rendered assets after retrying and rebasing."
           exit 1
