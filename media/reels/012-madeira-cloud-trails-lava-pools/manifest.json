@@ -4,12 +4,12 @@
   "video": "reel.mp4",
   "cover": "cover.jpg",
   "source_brief": "content/reels/012-madeira-cloud-trails-lava-pools.json",
-  "brief_sha256": "522ad71bb4c6f06c315126afa189511f7f82f7789b7c808ca341a2cdccd69c3e",
-  "video_sha256": "a6f12dee2983b867606340bb83e4ae24378dd9db4b2a5bae8d8675a3d40fe50c",
+  "brief_sha256": "4666323a459a0ef63e41ba1fbc3d2ae360942831003fbbc82a113f10c0949fb0",
+  "video_sha256": "6b6f1aff8404249770c95132c9a1becf346e7593117f38cc115d2a905e04c969",
   "audio_streams": 0,
   "image_count": 6,
   "duration_seconds": 21.0,
-  "caption": "One Portuguese island. Six landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ponta de São Lourenço — watch sunrise light up Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Jiří Kaloč / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelReels",
+  "caption": "One Portuguese island. Six landscapes that hardly look like they belong together. 🌿\n\n📍 Pico do Arieiro — mountain paths weave high above the clouds.\n📍 Fanal Forest — twisted ancient laurel trees disappear into the mist.\n📍 Seixal — black sand sits beneath the lush north-coast cliffs.\n📍 Risco Waterfall — water drops into deep green forest.\n📍 Porto Moniz — swim in natural pools bordered by volcanic rock.\n📍 Ponta de São Lourenço — follow a sunrise trail on Madeira's wild eastern headland.\n\nWhich scene would you go to first?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Daniel J. Schwarz & Mick Kirchman / Unsplash.\n\n#YourTravelAtlas #Madeira #PortugalTravel #IslandEscapes #TravelReels",
   "images": [
     {
       "source_page": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
@@ -48,22 +48,22 @@
       "location_evidence": "Daniel J. Schwarz' original free Unsplash photo states Risco Waterfall on Madeira, Portugal, depicting a tall waterfall in foggy vegetation."
     },
     {
-      "source_page": "https://unsplash.com/photos/coastal-village-with-natural-pools-meets-the-sea-LSJW4sMUe9g",
-      "photographer": "Jiří Kaloč",
-      "license": "Unsplash License",
-      "subject": "Porto Moniz ocean and natural volcanic pools",
-      "overlay": "PORTO MONIZ — ocean pools carved into lava rock",
-      "source_sha256": "a6ed94f3a6bf7616876882e99edf352172ff5b04158f48506094c41441cd484e",
-      "location_evidence": "Jiří Kaloč's free Unsplash drone photo identifies Porto Moniz, Portugal, and depicts the coastal village and its natural pools beside the ocean."
-    },
-    {
-      "source_page": "https://unsplash.com/photos/the-sun-is-setting-over-the-ocean-and-rocks-zq_wTHSFV0g",
+      "source_page": "https://unsplash.com/photos/aerial-photo-of-resort-flZelXXk9os",
       "photographer": "Colin Watts",
       "license": "Unsplash License",
-      "subject": "Ponta de São Lourenço sunrise coast",
-      "overlay": "SÃO LOURENÇO — sunrise over wild coastal cliffs",
-      "source_sha256": "72216cce0888da25dd6369033e49d5def744f8e52aa0562007a3778726a4315f",
-      "location_evidence": "The original free Unsplash photo by Colin Watts labels a dramatic sunrise over Ponta de São Lourenço, Madeira, Portugal."
+      "subject": "Porto Moniz lava swimming pools, Madeira",
+      "overlay": "PORTO MONIZ — swim beside Atlantic lava-rock pools",
+      "source_sha256": "f99dd448234faa67df9950db007f6c65e8b7eb5d070bff98b00e78d65fd70161",
+      "location_evidence": "Colin Watts' original free Unsplash photograph identifies an aerial view down onto the lava swimming pools of Porto Moniz on Madeira, Portugal; licence is Unsplash License."
+    },
+    {
+      "source_page": "https://unsplash.com/photos/a-person-walking-up-a-path-in-the-mountains-tG-JFUefAyM",
+      "photographer": "Mick Kirchman",
+      "license": "Unsplash License",
+      "subject": "Ponta de São Lourenço coastal hike at sunrise",
+      "overlay": "SÃO LOURENÇO — coastal trails at first light",
+      "source_sha256": "7154d10e0e5050eefeea848aa65a184508512ff704654c697f3a7f953d0c516e",
+      "location_evidence": "Mick Kirchman's original free Unsplash photo identifies a sunrise hiking trail at Ponta de São Lourenço, Caniçal, Portugal, showing a walker in mountain terrain."
     }
   ]
 }
