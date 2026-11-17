@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "3240d0e209da4043d98d48e17f3cea68adbd6412e6266122d8968509788ed39c",
-  "caption": "Seven mountain views you can enjoy without hiking to a summit. 🏔️\n\nIt's not always about the climb — sometimes the railway, cable car or lakeside journey is the best part.\n\n📍 Seceda, Italy — arrive by cable car to the jagged Dolomite ridgeline.\n📍 Gornergrat, Switzerland — ride a mountain train towards the Matterhorn.\n📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.\n📍 Aiguille du Midi, France — take the cable car high above Chamonix.\n📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.\n📍 Lake Bled, Slovenia — an island church framed by dramatic sunset mountains.\n📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.\n\nWhich one would you go for?\n\nPhotos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites",
+  "brief_sha256": "895e241129569bbd8b4e986bdcbb050650273a5c74b25e334a6d107819c44326",
+  "caption": "Seven mountain views you can enjoy without hiking to a summit. 🏔️\n\nIt's not always about the climb — sometimes the railway, cable car or lakeside journey is the best part.\n\n📍 Seceda, Italy — arrive by cable car to the jagged Dolomite ridgeline.\n📍 Gornergrat, Switzerland — ride a mountain train towards the Matterhorn.\n📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.\n📍 Aiguille du Midi, France — take the cable car high above Chamonix.\n📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.\n📍 Lake Bled, Slovenia — the island church reflects below the Julian Alps at dawn.\n📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.\n\nWhich one would you go for?\n\nPhotos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Haonan Wei & Daniel Seßler / Unsplash.\n\n#YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites",
   "fact_sources": [
     "https://unsplash.com/photos/a-mountain-with-a-grassy-field-below-it-pCuJuy7Ic5c",
     "https://www.valgardena.it/en/summer-holidays-dolomites/trekking/seceda/the-way-to-the-seceda/",
@@ -21,7 +21,9 @@
     "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
     "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
     "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244",
-    "https://www.hallstatt.net/"
+    "https://www.hallstatt.net/",
+    "https://unsplash.com/photos/lake-with-island-church-and-distant-mountains-at-sunrise-tgGaBnsH7Cg",
+    "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/bled"
   ],
   "editorial_intent": "Inspire travellers with seven memorable actual mountain vistas attainable by rail, cable car or at a lakeside, without trekking up a mountain summit; never imply step-free access.",
   "share_reason": "A saveable international collection of dramatic cable-car panoramas, memorable mountain railways, emerald lakes and Alpine villages.",
@@ -162,30 +164,30 @@
       ]
     },
     {
-      "subject": "Lake Bled sunrise",
-      "source_page": "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
-      "photographer": "Robert Hrovat",
+      "subject": "Lake Bled island church clearly reflected with dramatic Julian Alps at sunrise, Slovenia",
+      "source_page": "https://unsplash.com/photos/lake-with-island-church-and-distant-mountains-at-sunrise-tgGaBnsH7Cg",
+      "photographer": "Haonan Wei",
       "license": "Unsplash License",
-      "alt": "Sunrise over turquoise Lake Bled and its island church in Slovenia",
-      "activity_source": "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/",
+      "alt": "Lake Bled island church with red-roofed chapel and church tower, reflected in the lake below snowy Julian Alps at sunrise",
+      "activity_source": "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/bled",
       "file": "06.jpg",
-      "source_sha256": "b53d964bc6fecabfd0fb3d1093dfcf0fa6faddc579712a447ceccab72301caa4",
-      "output_sha256": "fbe7aef696f7102a831210e7ca1f57f2ef4b05f754aeddec29cbb5a8836f2ee8",
+      "source_sha256": "a15e8dc71875a4a00bde38217d67e899f3fe6821386b633fa334e7f5db668506",
+      "output_sha256": "c03f3eaf323cbec38cce2e54f5a1ec8ef2c3d6aa8a6908b5ffff25ecb392b645",
       "size": [
         1080,
         1350
       ],
       "layout": "photo",
-      "body": "An island church set against hazy mountain layers at sunset.",
+      "body": "See the island church reflected in still water beneath the Julian Alps.",
       "review": {
-        "reader_value": "A distinctive real travel moment in Lake Bled, giving the reader a saveable way to enjoy dramatic mountain scenery without climbing a summit.",
-        "image_context": "The photographer's original free Unsplash photograph identifies the depicted Lake Bled location and the actual landscape visible in the frame.",
-        "specific_detail": "Official tourism and railway information supports the destination access claim and distinguishes an accessible viewpoint from a technical summit hike.",
-        "distinct_contribution": "Lake Bled offers a different arrival or viewpoint experience within a coherent mountains-without-summit-hikes editorial collection."
+        "reader_value": "The recognisable island church and mountain backdrop are now unmistakable, fulfilling the explicit visual promise of the slide and improving colour and recognisability.",
+        "image_context": "Original free Unsplash image photographed by Haonan Wei at Lake Bled, Slovenia, published 21 October 2025. It clearly depicts the church island under alpine peaks at dawn.",
+        "specific_detail": "Church of the Assumption of Mary sits on an island in Lake Bled, beneath the Julian Alps; original image places the church visibly in the frame.",
+        "distinct_contribution": "A distinctive historic church island among the green-blue alpine lakes and mountains, different from rail and cable-car scenes."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
-        "https://www.bled.si/en/what-to-see-do/attractions/1/lake-bled/"
+        "https://unsplash.com/photos/lake-with-island-church-and-distant-mountains-at-sunrise-tgGaBnsH7Cg",
+        "https://www.slovenia.info/en/places-to-go/regions/alpine-slovenia/bled"
       ]
     },
     {
@@ -225,7 +227,7 @@
         "https://unsplash.com/photos/mountain-lake-reflecting-rocky-peaks-SfRzxgyNtgM",
         "https://unsplash.com/photos/cable-car-ascending-aiguille-du-midi-AZg1QGLB7HA",
         "https://unsplash.com/photos/mountain-train-at-lake-station-vfPJaeT5mWg",
-        "https://unsplash.com/photos/a-lake-surrounded-by-mountains-7AILo0dLm2g",
+        "https://unsplash.com/photos/lake-with-island-church-and-distant-mountains-at-sunrise-tgGaBnsH7Cg",
         "https://unsplash.com/photos/a-town-by-a-lake-XK89IwEo244"
       ],
       "output_sha256": "e66a3b81e2c6bace7bcce6d2f045f93f0188b2754b96264c949fd9a3683ce2c1",

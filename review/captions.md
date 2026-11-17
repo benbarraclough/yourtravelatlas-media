@@ -157,12 +157,12 @@ It's not always about the climb — sometimes the railway, cable car or lakeside
 📍 Lago di Braies, Italy — turquoise water beneath enormous limestone walls.
 📍 Aiguille du Midi, France — take the cable car high above Chamonix.
 📍 Schafberg, Austria — a red cog railway with lakes and peaks all around.
-📍 Lake Bled, Slovenia — an island church framed by dramatic sunset mountains.
+📍 Lake Bled, Slovenia — the island church reflects below the Julian Alps at dawn.
 📍 Hallstatt, Austria — mountain reflections along a beautiful lakeside town.
 
 Which one would you go for?
 
-Photos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Robert Hrovat & Daniel Seßler / Unsplash.
+Photos: Fabrizio Coco, Cedric Letsch, Sarmat Batagov, Mylène Haudebourg, Shalev Cohen, Haonan Wei & Daniel Seßler / Unsplash.
 
 #YourTravelAtlas #MountainTravel #EuropeTravel #ScenicRailways #Dolomites
 
@@ -217,20 +217,22 @@ Photos: Dylan Shaw, Da-shika, Marianne Gay, Jametlene Reskp, Rogério Toledo, Il
 
 #YourTravelAtlas #WinterTravel #SnowyEscapes #TravelInspiration
 
-## An Island of Cloud Trails and Lava Pools
+## Madeira's Cloud Peaks & Lava Pools
 
-Madeira is an island of contrasts: mountain stairs above the clouds, ancient forests in the mist and pools carved into lava rock. 🇵🇹
+Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed volcanic pools are all on one island. 🇵🇹
 
-📍 Pico do Arieiro — follow stone steps along a dramatic mountain ridge.
-📍 Fanal Forest — wander between centuries-old laurel trees.
-📍 Seixal — black sand sits beneath towering green north-coast cliffs.
-📍 Santana — discover colourful triangular cottages with thatched roofs.
-📍 Risco Waterfall — find a slender cascade among lush mountain slopes.
-📍 Porto Moniz — swim in natural Atlantic-fed lava-rock pools.
-📍 Ponta de São Lourenço — explore the rugged eastern peninsula on foot.
-📍 Ribeira da Janela — see jagged sea stacks rise from the Atlantic.
+📍 Pico do Areeiro — take in dramatic cloud-top mountain views from the viewpoint.
+📍 Fanal Forest — wander among ancient laurel trees in the mist.
+📍 Seixal — black sand beneath towering green cliffs.
+📍 Santana — discover colourful thatched triangular cottages.
+📍 Risco Waterfall — find a slender cascade on a lush mountain slope.
+📍 Porto Moniz — swim in Atlantic-fed pools formed in volcanic rock.
+📍 Ponta de São Lourenço — explore the wild eastern headland on foot.
+📍 Ribeira da Janela — spot jagged sea stacks rising from the Atlantic.
 
-Which scene would make you book Madeira?
+The famous PR1 Areeiro ridge trail is currently marked closed (checked November 2026). Madeira's classified walks require advance booking: check the official Visit Madeira trail status before hiking.
+
+Which scene would make you visit Madeira?
 
 Photos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.
 
@@ -242,7 +244,7 @@ From limestone islands to a cave big enough to camp in, Vietnam has extraordinar
 
 📍 Hạ Long Bay — cruise between towering limestone islands.
 📍 Tràng An, Ninh Bình — glide by boat through river valleys and karst scenery.
-📍 Sa Pa — see terraces cut into the green northern hills.
+📍 Sa Pa — see green-and-gold rice terraces ripple across the mountain slopes.
 📍 Bản Giốc Falls — marvel at tiered waterfalls on the northern border.
 📍 Hang Én Cave — join a guided cave expedition with an unforgettable overnight camp.
 📍 Mã Pí Lèng Pass, Hà Giang — look down into the immense Nho Quế river gorge.
@@ -251,6 +253,6 @@ From limestone islands to a cave big enough to camp in, Vietnam has extraordinar
 
 Would you choose a cave expedition or a night on the lantern-lit river?
 
-Photos: Pierre Bonvalot, Bernd 📷 Dittrich, Daniele Franchi, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.
+Photos: Pierre Bonvalot, Bernd 📷 Dittrich, Huy Nguyen, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.
 
 #YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery

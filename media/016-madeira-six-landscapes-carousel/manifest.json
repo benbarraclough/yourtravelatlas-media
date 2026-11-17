@@ -5,8 +5,8 @@
   "editorial_version": 7,
   "content_type": "discovery",
   "collection_number": null,
-  "brief_sha256": "7d03ce5a2bd27e0100a97ed6d811eab9dcbe94038f2f40287a77f678d2ea027d",
-  "caption": "Madeira is an island of contrasts: mountain stairs above the clouds, ancient forests in the mist and pools carved into lava rock. 🇵🇹\n\n📍 Pico do Arieiro — follow stone steps along a dramatic mountain ridge.\n📍 Fanal Forest — wander between centuries-old laurel trees.\n📍 Seixal — black sand sits beneath towering green north-coast cliffs.\n📍 Santana — discover colourful triangular cottages with thatched roofs.\n📍 Risco Waterfall — find a slender cascade among lush mountain slopes.\n📍 Porto Moniz — swim in natural Atlantic-fed lava-rock pools.\n📍 Ponta de São Lourenço — explore the rugged eastern peninsula on foot.\n📍 Ribeira da Janela — see jagged sea stacks rise from the Atlantic.\n\nWhich scene would make you book Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
+  "brief_sha256": "3c6163a3fe5a13aa2193f91167923783f46b7cd8fd6497966f5af2ca9972640d",
+  "caption": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed volcanic pools are all on one island. 🇵🇹\n\n📍 Pico do Areeiro — take in dramatic cloud-top mountain views from the viewpoint.\n📍 Fanal Forest — wander among ancient laurel trees in the mist.\n📍 Seixal — black sand beneath towering green cliffs.\n📍 Santana — discover colourful thatched triangular cottages.\n📍 Risco Waterfall — find a slender cascade on a lush mountain slope.\n📍 Porto Moniz — swim in Atlantic-fed pools formed in volcanic rock.\n📍 Ponta de São Lourenço — explore the wild eastern headland on foot.\n📍 Ribeira da Janela — spot jagged sea stacks rising from the Atlantic.\n\nThe famous PR1 Areeiro ridge trail is currently marked closed (checked November 2026). Madeira's classified walks require advance booking: check the official Visit Madeira trail status before hiking.\n\nWhich scene would make you visit Madeira?\n\nPhotos: Samielle Støyl, Colin Watts, Julia Schuwer, Markus Kammermann, Daniel J. Schwarz, Mick Kirchman & Reinaldo Photography / Unsplash.\n\n#YourTravelAtlas #Madeira #VisitMadeira #PortugalTravel #IslandEscapes",
   "fact_sources": [
     "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
     "https://unsplash.com/photos/a-group-of-trees-that-are-in-the-grass-M_kVR1CzdwM",
@@ -17,7 +17,10 @@
     "https://unsplash.com/photos/a-house-with-a-thatched-roof-and-a-flower-garden-in-front-of-it-JCGYybfFAjo",
     "https://unsplash.com/photos/a-large-body-of-water-surrounded-by-mountains-IhWX0iZIbTc",
     "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz/",
-    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/"
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/fanal/",
+    "https://www.visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/",
+    "https://visitmadeira.com/en/where-to-go/madeira/north-coast/porto-moniz/natural-pools-of-porto-moniz",
+    "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/"
   ],
   "editorial_intent": "Replace the prohibited 012-madeira-cloud-trails-lava-pools moving-zoom slideshow with a manually swipeable, source-verified 4:5 original-photo carousel, making the locations clear, distinct and shareable.",
   "share_reason": "A concise real-photo collection of varied striking locations that travellers can save and explore at their own pace without an artificial photo-video edit.",
@@ -31,21 +34,22 @@
       "activity_source": "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
       "file": "01.jpg",
       "source_sha256": "20e6438f8eb063b95f041a6db24c8d917febecb66cba73d5ee0dba029a1fc5df",
-      "output_sha256": "fc37644f5da35a0a765fc2e53c071270cd55869e8ad6c130732065083612375e",
+      "output_sha256": "59783c5dca5a94adf0ed33ad1f4d91b49a5525b1e21dd0ea447194d1a0d723a2",
       "size": [
         1080,
         1350
       ],
       "layout": "cover",
-      "body": "Follow steep mountain stairs along Madeira's dramatic cloud-top ridge.",
+      "body": "Above the clouds: a stunning viewpoint over the central peaks.",
       "review": {
         "reader_value": "Pico do Arieiro ridgeline, Madeira is a memorable, specific and original travel scene; the page explains the reason it is worth saving or visiting.",
         "image_context": "The original free Unsplash photo by Samielle Støyl identifies Madeira Portugal, tagged Pico do Arieiro, and depicts stairs threading a steep cloud-topped ridge.",
-        "specific_detail": "The scene is grounded in the original photographer's caption and destination description, with no fabricated location or access promises.",
+        "specific_detail": "The photograph shows Madeira's iconic Pico do Areeiro mountain terrain and steps. Official Madeira hiking status on 17 November 2026 marks trail PR1 Vereda do Areeiro CLOSED, so the post must promote the viewpoint and not hiking the closed ridge.",
         "distinct_contribution": "This scene adds a different real visual experience and subject from the other stops in the collection, not a recycled photograph."
       },
       "fact_checks": [
-        "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw"
+        "https://unsplash.com/photos/steep-mountain-ridge-with-stairs-piercing-clouds-ggFBn5NPoRw",
+        "https://visitmadeira.com/en/what-to-do/nature-seekers/activities/hiking/pr-1-vereda-do-areeiro/"
       ]
     },
     {
