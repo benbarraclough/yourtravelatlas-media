@@ -1,0 +1,16 @@
+{
+  "issue": 28,
+  "slug": "028-seven-rainforest-walks",
+  "brief_sha256": "7e0944c4a5e98e49b2cb944411bd08eb2ac2765b671ace9768a03080da359968",
+  "caption_sha256": "fdf81512620099eaaaef77ec47e6c591cc6c7ad48f81311b4176ed933a4e0888",
+  "image_sha256": {
+    "media/028-seven-rainforest-walks/01.jpg": "8348743633847ced87fd0052b0f25e3ba5853c93373dd6848f6b2b04358182d6",
+    "media/028-seven-rainforest-walks/02.jpg": "e0b9bfe57f1a9b7185aa96187f76785714e6bdc5a5f57a71ed2f6b5668df8beb",
+    "media/028-seven-rainforest-walks/03.jpg": "d4b2f885bd14ec0f240fcd6f3e73d32ac5b1e62aa226452e169668953cacdd0e",
+    "media/028-seven-rainforest-walks/04.jpg": "5f6159e58a8d2fc946981ce71ab1b6804d0221fda06e2064c0202a4f65ed57dd",
+    "media/028-seven-rainforest-walks/05.jpg": "0defd4f2b4d65aa6c7b67669f36d8415bf606ccc59e26d1120a19cc1f25c00f8",
+    "media/028-seven-rainforest-walks/06.jpg": "cd7a9e648531238ac54d69d5d76e2d9ae7f10797ca41b02fa19ffc1434b6c543",
+    "media/028-seven-rainforest-walks/07.jpg": "8f1762e0acbdfd5a635ab5cdb39d6d0e9ac75cfceec37f86fa0e4ea48c869e3d",
+    "media/028-seven-rainforest-walks/08.jpg": "c9a87b5f4b2b3f40ce0356bf16d6c881865c75cb871138ea2c2d52da11e68125"
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "issue": 28,
+  "slug": "028-seven-rainforest-walks",
+  "status": "rendered-not-published",
+  "editorial_version": 7,
+  "content_type": "discovery",
+  "collection_number": null,
+  "brief_sha256": "7e0944c4a5e98e49b2cb944411bd08eb2ac2765b671ace9768a03080da359968",
+  "caption": "Imagine walking into a world of giant trees, birdsong and mist. 🌿\n\n📍 Monteverde, Costa Rica — Cross hanging bridges into the mist of a tropical cloud forest.\n📍 Daintree, Australia — Follow boardwalks through the ancient tropical rainforest.\n📍 Sepilok, Malaysian Borneo — Walk at canopy height and watch for hornbills among the treetops.\n📍 Amazon, Peru — Join a lodge excursion into the Amazon's treetop walkways.\n📍 Sinharaja, Sri Lanka — Explore the forest trails with a local guide, listening for endemic birds.\n📍 Khao Sok, Thailand — Trek into dense evergreen forest with a local guide.\n📍 Bwindi, Uganda — Follow forest trails or book a permitted guided gorilla trek.\n\nSave this for your next adventure. Some walks require a guide or advance booking; wildlife sightings are never guaranteed.\n\nPhotos / Wikimedia Commons: Unidancom (Monteverde, CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/); dronepicr (Daintree) and Jason Hollinger (ACTS Canopy Walkway), CC BY 2.0 https://creativecommons.org/licenses/by/2.0/; Vyacheslav Argenberg (Khao Sok), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/; Josefito123 (Sepilok), Jaygayani (Sinharaja), Ugpics (100 foot tree), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. Cropped, resized, text added; adapted slides and closing composition CC BY-SA 4.0. Full source links: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/posts/028-seven-rainforest-walks.json\n\n#YourTravelAtlas #Rainforest #JungleAdventure #NatureTravel #AdventureTravel",
+  "fact_sources": [
+    "https://commons.wikimedia.org/wiki/File:Monteverde_hanging_bridges.jpg",
+    "https://www.selvatura.com/tours/treetop-walkways-suspension-bridges/",
+    "https://commons.wikimedia.org/wiki/File:Daintree_rainforest_-_Regenwald_%2822559448014%29.jpg",
+    "https://parks.qld.gov.au/parks/daintree/journeys/madja-boardwalk",
+    "https://commons.wikimedia.org/wiki/File:Rainforest_Discovery_Centre_Sepilok_20190707_064518.jpg",
+    "https://sabahtourism.com/destination/rainforest-discovery-centre-rdc/?locale=en",
+    "https://commons.wikimedia.org/wiki/File:ACTS_Canopy_Walkway_-_Flickr_-_pellaea.jpg",
+    "https://www.explorama.com/canopy-walkway.html",
+    "https://commons.wikimedia.org/wiki/File:Sinharaja_rainforest.jpg",
+    "https://www.srilanka.travel/wildlife-nature",
+    "https://commons.wikimedia.org/wiki/File:Khao_Sok_primary_tropical_rainforest%2C_southern_Thailand.jpg",
+    "https://www.tourismthailand.org/Articles/10-things-to-do-in-suratthani",
+    "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg",
+    "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/"
+  ],
+  "editorial_intent": "Test an immersive activity-first theme across seven countries; help readers identify real rainforest walks, canopy experiences and guided adventures.",
+  "share_reason": "A practical shortlist of named rainforest experiences across several continents, to save or share for future adventures.",
+  "slides": [
+    {
+      "subject": "Monteverde, Costa Rica rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Monteverde_hanging_bridges.jpg",
+      "photographer": "Unidancom",
+      "license": "CC0 1.0",
+      "alt": "Hanging bridge in the Monteverde forest",
+      "activity_source": "https://www.selvatura.com/tours/treetop-walkways-suspension-bridges/",
+      "file": "01.jpg",
+      "source_sha256": "328443061bfab606ca9354dfe780e11fdf170dcbf7026948b737792bb1a30ee0",
+      "output_sha256": "8348743633847ced87fd0052b0f25e3ba5853c93373dd6848f6b2b04358182d6",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "cover",
+      "body": "Cross hanging bridges into the mist of a tropical cloud forest.",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "credit_line": "Unidancom / Wikimedia Commons / CC0 1.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Cross hanging bridges into the mist of a tropical cloud forest. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "A bridge into the cloud forest provides a strong opening and a specific walking experience."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Monteverde_hanging_bridges.jpg",
+        "https://www.selvatura.com/tours/treetop-walkways-suspension-bridges/"
+      ]
+    },
+    {
+      "subject": "Daintree, Australia rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Daintree_rainforest_-_Regenwald_%2822559448014%29.jpg",
+      "photographer": "dronepicr",
+      "license": "CC BY 2.0",
+      "alt": "Daintree National Park rainforest",
+      "activity_source": "https://parks.qld.gov.au/parks/daintree/journeys/madja-boardwalk",
+      "file": "02.jpg",
+      "source_sha256": "8de28b893be9a52289c223f13b3ab02dc7b0c39bdc2c4442393477fbd962cca8",
+      "output_sha256": "e0b9bfe57f1a9b7185aa96187f76785714e6bdc5a5f57a71ed2f6b5668df8beb",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Follow boardwalks through the ancient tropical rainforest.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit_line": "dronepicr / Wikimedia Commons / CC BY 2.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Follow boardwalks through the ancient tropical rainforest. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "A ground-level forest experience in Australia, distinct from the opening canopy bridge."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Daintree_rainforest_-_Regenwald_%2822559448014%29.jpg",
+        "https://parks.qld.gov.au/parks/daintree/journeys/madja-boardwalk"
+      ]
+    },
+    {
+      "subject": "Sepilok, Malaysian Borneo rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rainforest_Discovery_Centre_Sepilok_20190707_064518.jpg",
+      "photographer": "Josefito123",
+      "license": "CC BY-SA 4.0",
+      "alt": "Rainforest Discovery Centre in Sepilok",
+      "activity_source": "https://sabahtourism.com/destination/rainforest-discovery-centre-rdc/?locale=en",
+      "file": "03.jpg",
+      "source_sha256": "13049d69720a9f9c2616bab30eb9efd7d77ca8d8296720823778e6b6558c62c0",
+      "output_sha256": "d4b2f885bd14ec0f240fcd6f3e73d32ac5b1e62aa226452e169668953cacdd0e",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Walk at canopy height and watch for hornbills among the treetops.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Josefito123 / Wikimedia Commons / CC BY-SA 4.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Walk at canopy height and watch for hornbills among the treetops. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "An elevated forest walk with opportunities to watch canopy-dwelling birds."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Rainforest_Discovery_Centre_Sepilok_20190707_064518.jpg",
+        "https://sabahtourism.com/destination/rainforest-discovery-centre-rdc/?locale=en"
+      ]
+    },
+    {
+      "subject": "Amazon, Peru rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:ACTS_Canopy_Walkway_-_Flickr_-_pellaea.jpg",
+      "photographer": "Jason Hollinger",
+      "license": "CC BY 2.0",
+      "alt": "View from the ACTS canopy walkway in Peru",
+      "activity_source": "https://www.explorama.com/canopy-walkway.html",
+      "file": "04.jpg",
+      "source_sha256": "d1e2f59f2eac2680f3a4c9aae41f919db91059cd1bf824b9a430c9211af06a53",
+      "output_sha256": "5f6159e58a8d2fc946981ce71ab1b6804d0221fda06e2064c0202a4f65ed57dd",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Join a lodge excursion into the Amazon's treetop walkways.",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit_line": "Jason Hollinger / Wikimedia Commons / CC BY 2.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Join a lodge excursion into the Amazon's treetop walkways. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "An immersive Amazon experience accessed through a rainforest lodge."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:ACTS_Canopy_Walkway_-_Flickr_-_pellaea.jpg",
+        "https://www.explorama.com/canopy-walkway.html"
+      ]
+    },
+    {
+      "subject": "Sinharaja, Sri Lanka rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sinharaja_rainforest.jpg",
+      "photographer": "Jaygayani",
+      "license": "CC BY-SA 4.0",
+      "alt": "Sinharaja forest at the Pitadeniya entrance",
+      "activity_source": "https://www.srilanka.travel/wildlife-nature",
+      "file": "05.jpg",
+      "source_sha256": "17ee44cae2a5516fdb74b8619e4fe17e08f32614078c11c4019dafd371e69cbf",
+      "output_sha256": "0defd4f2b4d65aa6c7b67669f36d8415bf606ccc59e26d1120a19cc1f25c00f8",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Explore the forest trails with a local guide, listening for endemic birds.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Jaygayani / Wikimedia Commons / CC BY-SA 4.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Explore the forest trails with a local guide, listening for endemic birds. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "A different forest ecology and guided ground-level wildlife experience."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Sinharaja_rainforest.jpg",
+        "https://www.srilanka.travel/wildlife-nature"
+      ]
+    },
+    {
+      "subject": "Khao Sok, Thailand rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Khao_Sok_primary_tropical_rainforest%2C_southern_Thailand.jpg",
+      "photographer": "Vyacheslav Argenberg",
+      "license": "CC BY 4.0",
+      "alt": "Primary tropical rainforest of Khao Sok",
+      "activity_source": "https://www.tourismthailand.org/Articles/10-things-to-do-in-suratthani",
+      "file": "06.jpg",
+      "source_sha256": "2b362aa9dcb0eaf5a5492a4c72591be16d0a7037df7937fd9f7244efac147286",
+      "output_sha256": "cd7a9e648531238ac54d69d5d76e2d9ae7f10797ca41b02fa19ffc1434b6c543",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Trek into dense evergreen forest with a local guide.",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "credit_line": "Vyacheslav Argenberg / Wikimedia Commons / CC BY 4.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Trek into dense evergreen forest with a local guide. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "A lush Southeast Asian landscape with a distinct guided trekking experience."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Khao_Sok_primary_tropical_rainforest%2C_southern_Thailand.jpg",
+        "https://www.tourismthailand.org/Articles/10-things-to-do-in-suratthani"
+      ]
+    },
+    {
+      "subject": "Bwindi, Uganda rainforest",
+      "source_page": "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg",
+      "photographer": "Ugpics",
+      "license": "CC BY-SA 4.0",
+      "alt": "Towering trees of Bwindi Impenetrable Forest",
+      "activity_source": "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
+      "file": "07.jpg",
+      "source_sha256": "b38a8880bb7bdcc848f5764c2a20094446f88d69a9b33601dad21bf26c531db8",
+      "output_sha256": "8f1762e0acbdfd5a635ab5cdb39d6d0e9ac75cfceec37f86fa0e4ea48c869e3d",
+      "size": [
+        1080,
+        1350
+      ],
+      "layout": "photo",
+      "body": "Follow forest trails or book a permitted guided gorilla trek.",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Ugpics / Wikimedia Commons / CC BY-SA 4.0",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "review": {
+        "reader_value": "Follow forest trails or book a permitted guided gorilla trek. This is a real experience to consider when planning a trip.",
+        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "A forest walk in Africa with an optional conservation-led primate experience."
+      },
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg",
+        "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/"
+      ]
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Fill your feed with wonder",
+      "file": "08.jpg",
+      "source_pages": [
+        "https://commons.wikimedia.org/wiki/File:Monteverde_hanging_bridges.jpg",
+        "https://commons.wikimedia.org/wiki/File:Daintree_rainforest_-_Regenwald_%2822559448014%29.jpg",
+        "https://commons.wikimedia.org/wiki/File:Rainforest_Discovery_Centre_Sepilok_20190707_064518.jpg",
+        "https://commons.wikimedia.org/wiki/File:ACTS_Canopy_Walkway_-_Flickr_-_pellaea.jpg",
+        "https://commons.wikimedia.org/wiki/File:Sinharaja_rainforest.jpg",
+        "https://commons.wikimedia.org/wiki/File:Khao_Sok_primary_tropical_rainforest%2C_southern_Thailand.jpg",
+        "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg"
+      ],
+      "output_sha256": "c9a87b5f4b2b3f40ce0356bf16d6c881865c75cb871138ea2c2d52da11e68125",
+      "size": [
+        1080,
+        1350
+      ],
+      "rights": "Recomposed only from earlier licensed photographs in the same carousel"
+    }
+  ]
+}
