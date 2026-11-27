@@ -1,0 +1,222 @@
+{
+  "issue": 27,
+  "slug": "027-sao-miguel-volcanic-island",
+  "category": "PORTUGAL / AZORES",
+  "cover_country": "PORTUGAL · AZORES",
+  "headline": "This Portuguese island is a world of volcanoes",
+  "dek": "Crater lakes, Atlantic cliffs and tea fields",
+  "content_type": "discovery",
+  "strategy": "specific_volcanic_island_discovery",
+  "editorial_version": 7,
+  "editorial_status": "production_pending_QA",
+  "public_numbers": false,
+  "no_cta": true,
+  "format": "volcanic-island-experience-carousel",
+  "effort_level": "varied",
+  "editorial_intent": "Tell one coherent volcanic island story; test a specific country-led discovery hook against recent generic landscape lists.",
+  "reader_scenario": "Travellers seeking a future nature-focused island trip.",
+  "share_reason": "Seven distinctive named stops that form a practical starting point for a São Miguel holiday.",
+  "slide_count_rationale": "Seven geographically distinct scenes plus required brand card; improve any dull candidate or crop before booking. Brand ending uses slides 1, 4 and 7, none share-alike.",
+  "caption": "A volcanic island in the Atlantic, with a crater lagoon offshore and steaming ground inland. 🇵🇹\n\n📍 Vila Franca do Campo — A volcanic islet hides an almost circular lagoon just offshore.\n📍 Sete Cidades — Look across twin crater lakes from the Vista do Rei viewpoint.\n📍 Gorreana — Walk between sculpted rows of tea bushes on the island's north coast.\n📍 Lagoa do Fogo — Look into a mountain crater filled with clear water and steep green slopes.\n📍 Ribeira dos Caldeirões — Follow paths through a lush waterfall park in the island's northeast.\n📍 Ponta do Sossego — Find a clifftop lookout above the Atlantic on the island's eastern edge.\n📍 Furnas — Watch steam rise from volcanic ground in a geothermal valley.\n\nSave São Miguel for a nature-filled island escape. Check seasonal access to the islet before travelling.\n\nPhotos: Luís Eusébio, Colin Watts & Nuno Antunes / Unsplash. Ravi Sarma, “Lagoa do Fogo” / Wikimedia Commons, CC BY 2.0: https://creativecommons.org/licenses/by/2.0/. Jules Verne Times Two / julesvernex2.com (Gorreana tea fields; Ribeira dos Caldeirões Waterfall) and Kritzolina (View from Miradouro da Ponta do Sossego 01) / Wikimedia Commons, CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/. Cropped, resized and text added; adapted CC BY-SA slides licensed CC BY-SA 4.0.\n\n#YourTravelAtlas #Azores #SaoMiguel #PortugalTravel #IslandAdventure",
+  "slides": [
+    {
+      "layout": "cover",
+      "heading": "Vila Franca do Campo",
+      "body": "A volcanic islet hides an almost circular lagoon just offshore.",
+      "image_url": "https://images.unsplash.com/photo-1521904179978-3bb04b1ec20a?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/0PyDdA6RmDc",
+      "photographer": "Luís Eusébio",
+      "license": "Unsplash License",
+      "subject": "Vila Franca do Campo on São Miguel",
+      "alt": "Aerial view of circular volcanic islet surrounded by Atlantic water",
+      "activity_source": "https://www.visitportugal.com/en/content/sao-miguel-the-green-island",
+      "fact_checks": [
+        "https://unsplash.com/photos/0PyDdA6RmDc",
+        "https://www.visitportugal.com/en/content/sao-miguel-the-green-island"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "A volcanic islet hides an almost circular lagoon just offshore. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "This is the dramatic opening image for a genuinely unusual island experience."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Sete Cidades",
+      "body": "Look across twin crater lakes from the Vista do Rei viewpoint.",
+      "image_url": "https://images.unsplash.com/photo-1734860432376-36cb65b4c473?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/a-scenic-view-of-a-lake-surrounded-by-mountains-7boBAYyaVmM",
+      "photographer": "Colin Watts",
+      "license": "Unsplash License",
+      "subject": "Sete Cidades on São Miguel",
+      "alt": "Panoramic view of the volcanic lakes of Sete Cidades",
+      "activity_source": "https://www.visitportugal.com/en/destinos/acores/73816",
+      "fact_checks": [
+        "https://unsplash.com/photos/a-scenic-view-of-a-lake-surrounded-by-mountains-7boBAYyaVmM",
+        "https://www.visitportugal.com/en/destinos/acores/73816"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Look across twin crater lakes from the Vista do Rei viewpoint. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "A second distinctive crater landscape, framed by green ridgelines rather than ocean."
+      }
+    },
+    {
+      "layout": "photo",
+      "heading": "Gorreana",
+      "body": "Walk between sculpted rows of tea bushes on the island's north coast.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Gorreana_tea_fields%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gorreana_tea_fields,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+      "photographer": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "subject": "Gorreana on São Miguel",
+      "alt": "Terraced green tea fields with cloudy sky",
+      "activity_source": "https://www.visitportugal.com/en/destinos/acores/73816",
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Gorreana_tea_fields,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+        "https://www.visitportugal.com/en/destinos/acores/73816"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Walk between sculpted rows of tea bushes on the island's north coast. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "A cultivated landscape and local tea culture contrast with the volcanic lakes."
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Jules Verne Times Two / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:Gorreana_tea_fields,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+      "changes": "Cropped and resized; text overlay added. CC BY-SA slides to be distributed under CC BY-SA 4.0."
+    },
+    {
+      "layout": "photo",
+      "heading": "Lagoa do Fogo",
+      "body": "Look into a mountain crater filled with clear water and steep green slopes.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Lagoa_do_Fogo%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%2823496086766%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lagoa_do_Fogo,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(23496086766).jpg",
+      "photographer": "Ravi Sarma",
+      "license": "CC BY 2.0",
+      "subject": "Lagoa do Fogo on São Miguel",
+      "alt": "Crater lake and steep green slopes of Lagoa do Fogo",
+      "activity_source": "https://www.visitportugal.com/en/content/sao-miguel-the-green-island",
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Lagoa_do_Fogo,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(23496086766).jpg",
+        "https://www.visitportugal.com/en/content/sao-miguel-the-green-island"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Look into a mountain crater filled with clear water and steep green slopes. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "The quieter enclosed crater landscape adds a second perspective on the island's geology."
+      },
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "credit_line": "Ravi Sarma / CC BY 2.0 / https://commons.wikimedia.org/wiki/File:Lagoa_do_Fogo,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(23496086766).jpg",
+      "changes": "Cropped and resized; text overlay added. CC BY-SA slides to be distributed under CC BY-SA 4.0."
+    },
+    {
+      "layout": "photo",
+      "heading": "Ribeira dos Caldeirões",
+      "body": "Follow paths through a lush waterfall park in the island's northeast.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ribeira_dos_Caldeir%C3%B5es_Waterfall%2C_S%C3%A3o_Miguel_Island%2C_Azores%2C_Portugal_%28PPL1-Corrected%29.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Ribeira_dos_Caldeir%C3%B5es_Waterfall,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+      "photographer": "Jules Verne Times Two",
+      "license": "CC BY-SA 4.0",
+      "subject": "Ribeira dos Caldeirões on São Miguel",
+      "alt": "Aerial view of waterfall and paths through dense green vegetation",
+      "activity_source": "https://azoresgreenvillas.com/en/visit/",
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:Ribeira_dos_Caldeir%C3%B5es_Waterfall,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+        "https://azoresgreenvillas.com/en/visit/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Follow paths through a lush waterfall park in the island's northeast. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "Waterfall and walking paths introduce an experience beyond the crater viewpoints."
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Jules Verne Times Two / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:Ribeira_dos_Caldeir%C3%B5es_Waterfall,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+      "changes": "Cropped and resized; text overlay added. CC BY-SA slides to be distributed under CC BY-SA 4.0."
+    },
+    {
+      "layout": "photo",
+      "heading": "Ponta do Sossego",
+      "body": "Find a clifftop lookout above the Atlantic on the island's eastern edge.",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/View_from_Miradouro_da_Ponta_do_Sossego_01.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_da_Ponta_do_Sossego_01.jpg",
+      "photographer": "Kritzolina",
+      "license": "CC BY-SA 4.0",
+      "subject": "Ponta do Sossego on São Miguel",
+      "alt": "Atlantic coastline beneath cloud-wrapped green cliffs from Ponta do Sossego",
+      "activity_source": "https://azoresatlas.com/azores/sao-miguel/",
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_da_Ponta_do_Sossego_01.jpg",
+        "https://azoresatlas.com/azores/sao-miguel/"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Find a clifftop lookout above the Atlantic on the island's eastern edge. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "The coastal scene offers an atmospheric contrast to the island's interior."
+      },
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "Kritzolina / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:View_from_Miradouro_da_Ponta_do_Sossego_01.jpg",
+      "changes": "Cropped and resized; text overlay added. CC BY-SA slides to be distributed under CC BY-SA 4.0."
+    },
+    {
+      "layout": "photo",
+      "heading": "Furnas",
+      "body": "Watch steam rise from volcanic ground in a geothermal valley.",
+      "image_url": "https://images.unsplash.com/photo-1557758820-ce2c887c678e?auto=format&fit=crop&w=2500&q=85",
+      "source_page": "https://unsplash.com/photos/aerial-photo-of-body-of-water-xa-8NfgEvM8",
+      "photographer": "Nuno Antunes",
+      "license": "Unsplash License",
+      "subject": "Furnas on São Miguel",
+      "alt": "Aerial photograph of geothermal features in Furnas, São Miguel",
+      "activity_source": "https://www.visitportugal.com/en/destinos/acores/73816",
+      "fact_checks": [
+        "https://unsplash.com/photos/aerial-photo-of-body-of-water-xa-8NfgEvM8",
+        "https://www.visitportugal.com/en/destinos/acores/73816"
+      ],
+      "focus_x": 0.5,
+      "focus_y": 0.5,
+      "review": {
+        "reader_value": "Watch steam rise from volcanic ground in a geothermal valley. This is a specific stop to save for a future trip.",
+        "image_context": "The original individual asset page identifies the depicted location and the named photographer; finished crop still requires visual QA.",
+        "specific_detail": "The cited tourism source describes this location and supports the named experience; no unverified opening times are claimed.",
+        "distinct_contribution": "Geothermal activity provides a tangible reminder of the island's volcanic origins."
+      }
+    },
+    {
+      "layout": "brand_end",
+      "subject": "Final scenic brand invitation"
+    }
+  ],
+  "fact_sources": [
+    "https://unsplash.com/photos/0PyDdA6RmDc",
+    "https://www.visitportugal.com/en/content/sao-miguel-the-green-island",
+    "https://unsplash.com/photos/a-scenic-view-of-a-lake-surrounded-by-mountains-7boBAYyaVmM",
+    "https://www.visitportugal.com/en/destinos/acores/73816",
+    "https://commons.wikimedia.org/wiki/File:Gorreana_tea_fields,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+    "https://commons.wikimedia.org/wiki/File:Lagoa_do_Fogo,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(23496086766).jpg",
+    "https://commons.wikimedia.org/wiki/File:Ribeira_dos_Caldeir%C3%B5es_Waterfall,_S%C3%A3o_Miguel_Island,_Azores,_Portugal_(PPL1-Corrected).jpg",
+    "https://azoresgreenvillas.com/en/visit/",
+    "https://commons.wikimedia.org/wiki/File:View_from_Miradouro_da_Ponta_do_Sossego_01.jpg",
+    "https://azoresatlas.com/azores/sao-miguel/",
+    "https://unsplash.com/photos/aerial-photo-of-body-of-water-xa-8NfgEvM8"
+  ],
+  "caption_review": "Source pages and author/licence checked; Unsplash binary web retrieval failed; all original downloads, actual visual crop and attribution still must be confirmed. CC BY-SA derivatives require appropriate distribution notice. Do not schedule automatically.",
+  "editorial_verdict": "Render candidate only; pending actual output inspection and source download QA."
+}
