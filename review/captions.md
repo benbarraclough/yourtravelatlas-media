@@ -276,21 +276,3 @@ Save São Miguel for a nature-filled island escape. Islet access is seasonal; ch
 Photos / Wikimedia Commons: Jules Verne Times Two (julesvernex2.com; Vila Franca Islet, Gorreana tea fields), Gonçalo Torres (Sete Cidades Lagoon), CristianaBPGomes (Lagoa do Fogo Açores), Kritzolina (Ponta do Sossego 01), The Cosmonaut (Fumarolas da Lagoa das Furnas1), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/; jokin.lacalle (Ribeira dos Caldeirões), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. Cropped, resized and text added. All slides and closing composition are CC BY-SA 4.0. Full individual source links: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/posts/027-sao-miguel-volcanic-island.json
 
 #YourTravelAtlas #Azores #SaoMiguel #PortugalTravel #IslandAdventure
-
-## 7 Places to Walk Through a Jungle
-
-Imagine walking into a world of giant trees, birdsong and mist. 🌿
-
-📍 Monteverde, Costa Rica — Cross hanging bridges into the mist of a tropical cloud forest.
-📍 Daintree, Australia — Follow boardwalks through the ancient tropical rainforest.
-📍 Sepilok, Malaysian Borneo — Walk at canopy height and watch for hornbills among the treetops.
-📍 Amazon, Peru — Join a lodge excursion into the Amazon's treetop walkways.
-📍 Sinharaja, Sri Lanka — Explore the forest trails with a local guide, listening for endemic birds.
-📍 Khao Sok, Thailand — Trek into dense evergreen forest with a local guide.
-📍 Bwindi, Uganda — Follow forest trails or book a permitted guided gorilla trek.
-
-Save this for your next adventure. Some walks require a guide or advance booking; wildlife sightings are never guaranteed.
-
-Photos / Wikimedia Commons: Unidancom (Monteverde, CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/); dronepicr (Daintree) and Jason Hollinger (ACTS Canopy Walkway), CC BY 2.0 https://creativecommons.org/licenses/by/2.0/; Vyacheslav Argenberg (Khao Sok), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/; Josefito123 (Sepilok), Jaygayani (Sinharaja), Ugpics (100 foot tree), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. Cropped, resized, text added; adapted slides and closing composition CC BY-SA 4.0. Full source links: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/posts/028-seven-rainforest-walks.json
-
-#YourTravelAtlas #Rainforest #JungleAdventure #NatureTravel #AdventureTravel
