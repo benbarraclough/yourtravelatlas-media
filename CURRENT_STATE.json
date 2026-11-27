@@ -1,5 +1,5 @@
 {
-  "snapshot_date": "2026-11-17 final seven-post triple quality audit",
+  "snapshot_date": "2026-11-27 live queue and performance recovery",
   "timezone": "Europe/London",
   "source_of_truth": {
     "operating_policy": "ATLAS_WEEKLY.md",
@@ -42,49 +42,34 @@
     {
       "name": "Amalfi Coast",
       "date": "2026-11-16"
+    },
+    {
+      "name": "Mountain views",
+      "date": "2026-11-18",
+      "verification": "2026-11-27 Metricool feed analytics"
+    },
+    {
+      "name": "Winter destinations",
+      "date": "2026-11-20",
+      "verification": "2026-11-27 Metricool feed analytics"
+    },
+    {
+      "name": "Madeira",
+      "date": "2026-11-22",
+      "verification": "2026-11-27 Metricool feed analytics"
+    },
+    {
+      "name": "Indonesia",
+      "date": "2026-11-23",
+      "verification": "2026-11-27 Metricool feed analytics"
+    },
+    {
+      "name": "Desert coastlines",
+      "date": "2026-11-25",
+      "verification": "2026-11-27 Metricool feed analytics"
     }
   ],
   "known_pending_at_snapshot": [
-    {
-      "name": "Seven mountain views you can enjoy without hiking to a summit. 🏔️",
-      "date": "2026-11-18T19:00:00 Europe/London",
-      "format": "carousel_POST",
-      "metricool_post_id": 431674912,
-      "metricool_uuid": "8564036779370171055",
-      "asset_count": 8
-    },
-    {
-      "name": "Eight real places that could belong in a winter film. ❄️",
-      "date": "2026-11-20T19:00:00 Europe/London",
-      "format": "carousel_POST",
-      "metricool_post_id": 431684601,
-      "metricool_uuid": "-6536199878840203546",
-      "asset_count": 9
-    },
-    {
-      "name": "Madeira's cloud-wrapped summits, black-sand coast and Atlantic-fed vol",
-      "date": "2026-11-22T19:00:00 Europe/London",
-      "format": "carousel_POST",
-      "metricool_post_id": 431684520,
-      "metricool_uuid": "-4740298397487379750",
-      "asset_count": 9
-    },
-    {
-      "name": "Dragons, pink sand and colour-changing crater lakes — all in Indonesia",
-      "date": "2026-11-23T19:00:00 Europe/London",
-      "format": "carousel_POST",
-      "metricool_post_id": 431684800,
-      "metricool_uuid": "8356741788287969",
-      "asset_count": 8
-    },
-    {
-      "name": "When giant dunes and desert cliffs meet the ocean, the scenery barely ",
-      "date": "2026-11-25T19:00:00 Europe/London",
-      "format": "carousel_POST",
-      "metricool_post_id": 431692248,
-      "metricool_uuid": "-9031722169793101431",
-      "asset_count": 8
-    },
     {
       "name": "From limestone islands to a cave big enough to camp in, Vietnam has ex",
       "date": "2026-11-27T19:00:00 Europe/London",
@@ -106,15 +91,16 @@
     "week": "2026-11-30 to 2026-12-06",
     "already_booked": 0,
     "remaining_to_schedule": 4,
-    "focus": "Manually triggered Tuesday 24 November; draw on docs/reference/TRAVEL_CONTENT_IDEAS_2026-11-17.md and user feedback, no still-photo motion reels, strong editorial hook, 8–10 carousel pages with branded end."
+    "focus": "Finish 027 São Miguel carousel and verify actual render; produce two more specific, distinctive swipe carousels and one genuine moving-footage Reel. Preserve no-music and brand closing requirements."
   },
   "capacity": {
     "max_calendar_month": 20,
-    "known_november_published_at_snapshot": 7,
-    "known_november_pending_at_snapshot": 7,
-    "confirmed_unused_slots": 6
+    "november_minimum_confirmed": 13,
+    "november_pending": 2,
+    "november_count_note": "10 November feed posts and 1 reel returned by analytics plus 2 pending; previous 17 Nov snapshot counted Philippines as published but it was not returned in this analytics query. Exact planner quota not independently verified; don't book additional November posts until reconciled.",
+    "december_pending": 0
   },
-  "retired_material": "See content/archive/ and docs/history/; old rejected Amalfi photo slideshow remains retired, but NEW slideshow Reels are now explicitly required.",
+  "retired_material": "See content/archive/ and docs/history/. All still-photo MP4/slideshow reels remain retired; native swipe carousels only for stills.",
   "test_status": "17 Nov final manual triple QA: all 7 scheduled upcoming posts verified live PENDING, autoPublish true, draft false, six carousels 8–9 photo pages with branded ending and one authentic silent eight-shot footage Reel; corrected Indonesia, desert, Madeira and Vietnam and full change log stored at content/reviews/2026-11-17-seven-upcoming-posts-final-quality-audit.md.",
   "extra_cost_gbp": 0,
   "manual_workflow": {
@@ -128,5 +114,21 @@
   },
   "qa_report": "docs/audits/2026-11-17-triple-check-publishing-audit.md",
   "last_review": "docs/reviews/ATLAS_TRIPLE_QA_2026-11-17.md",
-  "audit_log": "content/reviews/2026-11-17-seven-upcoming-posts-final-quality-audit.md"
+  "audit_log": "content/reviews/2026-11-17-seven-upcoming-posts-final-quality-audit.md",
+  "performance_snapshot": {
+    "date": "2026-11-27",
+    "source": "Metricool organic feed and reel analytics",
+    "reach": {
+      "Iceland_reel": 112,
+      "New_Zealand": 39,
+      "Japan": 26,
+      "Amalfi": 3,
+      "mountain_views": 2,
+      "winter": 3,
+      "Madeira": 2,
+      "Indonesia": 2,
+      "desert_coast": 1
+    },
+    "note": "Small sample and unequal post ages; cannot infer causality. Recent feed posts have zero saves/shares. Compare future posts at equal age where possible; prioritize experience-led hooks and authentic motion."
+  }
 }
