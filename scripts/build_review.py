@@ -6,6 +6,7 @@ import html
 import json
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
+import render
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'review'
@@ -18,6 +19,12 @@ def build():
         post=json.loads(path.read_text())
         if post.get('editorial_version',0)<6: continue
         slug=post['slug']; images=[]; n=len(post['slides'])
+        # Partial renders and stale revisions must never appear as review-ready.
+        if not render.render_is_current(path, post):
+            print(f"REVIEW SKIPPED: {slug} — missing or stale complete render", flush=True)
+            for suffix in ("-preview.jpg", "-hashes.json"):
+                (OUT/(slug+suffix)).unlink(missing_ok=True)
+            continue
         sheet=Image.new('RGB',(1080,((n+2)//3)*475),(245,242,234)); pen=ImageDraw.Draw(sheet)
         for i,item in enumerate(post['slides']):
             file=ROOT/'media'/slug/f'{i+1:02d}.jpg'
