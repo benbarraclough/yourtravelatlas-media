@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "updated_at": "2026-11-27 manual recovery audit",
+  "updated_at": "2026-11-27: rainforest render candidate committed and renderer optimized; no additional booking",
   "mode": "Owner-initiated manual Tuesday production ONLY. No ChatGPT scheduled automations. No still-photo MP4 Reels.",
   "source_of_truth": "Live Metricool for published/scheduled truth; ATLAS_WEEKLY.md for editorial rules. This is a stage-checkpoint ledger, not a publication confirmation.",
   "note": "Live Metricool is authoritative. GitHub Actions render on brief commits; produced assets require actual QA before booking. No unattended scheduled ChatGPT jobs.",
@@ -172,8 +172,8 @@
       "stage": "source_reviewed_render_unverified",
       "brief": "content/posts/027-sao-miguel-volcanic-island.json",
       "verified": false,
-      "next_action": "Check render output and mobile crop; confirm all SA captions and visible notices including closing composition; schedule only after visual QA.",
-      "last_verified": "2026-11-27: seven exact Commons file pages, credits, licenses and source image previews inspected; revised commit c2d33143. Manifest still unavailable."
+      "next_action": "Render missing; renderer now skips only complete unchanged outputs (commit 5b1fa6e). Check Actions run or manually dispatch Render travel carousels; inspect all eight JPEGs before booking.",
+      "last_verified": "2026-11-27: seven Commons source file pages and original filename/hash paths independently verified; final image files not yet available."
     }
   ],
   "retired_and_replaced": [
@@ -290,8 +290,8 @@
       "date": "2026-12-02",
       "format": "carousel_POST",
       "hook": "7 places where you can walk through a jungle",
-      "stage": "researched_photo_candidates_not_approved",
-      "brief": "docs/reference/RAINFOREST_CAROUSEL_2026-11-27.md"
+      "stage": "brief_committed_render_unverified",
+      "brief": "content/posts/028-seven-rainforest-walks.json"
     },
     {
       "date": "2026-12-04",
