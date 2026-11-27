@@ -17,7 +17,7 @@
   "reader_scenario": "Travel lovers looking for an immersive nature experience rather than just viewpoints.",
   "share_reason": "A practical shortlist of named rainforest experiences across several continents, to save or share for future adventures.",
   "slide_count_rationale": "Seven geographically distinct experiences plus branded final page. Candidate images require comparison and possible replacement after visual review.",
-  "caption": "Imagine walking into a world of giant trees, birdsong and mist. 🌿\n\n📍 Monteverde, Costa Rica — Cross hanging bridges into the mist of a tropical cloud forest.\n📍 Daintree, Australia — Follow boardwalks through the ancient tropical rainforest.\n📍 Sepilok, Malaysian Borneo — Walk at canopy height and watch for hornbills among the treetops.\n📍 Amazon, Peru — Join a lodge excursion into the Amazon's treetop walkways.\n📍 Sinharaja, Sri Lanka — Explore the forest trails with a local guide, listening for endemic birds.\n📍 Khao Sok, Thailand — Trek into dense evergreen forest with a local guide.\n📍 Bwindi, Uganda — Follow forest trails or book a permitted guided gorilla trek.\n\nSave this for your next adventure. Some walks require a guide or advance booking; wildlife sightings are never guaranteed.\n\nPhotos / Wikimedia Commons: Unidancom (Monteverde, CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/); dronepicr (Daintree) and Jason Hollinger (ACTS Canopy Walkway), CC BY 2.0 https://creativecommons.org/licenses/by/2.0/; Vyacheslav Argenberg (Khao Sok), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/; Josefito123 (Sepilok), Jaygayani (Sinharaja), Ugpics (100 foot tree), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. Cropped, resized, text added; adapted slides and closing composition CC BY-SA 4.0. Full source links: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/posts/028-seven-rainforest-walks.json\n\n#YourTravelAtlas #Rainforest #JungleAdventure #NatureTravel #AdventureTravel",
+  "caption": "Imagine walking into a world of giant trees, birdsong and mist. 🌿\n\n📍 Monteverde, Costa Rica — Cross hanging bridges into the mist of a tropical cloud forest.\n📍 Daintree, Australia — Follow boardwalks through the ancient tropical rainforest.\n📍 Sepilok, Malaysian Borneo — Walk at canopy height and watch for hornbills among the treetops.\n📍 Amazon, Peru — Join a lodge excursion into the Amazon's treetop walkways.\n📍 Sinharaja, Sri Lanka — Explore the forest trails with a local guide, listening for endemic birds.\n📍 Bwindi, Uganda — Trek with a guide through the mountain forest in search of gorillas.\n📍 Khao Sok, Thailand — Trek into dense evergreen forest with a local guide.\n\nSave this for your next adventure. Some walks require a guide or advance booking; wildlife sightings are never guaranteed.\n\nPhotos / Wikimedia Commons: Unidancom (Monteverde, CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/); dronepicr (Daintree) and Jason Hollinger (ACTS Canopy Walkway), CC BY 2.0 https://creativecommons.org/licenses/by/2.0/; Vyacheslav Argenberg (Khao Sok), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/; Josefito123 (Sepilok), Jaygayani (Sinharaja), © Giles Laurent, gileslaurent.com, License CC BY-SA (Bwindi gorilla), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/. Cropped, resized, text added; adapted slides and closing composition CC BY-SA 4.0. Full source links: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/posts/028-seven-rainforest-walks.json\n\n#YourTravelAtlas #Rainforest #JungleAdventure #NatureTravel #AdventureTravel",
   "slides": [
     {
       "layout": "cover",
@@ -161,6 +161,34 @@
     },
     {
       "layout": "photo",
+      "heading": "Bwindi, Uganda",
+      "body": "Trek with a guide through the mountain forest in search of gorillas.",
+      "subject": "Bwindi, Uganda rainforest",
+      "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg/1920px-064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg",
+      "source_page": "https://commons.wikimedia.org/wiki/File:064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg",
+      "photographer": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "credit_line": "© Giles Laurent, gileslaurent.com, License CC BY-SA",
+      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
+      "activity_source": "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
+      "fact_checks": [
+        "https://commons.wikimedia.org/wiki/File:064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg",
+        "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/"
+      ],
+      "alt": "A mountain gorilla climbing a moss-covered tree in Bwindi Impenetrable National Park.",
+      "focus_x": 0.5,
+      "focus_y": 0.4,
+      "review": {
+        "reader_value": "A permitted guided mountain gorilla trek offers a distinctive wildlife-focused rainforest experience; sightings are not guaranteed.",
+        "image_context": "Visually inspected the exact 1920px source preview; portrait featured photograph of a gorilla in a mossy tree, confirmed Bwindi by original file metadata.",
+        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
+        "distinct_contribution": "A real mountain gorilla offers a dramatic contrast to generic canopy and path photographs."
+      },
+      "full_credit_line": "© Giles Laurent, gileslaurent.com, License CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+      "layout": "photo",
       "heading": "Khao Sok, Thailand",
       "body": "Trek into dense evergreen forest with a local guide.",
       "subject": "Khao Sok, Thailand rainforest",
@@ -188,34 +216,6 @@
       "full_credit_line": "Vyacheslav Argenberg / Khao_Sok_primary_tropical_rainforest,_southern_Thailand.jpg / CC BY 4.0 / https://commons.wikimedia.org/wiki/File:Khao_Sok_primary_tropical_rainforest%2C_southern_Thailand.jpg"
     },
     {
-      "layout": "photo",
-      "heading": "Bwindi, Uganda",
-      "body": "Follow forest trails or book a permitted guided gorilla trek.",
-      "subject": "Bwindi, Uganda rainforest",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/100_foot_tree.jpg",
-      "source_page": "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg",
-      "photographer": "Ugpics",
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "credit_line": "Ugpics / Wikimedia Commons / CC BY-SA 4.0",
-      "changes": "Crop, resize and text overlay; adapted output distributed under CC BY-SA 4.0.",
-      "activity_source": "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
-      "fact_checks": [
-        "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg",
-        "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/"
-      ],
-      "alt": "Towering trees of Bwindi Impenetrable Forest",
-      "focus_x": 0.5,
-      "focus_y": 0.5,
-      "review": {
-        "reader_value": "Follow forest trails or book a permitted guided gorilla trek. This is a real experience to consider when planning a trip.",
-        "image_context": "Exact Commons description, creator and location checked; photograph still requires output-level visual QA.",
-        "specific_detail": "The linked park, tourism or operator page is the activity research reference; recheck access before approving.",
-        "distinct_contribution": "A forest walk in Africa with an optional conservation-led primate experience."
-      },
-      "full_credit_line": "Ugpics / 100_foot_tree.jpg / CC BY-SA 4.0 / https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg"
-    },
-    {
       "layout": "brand_end",
       "subject": "Final scenic brand invitation"
     }
@@ -231,11 +231,11 @@
     "https://www.explorama.com/canopy-walkway.html",
     "https://commons.wikimedia.org/wiki/File:Sinharaja_rainforest.jpg",
     "https://www.srilanka.travel/wildlife-nature",
+    "https://commons.wikimedia.org/wiki/File:064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg",
+    "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/",
     "https://commons.wikimedia.org/wiki/File:Khao_Sok_primary_tropical_rainforest%2C_southern_Thailand.jpg",
-    "https://www.tourismthailand.org/Articles/10-things-to-do-in-suratthani",
-    "https://commons.wikimedia.org/wiki/File:100_foot_tree.jpg",
-    "https://ugandawildlife.org/national-parks/bwindi-impenetrable-national-park/"
+    "https://www.tourismthailand.org/Articles/10-things-to-do-in-suratthani"
   ],
-  "caption_review": "Individual Commons descriptions, authors and license evidence checked. Original bytes and rendered layouts not yet checked; some supporting candidates may need stronger alternatives. On-image credits shortened to fit the existing footer; full individual source URLs, license links and changes remain in brief and linked public caption.",
+  "caption_review": "Individual Commons descriptions, authors and license evidence checked. Original bytes and rendered layouts not yet checked; some supporting candidates may need stronger alternatives. On-image credits shortened to fit the existing footer; full individual source URLs, license links and changes remain in brief and linked public caption. Replaced visually weak tree shot with a featured, source-preview-inspected Bwindi gorilla photo and exact requested visible credit. Positioned it as slide 6 so it is not reused by the scenic closing composition. Other weak slides still need alternatives; re-render not approval.",
   "editorial_verdict": "Render candidate only. No booking until every actual slide and activity reference has been checked."
 }
