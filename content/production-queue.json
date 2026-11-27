@@ -169,10 +169,11 @@
       "type": "carousel_POST",
       "target_week": "2026-11-30/2026-12-06",
       "target_slot": "2026-11-30T19:00:00 Europe/London",
-      "stage": "brief_committed_render_unverified",
+      "stage": "source_reviewed_render_unverified",
       "brief": "content/posts/027-sao-miguel-volcanic-island.json",
       "verified": false,
-      "next_action": "Check GitHub render manifest, verify every actual image and crop, replace weaker images if needed, ensure CC BY-SA visible attribution and adapted slides licensing, then schedule and re-fetch Metricool PENDING. Do not schedule from source photos alone."
+      "next_action": "Check render output and mobile crop; confirm all SA captions and visible notices including closing composition; schedule only after visual QA.",
+      "last_verified": "2026-11-27: seven exact Commons file pages, credits, licenses and source image previews inspected; revised commit c2d33143. Manifest still unavailable."
     }
   ],
   "retired_and_replaced": [
@@ -289,7 +290,8 @@
       "date": "2026-12-02",
       "format": "carousel_POST",
       "hook": "7 places where you can walk through a jungle",
-      "stage": "concept_only"
+      "stage": "researched_photo_candidates_not_approved",
+      "brief": "docs/reference/RAINFOREST_CAROUSEL_2026-11-27.md"
     },
     {
       "date": "2026-12-04",
