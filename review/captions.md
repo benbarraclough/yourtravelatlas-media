@@ -258,3 +258,21 @@ Would you choose a cave expedition or a night on the lantern-lit river?
 Photos: Pierre Bonvalot, Bernd 📷 Dittrich, Huy Nguyen, Andrew Svk & Jason Pham / Unsplash; Taryn Elliott & Du Tử Mộng / Pexels.
 
 #YourTravelAtlas #VietnamTravel #AsiaTravel #AdventureTravel #TravelDiscovery
+
+## This island was shaped by volcanoes
+
+A volcanic island in the Atlantic with crater lakes, tea fields and steaming ground. 🇵🇹
+
+📍 Vila Franca do Campo — A volcanic islet shelters a circular lagoon in the Atlantic.
+📍 Sete Cidades — Look over the crater lake surrounded by steep green ridges.
+📍 Gorreana — Walk among green rows of tea bushes on the north coast.
+📍 Lagoa do Fogo — See a blue crater lake beneath the cloud-draped mountains.
+📍 Ribeira dos Caldeirões — Explore old watermills and lush paths in a waterfall park.
+📍 Ponta do Sossego — Look along the wild Atlantic cliffs from Ponta do Sossego.
+📍 Furnas — Follow the boardwalk past steaming volcanic vents in Furnas.
+
+Save São Miguel for a nature-filled island escape. Islet access is seasonal; check local rules before visiting.
+
+Photos / Wikimedia Commons: Jules Verne Times Two (julesvernex2.com; Vila Franca Islet, Gorreana tea fields), Gonçalo Torres (Sete Cidades Lagoon), CristianaBPGomes (Lagoa do Fogo Açores), Kritzolina (Ponta do Sossego 01), The Cosmonaut (Fumarolas da Lagoa das Furnas1), CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/; jokin.lacalle (Ribeira dos Caldeirões), CC BY 4.0 https://creativecommons.org/licenses/by/4.0/. Cropped, resized and text added. All slides and closing composition are CC BY-SA 4.0. Full individual source links: https://github.com/benbarraclough/yourtravelatlas-media/blob/main/content/posts/027-sao-miguel-volcanic-island.json
+
+#YourTravelAtlas #Azores #SaoMiguel #PortugalTravel #IslandAdventure

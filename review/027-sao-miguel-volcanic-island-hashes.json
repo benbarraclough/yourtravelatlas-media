@@ -1,0 +1,16 @@
+{
+  "issue": 27,
+  "slug": "027-sao-miguel-volcanic-island",
+  "brief_sha256": "3cd0169b061aa339902b74b3b96f65fe65d589bccee9c632929bc96d608e2e49",
+  "caption_sha256": "e73760b39a6a74d6a8424832e23d4fbf1440d3505e4279d4c1c70cf1f37946f9",
+  "image_sha256": {
+    "media/027-sao-miguel-volcanic-island/01.jpg": "9502ba6ce00674d5f32eeb759a24757f57f25c2f001cf174e1efed0e1485b3ac",
+    "media/027-sao-miguel-volcanic-island/02.jpg": "11c69e994f984a04fe6a509bf6998e73c24869a3e74b1cd76235271f3488e6a8",
+    "media/027-sao-miguel-volcanic-island/03.jpg": "47f782f2bf22c8d46272c9719c5a5e72f4443630f3d8b41936676166066ed2d2",
+    "media/027-sao-miguel-volcanic-island/04.jpg": "9ea3a53a4d7e8afa9bdc1587a82febc400908135de6c014b5d0d544418f0e550",
+    "media/027-sao-miguel-volcanic-island/05.jpg": "ba28cd247915478ed9ee7aa3ed6e124775d6b54acd330838ae9c8fa799cdf6b6",
+    "media/027-sao-miguel-volcanic-island/06.jpg": "30975ecacdc085b60aaf56c79a3e75f72c8bdbb588b110b92cd51479faea33d3",
+    "media/027-sao-miguel-volcanic-island/07.jpg": "a772f32bc257671da6ae24f12349ce4459e78f7b64787d45b67ac7c345d39317",
+    "media/027-sao-miguel-volcanic-island/08.jpg": "7babafcb90527d17f49f58377a6620cd7d1431be656cc40afeb1fbac2de4b515"
+  }
+}
