@@ -10,6 +10,8 @@ import io
 import json
 import re
 import sys
+import time
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlsplit
 
@@ -82,8 +84,31 @@ def acquire_photo(item):
         raise ValueError("Unverified or unsupported image licence")
     if not item.get("photographer") or not item.get("alt") or not item.get("subject"):
         raise ValueError("Missing photographer, description, or independently labelled subject")
-    response = SESSION.get(url, timeout=45, stream=True)
-    response.raise_for_status()
+    # Wikimedia asks automated clients to make requests serially and honor throttling.
+    # Pace originals and retry only transient failures, without changing identity or host.
+    commons = urlsplit(url).hostname in {"upload.wikimedia.org", "thumb.wikimedia.org"}
+    if commons:
+        time.sleep(5)
+    for attempt in range(3):
+        response = SESSION.get(url, timeout=45, stream=True)
+        if response.status_code not in (429, 503) or attempt == 2:
+            response.raise_for_status()
+            break
+        retry_after = response.headers.get("Retry-After", "")
+        delay = 30 * (attempt + 1)
+        if retry_after:
+            try:
+                delay = max(delay, float(retry_after))
+            except ValueError:
+                try:
+                    delay = max(delay, parsedate_to_datetime(retry_after).timestamp() - time.time())
+                except (ValueError, TypeError, OverflowError):
+                    pass
+        if delay > 120:
+            response.raise_for_status()  # Defer to a later manually prompted run.
+        response.close()
+        print(f"Source throttled; honoring retry delay of {delay:.0f}s for {urlsplit(url).hostname}", flush=True)
+        time.sleep(delay)
     if not response.headers.get("Content-Type", "").startswith("image/"):
         raise ValueError("Photo URL did not return an image")
     blob = response.raw.read(22_000_001)
