@@ -559,6 +559,29 @@ def build(path):
     (out / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
+def render_is_current(path, brief):
+    """Reuse complete, byte-verified outputs only when the source brief is unchanged."""
+    out = OUTPUT / brief["slug"]
+    try:
+        manifest = json.loads((out / "manifest.json").read_text(encoding="utf-8"))
+        if manifest.get("brief_sha256") != hashlib.sha256(path.read_bytes()).hexdigest():
+            return False
+        entries = manifest.get("slides", [])
+        expected = [f"{i+1:02d}.jpg" for i in range(len(brief["slides"]))]
+        if [item.get("file") for item in entries] != expected:
+            return False
+        if sorted(p.name for p in out.glob("[0-9][0-9].jpg")) != expected:
+            return False
+        for item in entries:
+            if item.get("size") != list(SIZE):
+                return False
+            if hashlib.sha256((out / item["file"]).read_bytes()).hexdigest() != item.get("output_sha256"):
+                return False
+        return True
+    except (OSError, ValueError, TypeError, KeyError, AttributeError):
+        return False
+
+
 def main():
     files = sorted(INPUT.glob("*.json"))
     if len(sys.argv) > 1:
@@ -593,6 +616,9 @@ def main():
         brief = json.loads(path.read_text(encoding="utf-8"))
         if len(sys.argv) == 1 and brief.get("editorial_version", 0) < 7 and brief.get("public_numbers") is not False:
             print(f"PRESERVE LEGACY CAROUSEL: {path.name}")
+            continue
+        if len(sys.argv) == 1 and render_is_current(path, brief):
+            print(f"UNCHANGED VERIFIED RENDER: {path.name}", flush=True)
             continue
         try:
             build(path)
